@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Qué es Data Binding?",
+        "selected": "Técnica de vincular las propiedades de dos objetos",
+        "answers": [
+            "Técnica para mostrar datos",
+            "Técnica de vincular las propiedades de dos objetos",
+            "Es una clase de navegación",
+            "Es una propiedad de estilo",
+            "Es un método para el diseño"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) al que hace referencia el enlace de datos?",
+        "selected": "Source",
+        "answers": [
+            "Main",
+            "Target",
+            "Source",
+            "First",
+            "Init"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "SaveItemsAsync",
+            "DeleteItemAsync",
+            "GetItemsAsync",
+            "Databasecontext",
+            "FilterItemAsync"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de Layout organiza su contenido en una sola fila o columna?",
+        "selected": "LinearLayout",
+        "answers": [
+            "RelativeLayout",
+            "AbsoluteLayout",
+            "LinearLayout",
+            "FineLayout",
+            "TableLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza principalmente como elemento estructural y sirve como clase base para Frame?",
+        "selected": "ContentView",
+        "answers": [
+            "TemplatedView",
+            "Frame",
+            "ContentView",
+            "ScrollView",
+            "ContentPresente"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts es de contenido único?",
+        "selected": "ScrollView",
+        "answers": [
+            "FlexLayout",
+            "ScrollView",
+            "Grid",
+            "StackLayout",
+            "AbsoluteLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso de los Layouts en Xamarin.Forms?",
+        "selected": "Componer controles de interfaz de usuario en estructuras visuales",
+        "answers": [
+            "Bases de datos del app",
+            "Emulador del app",
+            "Prototipo del app",
+            "Componer controles de interfaz de usuario en estructuras visuales",
+            "Desarrollo del código"
+        ]
+    },
+    {
+        "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "Pull-to-refresh",
+            "Eventos",
+            "Acciones personalizadas",
+            "La selección",
+            "Las acciones de contexto"
+        ]
+    },
+    {
+        "question": "La clase ListView admite varios estilos de interacción, uno de ellos es",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "TextCell",
+            "Selection",
+            "Built-in cells",
+            "Pull-to-refresh",
+            "Context actions"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones no es una librería nativa en Android?",
+        "selected": "ExpandableListView",
+        "answers": [
+            "SGL",
+            "Librerias 3D",
+            "ExpandableListView",
+            "Free Type",
+            "SQLite"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del tipo de estilo en el cual podemos agregar en el archivo XAML tantos estilos como necesitamos?",
+        "selected": "Explícito",
+        "answers": [
+            "Global",
+            "Extendido",
+            "Explícito",
+            "Compacto",
+            "Implícito"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Property>",
+            "<Setter>",
+            "<Key>",
+            "<Style>",
+            "<ResourceDictionary>"
+        ]
+    },
+    {
+        "question": "A que contenedores se pueden aplicar los recursos de estilos a través del archivothemeresources.xaml",
+        "selected": "TextBlock y RichTextBlock",
+        "answers": [
+            "RichTextBlock y Button",
+            "RichTextBlock y ComboBlock",
+            "TextBlock y ViewBlock",
+            "TextBlock y RichTextBlock",
+            "TextBlock y ComboBlock"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del archivo que necesitamos abrir para declarar un estilo global en XAML?",
+        "selected": "App.xaml",
+        "answers": [
+            "App.xaml",
+            "Layout.xaml",
+            "Style.xaml",
+            "view.xaml",
+            "Frame.xaml"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Máquina virtual para ejecutar programas",
+            "Sistema gestionador de base de datos",
+            "Un depurador y un emulador de dispositivos",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+            "Son librerías OpenGL"
+        ]
+    },
+    {
+        "question": "Cuáles son los tipos de enlace de datos que muestra Data Binding",
+        "selected": "Enlace unidireccional y bidireccional",
+        "answers": [
+            "Enlace bidireccional",
+            "Enlace unidireccional y bidireccional",
+            "Enlace bidireccional y multidireccional",
+            "Enlace unidireccional y multidireccional",
+            "Enlace unidireccional"
+        ]
+    },
+    {
+        "question": "¿Cuál es el significado de XAML?",
+        "selected": "Extensible Application Markup Language",
+        "answers": [
+            "Es una plataforma para realizar para se utiliza para construir aplicaciones Windows",
+            "Es un entorno de trabajo de C++",
+            "Extensible Application Markup Language",
+            "Fue desarrollado por Ubuntu para hacer aplicaciones",
+            "Permite diseñar aplicaciones sin tener en cuenta jerarquías de programación"
+        ]
+    },
+    {
+        "question": "¿Qué servicio maneja el ciclo de vida de las aplicaciones y proporciona un sistema de navegación entre ellas?",
+        "selected": "Activity Manager",
+        "answers": [
+            "Activity Manager",
+            "Views",
+            "Resource Manager",
+            "ExpandableListView",
+            "HorizontalScrollView"
+        ]
+    },
+    {
+        "question": "¿Que necesitaría tener la aplicación para que sea exitosa?",
+        "selected": "Fácil de usar, Intuitiva, De uso habitual",
+        "answers": [
+            "Diseño para web",
+            "Diseño estático",
+            "Diseño fluido",
+            "Lenta",
+            "Fácil de usar, Intuitiva, De uso habitual"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la propiedad de la instancia NavigationPage que proporciona acceso a la primera página de la pila de navegación?",
+        "selected": "RootPage",
+        "answers": [
+            "RootPage",
+            "CaruselPage",
+            "ContentPage",
+            "TabbedPage",
+            "FlyoutPage"
+        ]
+    }
+]
