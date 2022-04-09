@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+        "selected": "Rendimiento",
+        "answers": [
+            "Rendimiento",
+            "Rapidez",
+            "Confiabilidad",
+            "Usabilidad",
+            "Seguridad"
+        ]
+    },
+    {
+        "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+        "selected": "Económicos, técnicos, legales, Operativos.",
+        "answers": [
+            "Económicos, técnicos, legales, Operativos.",
+            "Netamente técnicos",
+            "Operativos",
+            "Económicos y técnicos",
+            "Legales"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Diseño",
+            "Prototipo",
+            "Software genérico",
+            "Prueba de escritorio",
+            "Software genuino"
+        ]
+    },
+    {
+        "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+        "selected": "Análisis, diseño, código y prueba",
+        "answers": [
+            "Diseño, análisis, código y prueba",
+            "Análisis, diseño, código y prueba",
+            "Código, diseño, análisis y prueba",
+            "Análisis, código, prueba y diseño",
+            "Diseño, prueba, código y análisis"
+        ]
+    },
+    {
+        "question": "Este proceso tiene la finalidad de descubrir errores que resulten de interacciones no anticipadas entre componentes y problemas de interfaz de componente, así como de mostrar que el sistema cubre sus requerimientos funcionales y no funcionales, y poner a prueba las propiedades emergentes del sistema",
+        "selected": "Pruebas del sistema",
+        "answers": [
+            "Demostración",
+            "Desarrollo",
+            "Pruebas del sistema",
+            "Prueba de desarrollo",
+            "Pruebas de aceptación"
+        ]
+    },
+    {
+        "question": "Entender lo que el cliente desea, analizar las necesidades, evaluar la factibilidad, negociar la solución, validar la especificación y administrar los requisitos es parte de:",
+        "selected": "La Ingeniería de Requisitos",
+        "answers": [
+            "La Ingeniería de Requisitos",
+            "Entrevistas.",
+            "El desarrollo Ágil.",
+            "El proceso unificado",
+            "Encuestas."
+        ]
+    },
+    {
+        "question": "Es un conjunto de definiciones que contiene las características lógicas y puntuales de los datos que se van a utilizar en el sistema",
+        "selected": "Diccionario de datos",
+        "answers": [
+            "Caso de uso",
+            "Mapa de navegación",
+            "Diccionario de datos",
+            "Metodología",
+            "Modelado de datos"
+        ]
+    },
+    {
+        "question": "No es considerado como una característica de un sketch",
+        "selected": "Diseño de prueba final",
+        "answers": [
+            "Para reuniones con el cliente y reuniones internas con el equipo",
+            "Diseño de prueba final",
+            "Diseño rápido y sencillo",
+            "Refleja las ideas generales del proyecto",
+            "Primer boceto que se realiza sobre el sistema"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Sketch, wireframe, mockup, prototipo",
+            "Wireframe, sketch, mockup, prototipo",
+            "Wireframe, mockup, sketch, prototipo",
+            "Sketch, mockup, wireframe, prototipo",
+            "Mockup, wireframe, sketch, prototipo"
+        ]
+    },
+    {
+        "question": "Los elementos principales de un diagrama de estado",
+        "selected": "Estado, estado inicial, estado final, transición",
+        "answers": [
+            "Estado inicial, transición, estado",
+            "Estado, caso de uso, transición",
+            "Estado, estado inicial, estado final, transición",
+            "Estado inicial, transición, estado",
+            "Estado, estado final, caso de uso, estado final"
+        ]
+    },
+    {
+        "question": "Las ………………. evalúan el producto para determinar que cumple con el objetivo previsto.",
+        "selected": "Pruebas",
+        "answers": [
+            "Metodologías",
+            "Fases",
+            "Pruebas",
+            "Liberación",
+            "Arquitectura"
+        ]
+    },
+    {
+        "question": "¿Cuándo termina un proyecto software?:",
+        "selected": "Cuando se entrega al cliente.",
+        "answers": [
+            "Cuando se termina de implementar",
+            "Cuando el cliente confirma que está satisfecho con el resultado",
+            "Cuando se entrega al cliente.",
+            "Cuando se paga el costo",
+            "Cuando se retira"
+        ]
+    },
+    {
+        "question": "En el siguiente enunciado: “Una vez que se haya levantado los requisitos funcionales y no funcionales y se ha diseñado una solución a ser implementada, estas especificaciones se entregan al equipo de desarrollo para que realice la codificación”, dicha actividad se la lleva a cabo dentro de",
+        "selected": "Construcción",
+        "answers": [
+            "Despliegue",
+            "Rapidez",
+            "Construcción",
+            "Confianza",
+            "Análisis"
+        ]
+    },
+    {
+        "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+        "selected": "Funcionales y no funcionales",
+        "answers": [
+            "Funcionales y no funcionales",
+            "Individuales y grupales",
+            "De diseño y programación",
+            "Del cliente",
+            "Estructura y análisis"
+        ]
+    },
+    {
+        "question": "Como parte del diseño de una arquitectura de software, las propiedades asociadas a requerimientos de: rendimiento, capacidad, funcionabilidad, seguridad, adaptabilidad, entre otras se consideran:",
+        "selected": "Propiedades extra funcionales",
+        "answers": [
+            "Propiedades extra funcionales",
+            "Requisitos",
+            "Propiedades estructurales",
+            "Sistemas relacionados",
+            "Requerimientos"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "Un proceso batch con envíos y respuestas hacia una base de datos local",
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+            "Servidor web.",
+            "RAID",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación"
+        ]
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se usa para establecer la factibilidad económica de un proyecto de desarrollo de software?",
+        "selected": "Análisis de valor ganado o la tasa interna de retorno",
+        "answers": [
+            "Estudio de los servidores y terminales con que cuenta la organización",
+            "Estudio de la factibilidad de emprendimiento",
+            "Sustentación legal del proyecto.",
+            "Análisis de valor ganado o la tasa interna de retorno",
+            "Capital de la empresa"
+        ]
+    },
+    {
+        "question": "La etapa de indagación de requisitos, donde se identifica el problema, se propone soluciones, se negocia distintos enfoques y se especifica un conjunto preliminar de requerimientos se conoce como:",
+        "selected": "Recabación de requerimientos en forma colaborativa.",
+        "answers": [
+            "Marco de trabajo.",
+            "Entrevista a los consumidores",
+            "Escenarios de uso.",
+            "Indagación de los productos de trabajo",
+            "Recabación de requerimientos en forma colaborativa."
+        ]
+    },
+    {
+        "question": "Cuando el cliente menciona que, “el sistema debe contener certificados de seguridad y firmas digitales para la carga y descarga de archivos”, ¿de qué tipo de requisito está hablando?",
+        "selected": "No Funcional.",
+        "answers": [
+            "Seguridad",
+            "Funcional",
+            "No es requisito",
+            "Confiabilidad",
+            "No Funcional."
+        ]
+    },
+    {
+        "question": "El modelo espiral de Boehm, se divide en cuantos sectores:",
+        "selected": "4",
+        "answers": [
+            "6",
+            "3",
+            "5",
+            "2",
+            "4"
+        ]
+    }
+]

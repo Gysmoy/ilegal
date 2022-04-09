@@ -1,0 +1,222 @@
+[
+    {
+        "question": "No es una diferencia entre View Binding y Data Binding",
+        "selected": "Data Binding library funciona con Observable Data objects, se tienes que actualizar la interfaz de usuario cuando cambian los datos subyacentes",
+        "answers": [
+            "Data Binding library nos proporciona Data Binding bidireccional, esta es una técnica para vincular sus objetos a diseños xml, de modo que tanto el objeto como el diseño puedan enviarse datos entre sí.",
+            "View Binding library es más rápida que Data Binding library, ya que no utiliza procesadores de anotación subyacentes, y cuando se trata de la velocidad del tiempo de compilación, la View Binding es más eficiente",
+            "Data Binding library funciona con Observable Data objects, se tienes que actualizar la interfaz de usuario cuando cambian los datos subyacentes",
+            "Data Binding library nos proporciona Binding Adapters.",
+            "La única función de View Binding es vincular las vistas en el código. Mientras que Data Binding ofrece algunas opciones más como Binding Expressions, que nos permite escribir expresiones para conectar variables a las vistas en el diseño"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "Content Providers",
+            "Resource Manager",
+            "ExpandableListView",
+            "Views",
+            "Activity Manager"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "FilterItemAsync",
+            "Databasecontext",
+            "SaveItemsAsync",
+            "DeleteItemAsync",
+            "GetItemsAsync"
+        ]
+    },
+    {
+        "question": "¿En qué generación se deja de utilizar la conmutación basada en circuitos para voz?",
+        "selected": "4G",
+        "answers": [
+            "4G",
+            "0G",
+            "3G",
+            "2G",
+            "1G"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la propiedad de la instancia NavigationPage que proporciona acceso a la primera página de la pila de navegación?",
+        "selected": "RootPage",
+        "answers": [
+            "ContentPage",
+            "RootPage",
+            "CaruselPage",
+            "TabbedPage",
+            "FlyoutPage"
+        ]
+    },
+    {
+        "question": "¿Qué servicio maneja el ciclo de vida de las aplicaciones y proporciona un sistema de navegación entre ellas?",
+        "selected": "Activity Manager",
+        "answers": [
+            "Activity Manager",
+            "HorizontalScrollView",
+            "Views",
+            "ExpandableListView",
+            "Resource Manager"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<ResourceDictionary>",
+            "<Style>",
+            "<Property>",
+            "<Setter>",
+            "<Key>"
+        ]
+    },
+    {
+        "question": "¿Qué es un estilo en el desarrollo de Aplicaciones para móviles?",
+        "selected": "Conjunto de propiedades visuales",
+        "answers": [
+            "Librería",
+            "Conjunto de propiedades visuales",
+            "Es un marco de trabajo",
+            "Emulador",
+            "Prototipo de la APP"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "Mensajes de texto",
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La adopción del protocolo WiMAX",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil"
+        ]
+    },
+    {
+        "question": "¿Mencione la estrategia para obtener beneficios de una aplicación?",
+        "selected": "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+        "answers": [
+            "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+            "Debe basarse en cobrar un precio por la descarga de la aplicación.",
+            "Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas",
+            "Mejorar los tiempos",
+            "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales ventajas del uso de Xamarin?",
+        "selected": "Fácil de aprender",
+        "answers": [
+            "Tiene límites",
+            "Desarrollo lento",
+            "Fácil de aprender",
+            "No admite Android, IOS y Windows.",
+            "Costo alto"
+        ]
+    },
+    {
+        "question": "¿Cuál es el significado de XAML?",
+        "selected": "Extensible Application Markup Language",
+        "answers": [
+            "Permite diseñar aplicaciones sin tener en cuenta jerarquías de programación",
+            "Fue desarrollado por Ubuntu para hacer aplicaciones",
+            "Es una plataforma para realizar para se utiliza para construir aplicaciones Windows",
+            "Extensible Application Markup Language",
+            "Es un entorno de trabajo de C++"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales desventajas del uso de Xamarin?",
+        "selected": "Desarrollar aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Se centra principalmente en la interfaz del usuario y back-end",
+            "Permite compartir fácilmente entre diferentes plataformas",
+            "Menos cantidad de errores",
+            "Desarrollar aplicaciones lleva mucho tiempo",
+            "Xamarin tiene su propio IDE"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones se recomienda evitar el uso de este tipo de Layout?",
+        "selected": "AbsoluteLayout",
+        "answers": [
+            "AbsLayout",
+            "LinearLayout",
+            "RelativeLayout",
+            "TableLayout",
+            "AbsoluteLayout"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de Layout organiza su contenido en una sola fila o columna?",
+        "selected": "LinearLayout",
+        "answers": [
+            "AbsoluteLayout",
+            "FineLayout",
+            "RelativeLayout",
+            "LinearLayout",
+            "TableLayout"
+        ]
+    },
+    {
+        "question": "Layouts, elementos no visuales destinados a controlar la distribución de los controles, ¿cuál de los siguientes elementos no es un objeto de tipo Layout?",
+        "selected": "CheckBox",
+        "answers": [
+            "GridView",
+            "Spinner",
+            "CheckBox",
+            "Gallery",
+            "ListView"
+        ]
+    },
+    {
+        "question": "No es la descripción correcta de los StackLayout",
+        "selected": "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+        "answers": [
+            "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+            "El posicionamiento es determinado por el orden de las vistas en la que se añadieron al diseño y las opciones del diseño de las vistas",
+            "Las Vistas en un StackLayout pueden dimensionarse en función del espacio en el diseño utilizando las opciones de diseño",
+            "Organiza vistas en una línea unidimensional («pila»),",
+            "Organiza las vistas ya sea horizontal o verticalmente."
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Grupos, células y secciones",
+            "Encabezado y pie de página y grupos",
+            "Encabezado y pie de página, secciones, columnas",
+            "Encabezado y pie de página, grupos y células",
+            "Grupos y células"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso del ListView?",
+        "selected": "Vista para presentar listas de datos",
+        "answers": [
+            "Agrupar objetos de manera horizontal",
+            "Vista para presentar listas de datos",
+            "Conexión de Base Datos",
+            "Navegación",
+            "Ingresar datos"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre que se les da a los elementos de datos en un ListView?",
+        "selected": "Celdas",
+        "answers": [
+            "Cuerpo",
+            "Punteros",
+            "Nicho",
+            "Celdas",
+            "Lista"
+        ]
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "question": "A que contenedores se pueden aplicar los recursos de estilos a través del archivothemeresources.xaml",
+        "selected": "TextBlock y RichTextBlock",
+        "answers": [
+            "TextBlock y RichTextBlock",
+            "TextBlock y ComboBlock",
+            "RichTextBlock y ComboBlock",
+            "TextBlock y ViewBlock",
+            "RichTextBlock y Button"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Setter>",
+            "<ResourceDictionary>",
+            "<Property>",
+            "<Style>",
+            "<Key>"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "La adopción del protocolo WiMAX",
+            "Mensajes de texto"
+        ]
+    },
+    {
+        "question": "¿En qué generación aparece la itinerancia internacional (roaming)?",
+        "selected": "1G",
+        "answers": [
+            "4G",
+            "0G",
+            "1G",
+            "3G",
+            "2G"
+        ]
+    },
+    {
+        "question": "¿Qué servicio maneja el ciclo de vida de las aplicaciones y proporciona un sistema de navegación entre ellas?",
+        "selected": "Activity Manager",
+        "answers": [
+            "Resource Manager",
+            "Views",
+            "ExpandableListView",
+            "Activity Manager",
+            "HorizontalScrollView"
+        ]
+    },
+    {
+        "question": "¿Que necesitaría tener la aplicación para que sea exitosa?",
+        "selected": "Fácil de usar, Intuitiva, De uso habitual",
+        "answers": [
+            "Diseño estático",
+            "Diseño fluido",
+            "Fácil de usar, Intuitiva, De uso habitual",
+            "Diseño para web",
+            "Lenta"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Inicio",
+            "Null",
+            "Raíz",
+            "Start",
+            "Principal"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Máquina virtual para ejecutar programas",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+            "Un depurador y un emulador de dispositivos",
+            "Sistema gestionador de base de datos",
+            "Son librerías OpenGL"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales desventajas del uso de Xamarin?",
+        "selected": "Desarrollar aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Desarrollar aplicaciones lleva mucho tiempo",
+            "Xamarin tiene su propio IDE",
+            "Se centra principalmente en la interfaz del usuario y back-end",
+            "Permite compartir fácilmente entre diferentes plataformas",
+            "Menos cantidad de errores"
+        ]
+    },
+    {
+        "question": "No es una ventaja de Xamarin",
+        "selected": "El desarrollo de aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Xamarin compila aplicaciones en forma nativa",
+            "Admite Android, IOS y el sistema operativo Windows",
+            "No tiene limites",
+            "El desarrollo de aplicaciones lleva mucho tiempo",
+            "Xamarin tiene su propio IDE"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "Activity Manager",
+            "Views",
+            "Content Providers",
+            "ExpandableListView",
+            "Resource Manager"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) al que hace referencia el enlace de datos?",
+        "selected": "Source",
+        "answers": [
+            "Source",
+            "First",
+            "Init",
+            "Main",
+            "Target"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Source",
+        "answers": [
+            "Start",
+            "Source",
+            "Target",
+            "Main",
+            "End"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre que se les da a los elementos de datos en un ListView?",
+        "selected": "Celdas",
+        "answers": [
+            "Nicho",
+            "Cuerpo",
+            "Celdas",
+            "Lista",
+            "Punteros"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Encabezado y pie de página, grupos y células",
+            "Encabezado y pie de página, secciones, columnas",
+            "Grupos, células y secciones",
+            "Grupos y células",
+            "Encabezado y pie de página y grupos"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones no es una librería nativa en Android?",
+        "selected": "ExpandableListView",
+        "answers": [
+            "ExpandableListView",
+            "SQLite",
+            "Free Type",
+            "Librerias 3D",
+            "SGL"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza principalmente como elemento estructural y sirve como clase base para Frame?",
+        "selected": "ContentView",
+        "answers": [
+            "ContentPresente",
+            "Frame",
+            "ScrollView",
+            "ContentView",
+            "TemplatedView"
+        ]
+    },
+    {
+        "question": "No es la descripción correcta de los StackLayout",
+        "selected": "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+        "answers": [
+            "Las Vistas en un StackLayout pueden dimensionarse en función del espacio en el diseño utilizando las opciones de diseño",
+            "El posicionamiento es determinado por el orden de las vistas en la que se añadieron al diseño y las opciones del diseño de las vistas",
+            "Organiza las vistas ya sea horizontal o verticalmente.",
+            "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+            "Organiza vistas en una línea unidimensional («pila»),"
+        ]
+    },
+    {
+        "question": "Layouts, elementos no visuales destinados a controlar la distribución de los controles, ¿cuál de los siguientes elementos no es un objeto de tipo Layout?",
+        "selected": "CheckBox",
+        "answers": [
+            "Gallery",
+            "Spinner",
+            "ListView",
+            "GridView",
+            "CheckBox"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de Layout organiza su contenido en una sola fila o columna?",
+        "selected": "LinearLayout",
+        "answers": [
+            "TableLayout",
+            "FineLayout",
+            "AbsoluteLayout",
+            "LinearLayout",
+            "RelativeLayout"
+        ]
+    }
+]

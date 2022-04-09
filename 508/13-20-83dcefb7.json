@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Es un conjunto de definiciones que contiene las características lógicas y puntuales de los datos que se van a utilizar en el sistema",
+        "selected": "Diccionario de datos",
+        "answers": [
+            "Metodología",
+            "Mapa de navegación",
+            "Diccionario de datos",
+            "Modelado de datos",
+            "Caso de uso"
+        ]
+    },
+    {
+        "question": "Es un tipo de prototipo según la extensión",
+        "selected": "Funcional",
+        "answers": [
+            "Diagonal",
+            "No funcional",
+            "De interfaz",
+            "Vertical",
+            "Funcional"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Disyunción",
+        "answers": [
+            "Disyunción",
+            "Concatenación",
+            "Repetición",
+            "Opcionalidad",
+            "Inclusión"
+        ]
+    },
+    {
+        "question": "La actividad del proceso de desarrollo que tiene relación con aspectos de codificación, implementación de buenas prácticas, realización de pruebas unitarias por parte del desarrollador se conoce como",
+        "selected": "Desarrollo e Implementación",
+        "answers": [
+            "Validación",
+            "Desarrollo e Implementación",
+            "Fases",
+            "Ciclo",
+            "Evolución"
+        ]
+    },
+    {
+        "question": "No es considerado como una característica de un sketch",
+        "selected": "Diseño de prueba final",
+        "answers": [
+            "Primer boceto que se realiza sobre el sistema",
+            "Diseño de prueba final",
+            "Diseño rápido y sencillo",
+            "Refleja las ideas generales del proyecto",
+            "Para reuniones con el cliente y reuniones internas con el equipo"
+        ]
+    },
+    {
+        "question": "Los elementos principales de un diagrama de estado",
+        "selected": "Estado, estado inicial, estado final, transición",
+        "answers": [
+            "Estado inicial, transición, estado",
+            "Estado inicial, transición, estado",
+            "Estado, estado inicial, estado final, transición",
+            "Estado, caso de uso, transición",
+            "Estado, estado final, caso de uso, estado final"
+        ]
+    },
+    {
+        "question": "Usan los requerimientos para desarrollar pruebas de validación para el sistema",
+        "selected": "Ingenieros de prueba del sistema",
+        "answers": [
+            "Administradores",
+            "Clientes del sistema",
+            "Ingenieros del sistema",
+            "Ingenieros de prueba del sistema",
+            "Ingenieros de mantenimiento del sistema"
+        ]
+    },
+    {
+        "question": "La etapa de indagación de requisitos, donde se identifica el problema, se propone soluciones, se negocia distintos enfoques y se especifica un conjunto preliminar de requerimientos se conoce como:",
+        "selected": "Recabación de requerimientos en forma colaborativa.",
+        "answers": [
+            "Recabación de requerimientos en forma colaborativa.",
+            "Indagación de los productos de trabajo",
+            "Marco de trabajo.",
+            "Entrevista a los consumidores",
+            "Escenarios de uso."
+        ]
+    },
+    {
+        "question": "El modelo espiral de Boehm, se divide en cuantos sectores:",
+        "selected": "4",
+        "answers": [
+            "4",
+            "5",
+            "2",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "question": "Es una métrica para especificar un requerimiento no funcional de robustez",
+        "selected": "Numero de sistema objetivo",
+        "answers": [
+            "Número de chips",
+            "Tiempo de regeneración de pantalla",
+            "Tiempo de capacitación",
+            "Tiempo de reinicio después de falla",
+            "Numero de sistema objetivo"
+        ]
+    },
+    {
+        "question": "Las etapas identificadas como pruebas de desarrollo, pruebas del sistema y pruebas de aceptación pertenecen al proceso de:",
+        "selected": "Desarrollo e Implementación",
+        "answers": [
+            "Confiabilidad",
+            "Evolución.",
+            "Seguridad",
+            "Validación",
+            "Desarrollo e Implementación"
+        ]
+    },
+    {
+        "question": "Como parte del diseño de una arquitectura de software, las propiedades asociadas a requerimientos de: rendimiento, capacidad, funcionabilidad, seguridad, adaptabilidad, entre otras se consideran:",
+        "selected": "Requerimientos",
+        "answers": [
+            "Sistemas relacionados",
+            "Propiedades estructurales",
+            "Requerimientos",
+            "Requisitos",
+            "Propiedades extra funcionales"
+        ]
+    },
+    {
+        "question": "Presentan una imagen de alto nivel de la estructura del sistema e incluyen fácilmente a individuos de diferentes disciplinas que intervienen en el proceso de desarrollo del sistema",
+        "selected": "Caso de uso",
+        "answers": [
+            "Modelo de sistema",
+            "Los diagramas de bloque",
+            "Los diagramas de flujo",
+            "Los algoritmos",
+            "Caso de uso"
+        ]
+    },
+    {
+        "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+        "selected": "Funcionales y no funcionales",
+        "answers": [
+            "Funcionales y no funcionales",
+            "Individuales y grupales",
+            "Estructura y análisis",
+            "Del cliente",
+            "De diseño y programación"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Software genuino",
+            "Prueba de escritorio",
+            "Diseño",
+            "Prototipo",
+            "Software genérico"
+        ]
+    },
+    {
+        "question": "El software diseñado deberá estar documentado por fines de:",
+        "selected": "Adaptaciones a nuevos requerimientos de los usuarios finales",
+        "answers": [
+            "Evitar la obsolescencia del programa",
+            "Detallar la programación",
+            "Considerar el ciclo de vida del programa",
+            "Adaptaciones a nuevos requerimientos de los usuarios finales",
+            "Evitar la copia del software"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo en espiral",
+            "Modelo de construcción de prototipos",
+            "Modelo de prototipado evolutivo",
+            "Modelo basado en transformaciones",
+            "Modelo de desarrollo incremental"
+        ]
+    },
+    {
+        "question": "Cuando un cliente o el negocio tiene una necesidad de automatizar un proceso con una solución de software, lo primero que realiza es:",
+        "selected": "Levantamiento, documentación y análisis de requerimientos",
+        "answers": [
+            "La codificación de la necesidad.",
+            "Levantamiento, documentación y análisis de requerimientos",
+            "Encuestas",
+            "Adquirir hardware como servidores de aplicaciones y bases de datos",
+            "Entrevistas"
+        ]
+    },
+    {
+        "question": "Este proceso tiene la finalidad de descubrir errores que resulten de interacciones no anticipadas entre componentes y problemas de interfaz de componente, así como de mostrar que el sistema cubre sus requerimientos funcionales y no funcionales, y poner a prueba las propiedades emergentes del sistema",
+        "selected": "Prueba de desarrollo",
+        "answers": [
+            "Pruebas de aceptación",
+            "Prueba de desarrollo",
+            "Desarrollo",
+            "Demostración",
+            "Pruebas del sistema"
+        ]
+    },
+    {
+        "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+        "selected": "Rendimiento",
+        "answers": [
+            "Usabilidad",
+            "Rapidez",
+            "Confiabilidad",
+            "Rendimiento",
+            "Seguridad"
+        ]
+    }
+]

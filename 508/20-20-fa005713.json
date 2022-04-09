@@ -1,0 +1,222 @@
+[
+    {
+        "question": "La actividad del proceso de desarrollo que tiene relación con aspectos de codificación, implementación de buenas prácticas, realización de pruebas unitarias por parte del desarrollador se conoce como",
+        "selected": "Desarrollo e Implementación",
+        "answers": [
+            "Evolución",
+            "Desarrollo e Implementación",
+            "Validación",
+            "Fases",
+            "Ciclo"
+        ]
+    },
+    {
+        "question": "A la versión inicial de un sistema de software que se utiliza para mostrar conceptos, diseño y posible funcionamiento de la solución ante un problema se conoce como",
+        "selected": "Prototipo",
+        "answers": [
+            "Arquitectura",
+            "Sistema Existente",
+            "Sistema Relacionado",
+            "Prototipo",
+            "Sistema Embebido"
+        ]
+    },
+    {
+        "question": "Es un tipo de prototipo según la extensión",
+        "selected": "Vertical",
+        "answers": [
+            "Funcional",
+            "No funcional",
+            "Vertical",
+            "Diagonal",
+            "De interfaz"
+        ]
+    },
+    {
+        "question": "Las ………………. evalúan el producto para determinar que cumple con el objetivo previsto.",
+        "selected": "Pruebas",
+        "answers": [
+            "Arquitectura",
+            "Fases",
+            "Liberación",
+            "Pruebas",
+            "Metodologías"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Opcionalidad",
+            "Concatenación",
+            "Inclusión",
+            "Repetición",
+            "Disyunción"
+        ]
+    },
+    {
+        "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+        "selected": "Diseño",
+        "answers": [
+            "Pruebas",
+            "Base",
+            "Necesidades",
+            "Diseño",
+            "Prototipo"
+        ]
+    },
+    {
+        "question": "Entender lo que el cliente desea, analizar las necesidades, evaluar la factibilidad, negociar la solución, validar la especificación y administrar los requisitos es parte de:",
+        "selected": "La Ingeniería de Requisitos",
+        "answers": [
+            "El proceso unificado",
+            "La Ingeniería de Requisitos",
+            "Encuestas.",
+            "Entrevistas.",
+            "El desarrollo Ágil."
+        ]
+    },
+    {
+        "question": "El software diseñado deberá estar documentado por fines de:",
+        "selected": "Adaptaciones a nuevos requerimientos de los usuarios finales",
+        "answers": [
+            "Considerar el ciclo de vida del programa",
+            "Evitar la copia del software",
+            "Adaptaciones a nuevos requerimientos de los usuarios finales",
+            "Evitar la obsolescencia del programa",
+            "Detallar la programación"
+        ]
+    },
+    {
+        "question": "Según la siguiente definición: “Es una implementación parcial pero concreta de un sistema o una parte del mismo que principalmente se crean para explorar aspectos diversos del sistema durante el desarrollo del mismo.”, es la definición de:",
+        "selected": "Prototipo",
+        "answers": [
+            "Análisis y Diseño de Software",
+            "Prototipo",
+            "Requerimientos de Sistema",
+            "Métricas de diseño de interfaz",
+            "Software"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo de prototipado evolutivo",
+            "Modelo basado en transformaciones",
+            "Modelo de construcción de prototipos",
+            "Modelo en espiral",
+            "Modelo de desarrollo incremental"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Software genérico",
+            "Prueba de escritorio",
+            "Software genuino",
+            "Diseño",
+            "Prototipo"
+        ]
+    },
+    {
+        "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+        "selected": "Análisis, diseño, código y prueba",
+        "answers": [
+            "Análisis, diseño, código y prueba",
+            "Análisis, código, prueba y diseño",
+            "Diseño, prueba, código y análisis",
+            "Código, diseño, análisis y prueba",
+            "Diseño, análisis, código y prueba"
+        ]
+    },
+    {
+        "question": "Presentan una imagen de alto nivel de la estructura del sistema e incluyen fácilmente a individuos de diferentes disciplinas que intervienen en el proceso de desarrollo del sistema",
+        "selected": "Los diagramas de bloque",
+        "answers": [
+            "Los diagramas de flujo",
+            "Caso de uso",
+            "Modelo de sistema",
+            "Los algoritmos",
+            "Los diagramas de bloque"
+        ]
+    },
+    {
+        "question": "En este tipo de vista se tienen que relacionar los requerimientos del sistema con entidades",
+        "selected": "vista lógica",
+        "answers": [
+            "vista física",
+            "vista lógica",
+            "vista del sistema",
+            "vista de desarrollo",
+            "vista de proceso"
+        ]
+    },
+    {
+        "question": "En el siguiente enunciado: “Una vez que se haya levantado los requisitos funcionales y no funcionales y se ha diseñado una solución a ser implementada, estas especificaciones se entregan al equipo de desarrollo para que realice la codificación”, dicha actividad se la lleva a cabo dentro de",
+        "selected": "Construcción",
+        "answers": [
+            "Confianza",
+            "Análisis",
+            "Despliegue",
+            "Rapidez",
+            "Construcción"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "RAID",
+            "Un proceso batch con envíos y respuestas hacia una base de datos local",
+            "Servidor web.",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación",
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Pruebas",
+            "Análisis y diseño",
+            "Despliegue",
+            "Requerimientos",
+            "Modelo del negocio"
+        ]
+    },
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Elaboración, análisis, diseño y transición",
+            "Elaboración, diseño, análisis y transición",
+            "Elaboración, análisis, diseño y prueba",
+            "Construcción, análisis, diseño y transición",
+            "Concepción, elaboración, construcción y transición"
+        ]
+    },
+    {
+        "question": "El modelo espiral de Boehm, se divide en cuantos sectores:",
+        "selected": "4",
+        "answers": [
+            "5",
+            "2",
+            "4",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se usa para establecer la factibilidad económica de un proyecto de desarrollo de software?",
+        "selected": "Análisis de valor ganado o la tasa interna de retorno",
+        "answers": [
+            "Estudio de la factibilidad de emprendimiento",
+            "Sustentación legal del proyecto.",
+            "Capital de la empresa",
+            "Estudio de los servidores y terminales con que cuenta la organización",
+            "Análisis de valor ganado o la tasa interna de retorno"
+        ]
+    }
+]

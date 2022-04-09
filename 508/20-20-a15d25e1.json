@@ -1,0 +1,222 @@
+[
+    {
+        "question": "El modelo espiral de Boehm, se divide en cuantos sectores:",
+        "selected": "4",
+        "answers": [
+            "6",
+            "3",
+            "2",
+            "5",
+            "4"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Despliegue",
+            "Requerimientos",
+            "Modelo del negocio",
+            "Pruebas",
+            "Análisis y diseño"
+        ]
+    },
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Elaboración, diseño, análisis y transición",
+            "Elaboración, análisis, diseño y prueba",
+            "Concepción, elaboración, construcción y transición",
+            "Construcción, análisis, diseño y transición",
+            "Elaboración, análisis, diseño y transición"
+        ]
+    },
+    {
+        "question": "La ingeniería de requisitos, ¿A qué necesidades debe adaptarse?",
+        "selected": "Del proceso, del proyecto, del producto y las personas",
+        "answers": [
+            "Del proceso, del proyecto, del producto y las personas",
+            "Del cliente, los usuarios y la administración",
+            "La administración",
+            "De lenguaje, la arquitectura y los resultados",
+            "La arquitectura"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo de prototipado evolutivo",
+            "Modelo de construcción de prototipos",
+            "Modelo en espiral",
+            "Modelo de desarrollo incremental",
+            "Modelo basado en transformaciones"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Prueba de escritorio",
+            "Software genuino",
+            "Prototipo",
+            "Software genérico",
+            "Diseño"
+        ]
+    },
+    {
+        "question": "Según la siguiente definición: “Es una implementación parcial pero concreta de un sistema o una parte del mismo que principalmente se crean para explorar aspectos diversos del sistema durante el desarrollo del mismo.”, es la definición de:",
+        "selected": "Prototipo",
+        "answers": [
+            "Prototipo",
+            "Requerimientos de Sistema",
+            "Análisis y Diseño de Software",
+            "Software",
+            "Métricas de diseño de interfaz"
+        ]
+    },
+    {
+        "question": "Cuando un cliente o el negocio tiene una necesidad de automatizar un proceso con una solución de software, lo primero que realiza es:",
+        "selected": "Levantamiento, documentación y análisis de requerimientos",
+        "answers": [
+            "Encuestas",
+            "La codificación de la necesidad.",
+            "Adquirir hardware como servidores de aplicaciones y bases de datos",
+            "Levantamiento, documentación y análisis de requerimientos",
+            "Entrevistas"
+        ]
+    },
+    {
+        "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+        "selected": "Económicos, técnicos, legales, Operativos.",
+        "answers": [
+            "Operativos",
+            "Legales",
+            "Netamente técnicos",
+            "Económicos, técnicos, legales, Operativos.",
+            "Económicos y técnicos"
+        ]
+    },
+    {
+        "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+        "selected": "Análisis, diseño, código y prueba",
+        "answers": [
+            "Diseño, análisis, código y prueba",
+            "Análisis, diseño, código y prueba",
+            "Análisis, código, prueba y diseño",
+            "Diseño, prueba, código y análisis",
+            "Código, diseño, análisis y prueba"
+        ]
+    },
+    {
+        "question": "Como parte del diseño de una arquitectura de software, las propiedades asociadas a requerimientos de: rendimiento, capacidad, funcionabilidad, seguridad, adaptabilidad, entre otras se consideran:",
+        "selected": "Propiedades extra funcionales",
+        "answers": [
+            "Requisitos",
+            "Requerimientos",
+            "Propiedades extra funcionales",
+            "Propiedades estructurales",
+            "Sistemas relacionados"
+        ]
+    },
+    {
+        "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+        "selected": "Funcionales y no funcionales",
+        "answers": [
+            "Funcionales y no funcionales",
+            "De diseño y programación",
+            "Estructura y análisis",
+            "Del cliente",
+            "Individuales y grupales"
+        ]
+    },
+    {
+        "question": "Las etapas identificadas como pruebas de desarrollo, pruebas del sistema y pruebas de aceptación pertenecen al proceso de:",
+        "selected": "Validación",
+        "answers": [
+            "Seguridad",
+            "Desarrollo e Implementación",
+            "Evolución.",
+            "Confiabilidad",
+            "Validación"
+        ]
+    },
+    {
+        "question": "Éste es un modelo de la organización en tiempo de operación de un sistema, donde las transformaciones funcionales procesan sus entradas y producen salidas. Los datos fluyen de uno a otro y se transforman conforme se desplazan a través de la secuencia",
+        "selected": "Arquitectura de tubería y filtro",
+        "answers": [
+            "Arquitectura de aplicación",
+            "Arquitectura de repositorio",
+            "Arquitectura cliente – servidor",
+            "Arquitectura de tubería y filtro",
+            "Arquitectura en capas"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Wireframe, mockup, sketch, prototipo",
+            "Sketch, mockup, wireframe, prototipo",
+            "Wireframe, sketch, mockup, prototipo",
+            "Sketch, wireframe, mockup, prototipo",
+            "Mockup, wireframe, sketch, prototipo"
+        ]
+    },
+    {
+        "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+        "selected": "Diseño",
+        "answers": [
+            "Pruebas",
+            "Prototipo",
+            "Base",
+            "Diseño",
+            "Necesidades"
+        ]
+    },
+    {
+        "question": "La actividad del proceso de desarrollo que tiene relación con aspectos de codificación, implementación de buenas prácticas, realización de pruebas unitarias por parte del desarrollador se conoce como",
+        "selected": "Desarrollo e Implementación",
+        "answers": [
+            "Desarrollo e Implementación",
+            "Ciclo",
+            "Fases",
+            "Evolución",
+            "Validación"
+        ]
+    },
+    {
+        "question": "Es un conjunto de definiciones que contiene las características lógicas y puntuales de los datos que se van a utilizar en el sistema",
+        "selected": "Diccionario de datos",
+        "answers": [
+            "Diccionario de datos",
+            "Metodología",
+            "Mapa de navegación",
+            "Modelado de datos",
+            "Caso de uso"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Inclusión",
+            "Concatenación",
+            "Opcionalidad",
+            "Repetición",
+            "Disyunción"
+        ]
+    },
+    {
+        "question": "A la versión inicial de un sistema de software que se utiliza para mostrar conceptos, diseño y posible funcionamiento de la solución ante un problema se conoce como",
+        "selected": "Prototipo",
+        "answers": [
+            "Sistema Relacionado",
+            "Sistema Embebido",
+            "Arquitectura",
+            "Prototipo",
+            "Sistema Existente"
+        ]
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Éste es un modelo de la organización en tiempo de operación de un sistema, donde las transformaciones funcionales procesan sus entradas y producen salidas. Los datos fluyen de uno a otro y se transforman conforme se desplazan a través de la secuencia",
+        "selected": "Arquitectura de tubería y filtro",
+        "answers": [
+            "Arquitectura de aplicación",
+            "Arquitectura en capas",
+            "Arquitectura de repositorio",
+            "Arquitectura cliente – servidor",
+            "Arquitectura de tubería y filtro"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "Un proceso batch con envíos y respuestas hacia una base de datos local",
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+            "Servidor web.",
+            "RAID",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación"
+        ]
+    },
+    {
+        "question": "En el siguiente enunciado: “Una vez que se haya levantado los requisitos funcionales y no funcionales y se ha diseñado una solución a ser implementada, estas especificaciones se entregan al equipo de desarrollo para que realice la codificación”, dicha actividad se la lleva a cabo dentro de",
+        "selected": "Construcción",
+        "answers": [
+            "Construcción",
+            "Análisis",
+            "Rapidez",
+            "Despliegue",
+            "Confianza"
+        ]
+    },
+    {
+        "question": "En este tipo de vista se tienen que relacionar los requerimientos del sistema con entidades",
+        "selected": "vista lógica",
+        "answers": [
+            "vista física",
+            "vista lógica",
+            "vista de proceso",
+            "vista del sistema",
+            "vista de desarrollo"
+        ]
+    },
+    {
+        "question": "Es un tipo de prototipo según la extensión",
+        "selected": "Vertical",
+        "answers": [
+            "Vertical",
+            "No funcional",
+            "De interfaz",
+            "Funcional",
+            "Diagonal"
+        ]
+    },
+    {
+        "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+        "selected": "Prototipo",
+        "answers": [
+            "Prototipo",
+            "Base",
+            "Pruebas",
+            "Necesidades",
+            "Diseño"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Wireframe, mockup, sketch, prototipo",
+            "Mockup, wireframe, sketch, prototipo",
+            "Sketch, wireframe, mockup, prototipo",
+            "Wireframe, sketch, mockup, prototipo",
+            "Sketch, mockup, wireframe, prototipo"
+        ]
+    },
+    {
+        "question": "La actividad del proceso de desarrollo que tiene relación con aspectos de codificación, implementación de buenas prácticas, realización de pruebas unitarias por parte del desarrollador se conoce como",
+        "selected": "Validación",
+        "answers": [
+            "Fases",
+            "Validación",
+            "Evolución",
+            "Ciclo",
+            "Desarrollo e Implementación"
+        ]
+    },
+    {
+        "question": "¿Cuándo termina un proyecto software?:",
+        "selected": "Cuando se termina de implementar",
+        "answers": [
+            "Cuando se paga el costo",
+            "Cuando se retira",
+            "Cuando se termina de implementar",
+            "Cuando se entrega al cliente.",
+            "Cuando el cliente confirma que está satisfecho con el resultado"
+        ]
+    },
+    {
+        "question": "No es considerado como una característica de un sketch",
+        "selected": "Diseño de prueba final",
+        "answers": [
+            "Refleja las ideas generales del proyecto",
+            "Diseño de prueba final",
+            "Para reuniones con el cliente y reuniones internas con el equipo",
+            "Diseño rápido y sencillo",
+            "Primer boceto que se realiza sobre el sistema"
+        ]
+    },
+    {
+        "question": "La ingeniería de requisitos, ¿A qué necesidades debe adaptarse?",
+        "selected": "Del cliente, los usuarios y la administración",
+        "answers": [
+            "La administración",
+            "De lenguaje, la arquitectura y los resultados",
+            "Del cliente, los usuarios y la administración",
+            "La arquitectura",
+            "Del proceso, del proyecto, del producto y las personas"
+        ]
+    },
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Construcción, análisis, diseño y transición",
+            "Concepción, elaboración, construcción y transición",
+            "Elaboración, análisis, diseño y transición",
+            "Elaboración, diseño, análisis y transición",
+            "Elaboración, análisis, diseño y prueba"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Pruebas",
+            "Despliegue",
+            "Modelo del negocio",
+            "Requerimientos",
+            "Análisis y diseño"
+        ]
+    },
+    {
+        "question": "Usan los requerimientos para desarrollar pruebas de validación para el sistema",
+        "selected": "Ingenieros de prueba del sistema",
+        "answers": [
+            "Ingenieros del sistema",
+            "Ingenieros de mantenimiento del sistema",
+            "Ingenieros de prueba del sistema",
+            "Administradores",
+            "Clientes del sistema"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo de prototipado evolutivo",
+            "Modelo de desarrollo incremental",
+            "Modelo en espiral",
+            "Modelo de construcción de prototipos",
+            "Modelo basado en transformaciones"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Software genuino",
+            "Software genérico",
+            "Prototipo",
+            "Prueba de escritorio",
+            "Diseño"
+        ]
+    },
+    {
+        "question": "Entender lo que el cliente desea, analizar las necesidades, evaluar la factibilidad, negociar la solución, validar la especificación y administrar los requisitos es parte de:",
+        "selected": "La Ingeniería de Requisitos",
+        "answers": [
+            "El desarrollo Ágil.",
+            "La Ingeniería de Requisitos",
+            "Entrevistas.",
+            "El proceso unificado",
+            "Encuestas."
+        ]
+    },
+    {
+        "question": "Al desarrollar un software para una empresa de acuerdo a sus requerimientos se debe realizar",
+        "selected": "Prototipo",
+        "answers": [
+            "Prototipo",
+            "Diseño de los formularios",
+            "Elegir el lenguaje de programación y el sistema operativo",
+            "Programación",
+            "Análisis y diseño"
+        ]
+    },
+    {
+        "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+        "selected": "Análisis, diseño, código y prueba",
+        "answers": [
+            "Diseño, prueba, código y análisis",
+            "Diseño, análisis, código y prueba",
+            "Código, diseño, análisis y prueba",
+            "Análisis, código, prueba y diseño",
+            "Análisis, diseño, código y prueba"
+        ]
+    },
+    {
+        "question": "Cuando un cliente o el negocio tiene una necesidad de automatizar un proceso con una solución de software, lo primero que realiza es:",
+        "selected": "Levantamiento, documentación y análisis de requerimientos",
+        "answers": [
+            "Levantamiento, documentación y análisis de requerimientos",
+            "Entrevistas",
+            "Encuestas",
+            "La codificación de la necesidad.",
+            "Adquirir hardware como servidores de aplicaciones y bases de datos"
+        ]
+    }
+]

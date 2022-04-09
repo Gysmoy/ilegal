@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuál de las opciones se recomienda evitar el uso de este tipo de Layout?",
+        "selected": "AbsoluteLayout",
+        "answers": [
+            "AbsLayout",
+            "RelativeLayout",
+            "AbsoluteLayout",
+            "LinearLayout",
+            "TableLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts es de contenido único?",
+        "selected": "ScrollView",
+        "answers": [
+            "StackLayout",
+            "ScrollView",
+            "AbsoluteLayout",
+            "Grid",
+            "FlexLayout"
+        ]
+    },
+    {
+        "question": "No es la descripción correcta de los StackLayout",
+        "selected": "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+        "answers": [
+            "Organiza las vistas ya sea horizontal o verticalmente.",
+            "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+            "El posicionamiento es determinado por el orden de las vistas en la que se añadieron al diseño y las opciones del diseño de las vistas",
+            "Organiza vistas en una línea unidimensional («pila»),",
+            "Las Vistas en un StackLayout pueden dimensionarse en función del espacio en el diseño utilizando las opciones de diseño"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "ContentPresenter",
+            "TemplatedView",
+            "Frame",
+            "ScrollView",
+            "StackLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Target",
+        "answers": [
+            "Main",
+            "End",
+            "Start",
+            "Source",
+            "Target"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "FilterItemAsync",
+            "GetItemsAsync",
+            "Databasecontext",
+            "DeleteItemAsync",
+            "SaveItemsAsync"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "Resource Manager",
+            "Content Providers",
+            "ExpandableListView",
+            "Activity Manager",
+            "Views"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La adopción del protocolo WiMAX",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "Mensajes de texto"
+        ]
+    },
+    {
+        "question": "¿En qué generación aparece la itinerancia internacional (roaming)?",
+        "selected": "1G",
+        "answers": [
+            "1G",
+            "4G",
+            "3G",
+            "0G",
+            "2G"
+        ]
+    },
+    {
+        "question": "A que contenedores se pueden aplicar los recursos de estilos a través del archivothemeresources.xaml",
+        "selected": "TextBlock y ComboBlock",
+        "answers": [
+            "RichTextBlock y Button",
+            "TextBlock y ViewBlock",
+            "TextBlock y RichTextBlock",
+            "TextBlock y ComboBlock",
+            "RichTextBlock y ComboBlock"
+        ]
+    },
+    {
+        "question": "¿Mencione la estrategia para obtener beneficios de una aplicación?",
+        "selected": "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+        "answers": [
+            "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+            "Debe basarse en cobrar un precio por la descarga de la aplicación.",
+            "Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas",
+            "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+            "Mejorar los tiempos"
+        ]
+    },
+    {
+        "question": "¿Qué servicio maneja el ciclo de vida de las aplicaciones y proporciona un sistema de navegación entre ellas?",
+        "selected": "Activity Manager",
+        "answers": [
+            "Views",
+            "Activity Manager",
+            "Resource Manager",
+            "ExpandableListView",
+            "HorizontalScrollView"
+        ]
+    },
+    {
+        "question": "¿Que necesitaría tener la aplicación para que sea exitosa?",
+        "selected": "Fácil de usar, Intuitiva, De uso habitual",
+        "answers": [
+            "Diseño para web",
+            "Diseño estático",
+            "Diseño fluido",
+            "Lenta",
+            "Fácil de usar, Intuitiva, De uso habitual"
+        ]
+    },
+    {
+        "question": "¿Cuál es la clase en Xamarin Forms que proporciona una experiencia de navegación jerárquica en la que el usuario puede navegar por las páginas?",
+        "selected": "NavigationPage",
+        "answers": [
+            "NavigationPage",
+            "TabbedPage",
+            "FlyoutPage",
+            "ContentPage",
+            "CarruselPage"
+        ]
+    },
+    {
+        "question": "¿Cuál es el significado de XAML?",
+        "selected": "Extensible Application Markup Language",
+        "answers": [
+            "Permite diseñar aplicaciones sin tener en cuenta jerarquías de programación",
+            "Es un entorno de trabajo de C++",
+            "Extensible Application Markup Language",
+            "Fue desarrollado por Ubuntu para hacer aplicaciones",
+            "Es una plataforma para realizar para se utiliza para construir aplicaciones Windows"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Un depurador y un emulador de dispositivos",
+            "Son librerías OpenGL",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+            "Máquina virtual para ejecutar programas",
+            "Sistema gestionador de base de datos"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales ventajas del uso de Xamarin?",
+        "selected": "Fácil de aprender",
+        "answers": [
+            "Costo alto",
+            "Fácil de aprender",
+            "No admite Android, IOS y Windows.",
+            "Tiene límites",
+            "Desarrollo lento"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Grupos y células",
+            "Encabezado y pie de página, secciones, columnas",
+            "Encabezado y pie de página y grupos",
+            "Encabezado y pie de página, grupos y células",
+            "Grupos, células y secciones"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso del ListView?",
+        "selected": "Vista para presentar listas de datos",
+        "answers": [
+            "Agrupar objetos de manera horizontal",
+            "Conexión de Base Datos",
+            "Vista para presentar listas de datos",
+            "Navegación",
+            "Ingresar datos"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre que se les da a los elementos de datos en un ListView?",
+        "selected": "Celdas",
+        "answers": [
+            "Celdas",
+            "Nicho",
+            "Lista",
+            "Cuerpo",
+            "Punteros"
+        ]
+    }
+]

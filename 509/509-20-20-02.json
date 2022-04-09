@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Cuáles son los tipos de enlace de datos que muestra Data Binding",
+        "selected": "Enlace unidireccional y bidireccional",
+        "answers": [
+            "Enlace bidireccional",
+            "Enlace unidireccional y bidireccional",
+            "Enlace unidireccional",
+            "Enlace bidireccional y multidireccional",
+            "Enlace unidireccional y multidireccional"
+        ]
+    },
+    {
+        "question": "No es una ventaja de Xamarin",
+        "selected": "El desarrollo de aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Xamarin compila aplicaciones en forma nativa",
+            "Admite Android, IOS y el sistema operativo Windows",
+            "Xamarin tiene su propio IDE",
+            "No tiene limites",
+            "El desarrollo de aplicaciones lleva mucho tiempo"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Un depurador y un emulador de dispositivos",
+            "Son librerías OpenGL",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+            "Máquina virtual para ejecutar programas",
+            "Sistema gestionador de base de datos"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Key>",
+            "<Style>",
+            "<Property>",
+            "<Setter>",
+            "<ResourceDictionary>"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "La adopción del protocolo WiMAX",
+            "Mensajes de texto",
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda"
+        ]
+    },
+    {
+        "question": "¿Qué es un estilo en el desarrollo de Aplicaciones para móviles?",
+        "selected": "Conjunto de propiedades visuales",
+        "answers": [
+            "Librería",
+            "Prototipo de la APP",
+            "Emulador",
+            "Es un marco de trabajo",
+            "Conjunto de propiedades visuales"
+        ]
+    },
+    {
+        "question": "A que contenedores se pueden aplicar los recursos de estilos a través del archivothemeresources.xaml",
+        "selected": "TextBlock y RichTextBlock",
+        "answers": [
+            "RichTextBlock y ComboBlock",
+            "TextBlock y RichTextBlock",
+            "TextBlock y ViewBlock",
+            "RichTextBlock y Button",
+            "TextBlock y ComboBlock"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "TemplatedView",
+            "ScrollView",
+            "ContentPresenter",
+            "Frame",
+            "StackLayout"
+        ]
+    },
+    {
+        "question": "Layouts, elementos no visuales destinados a controlar la distribución de los controles, ¿cuál de los siguientes elementos no es un objeto de tipo Layout?",
+        "selected": "CheckBox",
+        "answers": [
+            "Spinner",
+            "Gallery",
+            "ListView",
+            "CheckBox",
+            "GridView"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones se recomienda evitar el uso de este tipo de Layout?",
+        "selected": "AbsoluteLayout",
+        "answers": [
+            "AbsLayout",
+            "RelativeLayout",
+            "TableLayout",
+            "LinearLayout",
+            "AbsoluteLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts es de contenido único?",
+        "selected": "ScrollView",
+        "answers": [
+            "Grid",
+            "AbsoluteLayout",
+            "StackLayout",
+            "ScrollView",
+            "FlexLayout"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "ExpandableListView",
+            "Content Providers",
+            "Views",
+            "Activity Manager",
+            "Resource Manager"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "Databasecontext",
+            "FilterItemAsync",
+            "DeleteItemAsync",
+            "GetItemsAsync",
+            "SaveItemsAsync"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Target",
+        "answers": [
+            "Start",
+            "Source",
+            "Main",
+            "End",
+            "Target"
+        ]
+    },
+    {
+        "question": "La clase ListView admite varios estilos de interacción, uno de ellos es",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "TextCell",
+            "Context actions",
+            "Pull-to-refresh",
+            "Built-in cells",
+            "Selection"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Grupos, células y secciones",
+            "Grupos y células",
+            "Encabezado y pie de página y grupos",
+            "Encabezado y pie de página, grupos y células",
+            "Encabezado y pie de página, secciones, columnas"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones no es una librería nativa en Android?",
+        "selected": "ExpandableListView",
+        "answers": [
+            "Librerias 3D",
+            "Free Type",
+            "SQLite",
+            "SGL",
+            "ExpandableListView"
+        ]
+    },
+    {
+        "question": "¿Qué servicio maneja el ciclo de vida de las aplicaciones y proporciona un sistema de navegación entre ellas?",
+        "selected": "Activity Manager",
+        "answers": [
+            "Views",
+            "ExpandableListView",
+            "Resource Manager",
+            "Activity Manager",
+            "HorizontalScrollView"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la propiedad de la instancia NavigationPage que proporciona acceso a la primera página de la pila de navegación?",
+        "selected": "RootPage",
+        "answers": [
+            "CaruselPage",
+            "ContentPage",
+            "TabbedPage",
+            "FlyoutPage",
+            "RootPage"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Start",
+            "Null",
+            "Principal",
+            "Inicio",
+            "Raíz"
+        ]
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Los elementos principales de un diagrama de estado",
+        "selected": "Estado, estado inicial, estado final, transición",
+        "answers": [
+            "Estado, estado inicial, estado final, transición",
+            "Estado inicial, transición, estado",
+            "Estado, caso de uso, transición",
+            "Estado, estado final, caso de uso, estado final",
+            "Estado inicial, transición, estado"
+        ]
+    },
+    {
+        "question": "A la versión inicial de un sistema de software que se utiliza para mostrar conceptos, diseño y posible funcionamiento de la solución ante un problema se conoce como",
+        "selected": "Prototipo",
+        "answers": [
+            "Sistema Embebido",
+            "Arquitectura",
+            "Sistema Existente",
+            "Sistema Relacionado",
+            "Prototipo"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Sketch, wireframe, mockup, prototipo",
+            "Sketch, mockup, wireframe, prototipo",
+            "Wireframe, sketch, mockup, prototipo",
+            "Wireframe, mockup, sketch, prototipo",
+            "Mockup, wireframe, sketch, prototipo"
+        ]
+    },
+    {
+        "question": "No es considerado como una característica de un sketch",
+        "selected": "Diseño de prueba final",
+        "answers": [
+            "Diseño de prueba final",
+            "Para reuniones con el cliente y reuniones internas con el equipo",
+            "Refleja las ideas generales del proyecto",
+            "Diseño rápido y sencillo",
+            "Primer boceto que se realiza sobre el sistema"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Inclusión",
+            "Concatenación",
+            "Disyunción",
+            "Repetición",
+            "Opcionalidad"
+        ]
+    },
+    {
+        "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+        "selected": "Diseño",
+        "answers": [
+            "Pruebas",
+            "Diseño",
+            "Prototipo",
+            "Necesidades",
+            "Base"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Software genérico",
+            "Prototipo",
+            "Prueba de escritorio",
+            "Diseño",
+            "Software genuino"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo en espiral",
+            "Modelo de prototipado evolutivo",
+            "Modelo de desarrollo incremental",
+            "Modelo basado en transformaciones",
+            "Modelo de construcción de prototipos"
+        ]
+    },
+    {
+        "question": "Entender lo que el cliente desea, analizar las necesidades, evaluar la factibilidad, negociar la solución, validar la especificación y administrar los requisitos es parte de:",
+        "selected": "La Ingeniería de Requisitos",
+        "answers": [
+            "El proceso unificado",
+            "El desarrollo Ágil.",
+            "Encuestas.",
+            "Entrevistas.",
+            "La Ingeniería de Requisitos"
+        ]
+    },
+    {
+        "question": "Cuando un cliente o el negocio tiene una necesidad de automatizar un proceso con una solución de software, lo primero que realiza es:",
+        "selected": "Levantamiento, documentación y análisis de requerimientos",
+        "answers": [
+            "Levantamiento, documentación y análisis de requerimientos",
+            "La codificación de la necesidad.",
+            "Entrevistas",
+            "Encuestas",
+            "Adquirir hardware como servidores de aplicaciones y bases de datos"
+        ]
+    },
+    {
+        "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+        "selected": "Rendimiento",
+        "answers": [
+            "Rendimiento",
+            "Seguridad",
+            "Confiabilidad",
+            "Rapidez",
+            "Usabilidad"
+        ]
+    },
+    {
+        "question": "El software diseñado deberá estar documentado por fines de:",
+        "selected": "Adaptaciones a nuevos requerimientos de los usuarios finales",
+        "answers": [
+            "Evitar la copia del software",
+            "Evitar la obsolescencia del programa",
+            "Detallar la programación",
+            "Considerar el ciclo de vida del programa",
+            "Adaptaciones a nuevos requerimientos de los usuarios finales"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Análisis y diseño",
+            "Pruebas",
+            "Requerimientos",
+            "Modelo del negocio",
+            "Despliegue"
+        ]
+    },
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Elaboración, diseño, análisis y transición",
+            "Elaboración, análisis, diseño y transición",
+            "Construcción, análisis, diseño y transición",
+            "Elaboración, análisis, diseño y prueba",
+            "Concepción, elaboración, construcción y transición"
+        ]
+    },
+    {
+        "question": "El modelo espiral de Boehm, se divide en cuantos sectores:",
+        "selected": "4",
+        "answers": [
+            "2",
+            "3",
+            "5",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "question": "La ingeniería de requisitos, ¿A qué necesidades debe adaptarse?",
+        "selected": "Del proceso, del proyecto, del producto y las personas",
+        "answers": [
+            "De lenguaje, la arquitectura y los resultados",
+            "Del proceso, del proyecto, del producto y las personas",
+            "Del cliente, los usuarios y la administración",
+            "La administración",
+            "La arquitectura"
+        ]
+    },
+    {
+        "question": "Presentan una imagen de alto nivel de la estructura del sistema e incluyen fácilmente a individuos de diferentes disciplinas que intervienen en el proceso de desarrollo del sistema",
+        "selected": "Los diagramas de bloque",
+        "answers": [
+            "Los diagramas de flujo",
+            "Los diagramas de bloque",
+            "Modelo de sistema",
+            "Caso de uso",
+            "Los algoritmos"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "Servidor web.",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación",
+            "RAID",
+            "Un proceso batch con envíos y respuestas hacia una base de datos local",
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube"
+        ]
+    },
+    {
+        "question": "Las etapas identificadas como pruebas de desarrollo, pruebas del sistema y pruebas de aceptación pertenecen al proceso de:",
+        "selected": "Validación",
+        "answers": [
+            "Seguridad",
+            "Confiabilidad",
+            "Desarrollo e Implementación",
+            "Evolución.",
+            "Validación"
+        ]
+    },
+    {
+        "question": "En el siguiente enunciado: “Una vez que se haya levantado los requisitos funcionales y no funcionales y se ha diseñado una solución a ser implementada, estas especificaciones se entregan al equipo de desarrollo para que realice la codificación”, dicha actividad se la lleva a cabo dentro de",
+        "selected": "Construcción",
+        "answers": [
+            "Análisis",
+            "Construcción",
+            "Confianza",
+            "Rapidez",
+            "Despliegue"
+        ]
+    }
+]

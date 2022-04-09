@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Encabezado y pie de página, grupos y células",
+            "Encabezado y pie de página, secciones, columnas",
+            "Grupos y células",
+            "Encabezado y pie de página y grupos",
+            "Grupos, células y secciones"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso del ListView?",
+        "selected": "Vista para presentar listas de datos",
+        "answers": [
+            "Vista para presentar listas de datos",
+            "Ingresar datos",
+            "Conexión de Base Datos",
+            "Agrupar objetos de manera horizontal",
+            "Navegación"
+        ]
+    },
+    {
+        "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "Pull-to-refresh",
+            "La selección",
+            "Acciones personalizadas",
+            "Las acciones de contexto",
+            "Eventos"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "StackLayout",
+            "Frame",
+            "TemplatedView",
+            "ScrollView",
+            "ContentPresenter"
+        ]
+    },
+    {
+        "question": "Layouts, elementos no visuales destinados a controlar la distribución de los controles, ¿cuál de los siguientes elementos no es un objeto de tipo Layout?",
+        "selected": "CheckBox",
+        "answers": [
+            "CheckBox",
+            "Spinner",
+            "ListView",
+            "Gallery",
+            "GridView"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza principalmente como elemento estructural y sirve como clase base para Frame?",
+        "selected": "ContentView",
+        "answers": [
+            "ContentView",
+            "Frame",
+            "ScrollView",
+            "ContentPresente",
+            "TemplatedView"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso de los Layouts en Xamarin.Forms?",
+        "selected": "Componer controles de interfaz de usuario en estructuras visuales",
+        "answers": [
+            "Desarrollo del código",
+            "Componer controles de interfaz de usuario en estructuras visuales",
+            "Bases de datos del app",
+            "Prototipo del app",
+            "Emulador del app"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "Mensajes de texto",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "La adopción del protocolo WiMAX"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Property>",
+            "<Style>",
+            "<Key>",
+            "<Setter>",
+            "<ResourceDictionary>"
+        ]
+    },
+    {
+        "question": "¿Mencione la estrategia para obtener beneficios de una aplicación?",
+        "selected": "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+        "answers": [
+            "Debe basarse en cobrar un precio por la descarga de la aplicación.",
+            "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+            "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+            "Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas",
+            "Mejorar los tiempos"
+        ]
+    },
+    {
+        "question": "¿Qué es un estilo en el desarrollo de Aplicaciones para móviles?",
+        "selected": "Conjunto de propiedades visuales",
+        "answers": [
+            "Emulador",
+            "Prototipo de la APP",
+            "Es un marco de trabajo",
+            "Librería",
+            "Conjunto de propiedades visuales"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "GetItemsAsync",
+            "Databasecontext",
+            "DeleteItemAsync",
+            "SaveItemsAsync",
+            "FilterItemAsync"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Target",
+        "answers": [
+            "Start",
+            "End",
+            "Target",
+            "Main",
+            "Source"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "Views",
+            "Content Providers",
+            "Activity Manager",
+            "ExpandableListView",
+            "Resource Manager"
+        ]
+    },
+    {
+        "question": "¿En qué generación se deja de utilizar la conmutación basada en circuitos para voz?",
+        "selected": "4G",
+        "answers": [
+            "4G",
+            "2G",
+            "1G",
+            "3G",
+            "0G"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la propiedad de la instancia NavigationPage que proporciona acceso a la primera página de la pila de navegación?",
+        "selected": "RootPage",
+        "answers": [
+            "FlyoutPage",
+            "RootPage",
+            "TabbedPage",
+            "ContentPage",
+            "CaruselPage"
+        ]
+    },
+    {
+        "question": "¿Cuál es la clase en Xamarin Forms que proporciona una experiencia de navegación jerárquica en la que el usuario puede navegar por las páginas?",
+        "selected": "NavigationPage",
+        "answers": [
+            "ContentPage",
+            "NavigationPage",
+            "TabbedPage",
+            "FlyoutPage",
+            "CarruselPage"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales desventajas del uso de Xamarin?",
+        "selected": "Desarrollar aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Desarrollar aplicaciones lleva mucho tiempo",
+            "Permite compartir fácilmente entre diferentes plataformas",
+            "Se centra principalmente en la interfaz del usuario y back-end",
+            "Xamarin tiene su propio IDE",
+            "Menos cantidad de errores"
+        ]
+    },
+    {
+        "question": "No es una ventaja de Xamarin",
+        "selected": "El desarrollo de aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Xamarin compila aplicaciones en forma nativa",
+            "Xamarin tiene su propio IDE",
+            "Admite Android, IOS y el sistema operativo Windows",
+            "No tiene limites",
+            "El desarrollo de aplicaciones lleva mucho tiempo"
+        ]
+    },
+    {
+        "question": "¿Cuál es el significado de XAML?",
+        "selected": "Extensible Application Markup Language",
+        "answers": [
+            "Es una plataforma para realizar para se utiliza para construir aplicaciones Windows",
+            "Extensible Application Markup Language",
+            "Es un entorno de trabajo de C++",
+            "Fue desarrollado por Ubuntu para hacer aplicaciones",
+            "Permite diseñar aplicaciones sin tener en cuenta jerarquías de programación"
+        ]
+    }
+]

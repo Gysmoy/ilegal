@@ -1,0 +1,222 @@
+[
+  {
+    "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+    "selected": "StackLayout",
+    "answers": [
+      "TemplatedView",
+      "StackLayout",
+      "ScrollView",
+      "Frame",
+      "ContentPresenter"
+    ]
+  },
+  {
+    "question": "¿Qué tipo de Layout organiza su contenido en una sola fila o columna?",
+    "selected": "LinearLayout",
+    "answers": [
+      "LinearLayout",
+      "TableLayout",
+      "AbsoluteLayout",
+      "FineLayout",
+      "RelativeLayout"
+    ]
+  },
+  {
+    "question": "¿Cuál de las opciones se recomienda evitar el uso de este tipo de Layout?",
+    "selected": "AbsoluteLayout",
+    "answers": [
+      "TableLayout",
+      "RelativeLayout",
+      "LinearLayout",
+      "AbsoluteLayout",
+      "AbsLayout"
+    ]
+  },
+  {
+    "question": "Layouts, elementos no visuales destinados a controlar la distribución de los controles, ¿cuál de los siguientes elementos no es un objeto de tipo Layout?",
+    "selected": "CheckBox",
+    "answers": [
+      "ListView",
+      "Spinner",
+      "Gallery",
+      "GridView",
+      "CheckBox"
+    ]
+  },
+  {
+    "question": "¿Cuál es el nombre que se les da a los elementos de datos en un ListView?",
+    "selected": "Lista",
+    "answers": [
+      "Cuerpo",
+      "Celdas",
+      "Lista",
+      "Punteros",
+      "Nicho"
+    ]
+  },
+  {
+    "question": "¿Cuál de las opciones no es una librería nativa en Android?",
+    "selected": "ExpandableListView",
+    "answers": [
+      "Free Type",
+      "Librerias 3D",
+      "SQLite",
+      "SGL",
+      "ExpandableListView"
+    ]
+  },
+  {
+    "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+    "selected": "Pull-to-refresh",
+    "answers": [
+      "La selección",
+      "Eventos",
+      "Pull-to-refresh",
+      "Acciones personalizadas",
+      "Las acciones de contexto"
+    ]
+  },
+  {
+    "question": "¿Cuáles son las principales desventajas del uso de Xamarin?",
+    "selected": "Desarrollar aplicaciones lleva mucho tiempo",
+    "answers": [
+      "Permite compartir fácilmente entre diferentes plataformas",
+      "Menos cantidad de errores",
+      "Se centra principalmente en la interfaz del usuario y back-end",
+      "Xamarin tiene su propio IDE",
+      "Desarrollar aplicaciones lleva mucho tiempo"
+    ]
+  },
+  {
+    "question": "¿Cuáles son las principales ventajas del uso de Xamarin?",
+    "selected": "Fácil de aprender",
+    "answers": [
+      "No admite Android, IOS y Windows.",
+      "Costo alto",
+      "Fácil de aprender",
+      "Desarrollo lento",
+      "Tiene límites"
+    ]
+  },
+  {
+    "question": "¿Cuál es el significado de XAML?",
+    "selected": "Extensible Application Markup Language",
+    "answers": [
+      "Fue desarrollado por Ubuntu para hacer aplicaciones",
+      "Permite diseñar aplicaciones sin tener en cuenta jerarquías de programación",
+      "Es una plataforma para realizar para se utiliza para construir aplicaciones Windows",
+      "Extensible Application Markup Language",
+      "Es un entorno de trabajo de C++"
+    ]
+  },
+  {
+    "question": "¿Qué servicio maneja el ciclo de vida de las aplicaciones y proporciona un sistema de navegación entre ellas?",
+    "selected": "Activity Manager",
+    "answers": [
+      "Views",
+      "Activity Manager",
+      "Resource Manager",
+      "HorizontalScrollView",
+      "ExpandableListView"
+    ]
+  },
+  {
+    "question": "¿Que necesitaría tener la aplicación para que sea exitosa?",
+    "selected": "Fácil de usar, Intuitiva, De uso habitual",
+    "answers": [
+      "Fácil de usar, Intuitiva, De uso habitual",
+      "Lenta",
+      "Diseño para web",
+      "Diseño fluido",
+      "Diseño estático"
+    ]
+  },
+  {
+    "question": "¿En qué generación se deja de utilizar la conmutación basada en circuitos para voz?",
+    "selected": "4G",
+    "answers": [
+      "4G",
+      "2G",
+      "0G",
+      "1G",
+      "3G"
+    ]
+  },
+  {
+    "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+    "selected": "Target",
+    "answers": [
+      "End",
+      "Source",
+      "Target",
+      "Start",
+      "Main"
+    ]
+  },
+  {
+    "question": "¿Qué es Data Binding?",
+    "selected": "Técnica de vincular las propiedades de dos objetos",
+    "answers": [
+      "Es un método para el diseño",
+      "Técnica de vincular las propiedades de dos objetos",
+      "Es una clase de navegación",
+      "Es una propiedad de estilo",
+      "Técnica para mostrar datos"
+    ]
+  },
+  {
+    "question": "No es una diferencia entre View Binding y Data Binding",
+    "selected": "Data Binding library nos proporciona Data Binding bidireccional, esta es una técnica para vincular sus objetos a diseños xml, de modo que tanto el objeto como el diseño puedan enviarse datos entre sí.",
+    "answers": [
+      "View Binding library es más rápida que Data Binding library, ya que no utiliza procesadores de anotación subyacentes, y cuando se trata de la velocidad del tiempo de compilación, la View Binding es más eficiente",
+      "Data Binding library funciona con Observable Data objects, se tienes que actualizar la interfaz de usuario cuando cambian los datos subyacentes",
+      "La única función de View Binding es vincular las vistas en el código. Mientras que Data Binding ofrece algunas opciones más como Binding Expressions, que nos permite escribir expresiones para conectar variables a las vistas en el diseño",
+      "Data Binding library nos proporciona Binding Adapters.",
+      "Data Binding library nos proporciona Data Binding bidireccional, esta es una técnica para vincular sus objetos a diseños xml, de modo que tanto el objeto como el diseño puedan enviarse datos entre sí."
+    ]
+  },
+  {
+    "question": "¿Mencione la estrategia para obtener beneficios de una aplicación?",
+    "selected": "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+    "answers": [
+      "Mejorar los tiempos",
+      "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+      "Debe basarse en cobrar un precio por la descarga de la aplicación.",
+      "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+      "Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas"
+    ]
+  },
+  {
+    "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+    "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+    "answers": [
+      "La adopción del protocolo WiMAX",
+      "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+      "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+      "Mensajes de texto",
+      "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil"
+    ]
+  },
+  {
+    "question": "A que contenedores se pueden aplicar los recursos de estilos a través del archivothemeresources.xaml",
+    "selected": "TextBlock y RichTextBlock",
+    "answers": [
+      "TextBlock y RichTextBlock",
+      "TextBlock y ViewBlock",
+      "RichTextBlock y Button",
+      "TextBlock y ComboBlock",
+      "RichTextBlock y ComboBlock"
+    ]
+  },
+  {
+    "question": "¿Cuál es el nombre del archivo que necesitamos abrir para declarar un estilo global en XAML?",
+    "selected": "App.xaml",
+    "answers": [
+      "Layout.xaml",
+      "Frame.xaml",
+      "Style.xaml",
+      "App.xaml",
+      "view.xaml"
+    ]
+  }
+]

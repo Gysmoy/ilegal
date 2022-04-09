@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Es una métrica para especificar un requerimiento no funcional de robustez",
+        "selected": "Tiempo de reinicio después de falla",
+        "answers": [
+            "Número de chips",
+            "Tiempo de reinicio después de falla",
+            "Tiempo de regeneración de pantalla",
+            "Tiempo de capacitación",
+            "Numero de sistema objetivo"
+        ]
+    },
+    {
+        "question": "Usan los requerimientos para desarrollar pruebas de validación para el sistema",
+        "selected": "Ingenieros de prueba del sistema",
+        "answers": [
+            "Ingenieros de prueba del sistema",
+            "Ingenieros del sistema",
+            "Administradores",
+            "Ingenieros de mantenimiento del sistema",
+            "Clientes del sistema"
+        ]
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se usa para establecer la factibilidad económica de un proyecto de desarrollo de software?",
+        "selected": "Análisis de valor ganado o la tasa interna de retorno",
+        "answers": [
+            "Estudio de la factibilidad de emprendimiento",
+            "Capital de la empresa",
+            "Sustentación legal del proyecto.",
+            "Estudio de los servidores y terminales con que cuenta la organización",
+            "Análisis de valor ganado o la tasa interna de retorno"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Modelo del negocio",
+            "Pruebas",
+            "Requerimientos",
+            "Análisis y diseño",
+            "Despliegue"
+        ]
+    },
+    {
+        "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+        "selected": "Rendimiento",
+        "answers": [
+            "Usabilidad",
+            "Rendimiento",
+            "Rapidez",
+            "Confiabilidad",
+            "Seguridad"
+        ]
+    },
+    {
+        "question": "Este proceso tiene la finalidad de descubrir errores que resulten de interacciones no anticipadas entre componentes y problemas de interfaz de componente, así como de mostrar que el sistema cubre sus requerimientos funcionales y no funcionales, y poner a prueba las propiedades emergentes del sistema",
+        "selected": "Pruebas del sistema",
+        "answers": [
+            "Demostración",
+            "Desarrollo",
+            "Pruebas de aceptación",
+            "Prueba de desarrollo",
+            "Pruebas del sistema"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Software genuino",
+            "Prueba de escritorio",
+            "Prototipo",
+            "Diseño",
+            "Software genérico"
+        ]
+    },
+    {
+        "question": "El software diseñado deberá estar documentado por fines de:",
+        "selected": "Adaptaciones a nuevos requerimientos de los usuarios finales",
+        "answers": [
+            "Adaptaciones a nuevos requerimientos de los usuarios finales",
+            "Evitar la obsolescencia del programa",
+            "Evitar la copia del software",
+            "Considerar el ciclo de vida del programa",
+            "Detallar la programación"
+        ]
+    },
+    {
+        "question": "Al desarrollar un software para una empresa de acuerdo a sus requerimientos se debe realizar",
+        "selected": "Análisis y diseño",
+        "answers": [
+            "Análisis y diseño",
+            "Prototipo",
+            "Programación",
+            "Diseño de los formularios",
+            "Elegir el lenguaje de programación y el sistema operativo"
+        ]
+    },
+    {
+        "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+        "selected": "Análisis, diseño, código y prueba",
+        "answers": [
+            "Análisis, código, prueba y diseño",
+            "Código, diseño, análisis y prueba",
+            "Diseño, análisis, código y prueba",
+            "Diseño, prueba, código y análisis",
+            "Análisis, diseño, código y prueba"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Wireframe, mockup, sketch, prototipo",
+            "Sketch, mockup, wireframe, prototipo",
+            "Wireframe, sketch, mockup, prototipo",
+            "Mockup, wireframe, sketch, prototipo",
+            "Sketch, wireframe, mockup, prototipo"
+        ]
+    },
+    {
+        "question": "Los elementos principales de un diagrama de estado",
+        "selected": "Estado, estado inicial, estado final, transición",
+        "answers": [
+            "Estado, caso de uso, transición",
+            "Estado inicial, transición, estado",
+            "Estado, estado final, caso de uso, estado final",
+            "Estado, estado inicial, estado final, transición",
+            "Estado inicial, transición, estado"
+        ]
+    },
+    {
+        "question": "La actividad del proceso de desarrollo que tiene relación con aspectos de codificación, implementación de buenas prácticas, realización de pruebas unitarias por parte del desarrollador se conoce como",
+        "selected": "Desarrollo e Implementación",
+        "answers": [
+            "Evolución",
+            "Fases",
+            "Desarrollo e Implementación",
+            "Ciclo",
+            "Validación"
+        ]
+    },
+    {
+        "question": "No es considerado como una característica de un sketch",
+        "selected": "Diseño de prueba final",
+        "answers": [
+            "Diseño rápido y sencillo",
+            "Primer boceto que se realiza sobre el sistema",
+            "Para reuniones con el cliente y reuniones internas con el equipo",
+            "Diseño de prueba final",
+            "Refleja las ideas generales del proyecto"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Repetición",
+            "Concatenación",
+            "Inclusión",
+            "Disyunción",
+            "Opcionalidad"
+        ]
+    },
+    {
+        "question": "Es un tipo de prototipo según la extensión",
+        "selected": "Vertical",
+        "answers": [
+            "No funcional",
+            "Vertical",
+            "De interfaz",
+            "Funcional",
+            "Diagonal"
+        ]
+    },
+    {
+        "question": "Presentan una imagen de alto nivel de la estructura del sistema e incluyen fácilmente a individuos de diferentes disciplinas que intervienen en el proceso de desarrollo del sistema",
+        "selected": "Los diagramas de bloque",
+        "answers": [
+            "Modelo de sistema",
+            "Los diagramas de flujo",
+            "Caso de uso",
+            "Los algoritmos",
+            "Los diagramas de bloque"
+        ]
+    },
+    {
+        "question": "En este tipo de vista se tienen que relacionar los requerimientos del sistema con entidades",
+        "selected": "vista lógica",
+        "answers": [
+            "vista de proceso",
+            "vista física",
+            "vista de desarrollo",
+            "vista del sistema",
+            "vista lógica"
+        ]
+    },
+    {
+        "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+        "selected": "Funcionales y no funcionales",
+        "answers": [
+            "Funcionales y no funcionales",
+            "De diseño y programación",
+            "Estructura y análisis",
+            "Del cliente",
+            "Individuales y grupales"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación",
+            "Servidor web.",
+            "RAID",
+            "Un proceso batch con envíos y respuestas hacia una base de datos local"
+        ]
+    }
+]

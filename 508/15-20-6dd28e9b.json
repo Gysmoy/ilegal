@@ -1,0 +1,242 @@
+[
+  {
+      "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+      "selected": "Prototipo",
+      "answers": [
+          "Prueba de escritorio",
+          "Prototipo",
+          "Diseño",
+          "Software genuino",
+          "Software genérico"
+      ],
+      "status": false
+  },
+  {
+      "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+      "selected": "Análisis, diseño, código y prueba",
+      "answers": [
+          "Análisis, diseño, código y prueba",
+          "Diseño, prueba, código y análisis",
+          "Código, diseño, análisis y prueba",
+          "Análisis, código, prueba y diseño",
+          "Diseño, análisis, código y prueba"
+      ],
+      "status": false
+  },
+  {
+      "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+      "selected": "Económicos, técnicos, legales, Operativos.",
+      "answers": [
+          "Operativos",
+          "Netamente técnicos",
+          "Económicos y técnicos",
+          "Económicos, técnicos, legales, Operativos.",
+          "Legales"
+      ],
+      "status": false
+  },
+  {
+      "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+      "selected": "Modelo basado en transformaciones",
+      "answers": [
+          "Modelo de desarrollo incremental",
+          "Modelo de construcción de prototipos",
+          "Modelo basado en transformaciones",
+          "Modelo de prototipado evolutivo",
+          "Modelo en espiral"
+      ],
+      "status": false
+  },
+  {
+      "question": "Entender lo que el cliente desea, analizar las necesidades, evaluar la factibilidad, negociar la solución, validar la especificación y administrar los requisitos es parte de:",
+      "selected": "El proceso unificado",
+      "answers": [
+          "Encuestas.",
+          "El proceso unificado",
+          "El desarrollo Ágil.",
+          "La Ingeniería de Requisitos",
+          "Entrevistas."
+      ],
+      "status": false
+  },
+  {
+      "question": "Cuando un cliente o el negocio tiene una necesidad de automatizar un proceso con una solución de software, lo primero que realiza es:",
+      "selected": "Entrevistas",
+      "answers": [
+          "Levantamiento, documentación y análisis de requerimientos",
+          "Entrevistas",
+          "La codificación de la necesidad.",
+          "Adquirir hardware como servidores de aplicaciones y bases de datos",
+          "Encuestas"
+      ],
+      "status": false
+  },
+  {
+      "question": "Usan los requerimientos para desarrollar pruebas de validación para el sistema",
+      "selected": "Ingenieros de prueba del sistema",
+      "answers": [
+          "Ingenieros de mantenimiento del sistema",
+          "Administradores",
+          "Ingenieros de prueba del sistema",
+          "Clientes del sistema",
+          "Ingenieros del sistema"
+      ],
+      "status": false
+  },
+  {
+      "question": "Son fases del proceso unificado racional",
+      "selected": "Concepción, elaboración, construcción y transición",
+      "answers": [
+          "Construcción, análisis, diseño y transición",
+          "Elaboración, análisis, diseño y transición",
+          "Concepción, elaboración, construcción y transición",
+          "Elaboración, diseño, análisis y transición",
+          "Elaboración, análisis, diseño y prueba"
+      ],
+      "status": false
+  },
+  {
+      "question": "La etapa de indagación de requisitos, donde se identifica el problema, se propone soluciones, se negocia distintos enfoques y se especifica un conjunto preliminar de requerimientos se conoce como:",
+      "selected": "Entrevista a los consumidores",
+      "answers": [
+          "Indagación de los productos de trabajo",
+          "Entrevista a los consumidores",
+          "Recabación de requerimientos en forma colaborativa.",
+          "Marco de trabajo.",
+          "Escenarios de uso."
+      ],
+      "status": false
+  },
+  {
+      "question": "Es una métrica para especificar un requerimiento no funcional de robustez",
+      "selected": "Tiempo de reinicio después de falla",
+      "answers": [
+          "Tiempo de reinicio después de falla",
+          "Número de chips",
+          "Tiempo de regeneración de pantalla",
+          "Numero de sistema objetivo",
+          "Tiempo de capacitación"
+      ],
+      "status": false
+  },
+  {
+      "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+      "selected": "Funcionales y no funcionales",
+      "answers": [
+          "Del cliente",
+          "Funcionales y no funcionales",
+          "Individuales y grupales",
+          "Estructura y análisis",
+          "De diseño y programación"
+      ],
+      "status": false
+  },
+  {
+      "question": "En el siguiente enunciado: “Una vez que se haya levantado los requisitos funcionales y no funcionales y se ha diseñado una solución a ser implementada, estas especificaciones se entregan al equipo de desarrollo para que realice la codificación”, dicha actividad se la lleva a cabo dentro de",
+      "selected": "Construcción",
+      "answers": [
+          "Análisis",
+          "Construcción",
+          "Despliegue",
+          "Confianza",
+          "Rapidez"
+      ],
+      "status": false
+  },
+  {
+      "question": "MVC, separa presentación e interacción de los datos del sistema. El sistema se estructura en tres componentes lógicos que interactúan entre sí",
+      "selected": "Componente modelo, componente vista, componente controlador",
+      "answers": [
+          "Componente diseño, componente controlador, componente de análisis",
+          "Componente controlador, componente de diseño, componente de análisis",
+          "Componente modelo, componente diseño, componente controlador",
+          "Componente vista, componente integrador, componente controlador",
+          "Componente modelo, componente vista, componente controlador"
+      ],
+      "status": false
+  },
+  {
+      "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+      "selected": "Un proceso batch con envíos y respuestas hacia una base de datos local",
+      "answers": [
+          "RAID",
+          "Un proceso batch con envíos y respuestas hacia una base de datos local",
+          "Servidor web.",
+          "Un solo computador sobre el que se instala y ejecuta la aplicación",
+          "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube"
+      ],
+      "status": false
+  },
+  {
+      "question": "Es un tipo de prototipo según la extensión",
+      "selected": "Vertical",
+      "answers": [
+          "Funcional",
+          "No funcional",
+          "De interfaz",
+          "Diagonal",
+          "Vertical"
+      ],
+      "status": false
+  },
+  {
+      "question": "No es considerado como una característica de un sketch",
+      "selected": "Para reuniones con el cliente y reuniones internas con el equipo",
+      "answers": [
+          "Refleja las ideas generales del proyecto",
+          "Diseño de prueba final",
+          "Para reuniones con el cliente y reuniones internas con el equipo",
+          "Diseño rápido y sencillo",
+          "Primer boceto que se realiza sobre el sistema"
+      ],
+      "status": false
+  },
+  {
+      "question": "La evolución del prototipo es …",
+      "selected": "Sketch, wireframe, mockup, prototipo",
+      "answers": [
+          "Wireframe, mockup, sketch, prototipo",
+          "Mockup, wireframe, sketch, prototipo",
+          "Wireframe, sketch, mockup, prototipo",
+          "Sketch, mockup, wireframe, prototipo",
+          "Sketch, wireframe, mockup, prototipo"
+      ],
+      "status": false
+  },
+  {
+      "question": "No es una entrada compuesta en un diccionario de datos",
+      "selected": "Inclusión",
+      "answers": [
+          "Opcionalidad",
+          "Repetición",
+          "Disyunción",
+          "Concatenación",
+          "Inclusión"
+      ],
+      "status": false
+  },
+  {
+      "question": "Las ………………. evalúan el producto para determinar que cumple con el objetivo previsto.",
+      "selected": "Pruebas",
+      "answers": [
+          "Fases",
+          "Pruebas",
+          "Liberación",
+          "Metodologías",
+          "Arquitectura"
+      ],
+      "status": false
+  },
+  {
+      "question": "A la versión inicial de un sistema de software que se utiliza para mostrar conceptos, diseño y posible funcionamiento de la solución ante un problema se conoce como",
+      "selected": "Prototipo",
+      "answers": [
+          "Sistema Existente",
+          "Prototipo",
+          "Arquitectura",
+          "Sistema Relacionado",
+          "Sistema Embebido"
+      ],
+      "status": false
+  }
+]

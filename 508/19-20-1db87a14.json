@@ -1,0 +1,222 @@
+[
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Disyunción",
+            "Concatenación",
+            "Inclusión",
+            "Opcionalidad",
+            "Repetición"
+        ]
+    },
+    {
+        "question": "A la versión inicial de un sistema de software que se utiliza para mostrar conceptos, diseño y posible funcionamiento de la solución ante un problema se conoce como",
+        "selected": "Prototipo",
+        "answers": [
+            "Sistema Existente",
+            "Prototipo",
+            "Sistema Relacionado",
+            "Sistema Embebido",
+            "Arquitectura"
+        ]
+    },
+    {
+        "question": "¿Cuándo termina un proyecto software?:",
+        "selected": "Cuando se entrega al cliente.",
+        "answers": [
+            "Cuando se retira",
+            "Cuando se entrega al cliente.",
+            "Cuando el cliente confirma que está satisfecho con el resultado",
+            "Cuando se termina de implementar",
+            "Cuando se paga el costo"
+        ]
+    },
+    {
+        "question": "La actividad del proceso de desarrollo que tiene relación con aspectos de codificación, implementación de buenas prácticas, realización de pruebas unitarias por parte del desarrollador se conoce como",
+        "selected": "Desarrollo e Implementación",
+        "answers": [
+            "Fases",
+            "Desarrollo e Implementación",
+            "Ciclo",
+            "Evolución",
+            "Validación"
+        ]
+    },
+    {
+        "question": "Las ………………. evalúan el producto para determinar que cumple con el objetivo previsto.",
+        "selected": "Pruebas",
+        "answers": [
+            "Fases",
+            "Metodologías",
+            "Liberación",
+            "Pruebas",
+            "Arquitectura"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Wireframe, mockup, sketch, prototipo",
+            "Mockup, wireframe, sketch, prototipo",
+            "Wireframe, sketch, mockup, prototipo",
+            "Sketch, wireframe, mockup, prototipo",
+            "Sketch, mockup, wireframe, prototipo"
+        ]
+    },
+    {
+        "question": "Como parte del diseño de una arquitectura de software, las propiedades asociadas a requerimientos de: rendimiento, capacidad, funcionabilidad, seguridad, adaptabilidad, entre otras se consideran:",
+        "selected": "Propiedades extra funcionales",
+        "answers": [
+            "Requisitos",
+            "Requerimientos",
+            "Sistemas relacionados",
+            "Propiedades extra funcionales",
+            "Propiedades estructurales"
+        ]
+    },
+    {
+        "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+        "selected": "Funcionales y no funcionales",
+        "answers": [
+            "De diseño y programación",
+            "Individuales y grupales",
+            "Estructura y análisis",
+            "Del cliente",
+            "Funcionales y no funcionales"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+            "Un proceso batch con envíos y respuestas hacia una base de datos local",
+            "RAID",
+            "Servidor web.",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación"
+        ]
+    },
+    {
+        "question": "Presentan una imagen de alto nivel de la estructura del sistema e incluyen fácilmente a individuos de diferentes disciplinas que intervienen en el proceso de desarrollo del sistema",
+        "selected": "Los diagramas de bloque",
+        "answers": [
+            "Modelo de sistema",
+            "Los diagramas de flujo",
+            "Los algoritmos",
+            "Los diagramas de bloque",
+            "Caso de uso"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Diseño",
+            "Software genérico",
+            "Prueba de escritorio",
+            "Prototipo",
+            "Software genuino"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo en espiral",
+            "Modelo de desarrollo incremental",
+            "Modelo de prototipado evolutivo",
+            "Modelo basado en transformaciones",
+            "Modelo de construcción de prototipos"
+        ]
+    },
+    {
+        "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+        "selected": "Análisis, diseño, código y prueba",
+        "answers": [
+            "Análisis, diseño, código y prueba",
+            "Análisis, código, prueba y diseño",
+            "Diseño, análisis, código y prueba",
+            "Código, diseño, análisis y prueba",
+            "Diseño, prueba, código y análisis"
+        ]
+    },
+    {
+        "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+        "selected": "Económicos, técnicos, legales, Operativos.",
+        "answers": [
+            "Económicos y técnicos",
+            "Legales",
+            "Netamente técnicos",
+            "Económicos, técnicos, legales, Operativos.",
+            "Operativos"
+        ]
+    },
+    {
+        "question": "Este proceso tiene la finalidad de descubrir errores que resulten de interacciones no anticipadas entre componentes y problemas de interfaz de componente, así como de mostrar que el sistema cubre sus requerimientos funcionales y no funcionales, y poner a prueba las propiedades emergentes del sistema",
+        "selected": "Pruebas del sistema",
+        "answers": [
+            "Prueba de desarrollo",
+            "Pruebas de aceptación",
+            "Demostración",
+            "Desarrollo",
+            "Pruebas del sistema"
+        ]
+    },
+    {
+        "question": "Según la siguiente definición: “Es una implementación parcial pero concreta de un sistema o una parte del mismo que principalmente se crean para explorar aspectos diversos del sistema durante el desarrollo del mismo.”, es la definición de:",
+        "selected": "Prototipo",
+        "answers": [
+            "Requerimientos de Sistema",
+            "Métricas de diseño de interfaz",
+            "Software",
+            "Análisis y Diseño de Software",
+            "Prototipo"
+        ]
+    },
+    {
+        "question": "La etapa de indagación de requisitos, donde se identifica el problema, se propone soluciones, se negocia distintos enfoques y se especifica un conjunto preliminar de requerimientos se conoce como:",
+        "selected": "Recabación de requerimientos en forma colaborativa.",
+        "answers": [
+            "Escenarios de uso.",
+            "Entrevista a los consumidores",
+            "Marco de trabajo.",
+            "Indagación de los productos de trabajo",
+            "Recabación de requerimientos en forma colaborativa."
+        ]
+    },
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Concepción, elaboración, construcción y transición",
+            "Elaboración, análisis, diseño y transición",
+            "Elaboración, diseño, análisis y transición",
+            "Construcción, análisis, diseño y transición",
+            "Elaboración, análisis, diseño y prueba"
+        ]
+    },
+    {
+        "question": "Cuando el cliente menciona que, “el sistema debe contener certificados de seguridad y firmas digitales para la carga y descarga de archivos”, ¿de qué tipo de requisito está hablando?",
+        "selected": "No Funcional.",
+        "answers": [
+            "Funcional",
+            "No Funcional.",
+            "Confiabilidad",
+            "Seguridad",
+            "No es requisito"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Requerimientos",
+            "Despliegue",
+            "Pruebas",
+            "Análisis y diseño",
+            "Modelo del negocio"
+        ]
+    }
+]

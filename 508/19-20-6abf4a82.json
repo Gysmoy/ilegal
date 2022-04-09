@@ -1,0 +1,242 @@
+[
+    {
+      "question": "La evolución del prototipo es …",
+      "selected": "Sketch, wireframe, mockup, prototipo",
+      "answers": [
+        "Wireframe, mockup, sketch, prototipo",
+        "Sketch, mockup, wireframe, prototipo",
+        "Mockup, wireframe, sketch, prototipo",
+        "Wireframe, sketch, mockup, prototipo",
+        "Sketch, wireframe, mockup, prototipo"
+      ],
+      "status": true
+    },
+    {
+      "question": "Es un conjunto de definiciones que contiene las características lógicas y puntuales de los datos que se van a utilizar en el sistema",
+      "selected": "Diccionario de datos",
+      "answers": [
+        "Caso de uso",
+        "Metodología",
+        "Mapa de navegación",
+        "Modelado de datos",
+        "Diccionario de datos"
+      ],
+      "status": true
+    },
+    {
+      "question": "Es un tipo de prototipo según la extensión",
+      "selected": "Vertical",
+      "answers": [
+        "Vertical",
+        "Funcional",
+        "De interfaz",
+        "No funcional",
+        "Diagonal"
+      ],
+      "status": true
+    },
+    {
+      "question": "A la versión inicial de un sistema de software que se utiliza para mostrar conceptos, diseño y posible funcionamiento de la solución ante un problema se conoce como",
+      "selected": "Prototipo",
+      "answers": [
+        "Sistema Relacionado",
+        "Sistema Existente",
+        "Prototipo",
+        "Arquitectura",
+        "Sistema Embebido"
+      ],
+      "status": true
+    },
+    {
+      "question": "¿Cuándo termina un proyecto software?:",
+      "selected": "Cuando se retira",
+      "answers": [
+        "Cuando se retira",
+        "Cuando se paga el costo",
+        "Cuando se termina de implementar",
+        "Cuando se entrega al cliente.",
+        "Cuando el cliente confirma que está satisfecho con el resultado"
+      ],
+      "status": false
+    },
+    {
+      "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+      "selected": "Diseño",
+      "answers": [
+        "Necesidades",
+        "Diseño",
+        "Pruebas",
+        "Base",
+        "Prototipo"
+      ],
+      "status": true
+    },
+    {
+      "question": "Al desarrollar un software para una empresa de acuerdo a sus requerimientos se debe realizar",
+      "selected": "Prototipo",
+      "answers": [
+        "Diseño de los formularios",
+        "Elegir el lenguaje de programación y el sistema operativo",
+        "Análisis y diseño",
+        "Prototipo",
+        "Programación"
+      ],
+      "status": false
+    },
+    {
+      "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+      "selected": "Económicos, técnicos, legales, Operativos.",
+      "answers": [
+        "Legales",
+        "Económicos, técnicos, legales, Operativos.",
+        "Netamente técnicos",
+        "Económicos y técnicos",
+        "Operativos"
+      ],
+      "status": true
+    },
+    {
+      "question": "Cuando un cliente o el negocio tiene una necesidad de automatizar un proceso con una solución de software, lo primero que realiza es:",
+      "selected": "Levantamiento, documentación y análisis de requerimientos",
+      "answers": [
+        "Entrevistas",
+        "Adquirir hardware como servidores de aplicaciones y bases de datos",
+        "Encuestas",
+        "La codificación de la necesidad.",
+        "Levantamiento, documentación y análisis de requerimientos"
+      ],
+      "status": true
+    },
+    {
+      "question": "Entender lo que el cliente desea, analizar las necesidades, evaluar la factibilidad, negociar la solución, validar la especificación y administrar los requisitos es parte de:",
+      "selected": "La Ingeniería de Requisitos",
+      "answers": [
+        "El proceso unificado",
+        "Entrevistas.",
+        "El desarrollo Ágil.",
+        "Encuestas.",
+        "La Ingeniería de Requisitos"
+      ],
+      "status": true
+    },
+    {
+      "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+      "selected": "Modelo basado en transformaciones",
+      "answers": [
+        "Modelo de construcción de prototipos",
+        "Modelo de prototipado evolutivo",
+        "Modelo de desarrollo incremental",
+        "Modelo en espiral",
+        "Modelo basado en transformaciones"
+      ],
+      "status": true
+    },
+    {
+      "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+      "selected": "Rendimiento",
+      "answers": [
+        "Rendimiento",
+        "Seguridad",
+        "Confiabilidad",
+        "Usabilidad",
+        "Rapidez"
+      ],
+      "status": true
+    },
+    {
+      "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+      "selected": "Requerimientos",
+      "answers": [
+        "Requerimientos",
+        "Análisis y diseño",
+        "Modelo del negocio",
+        "Pruebas",
+        "Despliegue"
+      ],
+      "status": true
+    },
+    {
+      "question": "La etapa de indagación de requisitos, donde se identifica el problema, se propone soluciones, se negocia distintos enfoques y se especifica un conjunto preliminar de requerimientos se conoce como:",
+      "selected": "Recabación de requerimientos en forma colaborativa.",
+      "answers": [
+        "Escenarios de uso.",
+        "Entrevista a los consumidores",
+        "Indagación de los productos de trabajo",
+        "Recabación de requerimientos en forma colaborativa.",
+        "Marco de trabajo."
+      ],
+      "status": true
+    },
+    {
+      "question": "La ingeniería de requisitos, ¿A qué necesidades debe adaptarse?",
+      "selected": "Del proceso, del proyecto, del producto y las personas",
+      "answers": [
+        "Del proceso, del proyecto, del producto y las personas",
+        "Del cliente, los usuarios y la administración",
+        "La arquitectura",
+        "De lenguaje, la arquitectura y los resultados",
+        "La administración"
+      ],
+      "status": true
+    },
+    {
+      "question": "Cuando el cliente menciona que, “el sistema debe contener certificados de seguridad y firmas digitales para la carga y descarga de archivos”, ¿de qué tipo de requisito está hablando?",
+      "selected": "No Funcional.",
+      "answers": [
+        "No Funcional.",
+        "Funcional",
+        "Seguridad",
+        "No es requisito",
+        "Confiabilidad"
+      ],
+      "status": true
+    },
+    {
+      "question": "En este tipo de vista se tienen que relacionar los requerimientos del sistema con entidades",
+      "selected": "vista lógica",
+      "answers": [
+        "vista lógica",
+        "vista del sistema",
+        "vista física",
+        "vista de proceso",
+        "vista de desarrollo"
+      ],
+      "status": true
+    },
+    {
+      "question": "Las etapas identificadas como pruebas de desarrollo, pruebas del sistema y pruebas de aceptación pertenecen al proceso de:",
+      "selected": "Validación",
+      "answers": [
+        "Evolución.",
+        "Seguridad",
+        "Validación",
+        "Desarrollo e Implementación",
+        "Confiabilidad"
+      ],
+      "status": true
+    },
+    {
+      "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+      "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+      "answers": [
+        "RAID",
+        "Un solo computador sobre el que se instala y ejecuta la aplicación",
+        "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "Servidor web.",
+        "Un proceso batch con envíos y respuestas hacia una base de datos local"
+      ],
+      "status": true
+    },
+    {
+      "question": "En el siguiente enunciado: “Una vez que se haya levantado los requisitos funcionales y no funcionales y se ha diseñado una solución a ser implementada, estas especificaciones se entregan al equipo de desarrollo para que realice la codificación”, dicha actividad se la lleva a cabo dentro de",
+      "selected": "Construcción",
+      "answers": [
+        "Análisis",
+        "Rapidez",
+        "Despliegue",
+        "Confianza",
+        "Construcción"
+      ],
+      "status": true
+    }
+  ]

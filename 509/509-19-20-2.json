@@ -1,0 +1,222 @@
+[
+    {
+        "question": "La clase ListView admite varios estilos de interacción, uno de ellos es",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "Selection",
+            "TextCell",
+            "Context actions",
+            "Pull-to-refresh",
+            "Built-in cells"
+        ]
+    },
+    {
+        "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "La selección",
+            "Acciones personalizadas",
+            "Las acciones de contexto",
+            "Eventos",
+            "Pull-to-refresh"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Encabezado y pie de página y grupos",
+            "Encabezado y pie de página, grupos y células",
+            "Grupos, células y secciones",
+            "Grupos y células",
+            "Encabezado y pie de página, secciones, columnas"
+        ]
+    },
+    {
+        "question": "¿Cuál es la clase en Xamarin Forms que proporciona una experiencia de navegación jerárquica en la que el usuario puede navegar por las páginas?",
+        "selected": "NavigationPage",
+        "answers": [
+            "ContentPage",
+            "FlyoutPage",
+            "NavigationPage",
+            "TabbedPage",
+            "CarruselPage"
+        ]
+    },
+    {
+        "question": "¿En qué generación se deja de utilizar la conmutación basada en circuitos para voz?",
+        "selected": "4G",
+        "answers": [
+            "2G",
+            "0G",
+            "4G",
+            "1G",
+            "3G"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Null",
+            "Inicio",
+            "Raíz",
+            "Start",
+            "Principal"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Sistema gestionador de base de datos",
+            "Máquina virtual para ejecutar programas",
+            "Un depurador y un emulador de dispositivos",
+            "Son librerías OpenGL",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma."
+        ]
+    },
+    {
+        "question": "No es una ventaja de Xamarin",
+        "selected": "El desarrollo de aplicaciones lleva mucho tiempo",
+        "answers": [
+            "No tiene limites",
+            "Xamarin tiene su propio IDE",
+            "Xamarin compila aplicaciones en forma nativa",
+            "Admite Android, IOS y el sistema operativo Windows",
+            "El desarrollo de aplicaciones lleva mucho tiempo"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales desventajas del uso de Xamarin?",
+        "selected": "Desarrollar aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Permite compartir fácilmente entre diferentes plataformas",
+            "Desarrollar aplicaciones lleva mucho tiempo",
+            "Se centra principalmente en la interfaz del usuario y back-end",
+            "Xamarin tiene su propio IDE",
+            "Menos cantidad de errores"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "FilterItemAsync",
+            "SaveItemsAsync",
+            "GetItemsAsync",
+            "DeleteItemAsync",
+            "Databasecontext"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) al que hace referencia el enlace de datos?",
+        "selected": "Source",
+        "answers": [
+            "Source",
+            "Init",
+            "Main",
+            "First",
+            "Target"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Target",
+        "answers": [
+            "Target",
+            "End",
+            "Source",
+            "Main",
+            "Start"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Style>",
+            "<Setter>",
+            "<ResourceDictionary>",
+            "<Key>",
+            "<Property>"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del archivo que necesitamos abrir para declarar un estilo global en XAML?",
+        "selected": "App.xaml",
+        "answers": [
+            "Layout.xaml",
+            "App.xaml",
+            "Frame.xaml",
+            "view.xaml",
+            "Style.xaml"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "La adopción del protocolo WiMAX",
+            "Mensajes de texto",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda"
+        ]
+    },
+    {
+        "question": "¿Mencione la estrategia para obtener beneficios de una aplicación?",
+        "selected": "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+        "answers": [
+            "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+            "Debe basarse en cobrar un precio por la descarga de la aplicación.",
+            "Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas",
+            "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+            "Mejorar los tiempos"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza principalmente como elemento estructural y sirve como clase base para Frame?",
+        "selected": "ContentView",
+        "answers": [
+            "ScrollView",
+            "ContentView",
+            "ContentPresente",
+            "Frame",
+            "TemplatedView"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso de los Layouts en Xamarin.Forms?",
+        "selected": "Componer controles de interfaz de usuario en estructuras visuales",
+        "answers": [
+            "Desarrollo del código",
+            "Prototipo del app",
+            "Componer controles de interfaz de usuario en estructuras visuales",
+            "Bases de datos del app",
+            "Emulador del app"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de Layout organiza su contenido en una sola fila o columna?",
+        "selected": "LinearLayout",
+        "answers": [
+            "AbsoluteLayout",
+            "RelativeLayout",
+            "FineLayout",
+            "LinearLayout",
+            "TableLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "StackLayout",
+            "ContentPresenter",
+            "TemplatedView",
+            "ScrollView",
+            "Frame"
+        ]
+    }
+]

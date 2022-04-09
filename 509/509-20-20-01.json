@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuál de los siguientes Layouts es de contenido único?",
+        "selected": "ScrollView",
+        "answers": [
+            "Grid",
+            "AbsoluteLayout",
+            "StackLayout",
+            "FlexLayout",
+            "ScrollView"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "TemplatedView",
+            "Frame",
+            "ScrollView",
+            "StackLayout",
+            "ContentPresenter"
+        ]
+    },
+    {
+        "question": "No es la descripción correcta de los StackLayout",
+        "selected": "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+        "answers": [
+            "Organiza vistas en una línea unidimensional («pila»),",
+            "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+            "Las Vistas en un StackLayout pueden dimensionarse en función del espacio en el diseño utilizando las opciones de diseño",
+            "El posicionamiento es determinado por el orden de las vistas en la que se añadieron al diseño y las opciones del diseño de las vistas",
+            "Organiza las vistas ya sea horizontal o verticalmente."
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones se recomienda evitar el uso de este tipo de Layout?",
+        "selected": "AbsoluteLayout",
+        "answers": [
+            "AbsLayout",
+            "AbsoluteLayout",
+            "TableLayout",
+            "LinearLayout",
+            "RelativeLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la propiedad de la instancia NavigationPage que proporciona acceso a la primera página de la pila de navegación?",
+        "selected": "RootPage",
+        "answers": [
+            "CaruselPage",
+            "RootPage",
+            "ContentPage",
+            "FlyoutPage",
+            "TabbedPage"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Null",
+            "Inicio",
+            "Start",
+            "Raíz",
+            "Principal"
+        ]
+    },
+    {
+        "question": "¿En qué generación se deja de utilizar la conmutación basada en circuitos para voz?",
+        "selected": "4G",
+        "answers": [
+            "4G",
+            "2G",
+            "0G",
+            "3G",
+            "1G"
+        ]
+    },
+    {
+        "question": "No es una ventaja de Xamarin",
+        "selected": "El desarrollo de aplicaciones lleva mucho tiempo",
+        "answers": [
+            "El desarrollo de aplicaciones lleva mucho tiempo",
+            "Admite Android, IOS y el sistema operativo Windows",
+            "Xamarin compila aplicaciones en forma nativa",
+            "No tiene limites",
+            "Xamarin tiene su propio IDE"
+        ]
+    },
+    {
+        "question": "Cuáles son los tipos de enlace de datos que muestra Data Binding",
+        "selected": "Enlace unidireccional y bidireccional",
+        "answers": [
+            "Enlace unidireccional y bidireccional",
+            "Enlace unidireccional",
+            "Enlace bidireccional y multidireccional",
+            "Enlace unidireccional y multidireccional",
+            "Enlace bidireccional"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales ventajas del uso de Xamarin?",
+        "selected": "Fácil de aprender",
+        "answers": [
+            "Desarrollo lento",
+            "Tiene límites",
+            "Costo alto",
+            "No admite Android, IOS y Windows.",
+            "Fácil de aprender"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Target",
+        "answers": [
+            "Target",
+            "Source",
+            "Start",
+            "Main",
+            "End"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "Resource Manager",
+            "Activity Manager",
+            "Views",
+            "ExpandableListView",
+            "Content Providers"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "GetItemsAsync",
+            "FilterItemAsync",
+            "DeleteItemAsync",
+            "SaveItemsAsync",
+            "Databasecontext"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "Mensajes de texto",
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La adopción del protocolo WiMAX"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Style>",
+            "<Property>",
+            "<Key>",
+            "<Setter>",
+            "<ResourceDictionary>"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del archivo que necesitamos abrir para declarar un estilo global en XAML?",
+        "selected": "App.xaml",
+        "answers": [
+            "Frame.xaml",
+            "Style.xaml",
+            "view.xaml",
+            "App.xaml",
+            "Layout.xaml"
+        ]
+    },
+    {
+        "question": "¿Qué es un estilo en el desarrollo de Aplicaciones para móviles?",
+        "selected": "Conjunto de propiedades visuales",
+        "answers": [
+            "Es un marco de trabajo",
+            "Prototipo de la APP",
+            "Conjunto de propiedades visuales",
+            "Librería",
+            "Emulador"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre que se les da a los elementos de datos en un ListView?",
+        "selected": "Celdas",
+        "answers": [
+            "Punteros",
+            "Nicho",
+            "Celdas",
+            "Cuerpo",
+            "Lista"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Encabezado y pie de página, grupos y células",
+            "Grupos y células",
+            "Encabezado y pie de página, secciones, columnas",
+            "Encabezado y pie de página y grupos",
+            "Grupos, células y secciones"
+        ]
+    },
+    {
+        "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "Pull-to-refresh",
+            "Acciones personalizadas",
+            "Las acciones de contexto",
+            "La selección",
+            "Eventos"
+        ]
+    }
+]

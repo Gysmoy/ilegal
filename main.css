@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#examen, #query {
+    margin: 20px;
+    display: block;
+    padding: 5px 10px;
+    width: 100%;
+    max-width: 600px;
+    background-color: #fff;
+    border: 1px solid grey;
+    box-shadow: 0 0 5px grey;
+    border-radius: 5px;
+}
+
+#results {
+    display: block;
+    margin: 20px;
+    width: 100%;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 5px 10px;
+    border: 1px solid grey;
+    box-shadow: 0 0 5px grey;
+    border-radius: 5px;
+}

@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Null",
+            "Raíz",
+            "Principal",
+            "Start",
+            "Inicio"
+        ]
+    },
+    {
+        "question": "¿Que necesitaría tener la aplicación para que sea exitosa?",
+        "selected": "Fácil de usar, Intuitiva, De uso habitual",
+        "answers": [
+            "Diseño estático",
+            "Diseño fluido",
+            "Diseño para web",
+            "Lenta",
+            "Fácil de usar, Intuitiva, De uso habitual"
+        ]
+    },
+    {
+        "question": "¿Qué servicio maneja el ciclo de vida de las aplicaciones y proporciona un sistema de navegación entre ellas?",
+        "selected": "Activity Manager",
+        "answers": [
+            "ExpandableListView",
+            "Resource Manager",
+            "Activity Manager",
+            "Views",
+            "HorizontalScrollView"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales desventajas del uso de Xamarin?",
+        "selected": "Desarrollar aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Xamarin tiene su propio IDE",
+            "Permite compartir fácilmente entre diferentes plataformas",
+            "Desarrollar aplicaciones lleva mucho tiempo",
+            "Menos cantidad de errores",
+            "Se centra principalmente en la interfaz del usuario y back-end"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Son librerías OpenGL",
+            "Un depurador y un emulador de dispositivos",
+            "Sistema gestionador de base de datos",
+            "Máquina virtual para ejecutar programas",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma."
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales ventajas del uso de Xamarin?",
+        "selected": "Fácil de aprender",
+        "answers": [
+            "No admite Android, IOS y Windows.",
+            "Fácil de aprender",
+            "Costo alto",
+            "Desarrollo lento",
+            "Tiene límites"
+        ]
+    },
+    {
+        "question": "No es una diferencia entre View Binding y Data Binding",
+        "selected": "View Binding library es más rápida que Data Binding library, ya que no utiliza procesadores de anotación subyacentes, y cuando se trata de la velocidad del tiempo de compilación, la View Binding es más eficiente",
+        "answers": [
+            "Data Binding library nos proporciona Binding Adapters.",
+            "Data Binding library nos proporciona Data Binding bidireccional, esta es una técnica para vincular sus objetos a diseños xml, de modo que tanto el objeto como el diseño puedan enviarse datos entre sí.",
+            "Data Binding library funciona con Observable Data objects, se tienes que actualizar la interfaz de usuario cuando cambian los datos subyacentes",
+            "La única función de View Binding es vincular las vistas en el código. Mientras que Data Binding ofrece algunas opciones más como Binding Expressions, que nos permite escribir expresiones para conectar variables a las vistas en el diseño",
+            "View Binding library es más rápida que Data Binding library, ya que no utiliza procesadores de anotación subyacentes, y cuando se trata de la velocidad del tiempo de compilación, la View Binding es más eficiente"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Source",
+        "answers": [
+            "End",
+            "Source",
+            "Start",
+            "Target",
+            "Main"
+        ]
+    },
+    {
+        "question": "¿Qué es Data Binding?",
+        "selected": "Técnica de vincular las propiedades de dos objetos",
+        "answers": [
+            "Es una propiedad de estilo",
+            "Es una clase de navegación",
+            "Es un método para el diseño",
+            "Técnica para mostrar datos",
+            "Técnica de vincular las propiedades de dos objetos"
+        ]
+    },
+    {
+        "question": "No es la descripción correcta de los StackLayout",
+        "selected": "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+        "answers": [
+            "Organiza vistas en una línea unidimensional («pila»),",
+            "Organiza las vistas ya sea horizontal o verticalmente.",
+            "Las Vistas en un StackLayout pueden dimensionarse en función del espacio en el diseño utilizando las opciones de diseño",
+            "El posicionamiento es determinado por el orden de las vistas en la que se añadieron al diseño y las opciones del diseño de las vistas",
+            "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior"
+        ]
+    },
+    {
+        "question": "Layouts, elementos no visuales destinados a controlar la distribución de los controles, ¿cuál de los siguientes elementos no es un objeto de tipo Layout?",
+        "selected": "CheckBox",
+        "answers": [
+            "GridView",
+            "CheckBox",
+            "Gallery",
+            "ListView",
+            "Spinner"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza principalmente como elemento estructural y sirve como clase base para Frame?",
+        "selected": "ContentView",
+        "answers": [
+            "Frame",
+            "ContentPresente",
+            "ScrollView",
+            "TemplatedView",
+            "ContentView"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones se recomienda evitar el uso de este tipo de Layout?",
+        "selected": "AbsoluteLayout",
+        "answers": [
+            "LinearLayout",
+            "RelativeLayout",
+            "TableLayout",
+            "AbsoluteLayout",
+            "AbsLayout"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Encabezado y pie de página y grupos",
+            "Encabezado y pie de página, grupos y células",
+            "Encabezado y pie de página, secciones, columnas",
+            "Grupos, células y secciones",
+            "Grupos y células"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso del ListView?",
+        "selected": "Vista para presentar listas de datos",
+        "answers": [
+            "Vista para presentar listas de datos",
+            "Agrupar objetos de manera horizontal",
+            "Conexión de Base Datos",
+            "Ingresar datos",
+            "Navegación"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones no es una librería nativa en Android?",
+        "selected": "ExpandableListView",
+        "answers": [
+            "SGL",
+            "Free Type",
+            "ExpandableListView",
+            "SQLite",
+            "Librerias 3D"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "La adopción del protocolo WiMAX",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "Mensajes de texto"
+        ]
+    },
+    {
+        "question": "¿Mencione la estrategia para obtener beneficios de una aplicación?",
+        "selected": "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+        "answers": [
+            "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+            "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+            "Mejorar los tiempos",
+            "Debe basarse en cobrar un precio por la descarga de la aplicación.",
+            "Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas"
+        ]
+    },
+    {
+        "question": "¿En qué generación aparece la itinerancia internacional (roaming)?",
+        "selected": "1G",
+        "answers": [
+            "0G",
+            "2G",
+            "1G",
+            "4G",
+            "3G"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del tipo de estilo en el cual podemos agregar en el archivo XAML tantos estilos como necesitamos?",
+        "selected": "Global",
+        "answers": [
+            "Extendido",
+            "Global",
+            "Compacto",
+            "Explícito",
+            "Implícito"
+        ]
+    }
+]
