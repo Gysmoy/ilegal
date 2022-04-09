@@ -52,7 +52,7 @@ $(document).on('change', '#examen', function () {
 $(document).on('change', '#query', function () {
     var query = $(this).val();
     var examen = $('#examen').val();
-    $('#results').empty();
+    $('#results tbody').empty();
     attemps[`_${examen}`].forEach(attemp => {
         attemp.data.forEach(question => {
             if (
@@ -60,11 +60,11 @@ $(document).on('change', '#query', function () {
                 ==
                 query.replaceAll(' ', '').replaceAll('\n', '')
             ) {
-                $('#results').append(`
+                $('#results tbody').append(`
                 <tr>
+                    <td>${attemp.id}</td>
                     <td id="${attemp.id}"></td>
-                    <td> - </td>
-                    <td width="0%">Sacó ${attemp.nota}</td>
+                    <td width="0%">${attemp.nota}</td>
                 </tr>
                 `);
                 $(`#${attemp.id}`).text(question.selected);
