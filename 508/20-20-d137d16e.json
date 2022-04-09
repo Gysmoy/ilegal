@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Al desarrollar un software para una empresa de acuerdo a sus requerimientos se debe realizar",
+        "selected": "Análisis y diseño",
+        "answers": [
+            "Diseño de los formularios",
+            "Elegir el lenguaje de programación y el sistema operativo",
+            "Prototipo",
+            "Análisis y diseño",
+            "Programación"
+        ]
+    },
+    {
+        "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+        "selected": "Rendimiento",
+        "answers": [
+            "Confiabilidad",
+            "Usabilidad",
+            "Seguridad",
+            "Rapidez",
+            "Rendimiento"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo de prototipado evolutivo",
+            "Modelo en espiral",
+            "Modelo de desarrollo incremental",
+            "Modelo basado en transformaciones",
+            "Modelo de construcción de prototipos"
+        ]
+    },
+    {
+        "question": "El software diseñado deberá estar documentado por fines de:",
+        "selected": "Adaptaciones a nuevos requerimientos de los usuarios finales",
+        "answers": [
+            "Evitar la copia del software",
+            "Detallar la programación",
+            "Considerar el ciclo de vida del programa",
+            "Evitar la obsolescencia del programa",
+            "Adaptaciones a nuevos requerimientos de los usuarios finales"
+        ]
+    },
+    {
+        "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+        "selected": "Económicos, técnicos, legales, Operativos.",
+        "answers": [
+            "Netamente técnicos",
+            "Económicos, técnicos, legales, Operativos.",
+            "Operativos",
+            "Económicos y técnicos",
+            "Legales"
+        ]
+    },
+    {
+        "question": "Este proceso tiene la finalidad de descubrir errores que resulten de interacciones no anticipadas entre componentes y problemas de interfaz de componente, así como de mostrar que el sistema cubre sus requerimientos funcionales y no funcionales, y poner a prueba las propiedades emergentes del sistema",
+        "selected": "Pruebas del sistema",
+        "answers": [
+            "Pruebas del sistema",
+            "Pruebas de aceptación",
+            "Demostración",
+            "Prueba de desarrollo",
+            "Desarrollo"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Wireframe, mockup, sketch, prototipo",
+            "Sketch, mockup, wireframe, prototipo",
+            "Sketch, wireframe, mockup, prototipo",
+            "Mockup, wireframe, sketch, prototipo",
+            "Wireframe, sketch, mockup, prototipo"
+        ]
+    },
+    {
+        "question": "¿Cuándo termina un proyecto software?:",
+        "selected": "Cuando se retira",
+        "answers": [
+            "Cuando se retira",
+            "Cuando se paga el costo",
+            "Cuando se termina de implementar",
+            "Cuando el cliente confirma que está satisfecho con el resultado",
+            "Cuando se entrega al cliente."
+        ]
+    },
+    {
+        "question": "Los elementos principales de un diagrama de estado",
+        "selected": "Estado, estado inicial, estado final, transición",
+        "answers": [
+            "Estado inicial, transición, estado",
+            "Estado, caso de uso, transición",
+            "Estado, estado final, caso de uso, estado final",
+            "Estado, estado inicial, estado final, transición",
+            "Estado inicial, transición, estado"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Repetición",
+            "Opcionalidad",
+            "Concatenación",
+            "Inclusión",
+            "Disyunción"
+        ]
+    },
+    {
+        "question": "Es un conjunto de definiciones que contiene las características lógicas y puntuales de los datos que se van a utilizar en el sistema",
+        "selected": "Diccionario de datos",
+        "answers": [
+            "Mapa de navegación",
+            "Metodología",
+            "Caso de uso",
+            "Diccionario de datos",
+            "Modelado de datos"
+        ]
+    },
+    {
+        "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+        "selected": "Diseño",
+        "answers": [
+            "Diseño",
+            "Necesidades",
+            "Prototipo",
+            "Pruebas",
+            "Base"
+        ]
+    },
+    {
+        "question": "Como parte del diseño de una arquitectura de software, las propiedades asociadas a requerimientos de: rendimiento, capacidad, funcionabilidad, seguridad, adaptabilidad, entre otras se consideran:",
+        "selected": "Propiedades extra funcionales",
+        "answers": [
+            "Propiedades estructurales",
+            "Sistemas relacionados",
+            "Requisitos",
+            "Propiedades extra funcionales",
+            "Requerimientos"
+        ]
+    },
+    {
+        "question": "En el siguiente enunciado: “Una vez que se haya levantado los requisitos funcionales y no funcionales y se ha diseñado una solución a ser implementada, estas especificaciones se entregan al equipo de desarrollo para que realice la codificación”, dicha actividad se la lleva a cabo dentro de",
+        "selected": "Construcción",
+        "answers": [
+            "Rapidez",
+            "Confianza",
+            "Análisis",
+            "Despliegue",
+            "Construcción"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "RAID",
+            "Un proceso batch con envíos y respuestas hacia una base de datos local",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación",
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+            "Servidor web."
+        ]
+    },
+    {
+        "question": "En este tipo de vista se tienen que relacionar los requerimientos del sistema con entidades",
+        "selected": "vista lógica",
+        "answers": [
+            "vista física",
+            "vista lógica",
+            "vista de desarrollo",
+            "vista de proceso",
+            "vista del sistema"
+        ]
+    },
+    {
+        "question": "Usan los requerimientos para desarrollar pruebas de validación para el sistema",
+        "selected": "Ingenieros de prueba del sistema",
+        "answers": [
+            "Ingenieros de mantenimiento del sistema",
+            "Administradores",
+            "Ingenieros del sistema",
+            "Clientes del sistema",
+            "Ingenieros de prueba del sistema"
+        ]
+    },
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Construcción, análisis, diseño y transición",
+            "Elaboración, análisis, diseño y prueba",
+            "Elaboración, diseño, análisis y transición",
+            "Elaboración, análisis, diseño y transición",
+            "Concepción, elaboración, construcción y transición"
+        ]
+    },
+    {
+        "question": "La ingeniería de requisitos, ¿A qué necesidades debe adaptarse?",
+        "selected": "Del proceso, del proyecto, del producto y las personas",
+        "answers": [
+            "Del proceso, del proyecto, del producto y las personas",
+            "Del cliente, los usuarios y la administración",
+            "La arquitectura",
+            "La administración",
+            "De lenguaje, la arquitectura y los resultados"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Análisis y diseño",
+            "Modelo del negocio",
+            "Despliegue",
+            "Requerimientos",
+            "Pruebas"
+        ]
+    }
+]
