@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuáles son las principales desventajas del uso de Xamarin?",
+        "selected": "Desarrollar aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Menos cantidad de errores",
+            "Se centra principalmente en la interfaz del usuario y back-end",
+            "Desarrollar aplicaciones lleva mucho tiempo",
+            "Permite compartir fácilmente entre diferentes plataformas",
+            "Xamarin tiene su propio IDE"
+        ]
+    },
+    {
+        "question": "No es una ventaja de Xamarin",
+        "selected": "El desarrollo de aplicaciones lleva mucho tiempo",
+        "answers": [
+            "Xamarin compila aplicaciones en forma nativa",
+            "Xamarin tiene su propio IDE",
+            "Admite Android, IOS y el sistema operativo Windows",
+            "No tiene limites",
+            "El desarrollo de aplicaciones lleva mucho tiempo"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Son librerías OpenGL",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+            "Máquina virtual para ejecutar programas",
+            "Un depurador y un emulador de dispositivos",
+            "Sistema gestionador de base de datos"
+        ]
+    },
+    {
+        "question": "No es la descripción correcta de los StackLayout",
+        "selected": "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+        "answers": [
+            "El posicionamiento es determinado por el orden de las vistas en la que se añadieron al diseño y las opciones del diseño de las vistas",
+            "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+            "Las Vistas en un StackLayout pueden dimensionarse en función del espacio en el diseño utilizando las opciones de diseño",
+            "Organiza vistas en una línea unidimensional («pila»),",
+            "Organiza las vistas ya sea horizontal o verticalmente."
+        ]
+    },
+    {
+        "question": "Layouts, elementos no visuales destinados a controlar la distribución de los controles, ¿cuál de los siguientes elementos no es un objeto de tipo Layout?",
+        "selected": "CheckBox",
+        "answers": [
+            "Gallery",
+            "ListView",
+            "Spinner",
+            "CheckBox",
+            "GridView"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "ContentPresenter",
+            "TemplatedView",
+            "Frame",
+            "StackLayout",
+            "ScrollView"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso de los Layouts en Xamarin.Forms?",
+        "selected": "Componer controles de interfaz de usuario en estructuras visuales",
+        "answers": [
+            "Desarrollo del código",
+            "Emulador del app",
+            "Componer controles de interfaz de usuario en estructuras visuales",
+            "Bases de datos del app",
+            "Prototipo del app"
+        ]
+    },
+    {
+        "question": "¿Mencione la estrategia para obtener beneficios de una aplicación?",
+        "selected": "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar",
+        "answers": [
+            "Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas",
+            "Debe orientarse según un análisis previo del perfil de los potenciales usuarios porque puede haber variaciones significativas",
+            "Mejorar los tiempos",
+            "Debe basarse en cobrar un precio por la descarga de la aplicación.",
+            "Es independiente del sistema operativo y categoría de app porque en todos los casos el comportamiento de los usuarios es muy similar"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del archivo que necesitamos abrir para declarar un estilo global en XAML?",
+        "selected": "App.xaml",
+        "answers": [
+            "Style.xaml",
+            "Layout.xaml",
+            "App.xaml",
+            "Frame.xaml",
+            "view.xaml"
+        ]
+    },
+    {
+        "question": "¿Qué es un estilo en el desarrollo de Aplicaciones para móviles?",
+        "selected": "Conjunto de propiedades visuales",
+        "answers": [
+            "Librería",
+            "Prototipo de la APP",
+            "Es un marco de trabajo",
+            "Emulador",
+            "Conjunto de propiedades visuales"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "Mensajes de texto",
+            "La adopción del protocolo WiMAX"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones no es una librería nativa en Android?",
+        "selected": "ExpandableListView",
+        "answers": [
+            "Librerias 3D",
+            "SGL",
+            "Free Type",
+            "SQLite",
+            "ExpandableListView"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso del ListView?",
+        "selected": "Vista para presentar listas de datos",
+        "answers": [
+            "Agrupar objetos de manera horizontal",
+            "Navegación",
+            "Conexión de Base Datos",
+            "Vista para presentar listas de datos",
+            "Ingresar datos"
+        ]
+    },
+    {
+        "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "Pull-to-refresh",
+            "La selección",
+            "Eventos",
+            "Acciones personalizadas",
+            "Las acciones de contexto"
+        ]
+    },
+    {
+        "question": "¿Que necesitaría tener la aplicación para que sea exitosa?",
+        "selected": "Fácil de usar, Intuitiva, De uso habitual",
+        "answers": [
+            "Fácil de usar, Intuitiva, De uso habitual",
+            "Lenta",
+            "Diseño para web",
+            "Diseño estático",
+            "Diseño fluido"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la propiedad de la instancia NavigationPage que proporciona acceso a la primera página de la pila de navegación?",
+        "selected": "RootPage",
+        "answers": [
+            "TabbedPage",
+            "RootPage",
+            "CaruselPage",
+            "ContentPage",
+            "FlyoutPage"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Null",
+            "Principal",
+            "Raíz",
+            "Inicio",
+            "Start"
+        ]
+    },
+    {
+        "question": "No es una diferencia entre View Binding y Data Binding",
+        "selected": "Data Binding library funciona con Observable Data objects, se tienes que actualizar la interfaz de usuario cuando cambian los datos subyacentes",
+        "answers": [
+            "Data Binding library nos proporciona Data Binding bidireccional, esta es una técnica para vincular sus objetos a diseños xml, de modo que tanto el objeto como el diseño puedan enviarse datos entre sí.",
+            "La única función de View Binding es vincular las vistas en el código. Mientras que Data Binding ofrece algunas opciones más como Binding Expressions, que nos permite escribir expresiones para conectar variables a las vistas en el diseño",
+            "View Binding library es más rápida que Data Binding library, ya que no utiliza procesadores de anotación subyacentes, y cuando se trata de la velocidad del tiempo de compilación, la View Binding es más eficiente",
+            "Data Binding library funciona con Observable Data objects, se tienes que actualizar la interfaz de usuario cuando cambian los datos subyacentes",
+            "Data Binding library nos proporciona Binding Adapters."
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "DeleteItemAsync",
+            "FilterItemAsync",
+            "SaveItemsAsync",
+            "GetItemsAsync",
+            "Databasecontext"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "ExpandableListView",
+            "Activity Manager",
+            "Views",
+            "Content Providers",
+            "Resource Manager"
+        ]
+    }
+]
