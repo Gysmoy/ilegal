@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Es un conjunto de definiciones que contiene las características lógicas y puntuales de los datos que se van a utilizar en el sistema",
+        "selected": "Diccionario de datos",
+        "answers": [
+            "Mapa de navegación",
+            "Modelado de datos",
+            "Caso de uso",
+            "Diccionario de datos",
+            "Metodología"
+        ]
+    },
+    {
+        "question": "La actividad del proceso de desarrollo que tiene relación con aspectos de codificación, implementación de buenas prácticas, realización de pruebas unitarias por parte del desarrollador se conoce como",
+        "selected": "Desarrollo e Implementación",
+        "answers": [
+            "Ciclo",
+            "Desarrollo e Implementación",
+            "Fases",
+            "Validación",
+            "Evolución"
+        ]
+    },
+    {
+        "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+        "selected": "Diseño",
+        "answers": [
+            "Diseño",
+            "Base",
+            "Necesidades",
+            "Prototipo",
+            "Pruebas"
+        ]
+    },
+    {
+        "question": "La evolución del prototipo es …",
+        "selected": "Sketch, wireframe, mockup, prototipo",
+        "answers": [
+            "Sketch, wireframe, mockup, prototipo",
+            "Mockup, wireframe, sketch, prototipo",
+            "Wireframe, mockup, sketch, prototipo",
+            "Wireframe, sketch, mockup, prototipo",
+            "Sketch, mockup, wireframe, prototipo"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Repetición",
+            "Concatenación",
+            "Opcionalidad",
+            "Inclusión",
+            "Disyunción"
+        ]
+    },
+    {
+        "question": "No es considerado como una característica de un sketch",
+        "selected": "Diseño de prueba final",
+        "answers": [
+            "Para reuniones con el cliente y reuniones internas con el equipo",
+            "Primer boceto que se realiza sobre el sistema",
+            "Refleja las ideas generales del proyecto",
+            "Diseño rápido y sencillo",
+            "Diseño de prueba final"
+        ]
+    },
+    {
+        "question": "Presentan una imagen de alto nivel de la estructura del sistema e incluyen fácilmente a individuos de diferentes disciplinas que intervienen en el proceso de desarrollo del sistema",
+        "selected": "Los diagramas de bloque",
+        "answers": [
+            "Caso de uso",
+            "Los diagramas de bloque",
+            "Los diagramas de flujo",
+            "Los algoritmos",
+            "Modelo de sistema"
+        ]
+    },
+    {
+        "question": "Una aplicación de software se considera que funciona en un entorno Web si como arquitectura tiene:",
+        "selected": "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+        "answers": [
+            "Servidor Web, Servidor de aplicaciones, seguridad, bases de datos local o en la nube",
+            "Un proceso batch con envíos y respuestas hacia una base de datos local",
+            "Servidor web.",
+            "RAID",
+            "Un solo computador sobre el que se instala y ejecuta la aplicación"
+        ]
+    },
+    {
+        "question": "MVC, separa presentación e interacción de los datos del sistema. El sistema se estructura en tres componentes lógicos que interactúan entre sí",
+        "selected": "Componente modelo, componente vista, componente controlador",
+        "answers": [
+            "Componente diseño, componente controlador, componente de análisis",
+            "Componente controlador, componente de diseño, componente de análisis",
+            "Componente vista, componente integrador, componente controlador",
+            "Componente modelo, componente diseño, componente controlador",
+            "Componente modelo, componente vista, componente controlador"
+        ]
+    },
+    {
+        "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+        "selected": "Funcionales y no funcionales",
+        "answers": [
+            "Estructura y análisis",
+            "Individuales y grupales",
+            "Funcionales y no funcionales",
+            "Del cliente",
+            "De diseño y programación"
+        ]
+    },
+    {
+        "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+        "selected": "Rendimiento",
+        "answers": [
+            "Seguridad",
+            "Rapidez",
+            "Confiabilidad",
+            "Usabilidad",
+            "Rendimiento"
+        ]
+    },
+    {
+        "question": "Este proceso tiene la finalidad de descubrir errores que resulten de interacciones no anticipadas entre componentes y problemas de interfaz de componente, así como de mostrar que el sistema cubre sus requerimientos funcionales y no funcionales, y poner a prueba las propiedades emergentes del sistema",
+        "selected": "Pruebas del sistema",
+        "answers": [
+            "Pruebas de aceptación",
+            "Pruebas del sistema",
+            "Prueba de desarrollo",
+            "Desarrollo",
+            "Demostración"
+        ]
+    },
+    {
+        "question": "Según la siguiente definición: “Es una implementación parcial pero concreta de un sistema o una parte del mismo que principalmente se crean para explorar aspectos diversos del sistema durante el desarrollo del mismo.”, es la definición de:",
+        "selected": "Prototipo",
+        "answers": [
+            "Prototipo",
+            "Software",
+            "Análisis y Diseño de Software",
+            "Métricas de diseño de interfaz",
+            "Requerimientos de Sistema"
+        ]
+    },
+    {
+        "question": "El modelo lineal secuencial o modelo en cascada, se basa en:",
+        "selected": "Análisis, diseño, código y prueba",
+        "answers": [
+            "Diseño, prueba, código y análisis",
+            "Análisis, diseño, código y prueba",
+            "Diseño, análisis, código y prueba",
+            "Análisis, código, prueba y diseño",
+            "Código, diseño, análisis y prueba"
+        ]
+    },
+    {
+        "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+        "selected": "Económicos, técnicos, legales, Operativos.",
+        "answers": [
+            "Operativos",
+            "Netamente técnicos",
+            "Económicos, técnicos, legales, Operativos.",
+            "Económicos y técnicos",
+            "Legales"
+        ]
+    },
+    {
+        "question": "Al desarrollar un software para una empresa de acuerdo a sus requerimientos se debe realizar",
+        "selected": "Análisis y diseño",
+        "answers": [
+            "Diseño de los formularios",
+            "Elegir el lenguaje de programación y el sistema operativo",
+            "Prototipo",
+            "Análisis y diseño",
+            "Programación"
+        ]
+    },
+    {
+        "question": "La ingeniería de requisitos, ¿A qué necesidades debe adaptarse?",
+        "selected": "Del proceso, del proyecto, del producto y las personas",
+        "answers": [
+            "Del proceso, del proyecto, del producto y las personas",
+            "La administración",
+            "De lenguaje, la arquitectura y los resultados",
+            "Del cliente, los usuarios y la administración",
+            "La arquitectura"
+        ]
+    },
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Elaboración, análisis, diseño y prueba",
+            "Construcción, análisis, diseño y transición",
+            "Concepción, elaboración, construcción y transición",
+            "Elaboración, diseño, análisis y transición",
+            "Elaboración, análisis, diseño y transición"
+        ]
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se usa para establecer la factibilidad económica de un proyecto de desarrollo de software?",
+        "selected": "Análisis de valor ganado o la tasa interna de retorno",
+        "answers": [
+            "Sustentación legal del proyecto.",
+            "Capital de la empresa",
+            "Estudio de la factibilidad de emprendimiento",
+            "Análisis de valor ganado o la tasa interna de retorno",
+            "Estudio de los servidores y terminales con que cuenta la organización"
+        ]
+    },
+    {
+        "question": "La etapa de indagación de requisitos, donde se identifica el problema, se propone soluciones, se negocia distintos enfoques y se especifica un conjunto preliminar de requerimientos se conoce como:",
+        "selected": "Recabación de requerimientos en forma colaborativa.",
+        "answers": [
+            "Indagación de los productos de trabajo",
+            "Marco de trabajo.",
+            "Escenarios de uso.",
+            "Recabación de requerimientos en forma colaborativa.",
+            "Entrevista a los consumidores"
+        ]
+    }
+]
