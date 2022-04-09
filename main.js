@@ -25,9 +25,10 @@ var attemps = {
         { id: "19-20-6abf4a82" },
         { id: "19-20-84b12bae" },
         { id: "19-20-a15d25e1" },
-        { id: "20-20-8d076785" },
-        { id: "20-20-fa005713" },
         { id: "19-20-d137d16e" },
+        { id: "20-20-8d076785" },
+        { id: "20-20-a15d25e1" },
+        { id: "20-20-fa005713" },
         { id: "20-20-3854745b" },
     ]
 };
@@ -52,7 +53,7 @@ $(document).on('change', '#examen', function () {
 $(document).on('change', '#query', function () {
     var query = $(this).val();
     var examen = $('#examen').val();
-    $('#results').empty();
+    $('#results tbody').empty();
     attemps[`_${examen}`].forEach(attemp => {
         attemp.data.forEach(question => {
             if (
@@ -60,11 +61,11 @@ $(document).on('change', '#query', function () {
                 ==
                 query.replaceAll(' ', '').replaceAll('\n', '')
             ) {
-                $('#results').append(`
+                $('#results tbody').append(`
                 <tr>
+                    <td>${attemp.id}</td>
                     <td id="${attemp.id}"></td>
-                    <td> - </td>
-                    <td width="0%">Sacó ${attemp.nota}</td>
+                    <td width="0%">${attemp.nota}</td>
                 </tr>
                 `);
                 $(`#${attemp.id}`).text(question.selected);
