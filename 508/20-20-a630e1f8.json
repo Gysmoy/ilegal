@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Son fases del proceso unificado racional",
+        "selected": "Concepción, elaboración, construcción y transición",
+        "answers": [
+            "Concepción, elaboración, construcción y transición",
+            "Elaboración, análisis, diseño y prueba",
+            "Elaboración, análisis, diseño y transición",
+            "Elaboración, diseño, análisis y transición",
+            "Construcción, análisis, diseño y transición"
+        ]
+    },
+    {
+        "question": "Cuando el cliente menciona que, “el sistema debe contener certificados de seguridad y firmas digitales para la carga y descarga de archivos”, ¿de qué tipo de requisito está hablando?",
+        "selected": "No Funcional.",
+        "answers": [
+            "Funcional",
+            "No es requisito",
+            "No Funcional.",
+            "Confiabilidad",
+            "Seguridad"
+        ]
+    },
+    {
+        "question": "Se identifican los actores que interactúan con el sistema y se desarrollan casos de uso para modelar ………….. del sistema",
+        "selected": "Requerimientos",
+        "answers": [
+            "Modelo del negocio",
+            "Requerimientos",
+            "Despliegue",
+            "Análisis y diseño",
+            "Pruebas"
+        ]
+    },
+    {
+        "question": "Es una métrica para especificar un requerimiento no funcional de robustez",
+        "selected": "Tiempo de reinicio después de falla",
+        "answers": [
+            "Tiempo de regeneración de pantalla",
+            "Numero de sistema objetivo",
+            "Número de chips",
+            "Tiempo de reinicio después de falla",
+            "Tiempo de capacitación"
+        ]
+    },
+    {
+        "question": "Presentan una imagen de alto nivel de la estructura del sistema e incluyen fácilmente a individuos de diferentes disciplinas que intervienen en el proceso de desarrollo del sistema",
+        "selected": "Los diagramas de bloque",
+        "answers": [
+            "Los algoritmos",
+            "Los diagramas de flujo",
+            "Los diagramas de bloque",
+            "Modelo de sistema",
+            "Caso de uso"
+        ]
+    },
+    {
+        "question": "El diseño arquitectónico es un proceso creativo en el cual se diseña una organización del sistema que cubrirá los requerimientos…",
+        "selected": "Funcionales y no funcionales",
+        "answers": [
+            "Funcionales y no funcionales",
+            "De diseño y programación",
+            "Del cliente",
+            "Individuales y grupales",
+            "Estructura y análisis"
+        ]
+    },
+    {
+        "question": "En este tipo de vista se tienen que relacionar los requerimientos del sistema con entidades",
+        "selected": "vista lógica",
+        "answers": [
+            "vista de proceso",
+            "vista lógica",
+            "vista de desarrollo",
+            "vista física",
+            "vista del sistema"
+        ]
+    },
+    {
+        "question": "Las etapas identificadas como pruebas de desarrollo, pruebas del sistema y pruebas de aceptación pertenecen al proceso de:",
+        "selected": "Validación",
+        "answers": [
+            "Evolución.",
+            "Seguridad",
+            "Desarrollo e Implementación",
+            "Confiabilidad",
+            "Validación"
+        ]
+    },
+    {
+        "question": "El software diseñado deberá estar documentado por fines de:",
+        "selected": "Adaptaciones a nuevos requerimientos de los usuarios finales",
+        "answers": [
+            "Adaptaciones a nuevos requerimientos de los usuarios finales",
+            "Considerar el ciclo de vida del programa",
+            "Evitar la obsolescencia del programa",
+            "Evitar la copia del software",
+            "Detallar la programación"
+        ]
+    },
+    {
+        "question": "Cuando un cliente o el negocio tiene una necesidad de automatizar un proceso con una solución de software, lo primero que realiza es:",
+        "selected": "Levantamiento, documentación y análisis de requerimientos",
+        "answers": [
+            "La codificación de la necesidad.",
+            "Levantamiento, documentación y análisis de requerimientos",
+            "Entrevistas",
+            "Encuestas",
+            "Adquirir hardware como servidores de aplicaciones y bases de datos"
+        ]
+    },
+    {
+        "question": "Aspectos como tiempos de respuesta, velocidad de procesamiento, uso de recursos tiene relación con el atributo de calidad conocido como",
+        "selected": "Rendimiento",
+        "answers": [
+            "Rapidez",
+            "Usabilidad",
+            "Confiabilidad",
+            "Seguridad",
+            "Rendimiento"
+        ]
+    },
+    {
+        "question": "Un estudio de factibilidad de un proyecto cuando un cliente requiere el desarrollo de un software debe contener aspectos:",
+        "selected": "Económicos, técnicos, legales, Operativos.",
+        "answers": [
+            "Legales",
+            "Económicos y técnicos",
+            "Económicos, técnicos, legales, Operativos.",
+            "Netamente técnicos",
+            "Operativos"
+        ]
+    },
+    {
+        "question": "Es una versión inicial de un sistema de software que se usa para demostrar conceptos, tratar opciones de diseño y encontrar más sobre el problema y sus posibles soluciones",
+        "selected": "Prototipo",
+        "answers": [
+            "Prototipo",
+            "Prueba de escritorio",
+            "Diseño",
+            "Software genérico",
+            "Software genuino"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes no es modelo de ciclo de vida tradicional basado en prototipos?",
+        "selected": "Modelo basado en transformaciones",
+        "answers": [
+            "Modelo de construcción de prototipos",
+            "Modelo de desarrollo incremental",
+            "Modelo en espiral",
+            "Modelo de prototipado evolutivo",
+            "Modelo basado en transformaciones"
+        ]
+    },
+    {
+        "question": "¿Cuándo termina un proyecto software?:",
+        "selected": "Cuando se retira",
+        "answers": [
+            "Cuando se retira",
+            "Cuando se entrega al cliente.",
+            "Cuando se paga el costo",
+            "Cuando se termina de implementar",
+            "Cuando el cliente confirma que está satisfecho con el resultado"
+        ]
+    },
+    {
+        "question": "No es una entrada compuesta en un diccionario de datos",
+        "selected": "Inclusión",
+        "answers": [
+            "Disyunción",
+            "Inclusión",
+            "Concatenación",
+            "Repetición",
+            "Opcionalidad"
+        ]
+    },
+    {
+        "question": "No es considerado como una característica de un sketch",
+        "selected": "Diseño de prueba final",
+        "answers": [
+            "Refleja las ideas generales del proyecto",
+            "Primer boceto que se realiza sobre el sistema",
+            "Para reuniones con el cliente y reuniones internas con el equipo",
+            "Diseño rápido y sencillo",
+            "Diseño de prueba final"
+        ]
+    },
+    {
+        "question": "Abstracción, arquitectura, patrones, modularidad son conceptos asociados a:",
+        "selected": "Diseño",
+        "answers": [
+            "Diseño",
+            "Prototipo",
+            "Necesidades",
+            "Pruebas",
+            "Base"
+        ]
+    },
+    {
+        "question": "Las ………………. evalúan el producto para determinar que cumple con el objetivo previsto.",
+        "selected": "Pruebas",
+        "answers": [
+            "Fases",
+            "Liberación",
+            "Pruebas",
+            "Metodologías",
+            "Arquitectura"
+        ]
+    },
+    {
+        "question": "Los elementos principales de un diagrama de estado",
+        "selected": "Estado, estado inicial, estado final, transición",
+        "answers": [
+            "Estado inicial, transición, estado",
+            "Estado, estado inicial, estado final, transición",
+            "Estado, estado final, caso de uso, estado final",
+            "Estado inicial, transición, estado",
+            "Estado, caso de uso, transición"
+        ]
+    }
+]
