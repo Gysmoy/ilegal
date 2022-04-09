@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) en el que se establece el enlace de datos?",
+        "selected": "Target",
+        "answers": [
+            "Source",
+            "End",
+            "Target",
+            "Start",
+            "Main"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del objeto (y la propiedad) al que hace referencia el enlace de datos?",
+        "selected": "Source",
+        "answers": [
+            "Main",
+            "First",
+            "Source",
+            "Init",
+            "Target"
+        ]
+    },
+    {
+        "question": "¿Qué es Data Binding?",
+        "selected": "Técnica de vincular las propiedades de dos objetos",
+        "answers": [
+            "Técnica para mostrar datos",
+            "Es una propiedad de estilo",
+            "Técnica de vincular las propiedades de dos objetos",
+            "Es una clase de navegación",
+            "Es un método para el diseño"
+        ]
+    },
+    {
+        "question": "¿Cuál es el significado de XAML?",
+        "selected": "Extensible Application Markup Language",
+        "answers": [
+            "Es un entorno de trabajo de C++",
+            "Permite diseñar aplicaciones sin tener en cuenta jerarquías de programación",
+            "Fue desarrollado por Ubuntu para hacer aplicaciones",
+            "Extensible Application Markup Language",
+            "Es una plataforma para realizar para se utiliza para construir aplicaciones Windows"
+        ]
+    },
+    {
+        "question": "Cuáles son los tipos de enlace de datos que muestra Data Binding",
+        "selected": "Enlace unidireccional y bidireccional",
+        "answers": [
+            "Enlace bidireccional",
+            "Enlace bidireccional y multidireccional",
+            "Enlace unidireccional y multidireccional",
+            "Enlace unidireccional y bidireccional",
+            "Enlace unidireccional"
+        ]
+    },
+    {
+        "question": "¿Qué es Xamarin?",
+        "selected": "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+        "answers": [
+            "Un depurador y un emulador de dispositivos",
+            "Máquina virtual para ejecutar programas",
+            "Es un marco de desarrollo de aplicaciones móviles multiplataforma.",
+            "Son librerías OpenGL",
+            "Sistema gestionador de base de datos"
+        ]
+    },
+    {
+        "question": "A que contenedores se pueden aplicar los recursos de estilos a través del archivothemeresources.xaml",
+        "selected": "TextBlock y RichTextBlock",
+        "answers": [
+            "TextBlock y ComboBlock",
+            "RichTextBlock y Button",
+            "TextBlock y ViewBlock",
+            "RichTextBlock y ComboBlock",
+            "TextBlock y RichTextBlock"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre del archivo que necesitamos abrir para declarar un estilo global en XAML?",
+        "selected": "App.xaml",
+        "answers": [
+            "Style.xaml",
+            "Layout.xaml",
+            "App.xaml",
+            "view.xaml",
+            "Frame.xaml"
+        ]
+    },
+    {
+        "question": "¿En qué generación aparece la itinerancia internacional (roaming)?",
+        "selected": "2G",
+        "answers": [
+            "1G",
+            "3G",
+            "0G",
+            "4G",
+            "2G"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Style>",
+            "<Property>",
+            "<ResourceDictionary>",
+            "<Key>",
+            "<Setter>"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "Frame",
+            "StackLayout",
+            "ScrollView",
+            "ContentPresenter",
+            "TemplatedView"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza principalmente como elemento estructural y sirve como clase base para Frame?",
+        "selected": "ContentView",
+        "answers": [
+            "ScrollView",
+            "Frame",
+            "ContentPresente",
+            "TemplatedView",
+            "ContentView"
+        ]
+    },
+    {
+        "question": "No es la descripción correcta de los StackLayout",
+        "selected": "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+        "answers": [
+            "El posicionamiento es determinado por el orden de las vistas en la que se añadieron al diseño y las opciones del diseño de las vistas",
+            "Las Vistas en un StackLayout pueden dimensionarse en función del espacio en el diseño utilizando las opciones de diseño",
+            "Organiza vistas en una línea unidimensional («pila»), ya sea superior e inferior",
+            "Organiza vistas en una línea unidimensional («pila»),",
+            "Organiza las vistas ya sea horizontal o verticalmente."
+        ]
+    },
+    {
+        "question": "¿Qué tipo de Layout organiza su contenido en una sola fila o columna?",
+        "selected": "LinearLayout",
+        "answers": [
+            "FineLayout",
+            "AbsoluteLayout",
+            "TableLayout",
+            "RelativeLayout",
+            "LinearLayout"
+        ]
+    },
+    {
+        "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "Pull-to-refresh",
+            "Las acciones de contexto",
+            "Eventos",
+            "Acciones personalizadas",
+            "La selección"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre que se les da a los elementos de datos en un ListView?",
+        "selected": "Celdas",
+        "answers": [
+            "Lista",
+            "Cuerpo",
+            "Celdas",
+            "Nicho",
+            "Punteros"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las secciones de los componentes de los ListView?",
+        "selected": "Encabezado y pie de página, grupos y células",
+        "answers": [
+            "Encabezado y pie de página, secciones, columnas",
+            "Encabezado y pie de página y grupos",
+            "Encabezado y pie de página, grupos y células",
+            "Grupos, células y secciones",
+            "Grupos y células"
+        ]
+    },
+    {
+        "question": "¿Que necesitaría tener la aplicación para que sea exitosa?",
+        "selected": "Fácil de usar, Intuitiva, De uso habitual",
+        "answers": [
+            "Lenta",
+            "Diseño fluido",
+            "Fácil de usar, Intuitiva, De uso habitual",
+            "Diseño para web",
+            "Diseño estático"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Principal",
+            "Null",
+            "Inicio",
+            "Start",
+            "Raíz"
+        ]
+    },
+    {
+        "question": "¿Cuál es la clase en Xamarin Forms que proporciona una experiencia de navegación jerárquica en la que el usuario puede navegar por las páginas?",
+        "selected": "NavigationPage",
+        "answers": [
+            "CarruselPage",
+            "NavigationPage",
+            "TabbedPage",
+            "ContentPage",
+            "FlyoutPage"
+        ]
+    }
+]

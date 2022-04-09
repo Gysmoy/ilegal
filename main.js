@@ -24,9 +24,10 @@ var attemps = {
         { id: "19-20-1db87a14" },
         { id: "19-20-6abf4a82" },
         { id: "19-20-84b12bae" },
+        { id: "19-20-a15d25e1" },
         { id: "20-20-8d076785" },
         { id: "20-20-fa005713" },
-        { id: "20-20-a15d25e1" },
+        { id: "19-20-d137d16e" },
     ]
 };
 
@@ -34,7 +35,7 @@ function getData(course) {
     attemps[`_${course}`].forEach((attemp, key) => {
         $.getJSON(`${course}/${attemp.id}.json`, res => {
             attemps[`_${course}`][key].data = res;
-            attemps[`_${course}`][key].nota = attemp.id.substr(0,2);
+            attemps[`_${course}`][key].nota = attemp.id.substr(0, 2);
         })
     })
 }
@@ -43,7 +44,7 @@ $(function () {
     getData($('#examen').val());
 })
 
-$(document).on('change', '#examen', function() {
+$(document).on('change', '#examen', function () {
     getData($(this).val());
 })
 
@@ -53,14 +54,19 @@ $(document).on('change', '#query', function () {
     $('#results').empty();
     attemps[`_${examen}`].forEach(attemp => {
         attemp.data.forEach(question => {
-            if (question.question == query) {
+            if (
+                question.question.replaceAll(' ', '').replaceAll('\n', '')
+                ==
+                query.replaceAll(' ', '').replaceAll('\n', '')
+            ) {
                 $('#results').append(`
                 <tr>
-                    <td>${question.selected}</td>
+                    <td id="${attemp.id}"></td>
                     <td> - </td>
                     <td width="0%">Sacó ${attemp.nota}</td>
                 </tr>
                 `);
+                $(`#${attemp.id}`).text(question.selected);
             }
         })
     })
