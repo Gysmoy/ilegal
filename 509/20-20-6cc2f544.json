@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuál es el nombre de la propiedad de la instancia NavigationPage que proporciona acceso a la primera página de la pila de navegación?",
+        "selected": "RootPage",
+        "answers": [
+            "FlyoutPage",
+            "TabbedPage",
+            "RootPage",
+            "CaruselPage",
+            "ContentPage"
+        ]
+    },
+    {
+        "question": "¿Cuál es la clase en Xamarin Forms que proporciona una experiencia de navegación jerárquica en la que el usuario puede navegar por las páginas?",
+        "selected": "NavigationPage",
+        "answers": [
+            "NavigationPage",
+            "TabbedPage",
+            "FlyoutPage",
+            "ContentPage",
+            "CarruselPage"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la primera página agregada a una pila de navegación de la aplicación?",
+        "selected": "Raíz",
+        "answers": [
+            "Null",
+            "Start",
+            "Inicio",
+            "Raíz",
+            "Principal"
+        ]
+    },
+    {
+        "question": "Cuáles son los tipos de enlace de datos que muestra Data Binding",
+        "selected": "Enlace unidireccional y bidireccional",
+        "answers": [
+            "Enlace unidireccional",
+            "Enlace bidireccional",
+            "Enlace bidireccional y multidireccional",
+            "Enlace unidireccional y multidireccional",
+            "Enlace unidireccional y bidireccional"
+        ]
+    },
+    {
+        "question": "¿Cuál es el significado de XAML?",
+        "selected": "Extensible Application Markup Language",
+        "answers": [
+            "Permite diseñar aplicaciones sin tener en cuenta jerarquías de programación",
+            "Extensible Application Markup Language",
+            "Fue desarrollado por Ubuntu para hacer aplicaciones",
+            "Es una plataforma para realizar para se utiliza para construir aplicaciones Windows",
+            "Es un entorno de trabajo de C++"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las principales ventajas del uso de Xamarin?",
+        "selected": "Fácil de aprender",
+        "answers": [
+            "No admite Android, IOS y Windows.",
+            "Tiene límites",
+            "Fácil de aprender",
+            "Costo alto",
+            "Desarrollo lento"
+        ]
+    },
+    {
+        "question": "¿Qué es un estilo en el desarrollo de Aplicaciones para móviles?",
+        "selected": "Conjunto de propiedades visuales",
+        "answers": [
+            "Prototipo de la APP",
+            "Librería",
+            "Conjunto de propiedades visuales",
+            "Emulador",
+            "Es un marco de trabajo"
+        ]
+    },
+    {
+        "question": "¿Mencione la característica tecnológica clave de la generación 4G?",
+        "selected": "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios",
+        "answers": [
+            "La adopción del protocolo WiMAX",
+            "Mensajes de texto",
+            "La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda",
+            "La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil",
+            "La adopción de la tecnología de conmutación basada en paquetes para todos los servicios"
+        ]
+    },
+    {
+        "question": "A que contenedores se pueden aplicar los recursos de estilos a través del archivothemeresources.xaml",
+        "selected": "TextBlock y RichTextBlock",
+        "answers": [
+            "RichTextBlock y ComboBlock",
+            "TextBlock y RichTextBlock",
+            "TextBlock y ComboBlock",
+            "TextBlock y ViewBlock",
+            "RichTextBlock y Button"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre de la etiqueta en la cual se definirán los recursos a utilizar en los XAML de nuestro proyecto? ",
+        "selected": "<ResourceDictionary>",
+        "answers": [
+            "<Property>",
+            "<ResourceDictionary>",
+            "<Style>",
+            "<Setter>",
+            "<Key>"
+        ]
+    },
+    {
+        "question": "¿Cuál es el uso de los Layouts en Xamarin.Forms?",
+        "selected": "Componer controles de interfaz de usuario en estructuras visuales",
+        "answers": [
+            "Prototipo del app",
+            "Emulador del app",
+            "Desarrollo del código",
+            "Bases de datos del app",
+            "Componer controles de interfaz de usuario en estructuras visuales"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza para colocar los elementos secundarios en una pila de forma horizontal o vertical según la propiedad Orientation?",
+        "selected": "StackLayout",
+        "answers": [
+            "ScrollView",
+            "TemplatedView",
+            "StackLayout",
+            "Frame",
+            "ContentPresenter"
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes Layouts se utiliza principalmente como elemento estructural y sirve como clase base para Frame?",
+        "selected": "ContentView",
+        "answers": [
+            "ContentView",
+            "TemplatedView",
+            "Frame",
+            "ScrollView",
+            "ContentPresente"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de Layout organiza su contenido en una sola fila o columna?",
+        "selected": "LinearLayout",
+        "answers": [
+            "FineLayout",
+            "AbsoluteLayout",
+            "RelativeLayout",
+            "LinearLayout",
+            "TableLayout"
+        ]
+    },
+    {
+        "question": "¿Cuál es el nombre que se les da a los elementos de datos en un ListView?",
+        "selected": "Celdas",
+        "answers": [
+            "Cuerpo",
+            "Punteros",
+            "Nicho",
+            "Celdas",
+            "Lista"
+        ]
+    },
+    {
+        "question": "Permite al usuario tirar List View hacia abajo para actualizar el contenido",
+        "selected": "Pull-to-refresh",
+        "answers": [
+            "Las acciones de contexto",
+            "Pull-to-refresh",
+            "Acciones personalizadas",
+            "La selección",
+            "Eventos"
+        ]
+    },
+    {
+        "question": "¿Cuál de las opciones no es una librería nativa en Android?",
+        "selected": "ExpandableListView",
+        "answers": [
+            "Free Type",
+            "SQLite",
+            "SGL",
+            "ExpandableListView",
+            "Librerias 3D"
+        ]
+    },
+    {
+        "question": "¿Qué es Data Binding?",
+        "selected": "Técnica de vincular las propiedades de dos objetos",
+        "answers": [
+            "Técnica de vincular las propiedades de dos objetos",
+            "Técnica para mostrar datos",
+            "Es una clase de navegación",
+            "Es un método para el diseño",
+            "Es una propiedad de estilo"
+        ]
+    },
+    {
+        "question": "¿Qué servicio permite trabajar con datos en especial cuando se trabaje con arreglos, matrices o base de datos?",
+        "selected": "Content Providers",
+        "answers": [
+            "Views",
+            "Activity Manager",
+            "Content Providers",
+            "ExpandableListView",
+            "Resource Manager"
+        ]
+    },
+    {
+        "question": "Permite ejecutar instrucciones SQL en una base de datos SQLite",
+        "selected": "FilterItemAsync",
+        "answers": [
+            "FilterItemAsync",
+            "SaveItemsAsync",
+            "DeleteItemAsync",
+            "Databasecontext",
+            "GetItemsAsync"
+        ]
+    }
+]
