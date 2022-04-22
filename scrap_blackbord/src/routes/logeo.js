@@ -8,25 +8,15 @@ async function logueo(page, credentials) {
     start_messages.push('BlackBoard cargó correctamente');
     start_messages.push('Ingresando usuario');
     await page.type('#i0116', credentials.user);
-    await page.click('#idSIButton9');
-
-    await page.waitForResponse(response => {
-        return response.url().includes('arrow_left');
-    });
-
-    start_messages.push('Ingresando contraseña');
+    await page.keyboard.press('Enter');
+    await page.waitForSelector('#i0118');
+    await page.waitForTimeout(1500);
     await page.type('#i0118', credentials.password);
-    await page.click('#idSIButton9');
-    
-    start_messages.push('Confirmando caché de navegador');
-    await page.waitForTimeout(2000);
-    await page.click('#idBtn_Back');
-
-    await page.waitForResponse('https://senati.blackboard.com/learn/api/v1/streams/ultra');
-    start_messages.push('BlackBoard ultra cargó correctamente');
-
-    console.table(start_messages);
+    await page.waitForTimeout(1500);
+    await page.keyboard.press('Enter');
+    //await page.waitForTimeout(2000);
+    await page.waitForSelector('.win-button.button_primary.button.ext-button.primary.ext-primary')
+    await page.keyboard.press('Enter');
     return page;
 }
-
 module.exports = logueo;
