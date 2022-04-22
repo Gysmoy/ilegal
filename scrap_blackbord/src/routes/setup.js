@@ -6,9 +6,10 @@ async function setup() {
     
     // Obteniendo configuración para navegar
     try {
-        var launchConfig = JSON.parse(fs.readFileSync('json/launch.json', 'utf8'));
+        var launchConfig = JSON.parse(fs.readFileSync('./json/launch.json', 'utf8'));
     } catch (error) {
         var launchConfig = {
+            headless: false,
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
