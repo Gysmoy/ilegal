@@ -124,7 +124,8 @@ async function app() {
         await plataform.goto(url);
 
         await plataform.waitForResponse('https://senati.blackboard.com/learn/api/v1/streams/ultra')
-        await plataform.waitForTimeout(1000);
+        await plataform.waitForSelector('.bb-click-target');
+       // await plataform.waitForTimeout(1000);
         // ingresamos al excamen selecionado
         await plataform.evaluate(function (exam) {
             console.log(exam);
@@ -137,13 +138,13 @@ async function app() {
         }, exam);
 
         await plataform.waitForSelector('.has-link.js-attempt-posted')
-        await plataform.waitForTimeout(500);
+       // await plataform.waitForTimeout(500);
         await plataform.evaluate(function () {
             $('.has-link.js-attempt-posted').click();
         });
 
         await plataform.waitForSelector('.multiple-attempts-list li .grade-input-display.grade-ellipsis bdi');
-        await page.waitForTimeout(1000);
+       // await page.waitForTimeout(1000);
 
 
         // obtenemos la cantidad de intentos echos y la url actual
