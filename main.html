@@ -67,52 +67,25 @@
         </fieldset>
         <fieldset>
             <legend>Preguntas en duda</legend>
-            <form id="questions">
-                <div class="question">
-                    <div class="question-header">
-                        ¿Qué es una aplicación móvil?
-                    </div>
-                    <div class="question-body">
-                        <div class="question-answer">
-                            <label for="answer-1">
-                                <input type="radio" id="answer-1" name="question-1" value="1">
-                                <span>Una aplicación móvil es una aplicación que se ejecuta en un dispositivo móvil
-                                    (smartphone, tablet, etc.)</span>
-                            </label>
-                        </div>
-                        <div class="question-answer">
-                            <label for="answer-2">
-                                <input type="radio" id="answer-2" name="question-1" value="2">
-                                <span>Una aplicación móvil es una aplicación que se ejecuta en un dispositivo móvil
-                                    (smartphone, tablet, etc.)</span>
-                            </label>
-                        </div>
-                        <div class="question-answer">
-                            <label for="answer-3">
-                                <input type="radio" id="answer-3" name="question-1" value="3">
-                                <span>Una aplicación móvil es una aplicación que se ejecuta en un dispositivo móvil
-                                    (smartphone, tablet, etc.)</span>
-                            </label>
-                        </div>
-                        <div class="question-answer">
-                            <label for="answer-4">
-                                <input type="radio" id="answer-4" name="question-1" value="4">
-                                <span>Una aplicación móvil es una aplicación que se ejecuta en un dispositivo móvil
-                                    (smartphone, tablet, etc.)</span>
-                            </label>
-                        </div>
-                        <div class="question-answer">
-                            <label for="answer-5">
-                                <input type="radio" id="answer-5" name="question-1" value="5">
-                                <span>Una aplicación móvil es una aplicación que se ejecuta en un dispositivo móvil
-                                    (smartphone, tablet, etc.)</span>
-                            </label>
-                        </div>
-                    </div>
+            <form>
+                <div class="input-group">
+                    <label for="json">Ingrese su JSON</label>
+                    <textarea id="json" rows="10"></textarea>
+                </div>
+                <div class="form-buttons">
+                    <button type="button" id="download">Obtener data</button>
                 </div>
             </form>
         </fieldset>
+        <fieldset>
+            <legend>Copie este array en su código</legend>
+            <pre>
+                <code id="array"></code>
+            </pre>
+        </fieldset>
     </main>
+    <script src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="assets/js/jszip.min.js"></script>
     <script src="assets/js/blackboard.min.js"></script>
 </body>
 

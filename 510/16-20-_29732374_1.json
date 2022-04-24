@@ -1,0 +1,542 @@
+[
+  {
+    "id": "_197701505_1",
+    "question": "¿Cuál es un elemento del proyecto ASTOR?",
+    "answers": [
+      {
+        "id": "2b92933290114293a760e5756d0a6955",
+        "text": "View"
+      },
+      {
+        "id": "263a80ff28ba4f949669ed8f29594dce",
+        "text": "Requerimientos funcionales"
+      },
+      {
+        "id": "7591cd53454e4f7f93497e535c9ca079",
+        "text": "Un equipo de procesamiento"
+      },
+      {
+        "id": "3b683adec78d42b79d6ad08aeb7475c5",
+        "text": "DAO"
+      },
+      {
+        "id": "636a51c26d804b8099f09750bf1437f4",
+        "text": "Requerimientos no funcionales"
+      }
+    ],
+    "selected": "Un equipo de procesamiento"
+  },
+  {
+    "id": "_197701506_1",
+    "question": "¿Qué es la identificación de escenas en la RA?",
+    "answers": [
+      {
+        "id": "af6f102cef424e36a38e8e895ab0d8d8",
+        "text": "Consiste en averiguar qué escenario físico real es el que el usuario quiere que se aumente con información digital."
+      },
+      {
+        "id": "d4a177c087f0488bbd9a1f477986ad1b",
+        "text": "Consiste en determinar que fotos, videos se van utilizar en la RA"
+      },
+      {
+        "id": "747436af90754098b7a856ac90757b16",
+        "text": "Consiste en administrar las imágenes del mundo exterior y visualizarlas en 3D"
+      },
+      {
+        "id": "2c9f3237ac934250890e7ca119a99a20",
+        "text": "Consiste en formatear imágenes para manipularlas en aplicaciones con RA"
+      },
+      {
+        "id": "d8f4eefaa55146b99ff4eae683420810",
+        "text": "Consiste en capturar las imágenes para tratarlas en RA"
+      }
+    ],
+    "selected": "Consiste en averiguar qué escenario físico real es el que el usuario quiere que se aumente con información digital."
+  },
+  {
+    "id": "_197701507_1",
+    "question": "¿Qué elemento se necesita para la visualización en Aumentaty Viewer?",
+    "answers": [
+      {
+        "id": "e93c580550ac49c2a4196b3cafb3a137",
+        "text": "Pantalla"
+      },
+      {
+        "id": "9fd8557b8cfc41e1b3929a21813e985d",
+        "text": "Software de edición de video"
+      },
+      {
+        "id": "9a6a8986f1b44025a62247990349fd0a",
+        "text": "Micrófono"
+      },
+      {
+        "id": "1fdbd5631477427892dbc5e243d32c22",
+        "text": "Cámara"
+      },
+      {
+        "id": "a151e8a1c19a442186b0c53e60b421a6",
+        "text": "Lápiz óptico"
+      }
+    ],
+    "selected": "Cámara"
+  },
+  {
+    "id": "_197701508_1",
+    "question": "¿Cómo se llama el tipo de identificación de imágenes donde se identifica la escena mediante reconocimiento de imágenes o mediante la estimación de la posición?",
+    "answers": [
+      {
+        "id": "bda5353c96d04fc99206f36e928c30a3",
+        "text": "Personal"
+      },
+      {
+        "id": "b85201b88dce4f3e9e14d1ffed145a99",
+        "text": "Punto de inserción"
+      },
+      {
+        "id": "441a8240625549d9b8b4503fc97ea4db",
+        "text": "Marcador"
+      },
+      {
+        "id": "27e0795a98a947ec8ee959672df4e87a",
+        "text": "Hibrida"
+      },
+      {
+        "id": "1e23c75140114a82a7f09aa9a190cb65",
+        "text": "Formal"
+      }
+    ],
+    "selected": "Punto de inserción"
+  },
+  {
+    "id": "_197701509_1",
+    "question": "¿Qué se necesita para exportar a redes sociales en Aumentaty Viewer?",
+    "answers": [
+      {
+        "id": "fb3f3204e334425d99fc8ccd3224a084",
+        "text": "Una cuenta de Facebook"
+      },
+      {
+        "id": "3e0ae757559c48d1a82201a09554e843",
+        "text": "Una contraseña"
+      },
+      {
+        "id": "7468b64d8cc54615bfbd825ce0bc09e8",
+        "text": "Un usuario"
+      },
+      {
+        "id": "e6813238fa5d4ba3b4851d2f1ab00c2c",
+        "text": "Una cuenta en Twitter"
+      },
+      {
+        "id": "837c48b6014c45ac90980c574aaf04a6",
+        "text": "Una cuenta en Aumentaty"
+      }
+    ],
+    "selected": "Una cuenta en Aumentaty"
+  },
+  {
+    "id": "_197701510_1",
+    "question": "¿Cuál es una arquitectura en sistemas distribuidos de realidad aumentada?",
+    "answers": [
+      {
+        "id": "7bc7072e70564027a1fc68788466c591",
+        "text": "END"
+      },
+      {
+        "id": "0faf8f47d9f847d09677dc56c16d8406",
+        "text": "Unity"
+      },
+      {
+        "id": "cd2c8c9084b94d8dbf4ef5bc9c6a79d2",
+        "text": "UML"
+      },
+      {
+        "id": "c2e74dcf5ff84351bbee5a55a99e83b4",
+        "text": "LAYAR"
+      },
+      {
+        "id": "dd5df17454e44bf084b011ff6b4a4ed3",
+        "text": "BIM"
+      }
+    ],
+    "selected": "Unity"
+  },
+  {
+    "id": "_197701511_1",
+    "question": "¿Con que versiones de Android se puede exportar dede Aumentaty?",
+    "answers": [
+      {
+        "id": "2b0abeff831e4a3a86e5dc4220e6dafe",
+        "text": "Inferior a la version 3.0"
+      },
+      {
+        "id": "2dbdeec721874bc38b492cf534afb903",
+        "text": "Versión superior a 4.x"
+      },
+      {
+        "id": "029ecac7dc954ee4be9f3142b5568bb6",
+        "text": "Solamente la versión 5.0"
+      },
+      {
+        "id": "dba66fea2fe1409aa6b243b35c9e510a",
+        "text": "Versión 2.0"
+      },
+      {
+        "id": "5ad7601cd47946f8ad18ddf3f2c18095",
+        "text": "Solamente la versión 7.0"
+      }
+    ],
+    "selected": "Versión superior a 4.x"
+  },
+  {
+    "id": "_197701512_1",
+    "question": "¿Cuál de las siguientes aplicaciones es un claro ejemplo de RA?",
+    "answers": [
+      {
+        "id": "9420f6a3a14446fbb7be4d9cdf121f6f",
+        "text": "Pokemon GO"
+      },
+      {
+        "id": "f45ec3e90be14b66a812d742c9a55af7",
+        "text": "Mario Bross"
+      },
+      {
+        "id": "26b97ccbd26e471b9eba915bb07c4976",
+        "text": "Generator Rex"
+      },
+      {
+        "id": "43f5f70b30c64f6b933208dbf301e4d7",
+        "text": "Combat"
+      },
+      {
+        "id": "6c8a1bb7ac3d43f5afff92555bea30b5",
+        "text": "Fifa"
+      }
+    ],
+    "selected": "Pokemon GO"
+  },
+  {
+    "id": "_197701513_1",
+    "question": "¿Cuál es el proceso de gran importancia en los sistemas de realidad aumentada, ya que sin el sería casi imposible detectar el entorno físico sobre el que se desea ampliar la información?",
+    "answers": [
+      {
+        "id": "05fd6b19e14e4b818f67ddd8c7b05abe",
+        "text": "BI"
+      },
+      {
+        "id": "bae7f51d5bde439f9d70d137c481e756",
+        "text": "Reconocimiento de imágenes"
+      },
+      {
+        "id": "39dbfd02044e41e6820308a2ca22afc4",
+        "text": "MVC"
+      },
+      {
+        "id": "c6a5e4e68c114c04b2af3f539bcbe963",
+        "text": "BSC"
+      },
+      {
+        "id": "89936a39217e41739ebb8ad961523d06",
+        "text": "ETL"
+      }
+    ],
+    "selected": "Reconocimiento de imágenes"
+  },
+  {
+    "id": "_197701514_1",
+    "question": "¿Qué hace posible que podamos superponer diferentes elementos visuales y jugar con la perspectiva en la RA con dispositivos moviles?",
+    "answers": [
+      {
+        "id": "36bc84266ee7454db654eafba2dc7488",
+        "text": "Pantalla y camara"
+      },
+      {
+        "id": "651de077eef84ad39d738b322cdd081a",
+        "text": "Sensores GPS, brújula digital y cámara"
+      },
+      {
+        "id": "940fa404d50f49b6969b5e0f58c5863c",
+        "text": "Micrófono y brujula"
+      },
+      {
+        "id": "c1aa198c37db4f529e6ba8ab6b04ba29",
+        "text": "Carga de la batería y GPS"
+      },
+      {
+        "id": "b9a06d1ef5e3450485499920964a8bd4",
+        "text": "Aplicaciones"
+      }
+    ],
+    "selected": "Sensores GPS, brújula digital y cámara"
+  },
+  {
+    "id": "_197701515_1",
+    "question": "¿Cómo se le llamaba al elemento predefinido con apariencias similares a los de un código QR se utilizaban en el pasado en RA de imágenes?",
+    "answers": [
+      {
+        "id": "bff55632e8894eedaf25c302f598e54f",
+        "text": "Plugin"
+      },
+      {
+        "id": "801010f0c931431199ce2e55b283c588",
+        "text": "Forma"
+      },
+      {
+        "id": "7265a1b8a16f44ec8cd3e4e41f6c6858",
+        "text": "Markers"
+      },
+      {
+        "id": "37e17b487a8842ffb6230d094885d14a",
+        "text": "Extensión"
+      },
+      {
+        "id": "ef3d7c35cf0c455a92f355be1f163b29",
+        "text": "Image"
+      }
+    ],
+    "selected": "Markers"
+  },
+  {
+    "id": "_197701516_1",
+    "question": "¿Qué es lo que consiste en averiguar qué escenario físico real es el que el usuario quiere que se aumente con información digital?",
+    "answers": [
+      {
+        "id": "06532a98e2694084bcfe3c98c0268b9b",
+        "text": "Identificación de escenas"
+      },
+      {
+        "id": "a68aff8938534567ba525f5a2ad121bb",
+        "text": "BSC"
+      },
+      {
+        "id": "d9c1fecb2a9242a6b1dedd9ae2131145",
+        "text": "MVC"
+      },
+      {
+        "id": "9fcf0d553b2243fdab4f40e236be5735",
+        "text": "ETL"
+      },
+      {
+        "id": "c6354acd87ed42e680dbe04db4dac7f1",
+        "text": "BI"
+      }
+    ],
+    "selected": "Identificación de escenas"
+  },
+  {
+    "id": "_197701517_1",
+    "question": "¿Cuál es una de las tareas más importantes en cualquier sistema de realidad aumentada es la de identificar el?",
+    "answers": [
+      {
+        "id": "d0ffd7c639b847e0a7afa89befa9380c",
+        "text": "Escenario"
+      },
+      {
+        "id": "549fe44faf734fc59fc7f62cde60757b",
+        "text": "BSC"
+      },
+      {
+        "id": "a306d80910e04effb040b9b77a5fc831",
+        "text": "BI"
+      },
+      {
+        "id": "520c277e0be1443b96bbda34fa6ad25e",
+        "text": "ETL"
+      },
+      {
+        "id": "ce41a6fa5bf34124997d276feb1b071d",
+        "text": "MVC"
+      }
+    ],
+    "selected": "Escenario"
+  },
+  {
+    "id": "_197701518_1",
+    "question": "¿Cómo se le llama al tipo de RA que nos permiten reconocer cualquier estancia, habitación o espacio donde estemos situados?",
+    "answers": [
+      {
+        "id": "97bfd4b804c04edfa796d5ad8dd6ba87",
+        "text": "RA de espacios"
+      },
+      {
+        "id": "1a2b7c3aef3f4b3ca9214e959bb26a9f",
+        "text": "RA de imágenes"
+      },
+      {
+        "id": "ffd902a6f9744698ac7ed50c0a5c6dbf",
+        "text": "RA en objetos"
+      },
+      {
+        "id": "d9a1bf1c6d5c451f9f50cc359e9a1608",
+        "text": "RA en mapas"
+      },
+      {
+        "id": "5db4f40b9b694cde9c26635f3bf9b25b",
+        "text": "RA en automóviles"
+      }
+    ],
+    "selected": "RA de espacios"
+  },
+  {
+    "id": "_197701519_1",
+    "question": "Un único controlador recibe toda la información necesaria para actuar sobre los elementos, enviando la información a los actuadores e interfaces",
+    "answers": [
+      {
+        "id": "652a81bf21ba42fa82940a92abb6309b",
+        "text": "Neutral"
+      },
+      {
+        "id": "caff4422a3aa4e59bdd7a4c1d54de9bc",
+        "text": "Homogénea"
+      },
+      {
+        "id": "0282fbc00e1c4e78a110d44dca9918e0",
+        "text": "Centralizada"
+      },
+      {
+        "id": "90ef8d0fbe9f4eaaa9a6be8bb08d296d",
+        "text": "Expandible"
+      },
+      {
+        "id": "3cd74cddd1c14674848ac1a65759306c",
+        "text": "General"
+      }
+    ],
+    "selected": "Neutral"
+  },
+  {
+    "id": "_197701520_1",
+    "question": "¿Cuál no es una de las ventajas de la visión artificial?",
+    "answers": [
+      {
+        "id": "118e69df7e7c4eb98cf12d3ffa5fd800",
+        "text": "Se reducen los costos de reparación y chatarra al poder detectar piezas en mal estado."
+      },
+      {
+        "id": "309ceb09542c4f2cbd12bd7a2499b508",
+        "text": "Se puede realizar la inspección al 100% y sin contacto físico"
+      },
+      {
+        "id": "38cb2a999376409d86ba55dfc9d5bfe5",
+        "text": "Protege a los trabajadores de ambientes industriales"
+      },
+      {
+        "id": "0c9f923fba5048c8bb5fa14a3b3707f2",
+        "text": "No sufre de fatiga y elimina el factor subjetivo en la inspección"
+      },
+      {
+        "id": "ae61d6feb2ea492284cf06b52d8766e2",
+        "text": "Se pueden automatizar tareas repetitivas de inspección"
+      }
+    ],
+    "selected": "Protege a los trabajadores de ambientes industriales"
+  },
+  {
+    "id": "_197701521_1",
+    "question": "¿En forma de que los sistemas de visión artificial obtienen información del entorno?",
+    "answers": [
+      {
+        "id": "fb8404a0219943dc97a347eb01a63ce9",
+        "text": "Datos"
+      },
+      {
+        "id": "8249030dbe34453c8b194ed65cc37bdb",
+        "text": "Imágenes"
+      },
+      {
+        "id": "d2078d56314b4504b47252ed781fe03a",
+        "text": "Objetos"
+      },
+      {
+        "id": "e4b306eb9c194be8b2b25ae5f9810991",
+        "text": "Valores numéricos"
+      },
+      {
+        "id": "d4e2d00030bb462bad9789e4227ba0d3",
+        "text": "Matrices de datos"
+      }
+    ],
+    "selected": "Imágenes"
+  },
+  {
+    "id": "_197701522_1",
+    "question": "¿Cómo se llama aquella técnica de la visión artificial que se utiliza mucho en el sector alimentación y que permite conocer la composición de los materiales atraves de la medida de la longitud de onda?",
+    "answers": [
+      {
+        "id": "ac062eeaaf0c4c0c9b638b70756e8e1e",
+        "text": "Vision industrial"
+      },
+      {
+        "id": "4af3025dd3904f839e337d120ed9ede3",
+        "text": "Visión 2D"
+      },
+      {
+        "id": "857416911b9247d6898e784195e2f01e",
+        "text": "Visión 3D"
+      },
+      {
+        "id": "5f8f0f82e84a4e15b960d31864c6b9cd",
+        "text": "Termografía"
+      },
+      {
+        "id": "c676bc94118244e38e427df38811256e",
+        "text": "Vision hiperespectral"
+      }
+    ],
+    "selected": "Vision hiperespectral"
+  },
+  {
+    "id": "_197701523_1",
+    "question": "¿Cuál es una de las aplicaciones más usadas en la visión artificial?",
+    "answers": [
+      {
+        "id": "03bd4dc08ae94060bc6813cdc7854f94",
+        "text": "Detectar defectos"
+      },
+      {
+        "id": "ff36e0f134074f33acb991267933ecde",
+        "text": "Marcar objetos industriales"
+      },
+      {
+        "id": "a8c89962c2ad40809bc2cb4cad9ad576",
+        "text": "Marcar objetos industriales"
+      },
+      {
+        "id": "b2acd5cc75214a8583ce5a7c557cacb2",
+        "text": "Separar objetos"
+      },
+      {
+        "id": "d89b0756cd5f4cd7b34e9eb813cd5181",
+        "text": "Empaquetar objetos"
+      }
+    ],
+    "selected": "Detectar defectos"
+  },
+  {
+    "id": "_197701524_1",
+    "question": "¿Qué técnica de visión artificial es aquella que nos dice que de estos sensores, se obtiene información sobre la temperatura de las muestras o cuerpos en forma de imagen?",
+    "answers": [
+      {
+        "id": "6e7a5ede6fd143d296c7980779b0e607",
+        "text": "Inteligencia Artificial"
+      },
+      {
+        "id": "da092ffa8e224944939d840d67a1a0a1",
+        "text": "Termografía"
+      },
+      {
+        "id": "ced4994b6b4d4025bb7be19541011d90",
+        "text": "loT"
+      },
+      {
+        "id": "2fa22289806540c7bdfd78dc17cdc304",
+        "text": "Robótica"
+      },
+      {
+        "id": "ed62b294233d4573b02903bd766fb766",
+        "text": "Domótica"
+      }
+    ],
+    "selected": "Domótica"
+  }
+]
