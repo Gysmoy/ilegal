@@ -42,7 +42,8 @@ var attemps = {
         {id: "17-20-_29611630_1"},
         {id: "17-20-_29743096_1"},
         {id: "17-20-_29744898_1"},
-        {id: "18-20-_29751241_1"}
+        {id: "18-20-_29751241_1"},
+        {id: "17-20-_29756515_1"},
     ]
 };
 
@@ -79,6 +80,7 @@ $(document).on('change', '#query', function () {
                     <td>${attemp.id}</td>
                     <td id="${attemp.id}"></td>
                     <td width="0%">${attemp.nota}</td>
+                    <td>${question.correct}</td>
                 </tr>
                 `);
                 $(`#${attemp.id}`).text(question.selected);
