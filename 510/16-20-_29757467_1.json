@@ -1,0 +1,542 @@
+[
+  {
+    "id": "_197900215_1",
+    "question": "¿Cuál no es una de las ventajas de la visión artificial?",
+    "answers": [
+      {
+        "id": "309ceb09542c4f2cbd12bd7a2499b508",
+        "text": "Se puede realizar la inspección al 100% y sin contacto físico"
+      },
+      {
+        "id": "0c9f923fba5048c8bb5fa14a3b3707f2",
+        "text": "No sufre de fatiga y elimina el factor subjetivo en la inspección"
+      },
+      {
+        "id": "ae61d6feb2ea492284cf06b52d8766e2",
+        "text": "Se pueden automatizar tareas repetitivas de inspección"
+      },
+      {
+        "id": "38cb2a999376409d86ba55dfc9d5bfe5",
+        "text": "Protege a los trabajadores de ambientes industriales"
+      },
+      {
+        "id": "118e69df7e7c4eb98cf12d3ffa5fd800",
+        "text": "Se reducen los costos de reparación y chatarra al poder detectar piezas en mal estado."
+      }
+    ],
+    "selected": "Protege a los trabajadores de ambientes industriales"
+  },
+  {
+    "id": "_197900216_1",
+    "question": "¿Cómo se llama aquella técnica de la visión artificial que se utiliza mucho en el sector alimentación y que permite conocer la composición de los materiales atraves de la medida de la longitud de onda?",
+    "answers": [
+      {
+        "id": "5f8f0f82e84a4e15b960d31864c6b9cd",
+        "text": "Termografía"
+      },
+      {
+        "id": "ac062eeaaf0c4c0c9b638b70756e8e1e",
+        "text": "Vision industrial"
+      },
+      {
+        "id": "4af3025dd3904f839e337d120ed9ede3",
+        "text": "Visión 2D"
+      },
+      {
+        "id": "857416911b9247d6898e784195e2f01e",
+        "text": "Visión 3D"
+      },
+      {
+        "id": "c676bc94118244e38e427df38811256e",
+        "text": "Vision hiperespectral"
+      }
+    ],
+    "selected": "Vision hiperespectral"
+  },
+  {
+    "id": "_197900217_1",
+    "question": "Es un tipo principal de arquitectura de control domótico:",
+    "answers": [
+      {
+        "id": "2f19c69dbc634390a0e2e036361784a1",
+        "text": "Expandible"
+      },
+      {
+        "id": "6b4aa360b0364d12ac6065295b884a78",
+        "text": "General"
+      },
+      {
+        "id": "bf5a0f3f44bb4b31b06644e9391e6d6d",
+        "text": "Homogénea"
+      },
+      {
+        "id": "27042ec9471d41b49c7f4cd9e38afc31",
+        "text": "Híbrida"
+      },
+      {
+        "id": "4c17154760f94e0eaf316c690f4e06f9",
+        "text": "Neutral"
+      }
+    ],
+    "selected": "Híbrida"
+  },
+  {
+    "id": "_197900218_1",
+    "question": "Comparte la fusión de las 3 arquitecturas (Distribuida, Descentralizada y Centralizada) dependiendo de la complejidad de cada elemento o conjunto de elementos",
+    "answers": [
+      {
+        "id": "1dc17a3e0710438086e871cdc651fbbb",
+        "text": "Expandible"
+      },
+      {
+        "id": "fb109b5a2487405898cd29d5696f3896",
+        "text": "General"
+      },
+      {
+        "id": "7e00d9b90ab04fdaa354c85845869fd8",
+        "text": "Homogénea"
+      },
+      {
+        "id": "42fcd55c27144c6c898f1f88a0984324",
+        "text": "Híbrida"
+      },
+      {
+        "id": "d6fb9b7f5661412994cf7e6c60a13319",
+        "text": "Neutral"
+      }
+    ],
+    "selected": "Híbrida"
+  },
+  {
+    "id": "_197900219_1",
+    "question": "¿Con que tipo de industria está relacionada la visión artificial?",
+    "answers": [
+      {
+        "id": "4ffa604207ad46c5bc275cf3cb829871",
+        "text": "Industria 1.0"
+      },
+      {
+        "id": "a424a70d1eab480681fe1188b4f97c96",
+        "text": "Industria 4.0"
+      },
+      {
+        "id": "114ab73f6b644caab5fbb13085b50762",
+        "text": "Industria 3.0"
+      },
+      {
+        "id": "41c615085a0844af855a75bfc1bcb019",
+        "text": "Industria 2.0"
+      },
+      {
+        "id": "efeb0a9a4b7f439c86f6cb84d9ce0f2d",
+        "text": "Industria 5.0"
+      }
+    ],
+    "selected": "Industria 4.0"
+  },
+  {
+    "id": "_197900220_1",
+    "question": "¿Cuál es una de las aplicaciones más usadas en la visión artificial?",
+    "answers": [
+      {
+        "id": "ff36e0f134074f33acb991267933ecde",
+        "text": "Marcar objetos industriales"
+      },
+      {
+        "id": "d89b0756cd5f4cd7b34e9eb813cd5181",
+        "text": "Empaquetar objetos"
+      },
+      {
+        "id": "03bd4dc08ae94060bc6813cdc7854f94",
+        "text": "Detectar defectos"
+      },
+      {
+        "id": "b2acd5cc75214a8583ce5a7c557cacb2",
+        "text": "Separar objetos"
+      },
+      {
+        "id": "a8c89962c2ad40809bc2cb4cad9ad576",
+        "text": "Marcar objetos industriales"
+      }
+    ],
+    "selected": "Detectar defectos"
+  },
+  {
+    "id": "_197900221_1",
+    "question": "¿una vez que se exportado la escena a que plataforma de descarga la podemos compartir?",
+    "answers": [
+      {
+        "id": "e2b2ceef44ed4ac2ad63d2c73182229a",
+        "text": "Hit hub"
+      },
+      {
+        "id": "10390c0a32194dbba457b07d43a812ca",
+        "text": "Download file"
+      },
+      {
+        "id": "cd40f450923a48ca8720368dfb5af98d",
+        "text": "Hit"
+      },
+      {
+        "id": "697c396ffefe4b69b129bad9d194cf59",
+        "text": "Hub"
+      },
+      {
+        "id": "5116bd651c3a4e49a29a549d4a6840f8",
+        "text": "Youtube"
+      }
+    ],
+    "selected": "Download file"
+  },
+  {
+    "id": "_197900222_1",
+    "question": "¿Con que redes sociales puede exportar Aumentaty con la opción Compartir?",
+    "answers": [
+      {
+        "id": "cd19949114314945b2d06b4830e68ddd",
+        "text": "Facebook y twitter"
+      },
+      {
+        "id": "50e15095fca04853bc89b6471055442d",
+        "text": "Solamente Instagram"
+      },
+      {
+        "id": "9a288311a9804d3e85fa1c3f593bf26f",
+        "text": "Solamente twitter"
+      },
+      {
+        "id": "4372b711fc384ce8b3c51f34c19f4703",
+        "text": "Solamente Facebook"
+      },
+      {
+        "id": "a6c6d3c68d2c4c8e9cb563c464e34b7a",
+        "text": "Solamente youtube"
+      }
+    ],
+    "selected": "Facebook y twitter"
+  },
+  {
+    "id": "_197900223_1",
+    "question": "¿Cuál es un componente de la Arquitectura de sistemas actuales de realidad aumentada?",
+    "answers": [
+      {
+        "id": "4891f18dc7ab41078fb92a2fd6df1e5d",
+        "text": "Reingeniería"
+      },
+      {
+        "id": "b31ca9c3cbbd4dab938fda91f0f1bcde",
+        "text": "Proceso"
+      },
+      {
+        "id": "fe15acbfafa34af687d91814b0286c0e",
+        "text": "Salida"
+      },
+      {
+        "id": "e4bb625c4f76456d91d874ba8d908dc5",
+        "text": "Entrada"
+      },
+      {
+        "id": "3f6286dfa21a4612898e9cbc80d15263",
+        "text": "Control"
+      }
+    ],
+    "selected": "Reingeniería"
+  },
+  {
+    "id": "_197900224_1",
+    "question": "¿Cuál es un componente de LOCUS?",
+    "answers": [
+      {
+        "id": "705893c01c42484cbc42a4640c894a35",
+        "text": "View"
+      },
+      {
+        "id": "1df65ef2190a4056810a910f303c6cd0",
+        "text": "Un sistema de almacenamiento de datos sobre los lugares que se puede aumentar."
+      },
+      {
+        "id": "3b43039c7e1940deaeff9ae3145347b5",
+        "text": "Fragment"
+      },
+      {
+        "id": "9447ac992bfc48bdbe1fbf11e32065bd",
+        "text": "DAO"
+      },
+      {
+        "id": "9e3894c51bc347a080f487a1d1a4ebbe",
+        "text": "Service"
+      }
+    ],
+    "selected": "Un sistema de almacenamiento de datos sobre los lugares que se puede aumentar."
+  },
+  {
+    "id": "_197900225_1",
+    "question": "¿Con que versiones de Android se puede exportar dede Aumentaty?",
+    "answers": [
+      {
+        "id": "029ecac7dc954ee4be9f3142b5568bb6",
+        "text": "Solamente la versión 5.0"
+      },
+      {
+        "id": "2b0abeff831e4a3a86e5dc4220e6dafe",
+        "text": "Inferior a la version 3.0"
+      },
+      {
+        "id": "5ad7601cd47946f8ad18ddf3f2c18095",
+        "text": "Solamente la versión 7.0"
+      },
+      {
+        "id": "dba66fea2fe1409aa6b243b35c9e510a",
+        "text": "Versión 2.0"
+      },
+      {
+        "id": "2dbdeec721874bc38b492cf534afb903",
+        "text": "Versión superior a 4.x"
+      }
+    ],
+    "selected": "Versión superior a 4.x"
+  },
+  {
+    "id": "_197900226_1",
+    "question": "Es la primera plataforma social de acceso a contenido para crear y ver realidad aumentada.",
+    "answers": [
+      {
+        "id": "715849cec94142baa02cb9089ee0144f",
+        "text": "3D Warehouse"
+      },
+      {
+        "id": "462b2306d9694729959b40c3f0c2f6f4",
+        "text": "Aumentaty Viewer"
+      },
+      {
+        "id": "3fe353c7fbee42da961db31d1ae95f04",
+        "text": "Plataforma Aumentaty"
+      },
+      {
+        "id": "4191974c17cb4a0c8294c7c7b6b1f52f",
+        "text": "Dispositivos móviles"
+      },
+      {
+        "id": "416840256d224160adbc5e4c38e10fa4",
+        "text": "SketchUp"
+      }
+    ],
+    "selected": "Plataforma Aumentaty"
+  },
+  {
+    "id": "_197900227_1",
+    "question": "¿Cómo se llama el tipo de identificación de imágenes donde se identifica la escena mediante reconocimiento de imágenes o mediante la estimación de la posición?",
+    "answers": [
+      {
+        "id": "441a8240625549d9b8b4503fc97ea4db",
+        "text": "Marcador"
+      },
+      {
+        "id": "27e0795a98a947ec8ee959672df4e87a",
+        "text": "Hibrida"
+      },
+      {
+        "id": "1e23c75140114a82a7f09aa9a190cb65",
+        "text": "Formal"
+      },
+      {
+        "id": "b85201b88dce4f3e9e14d1ffed145a99",
+        "text": "Punto de inserción"
+      },
+      {
+        "id": "bda5353c96d04fc99206f36e928c30a3",
+        "text": "Personal"
+      }
+    ],
+    "selected": "Hibrida"
+  },
+  {
+    "id": "_197900228_1",
+    "question": "¿Cuál es una de las tareas más importantes en cualquier sistema de realidad aumentada es la de identificar el?",
+    "answers": [
+      {
+        "id": "a306d80910e04effb040b9b77a5fc831",
+        "text": "BI"
+      },
+      {
+        "id": "d0ffd7c639b847e0a7afa89befa9380c",
+        "text": "Escenario"
+      },
+      {
+        "id": "520c277e0be1443b96bbda34fa6ad25e",
+        "text": "ETL"
+      },
+      {
+        "id": "ce41a6fa5bf34124997d276feb1b071d",
+        "text": "MVC"
+      },
+      {
+        "id": "549fe44faf734fc59fc7f62cde60757b",
+        "text": "BSC"
+      }
+    ],
+    "selected": "Escenario"
+  },
+  {
+    "id": "_197900229_1",
+    "question": "Es un componente fundamental para que la realidad aumentada pueda reproducirse:",
+    "answers": [
+      {
+        "id": "b9874eb8f7bf4f1f87bfff61ef7ee77a",
+        "text": "Un objeto real que funcione como referencia para la interpretación y creación del objeto virtual"
+      },
+      {
+        "id": "520a870196194ee69ec313623996091c",
+        "text": "Constructor"
+      },
+      {
+        "id": "9f38bd8fbaea4b498c3f350db252bc03",
+        "text": "Android"
+      },
+      {
+        "id": "faece3213856421a8f0be583f656e399",
+        "text": "oid"
+      },
+      {
+        "id": "0e9d273b820a4d05ad9e56aaa81d0d67",
+        "text": "Un objeto real que funcione como referencia para la interpretación y creación del objeto virtual"
+      }
+    ],
+    "selected": "Un objeto real que funcione como referencia para la interpretación y creación del objeto virtual"
+  },
+  {
+    "id": "_197900230_1",
+    "question": "¿Cómo se llama al objeto cuya imagen es conocida por el sistema?",
+    "answers": [
+      {
+        "id": "428f49760fde467dbbf827034e167f49",
+        "text": "BSC"
+      },
+      {
+        "id": "cc6f579a6322448ca9d6d82cd7bab4f0",
+        "text": "MVC"
+      },
+      {
+        "id": "ddf424e475c34b5d85cd889d48684d06",
+        "text": "Marcador"
+      },
+      {
+        "id": "d98139bf82f74c01b06c4d04531dd254",
+        "text": "ETL"
+      },
+      {
+        "id": "291dc087f52240a8a5802aa5ee60a7e4",
+        "text": "BI"
+      }
+    ],
+    "selected": "Marcador"
+  },
+  {
+    "id": "_197900231_1",
+    "question": "¿Cómo se le llama a la cámara de Google para RA?",
+    "answers": [
+      {
+        "id": "2529ac74520b4d479c264213a83251a4",
+        "text": "Cam Google"
+      },
+      {
+        "id": "2c8536839db1431b9bc3ab211986711c",
+        "text": "Camara Google"
+      },
+      {
+        "id": "d8168ce23fd24961899396aaaa93bcbc",
+        "text": "ViewCamara"
+      },
+      {
+        "id": "cc8e1119bd0949ab899cb1d0de2afcc3",
+        "text": "GoogleView"
+      },
+      {
+        "id": "daaa55b0f6e84c5f9488fb1405f55b52",
+        "text": "Gcam"
+      }
+    ],
+    "selected": "Gcam"
+  },
+  {
+    "id": "_197900232_1",
+    "question": "¿Qué hace posible que podamos superponer diferentes elementos visuales y jugar con la perspectiva en la RA con dispositivos moviles?",
+    "answers": [
+      {
+        "id": "651de077eef84ad39d738b322cdd081a",
+        "text": "Sensores GPS, brújula digital y cámara"
+      },
+      {
+        "id": "b9a06d1ef5e3450485499920964a8bd4",
+        "text": "Aplicaciones"
+      },
+      {
+        "id": "36bc84266ee7454db654eafba2dc7488",
+        "text": "Pantalla y camara"
+      },
+      {
+        "id": "940fa404d50f49b6969b5e0f58c5863c",
+        "text": "Micrófono y brujula"
+      },
+      {
+        "id": "c1aa198c37db4f529e6ba8ab6b04ba29",
+        "text": "Carga de la batería y GPS"
+      }
+    ],
+    "selected": "Sensores GPS, brújula digital y cámara"
+  },
+  {
+    "id": "_197900233_1",
+    "question": "¿Qué es un PDI en la RA de lugares?",
+    "answers": [
+      {
+        "id": "321615e5d3fd4f4fa2a2544f5a905673",
+        "text": "Punto de inmersión"
+      },
+      {
+        "id": "5e224e82cfd147719c4d7a72e6db8047",
+        "text": "Punto ideal"
+      },
+      {
+        "id": "59c7729f7d854f9bb6dd8ff042415bf7",
+        "text": "Punto de inflexión"
+      },
+      {
+        "id": "3df3bffb56c34f3c924003fcdc802278",
+        "text": "Punto de inserción"
+      },
+      {
+        "id": "dcdd2e7e761d40418b9695cd5244b7ec",
+        "text": "Punto de interés"
+      }
+    ],
+    "selected": "Punto de interés"
+  },
+  {
+    "id": "_197900234_1",
+    "question": "¿Cómo se le llama al tipo de RA que nos permiten reconocer cualquier estancia, habitación o espacio donde estemos situados?",
+    "answers": [
+      {
+        "id": "97bfd4b804c04edfa796d5ad8dd6ba87",
+        "text": "RA de espacios"
+      },
+      {
+        "id": "ffd902a6f9744698ac7ed50c0a5c6dbf",
+        "text": "RA en objetos"
+      },
+      {
+        "id": "5db4f40b9b694cde9c26635f3bf9b25b",
+        "text": "RA en automóviles"
+      },
+      {
+        "id": "1a2b7c3aef3f4b3ca9214e959bb26a9f",
+        "text": "RA de imágenes"
+      },
+      {
+        "id": "d9a1bf1c6d5c451f9f50cc359e9a1608",
+        "text": "RA en mapas"
+      }
+    ],
+    "selected": "RA de espacios"
+  }
+]
