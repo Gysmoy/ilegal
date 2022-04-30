@@ -1,0 +1,142 @@
+[
+  {
+    "id": "_191178929_1",
+    "question": "¿Qué es la Realidad Aumentada?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_fc2abdfc-dbc0-45d8-a795-d52b8d75c74e",
+        "text": "La realidad aumentada (RA) es el término que se usa para definir una visión directa o indirecta de un entorno físico del mundo real"
+      },
+      {
+        "id": "new_20c6e4ba-6e8c-4c09-96f9-1d07fe213769",
+        "text": "La realidad aumentada (RA) es el término que se usa para definir una visión directa o indirecta de un entorno físico del mundo ficticio"
+      },
+      {
+        "id": "new_1a3652b9-5e9d-494c-9b7c-6b227146fca1",
+        "text": "La realidad aumentada (RA) es el término que se usa para definir una visión directa o indirecta de un entorno ficticio del mundo real"
+      },
+      {
+        "id": "new_d512e246-e16a-40f2-93cc-37afacf9b902",
+        "text": "La realidad aumentada (RA) es el término que se usa para definir una visión directa de un entorno físico del mundo real"
+      },
+      {
+        "id": "new_f2b048ba-2b30-48ed-a373-e366ab1d3a08",
+        "text": "La realidad aumentada (RA) es el término que se usa para definir una imagen directa de un entorno físico del mundo real"
+      }
+    ],
+    "selected": "La realidad aumentada (RA) es el término que se usa para definir una visión directa o indirecta de un entorno físico del mundo real"
+  },
+  {
+    "id": "_191178930_1",
+    "question": "¿En qué consiste la Realidad Aumentada?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "new_e2eefcf7-46b9-4071-8eab-3c51f0833a7a",
+        "text": "Consiste en un conjunto de dispositivos que añaden información virtual a la información física futura"
+      },
+      {
+        "id": "new_c74cff68-fc78-4835-9b7e-e74fd623d352",
+        "text": "Consiste en un conjunto de dispositivos que suprimen información virtual a la información física ya existente"
+      },
+      {
+        "id": "new_c5fb4df1-b00b-4a1c-a56f-6f4a0b3a0687",
+        "text": "Consiste en un solo dispositivo que añade información virtual a la información física ya existente"
+      },
+      {
+        "id": "new_29ca143d-a399-43ee-8f2d-ea1f72b5075a",
+        "text": "Consiste en un conjunto de dispositivos que añaden información virtual a la información física ya existente"
+      },
+      {
+        "id": "new_3f834da6-150a-411a-8af3-d5e2b18d0d8c",
+        "text": "Consiste en varios dispositivos que añade información virtual a la información física ya existente"
+      }
+    ],
+    "selected": "Consiste en un conjunto de dispositivos que añaden información virtual a la información física futura"
+  },
+  {
+    "id": "_191178931_1",
+    "question": "¿Qué investiga la Realidad Aumentada?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "new_eff04d0b-7ba1-4867-b7f0-1219921c2b02",
+        "text": "Explora la aplicación de imágenes generadas por ordenador en tiempo pasado a secuencias de vídeo como una forma de disminuir el mundo real"
+      },
+      {
+        "id": "new_2cf3e8d6-0630-4fcb-9b26-c2c0e0b3eab8",
+        "text": "Explora la aplicación de imágenes generadas por ordenador en tiempo real a secuencias de vídeo como una forma de ampliar el mundo ficticio"
+      },
+      {
+        "id": "new_34b8e11c-ae55-40c1-beba-4fa5ca062765",
+        "text": "Explora la aplicación de imágenes generadas por ordenador en tiempo pasado a secuencias de vídeo como una forma de ampliar el mundo real"
+      },
+      {
+        "id": "new_5d8720c9-8e46-403e-9ab6-f68cbea5ccc8",
+        "text": "Explora la aplicación de imágenes generadas por ordenador en tiempo real a secuencias de vídeo como una forma de ampliar el mundo real"
+      },
+      {
+        "id": "new_f6d92e65-3861-4226-ac3b-7ae7e96ced82",
+        "text": "Explora la aplicación de imágenes generadas por ordenador en tiempo futuro a secuencias de vídeo como una forma de ampliar el mundo rea"
+      }
+    ],
+    "selected": "Explora la aplicación de imágenes generadas por ordenador en tiempo pasado a secuencias de vídeo como una forma de disminuir el mundo real"
+  },
+  {
+    "id": "_191178932_1",
+    "question": "¿De qué constan normalmente una RA?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "new_edbc633f-5e03-42d4-a46d-e19b4437e07e",
+        "text": "De un \"headset\" y un sistema de offplay para mostrar al usuario la información virtual que se añade a la real"
+      },
+      {
+        "id": "new_a5c38e58-cf6e-4b22-b103-4646cdc904c4",
+        "text": "De un \"headset\" y un sistema de display para mostrar al usuario la información virtual que se añade a la real"
+      },
+      {
+        "id": "new_82e8f3bf-56b8-4e08-8443-a96f3b303fce",
+        "text": "De un \"headset\" y un sistema de offplay para mostrar al usuario la información virtual que se añade a la ficticia"
+      },
+      {
+        "id": "new_ae92598f-ea3a-4b1e-9c1b-531fbc63f172",
+        "text": "De un \"headset\" y un sistema de display para mostrar al usuario la información virtual que se añade a la ficticia"
+      },
+      {
+        "id": "new_7cdd0fd1-c1b8-4581-ac10-bd232c2db628",
+        "text": "De un \"headset\" y un sistema de display para mostrar al usuario la imagen virtual que se añade a la ficticia"
+      }
+    ],
+    "selected": "De un \"headset\" y un sistema de offplay para mostrar al usuario la información virtual que se añade a la real"
+  },
+  {
+    "id": "_191178933_1",
+    "question": "¿Qué dice la definición de Ronald Azuma dice que la realidad aumentada?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "new_bf189bfb-7934-42a2-bc67-b6f36b8ed6f2",
+        "text": "Combina elementos ficticios y virtuales. Es interactiva en tiempo real. Está registrada en 3D"
+      },
+      {
+        "id": "new_846ced41-e15a-4d88-919d-b74f5efec4e5",
+        "text": "Combina elementos reales y virtuales. Es interactiva en tiempo real. Está registrada en 2D."
+      },
+      {
+        "id": "new_e5946f4a-ce20-46a7-9678-9aaee33c0038",
+        "text": "Combina elementos reales y virtuales. Es interactiva en tiempo real. Está registrada en 3D"
+      },
+      {
+        "id": "new_23ae8a54-de08-4d48-87e4-f90e7cfae1f1",
+        "text": "Combina elementos ficticios y virtuales. Es interactiva en tiempo real. Está registrada en 2D"
+      },
+      {
+        "id": "new_c199b0a1-0671-4c98-9302-1cd6f9e16a6f",
+        "text": "Combina elementos ficticios y virtuales. Es interactiva en tiempo real. Está registrada en 4D."
+      }
+    ],
+    "selected": "Combina elementos ficticios y virtuales. Es interactiva en tiempo real. Está registrada en 3D"
+  }
+]

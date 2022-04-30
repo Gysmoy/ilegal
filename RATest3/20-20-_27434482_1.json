@@ -1,0 +1,142 @@
+[
+  {
+    "id": "_179634421_1",
+    "question": "¿La arquitectura distribuida es?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_cfee421d-cecb-4b06-a782-43ea9e4d9ba8",
+        "text": "La combinación de todas las arquitecturas domóticas"
+      },
+      {
+        "id": "new_833a3eb9-3040-4630-9bbb-6061171f03b6",
+        "text": "El conjunto de controladores interconectados por un bus"
+      },
+      {
+        "id": "new_9c665c15-6efa-4799-8e51-0a8489e616fa",
+        "text": "La encargada de enviar información a los actuadores e interfaces"
+      },
+      {
+        "id": "new_ea4e198b-3a13-4757-951c-97f8dff3b6a8",
+        "text": "El conjunto de sensores y actuadores que son capaces de transmitir y recibir información"
+      },
+      {
+        "id": "new_e250b98f-8317-48a9-bf28-356b90731b1c",
+        "text": "Es un conjunto de equipos de cómputo integrados"
+      }
+    ],
+    "selected": "El conjunto de sensores y actuadores que son capaces de transmitir y recibir información"
+  },
+  {
+    "id": "_179634422_1",
+    "question": "Son tipos de dispositivos y redes utilizados en la domótica",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_4998bdaf-6a92-4b3e-b221-b14f0b371ee0",
+        "text": "Automatización, control, sensor y bus"
+      },
+      {
+        "id": "new_d01cc18e-065c-43cd-abd4-3a5d9705c05a",
+        "text": "Su arquitectura: centralizada, descentralizada, distribuida y mixta"
+      },
+      {
+        "id": "new_90b9d4d3-41b5-4d14-b76e-d9a3a3f66eaf",
+        "text": "Su sistema: domótico, de seguridad, multimedia o de comunicación"
+      },
+      {
+        "id": "new_1ea702de-bd3c-4a51-b4ec-d1db41ea82de",
+        "text": "Los aspectos comunes: comunicación constante, la existencia de una red local y equipos"
+      },
+      {
+        "id": "new_6c659376-03dd-4dfc-ba3f-f79775bda2b9",
+        "text": "Tipologías y topologías"
+      }
+    ],
+    "selected": "Automatización, control, sensor y bus"
+  },
+  {
+    "id": "_179634423_1",
+    "question": "El sistema multimedia domotico tiene la función de:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_eed48274-f093-4b0b-8acc-0a6599e1725f",
+        "text": "Gestionar todos los electrodomésticos y funciones de la casa"
+      },
+      {
+        "id": "new_e257522b-db33-407e-9fa3-996f65e470c4",
+        "text": "Controlar el audio y video, el cine, los juegos en la red."
+      },
+      {
+        "id": "new_466c8aab-d65c-47ca-9abd-74e7cdb8ebd2",
+        "text": "La seguridad de la casa con alarmas"
+      },
+      {
+        "id": "new_51d64a84-fd80-4c81-b361-6566b48d0e2e",
+        "text": "La comunicación con redes telefónicas, de televisión y de información"
+      },
+      {
+        "id": "new_b99c6e3e-84b5-4987-b4b2-753537122cac",
+        "text": "Controlar la animación de una PC"
+      }
+    ],
+    "selected": "Controlar el audio y video, el cine, los juegos en la red."
+  },
+  {
+    "id": "_179634424_1",
+    "question": "¿qué se entiende por domótica?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_6de8aa18-7e14-4166-b780-e758b6487300",
+        "text": "Rama de la tecnología que se dedica al diseño, construcción y operación de los robots"
+      },
+      {
+        "id": "new_ceb81d4f-a18d-4fd3-923c-19f698265865",
+        "text": "Integración de tecnologías en el hogar"
+      },
+      {
+        "id": "new_7c2b0d39-c240-48a2-9b15-c7200aaaa799",
+        "text": "Incorporación a nuestras viviendas orientadas a gestionar aparatos e instalaciones tradicionales que conforman una vivienda"
+      },
+      {
+        "id": "new_5e4400a1-f6a8-4da3-9ff0-cefbe140add1",
+        "text": "Incorporación al equipamiento de edificios de uso terciario e industrial"
+      },
+      {
+        "id": "new_cbe23f66-7614-4bfb-af59-a13b58958113",
+        "text": "Ciencia de la ingeniería"
+      }
+    ],
+    "selected": "Integración de tecnologías en el hogar"
+  },
+  {
+    "id": "_179634425_1",
+    "question": "la domótica, gracias a tanta tecnología ha traído muchos beneficios y facilidad a la vida de las personas en sus hogares o viviendas, ya que prácticamente la domótica hace por ellos sus actividades, cuáles de estos no son beneficios de la domótica",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_9214c226-e6d0-48c8-a041-db0302bcee99",
+        "text": "El ahorro energético gracias a una gestión tarifaria e \"inteligente\" de los sistemas y consumos"
+      },
+      {
+        "id": "new_9853d8ac-1b7e-4469-bb98-26b00917f115",
+        "text": "Programación y zonificación de la climatización"
+      },
+      {
+        "id": "new_63002784-d152-41a7-a5bd-07517bf47877",
+        "text": "El ahorro energético gracias a una gestión tarifaria e \"inteligente\" de los sistemas y consumos."
+      },
+      {
+        "id": "new_307ebd18-1d42-4bb0-88ba-a88caac58854",
+        "text": "La potenciación y enriquecimiento de la propia red de comunicaciones"
+      },
+      {
+        "id": "new_992a5dd6-1343-467e-9a60-b3abbf4052f0",
+        "text": "Ausencia de comunicación"
+      }
+    ],
+    "selected": "Programación y zonificación de la climatización"
+  }
+]

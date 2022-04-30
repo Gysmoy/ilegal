@@ -1,0 +1,142 @@
+[
+  {
+    "id": "_179601378_1",
+    "question": "¿En qué se diferencia la Realidad Virtual de la Realidad Aumentada?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_e5074f38-c6a6-44cb-a68e-3d50be6ce27e",
+        "text": "La Realidad Aumentada mezcla un escenario real capturado a través de una cámara."
+      },
+      {
+        "id": "new_dcc394a4-5765-4113-9d76-ab252713c960",
+        "text": "La Realidad Aumentada mezcla un escenario real capturado a través de una cámara"
+      },
+      {
+        "id": "new_6d9178df-4156-43d6-8756-baf6b4f18dd1",
+        "text": "La Realidad Aumentada mezcla un escenario real capturado a través de una cámara"
+      },
+      {
+        "id": "new_d89aafb8-e420-42b5-991c-da3c0b405340",
+        "text": "La Realidad Aumentada mezcla un escenario real capturado a través de una cámara"
+      },
+      {
+        "id": "new_ec4d2da0-f9c9-43a7-aa70-d2c8613f436c",
+        "text": "La Realidad Aumentada mezcla un escenario real capturado a través de una tablet"
+      }
+    ],
+    "selected": "La Realidad Aumentada mezcla un escenario real capturado a través de una cámara."
+  },
+  {
+    "id": "_179601379_1",
+    "question": "¿Es necesario algún equipo especial para poder utilizar la Realidad Aumentada?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_4af27159-4ac9-46b0-b372-11fb94615caf",
+        "text": "No, con una Tablet o Smartphone con sistema operativo reciente, es posible que cualquier App funcione con óptimos resultados"
+      },
+      {
+        "id": "new_e86c74a0-2428-4f7b-baa6-f52951292438",
+        "text": "Si distribuido por el software a usar."
+      },
+      {
+        "id": "new_06d0b8e6-3ab3-4380-a9b0-1332fbbd4ce3",
+        "text": "Solo una cámara de video"
+      },
+      {
+        "id": "new_5aaa9267-83e2-4931-9f52-ba5d00c4aa1e",
+        "text": "Solo con imágenes"
+      },
+      {
+        "id": "new_4f886bbe-8652-4de9-84fc-cadb681dc59c",
+        "text": "Solo con secuencias de imágenes"
+      }
+    ],
+    "selected": "No, con una Tablet o Smartphone con sistema operativo reciente, es posible que cualquier App funcione con óptimos resultados"
+  },
+  {
+    "id": "_179601380_1",
+    "question": "¿Qué ventaja tiene la Realidad Aumentada más que un fotomontaje común?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "new_aca1ed6c-2074-44aa-b0d4-a5746d9a845b",
+        "text": "Tiene una secuencia a través de video"
+      },
+      {
+        "id": "new_33ec5733-2649-4835-a262-4f4194ff12e3",
+        "text": "No tiene una secuencia a través de video"
+      },
+      {
+        "id": "new_fe6d6a5d-6eb6-4aab-8323-4a4f0ed499df",
+        "text": "No es muy pesado."
+      },
+      {
+        "id": "new_3e6d779b-dee6-4410-972a-b2e7a384bb05",
+        "text": "Tiene una secuencia a través de imágenes"
+      },
+      {
+        "id": "new_e21a32f4-4b6c-4db6-9144-e9ee5649af90",
+        "text": "Tiene una secuencia a través de archivos"
+      }
+    ],
+    "selected": "No tiene una secuencia a través de video"
+  },
+  {
+    "id": "_179601381_1",
+    "question": "¿se puede elaborar más de un modelo en los productos para insertarse en aplicaciones?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "new_3e82db47-a21f-448d-a343-673318e6f18b",
+        "text": "No, solo tiene un modelo"
+      },
+      {
+        "id": "new_de543df1-787c-467f-86c5-8cc0b10ddcf7",
+        "text": "No"
+      },
+      {
+        "id": "new_780c1658-3eb9-43e0-bc4c-9174ca1cfdb8",
+        "text": "Si"
+      },
+      {
+        "id": "new_cb141de4-a209-4766-8b8d-d0754f2f1334",
+        "text": "No reconoce modelos"
+      },
+      {
+        "id": "new_161fece6-cc90-42d1-9f47-0686a99eba6f",
+        "text": "No reconoce métricas"
+      }
+    ],
+    "selected": "Si"
+  },
+  {
+    "id": "_179601382_1",
+    "question": "¿En qué carpeta debemos incluir el código fuente de una aplicación de R",
+    "correct": false,
+    "answers": [
+      {
+        "id": "new_00201d26-dea7-4509-9a96-bebce638e725",
+        "text": "res"
+      },
+      {
+        "id": "new_fc1c45aa-4aef-49df-b0cf-5697545bdae2",
+        "text": "gen"
+      },
+      {
+        "id": "new_ec24bb85-f8cf-434f-bf85-a3f845d65274",
+        "text": "assets"
+      },
+      {
+        "id": "new_d5c17be1-1636-4bef-9e0a-6eb87b158e82",
+        "text": "Resources"
+      },
+      {
+        "id": "new_7c0d7413-4ca7-4bc4-9df5-04a46dd4aec4",
+        "text": "Src"
+      }
+    ],
+    "selected": "res"
+  }
+]
