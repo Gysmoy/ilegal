@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_210934402_1",
+    "question": "¿Cuál no es una característica de R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "10352130b4c04b8582e0f1edb3e874f9",
+        "text": "Tiene gran colección de herramientas para el análisis de datos."
+      },
+      {
+        "id": "108d72d115644b6981175e92ad8aaca9",
+        "text": "Manejo y almacenamiento efectivo de los datos."
+      },
+      {
+        "id": "af90e406589a409a885674047aa42213",
+        "text": "Lenguaje de programación que incluye saltos condicionales, bucles, funciones recursivas, utilidades para la entrada y salida de datos, etc."
+      },
+      {
+        "id": "3f45c5658f6c42e3b0eaad9af1766277",
+        "text": "Tiene un formato de documentación basado en Matrices, que se utiliza para proporcionar documentación completa tanto en formato físico como digital."
+      },
+      {
+        "id": "04ddc0fea3f34b5fb92645df1122d9bc",
+        "text": "Conjunto de operadores para la realización de cálculos con matrices."
+      }
+    ],
+    "selected": "Tiene un formato de documentación basado en Matrices, que se utiliza para proporcionar documentación completa tanto en formato físico como digital."
+  },
+  {
+    "id": "_210934403_1",
+    "question": "¿Dónde se encuentran almacenados el conjunto de funciones, datos y documentación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b86b390284624c6ca2bf788e47888d5a",
+        "text": "Clases"
+      },
+      {
+        "id": "1289a4a0b7ee465a8867374516f6b5ee",
+        "text": "Paquetes"
+      },
+      {
+        "id": "6cfd438384e641bfb18d860432866fe1",
+        "text": "Listas"
+      },
+      {
+        "id": "40e215de150b4bb3ba329f01d66b10ac",
+        "text": "Librerias"
+      },
+      {
+        "id": "f9b256ff8a55409c8613695390946cdc",
+        "text": "procedimientos"
+      }
+    ],
+    "selected": "Paquetes"
+  },
+  {
+    "id": "_210934404_1",
+    "question": "Corresponde a uno de los tipos de Big Data:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8cfc5e28ee7141e2bdbd4562d7dc8064",
+        "text": "DTS"
+      },
+      {
+        "id": "eb69e5f9c79b4589b09cb6d1c1a023d1",
+        "text": "Procesos"
+      },
+      {
+        "id": "671190d859664d36a10d2be5aaf4cf8e",
+        "text": "DCU"
+      },
+      {
+        "id": "9238d77cd62e4ddbb60a7f4bee675c9b",
+        "text": "Semiestructurados"
+      },
+      {
+        "id": "d376be70c1b0484db8337d46ade42eaf",
+        "text": "DAO"
+      }
+    ],
+    "selected": "Semiestructurados"
+  },
+  {
+    "id": "_210934405_1",
+    "question": "Corresponde a uno de los tipos de Big Data:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "04dd740b47224920a119f34daeb4c074",
+        "text": "Django"
+      },
+      {
+        "id": "70ffe632f10346b28b15184b3bddd1b0",
+        "text": "Frame"
+      },
+      {
+        "id": "a14e83deb4b64a04a027af7349f62bbc",
+        "text": "UML"
+      },
+      {
+        "id": "167e5ef42d62404f96b22f25169d2031",
+        "text": "Estructurados."
+      },
+      {
+        "id": "aeedf910c916447497b1a2ec4366871a",
+        "text": "XML"
+      }
+    ],
+    "selected": "Estructurados."
+  },
+  {
+    "id": "_210934406_1",
+    "question": "Se lo conoce por sus tres “V”: volumen, variedad y velocidad:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8954cd9c31254d7c997ba481fef693f5",
+        "text": "Big data"
+      },
+      {
+        "id": "5f8ed61c02ed4021b9841a235187156e",
+        "text": "Inteligencia de Negocios"
+      },
+      {
+        "id": "f26985382f1e4b5da897a44ca561e5df",
+        "text": "POI"
+      },
+      {
+        "id": "fc15b56fb5fc47de92fdd66833f24831",
+        "text": "BI"
+      },
+      {
+        "id": "a0e4c091c55441679eac95da65bcadd5",
+        "text": "Planeamiento TI"
+      }
+    ],
+    "selected": "Big data"
+  },
+  {
+    "id": "_210934407_1",
+    "question": "¿A qué se debe que cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0861a40c3aa643bfaf7a2eec3b228c3c",
+        "text": "Software más fácil de usar."
+      },
+      {
+        "id": "60011bd539dc474c8b1a509391a851c1",
+        "text": "Método de proyectos"
+      },
+      {
+        "id": "72b119f195ed4885be0619e1942d8acb",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "26041f68a2eb409ab0a9c7e485d70882",
+        "text": "Plan estratégico"
+      },
+      {
+        "id": "34e6604b214c436a9f463e1345c7b374",
+        "text": "Mensaje de texto"
+      }
+    ],
+    "selected": "Software más fácil de usar."
+  },
+  {
+    "id": "_210934408_1",
+    "question": "Es una forma de análisis avanzado que utiliza datos nuevos e históricos para predecir la actividad futura, el comportamiento y las tendencias:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f816d351a9914eef8d6d943e550e837d",
+        "text": "Expandible"
+      },
+      {
+        "id": "483b364fbba443309883d03088904c97",
+        "text": "Neutral"
+      },
+      {
+        "id": "8b18e0fe687e4764859712b81ce25fc1",
+        "text": "Homogénea"
+      },
+      {
+        "id": "56d88a0873ce4bc9be6ff508a8334c53",
+        "text": "General"
+      },
+      {
+        "id": "b1df9cfe90fb4af0ac70c73a46b9cfa4",
+        "text": "Analítica predictiva"
+      }
+    ],
+    "selected": "Analítica predictiva"
+  },
+  {
+    "id": "_210934409_1",
+    "question": "¿Cuál es una importancia de la analítica predictiva?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "07a4e2a6bee44863a38c9d039bc2e3f5",
+        "text": "Plan estratégico"
+      },
+      {
+        "id": "3410ddb7214c40b3afd65eb492f41635",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "79540fadfbdc4f6a90450b25a76e73da",
+        "text": "Detección de fraude"
+      },
+      {
+        "id": "e01d5c49f1c54b69b781091c0792c244",
+        "text": "Método de proyectos"
+      },
+      {
+        "id": "e9bf9c897a3f4ce78c250176cab23851",
+        "text": "Mensaje de texto"
+      }
+    ],
+    "selected": "Detección de fraude"
+  },
+  {
+    "id": "_210934410_1",
+    "question": "¿Cuál sería una de las limitaciones de la consola en R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f336eecbd27944beb37c0fa979ae0e7a",
+        "text": "Puede ejecutar script"
+      },
+      {
+        "id": "ae1d32ef358f4ea080a8b0347538cd12",
+        "text": "Las instrucciones se pueden ejecutar en bloque"
+      },
+      {
+        "id": "f84971b10c5144d98b4863ec1cf18f39",
+        "text": "Ejecutamos código desde la opción Menú"
+      },
+      {
+        "id": "3bb19ee8f3a54dd2b0a3220bf78bfbdf",
+        "text": "Ingresar instrucciones una por una"
+      },
+      {
+        "id": "9e47d5f4419e41618936f2c8c728e6da",
+        "text": "Se debe crear un script para ejecutar las instrucciones"
+      }
+    ],
+    "selected": "Ingresar instrucciones una por una"
+  },
+  {
+    "id": "_210934411_1",
+    "question": "Es una característica de R:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f6aedaeb2930459ca0b5eab871c3ba2e",
+        "text": "Componente"
+      },
+      {
+        "id": "dbad55dd76774044a95533c50f9944b5",
+        "text": "BI"
+      },
+      {
+        "id": "2f9e633c18534b51a8affef0c50199ba",
+        "text": "BSC"
+      },
+      {
+        "id": "2343e059f85e40b7a579e98f64573bf1",
+        "text": "DFD"
+      },
+      {
+        "id": "69c1c19a273d43cf96d68c50503de200",
+        "text": "Operadores para cálculo sobre variables indexadas (Arrays), en particular matrices."
+      }
+    ],
+    "selected": "Operadores para cálculo sobre variables indexadas (Arrays), en particular matrices."
+  },
+  {
+    "id": "_210934412_1",
+    "question": "Es una característica de R:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7c28208efc6b4750a1c4803d0e524c9b",
+        "text": "BSC"
+      },
+      {
+        "id": "157d43265ee345d98b4d994555b30acb",
+        "text": "DFD"
+      },
+      {
+        "id": "628dc7b86b304fe28864dd510b493f96",
+        "text": "Almacenamiento y manipulación efectiva de datos"
+      },
+      {
+        "id": "122df2fb9b774cfba98fe56019d4da42",
+        "text": "Componente"
+      },
+      {
+        "id": "73d14b057b9446a39555914683eca03f",
+        "text": "BI"
+      }
+    ],
+    "selected": "Almacenamiento y manipulación efectiva de datos"
+  },
+  {
+    "id": "_210934413_1",
+    "question": "¿Cuál es el porcentaje del tiempo de un análisis de datos que se suele decir que ocupa el procesado/limpieza de datos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "feb6d3e487084545a4e0c1b13a61d4da",
+        "text": "90%"
+      },
+      {
+        "id": "148ca881cd50417785de28f0b3c57f2e",
+        "text": "30%"
+      },
+      {
+        "id": "9eb7eea681cc474580404d22d1a9202d",
+        "text": "70%"
+      },
+      {
+        "id": "fa0a76c70c34432983034e9b96a96925",
+        "text": "50%"
+      },
+      {
+        "id": "62a9367787364af4acf69f9d4997876a",
+        "text": "80%"
+      }
+    ],
+    "selected": "80%"
+  },
+  {
+    "id": "_210934414_1",
+    "question": "Es una representación simbólica, una característica de una entidad que pueden describir o explicar hechos empíricos, acontecimientos y a las entidades mismas que se están estudiando:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "987a2fd4fc29491d960c6d12768e07b8",
+        "text": "Componente"
+      },
+      {
+        "id": "5421e2d76cc0446fb06aa5e63914a22a",
+        "text": "DFD"
+      },
+      {
+        "id": "a3175d5efa3246e1bff6899bc172359b",
+        "text": "Dato"
+      },
+      {
+        "id": "c2c75a1ca30842f1a8f83b1e55bf6984",
+        "text": "BSC"
+      },
+      {
+        "id": "960e9ef162b9484c96e5340574c38d96",
+        "text": "BI"
+      }
+    ],
+    "selected": "Dato"
+  },
+  {
+    "id": "_210934415_1",
+    "question": "Se refiere a todo el proceso que sigue un investigador desde la recolección de datos, hasta la presentación de los mismos en forma resumida:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d8222ff2ac814fd59daf4bf59aa81c73",
+        "text": "Procesamiento de datos"
+      },
+      {
+        "id": "1e3578f183bb4cc2aeb03b3744887e25",
+        "text": "Prime"
+      },
+      {
+        "id": "5bd31116241942f78cdc1ef99c3da42d",
+        "text": "DFD"
+      },
+      {
+        "id": "2366a114b3394d668ec72b3d33e8971e",
+        "text": "Unity"
+      },
+      {
+        "id": "8476055b24fd4fd6b9fcf3994355f672",
+        "text": "Init"
+      }
+    ],
+    "selected": "Procesamiento de datos"
+  },
+  {
+    "id": "_210934416_1",
+    "question": "¿Cuál es una categoría de las técnicas predictivas?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "abd677afb8494dd1a2f222b543fce8fb",
+        "text": "Expandible"
+      },
+      {
+        "id": "5ac617f399ca4830854eecbec610b7b3",
+        "text": "Regresión"
+      },
+      {
+        "id": "9d1f0d91c60046ea83ce3117224c97f3",
+        "text": "General"
+      },
+      {
+        "id": "ca3a51bbe99f4302b920725b508d406d",
+        "text": "Neutral"
+      },
+      {
+        "id": "0cde4dff79364da4976cf5cf1add0dd1",
+        "text": "Homogénea"
+      }
+    ],
+    "selected": "Regresión"
+  },
+  {
+    "id": "_210934417_1",
+    "question": "Es el proceso de analizar grandes cantidades de datos para encontrar tendencias y patrones:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8c3e4ecfc32c4e79b6fd92321dbdf2de",
+        "text": "Conversión de datos"
+      },
+      {
+        "id": "dd4030a5af6448399ce2f6b26df008ba",
+        "text": "Clasificación de datos"
+      },
+      {
+        "id": "ca044331cd994e229bec2a76a4989d0f",
+        "text": "Recolección de datos"
+      },
+      {
+        "id": "1da248d0fd1048de913c2360a5c43bbc",
+        "text": "Minería de datos"
+      },
+      {
+        "id": "9becad7152674cb2849c8818ca764e54",
+        "text": "Ingreso de datos"
+      }
+    ],
+    "selected": "Minería de datos"
+  },
+  {
+    "id": "_210934418_1",
+    "question": "¿Cuál es un beneficio de la minería de datos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "49e20fde2b0d46f3b053066f9caeef59",
+        "text": "Algoritmo"
+      },
+      {
+        "id": "c279b438634449dab626dd9a3d975b14",
+        "text": "Pensamiento crítico"
+      },
+      {
+        "id": "7db2dc68e3e64950924dc707ad31c062",
+        "text": "Comprender mejor a los clientes y su recorrido"
+      },
+      {
+        "id": "a3c8517f28534281816efb9bd5efffda",
+        "text": "Problema"
+      },
+      {
+        "id": "3eb0cb0a2f294dc68de2f7b09ebecd1b",
+        "text": "Modelo entidad relación"
+      }
+    ],
+    "selected": "Comprender mejor a los clientes y su recorrido"
+  },
+  {
+    "id": "_210934419_1",
+    "question": "¿Qué es lo que proporciona un almacenamiento masivo para cualquier tipo de datos, un enorme poder de procesamiento y la capacidad de manejar tareas o trabajos prácticamente ilimitados?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "e0abab444ab74209b530aa0d244bc79f",
+        "text": "DCU"
+      },
+      {
+        "id": "942e0f3f35934510a7595496447b6e10",
+        "text": "Análisis de requerimientos"
+      },
+      {
+        "id": "24bf4f2680f641b7bc34d5667a2cd411",
+        "text": "Hadoop"
+      },
+      {
+        "id": "ef4851d10a5d4c57ba7b3cf3b4d3bf97",
+        "text": "Prototipo"
+      },
+      {
+        "id": "ec76716b9d7c481f90e2067d73a6eb34",
+        "text": "DAO"
+      }
+    ],
+    "selected": "Hadoop"
+  },
+  {
+    "id": "_210934420_1",
+    "question": "¿Cuál es una característica de Hadoop?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "98d9b2fe08544f24b4d42c637b4605c9",
+        "text": "Los costos de mantenimiento son extremadamente altos y requiere de profesionales capacitados"
+      },
+      {
+        "id": "2a8fb4e09b654916bdec46d071656e79",
+        "text": "Al tratarse de una arquitectura distribuida de gran cantidad de nodos, no dispone de tolerancia a fallos"
+      },
+      {
+        "id": "e1897497c1c34662b1fe2144aac5d5f9",
+        "text": "Es una estructura de código de pago"
+      },
+      {
+        "id": "3c4deb8725184ec9b1cae88ae0a2938f",
+        "text": "Procesar tareas o trabajos concurrentes virtualmente ilimitados"
+      },
+      {
+        "id": "30a7e5fed73f4d39a31a3581cf68f3c4",
+        "text": "Proporciona almacenamiento"
+      }
+    ],
+    "selected": "Procesar tareas o trabajos concurrentes virtualmente ilimitados"
+  },
+  {
+    "id": "_210934421_1",
+    "question": "¿Cuál es uno de los usos más populares de Hadoop hoy en día?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "ecdf0c928ec246b69a04441fd2183385",
+        "text": "Control"
+      },
+      {
+        "id": "0c852da7d5aa46838dcbebfe1573448e",
+        "text": "Planificación"
+      },
+      {
+        "id": "87e1a21852a648f3b250fc3e81e5f285",
+        "text": "Programación"
+      },
+      {
+        "id": "cc1a3dfe8985455d8cd05a3ce084a05d",
+        "text": "Almacenamiento y archivo de datos de bajo coste"
+      },
+      {
+        "id": "6c96acc96f364efeaa42adac646abcf3",
+        "text": "Tiempo"
+      }
+    ],
+    "selected": "Almacenamiento y archivo de datos de bajo coste"
+  }
+]

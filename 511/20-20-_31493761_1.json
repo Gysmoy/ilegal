@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_210977158_1",
+    "question": "Es una disciplina emergente en la que confluyen diversos campos relacionados con el diseño, la comunicación, la programación, etc:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "688d40ff60b246199e304f5483fe75c4",
+        "text": "Requerimientos no funcionales"
+      },
+      {
+        "id": "909fcfc044f344e1b6e51f0038f07e4e",
+        "text": "DAO"
+      },
+      {
+        "id": "4c689e84bfec4c64bdec9dbe023b1a3e",
+        "text": "Requerimientos funcionales"
+      },
+      {
+        "id": "5519d9c520c8465090a283e2988372ed",
+        "text": "Visualización de datos"
+      },
+      {
+        "id": "a27b43c3496d46be91dd6eb8a571f233",
+        "text": "View"
+      }
+    ],
+    "selected": "Visualización de datos"
+  },
+  {
+    "id": "_210977159_1",
+    "question": "Es una representación simbólica, una característica de una entidad que pueden describir o explicar hechos empíricos, acontecimientos y a las entidades mismas que se están estudiando:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c2c75a1ca30842f1a8f83b1e55bf6984",
+        "text": "BSC"
+      },
+      {
+        "id": "5421e2d76cc0446fb06aa5e63914a22a",
+        "text": "DFD"
+      },
+      {
+        "id": "987a2fd4fc29491d960c6d12768e07b8",
+        "text": "Componente"
+      },
+      {
+        "id": "960e9ef162b9484c96e5340574c38d96",
+        "text": "BI"
+      },
+      {
+        "id": "a3175d5efa3246e1bff6899bc172359b",
+        "text": "Dato"
+      }
+    ],
+    "selected": "Dato"
+  },
+  {
+    "id": "_210977160_1",
+    "question": "Su objetivo es ampliar el conocimiento a partir de transformar datos clasificados, información, en imágenes visuales recurriendo a estímulos perceptivos y capacidades innatas en el cerebro:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4075d9845a9d420382261695ee6fb9ad",
+        "text": "UX"
+      },
+      {
+        "id": "98c1221fb2be412ba61e5770d3b837d1",
+        "text": "IU"
+      },
+      {
+        "id": "28c0f3b919e448eda2b19fc70ca8fcb3",
+        "text": "Layout"
+      },
+      {
+        "id": "083cc84ab5544bdeab4126993309a5cd",
+        "text": "Visualización de datos"
+      },
+      {
+        "id": "99b59b4f9cf94e11b7319506b777162a",
+        "text": "View"
+      }
+    ],
+    "selected": "Visualización de datos"
+  },
+  {
+    "id": "_210977161_1",
+    "question": "¿Cuál es el programa que nos permitirá interactuar con R de forma más amigable, además de facilitar muchas de las tareas de programación y análisis de datos en R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9efbde2b40014ebbbe71bbca4aa2d159",
+        "text": "DataGrip"
+      },
+      {
+        "id": "f69e34af03ea49ecb738063d2dd7de07",
+        "text": "Developer Oracle"
+      },
+      {
+        "id": "dce86b14e5974a15b786cbce3ac7515a",
+        "text": "SQL Server IDE"
+      },
+      {
+        "id": "50814c59c8c34d228d63af3139b75ea8",
+        "text": "RStudio"
+      },
+      {
+        "id": "9baafc84c9664a438d9609adb157608e",
+        "text": "DBSchema"
+      }
+    ],
+    "selected": "RStudio"
+  },
+  {
+    "id": "_210977162_1",
+    "question": "¿Cuál no es una característica de R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "10352130b4c04b8582e0f1edb3e874f9",
+        "text": "Tiene gran colección de herramientas para el análisis de datos."
+      },
+      {
+        "id": "3f45c5658f6c42e3b0eaad9af1766277",
+        "text": "Tiene un formato de documentación basado en Matrices, que se utiliza para proporcionar documentación completa tanto en formato físico como digital."
+      },
+      {
+        "id": "04ddc0fea3f34b5fb92645df1122d9bc",
+        "text": "Conjunto de operadores para la realización de cálculos con matrices."
+      },
+      {
+        "id": "108d72d115644b6981175e92ad8aaca9",
+        "text": "Manejo y almacenamiento efectivo de los datos."
+      },
+      {
+        "id": "af90e406589a409a885674047aa42213",
+        "text": "Lenguaje de programación que incluye saltos condicionales, bucles, funciones recursivas, utilidades para la entrada y salida de datos, etc."
+      }
+    ],
+    "selected": "Tiene un formato de documentación basado en Matrices, que se utiliza para proporcionar documentación completa tanto en formato físico como digital."
+  },
+  {
+    "id": "_210977163_1",
+    "question": "¿Cuál es una importancia de la analítica predictiva?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "3410ddb7214c40b3afd65eb492f41635",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "e9bf9c897a3f4ce78c250176cab23851",
+        "text": "Mensaje de texto"
+      },
+      {
+        "id": "07a4e2a6bee44863a38c9d039bc2e3f5",
+        "text": "Plan estratégico"
+      },
+      {
+        "id": "e01d5c49f1c54b69b781091c0792c244",
+        "text": "Método de proyectos"
+      },
+      {
+        "id": "79540fadfbdc4f6a90450b25a76e73da",
+        "text": "Detección de fraude"
+      }
+    ],
+    "selected": "Detección de fraude"
+  },
+  {
+    "id": "_210977164_1",
+    "question": "¿A qué se debe que cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "60011bd539dc474c8b1a509391a851c1",
+        "text": "Método de proyectos"
+      },
+      {
+        "id": "72b119f195ed4885be0619e1942d8acb",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "0861a40c3aa643bfaf7a2eec3b228c3c",
+        "text": "Software más fácil de usar."
+      },
+      {
+        "id": "34e6604b214c436a9f463e1345c7b374",
+        "text": "Mensaje de texto"
+      },
+      {
+        "id": "26041f68a2eb409ab0a9c7e485d70882",
+        "text": "Plan estratégico"
+      }
+    ],
+    "selected": "Software más fácil de usar."
+  },
+  {
+    "id": "_210977165_1",
+    "question": "¿Cuál es una importancia de la analítica predictiva?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "5163243908d7477f81780b35de200491",
+        "text": "Método de proyectos"
+      },
+      {
+        "id": "aca7745fde734d319de9922b453310f8",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "2d008c7bd0594cfb9fedcd74bc6f3667",
+        "text": "Mensaje de texto"
+      },
+      {
+        "id": "830fff49172e4b1c92d84e1b3001c47e",
+        "text": "Plan estratégico"
+      },
+      {
+        "id": "ee49251ae6a0489391512ed9cc636b80",
+        "text": "Mejoramiento de las operaciones"
+      }
+    ],
+    "selected": "Mejoramiento de las operaciones"
+  },
+  {
+    "id": "_210977166_1",
+    "question": "¿Cuáles son las pestañas del Panel de entorno en R Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "da19122189cf49178c62cc206c27de95",
+        "text": "Menu y Archivo"
+      },
+      {
+        "id": "5f16227ab51f436fa6792f816876c985",
+        "text": "Desarrollo y Menu"
+      },
+      {
+        "id": "cff08b7da8be41e2904ca2b61a666afd",
+        "text": "Comandos y Sentencias"
+      },
+      {
+        "id": "1c1994c7d9664797b2b47637efe46f4f",
+        "text": "Archivo y Comandos"
+      },
+      {
+        "id": "cec7ee1278b14578ba82df840d3a6c35",
+        "text": "Environment y History."
+      }
+    ],
+    "selected": "Environment y History."
+  },
+  {
+    "id": "_210977167_1",
+    "question": "¿Cuál sería una de las limitaciones de la consola en R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "ae1d32ef358f4ea080a8b0347538cd12",
+        "text": "Las instrucciones se pueden ejecutar en bloque"
+      },
+      {
+        "id": "3bb19ee8f3a54dd2b0a3220bf78bfbdf",
+        "text": "Ingresar instrucciones una por una"
+      },
+      {
+        "id": "f84971b10c5144d98b4863ec1cf18f39",
+        "text": "Ejecutamos código desde la opción Menú"
+      },
+      {
+        "id": "f336eecbd27944beb37c0fa979ae0e7a",
+        "text": "Puede ejecutar script"
+      },
+      {
+        "id": "9e47d5f4419e41618936f2c8c728e6da",
+        "text": "Se debe crear un script para ejecutar las instrucciones"
+      }
+    ],
+    "selected": "Ingresar instrucciones una por una"
+  },
+  {
+    "id": "_210977168_1",
+    "question": "Es una característica de R:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "73d14b057b9446a39555914683eca03f",
+        "text": "BI"
+      },
+      {
+        "id": "122df2fb9b774cfba98fe56019d4da42",
+        "text": "Componente"
+      },
+      {
+        "id": "628dc7b86b304fe28864dd510b493f96",
+        "text": "Almacenamiento y manipulación efectiva de datos"
+      },
+      {
+        "id": "7c28208efc6b4750a1c4803d0e524c9b",
+        "text": "BSC"
+      },
+      {
+        "id": "157d43265ee345d98b4d994555b30acb",
+        "text": "DFD"
+      }
+    ],
+    "selected": "Almacenamiento y manipulación efectiva de datos"
+  },
+  {
+    "id": "_210977169_1",
+    "question": "Es un beneficio de la minería de datos:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "1ea26e6a2a4c451eaaf9e5e08e3f240e",
+        "text": "DAO."
+      },
+      {
+        "id": "93cc6054fe71483b90e6d7e64327b4bf",
+        "text": "Desarrollar campañas de marketing más efectivas y personalizadas"
+      },
+      {
+        "id": "4a47a931f59c4eb589c87ed5f8732b10",
+        "text": "Análisis del problema"
+      },
+      {
+        "id": "5a21d43a71554583bd13f0804730ad3b",
+        "text": "Diagrama de casos de uso"
+      },
+      {
+        "id": "98b985c83c67423fb39a3c3dc2b1863e",
+        "text": "Algoritmo"
+      }
+    ],
+    "selected": "Desarrollar campañas de marketing más efectivas y personalizadas"
+  },
+  {
+    "id": "_210977170_1",
+    "question": "Es una categoría de las técnicas predictivas:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b757047eac2e42c0b56cb36b5956ff8a",
+        "text": "Expandible"
+      },
+      {
+        "id": "ef5f92bbbd87449f8dfcf5e98a380afc",
+        "text": "Homogénea"
+      },
+      {
+        "id": "f2f9cfc09084431aa2caa8fca4f9f878",
+        "text": "General"
+      },
+      {
+        "id": "f52d73d0d35c44de9f589cbe34f27eeb",
+        "text": "Neutral"
+      },
+      {
+        "id": "4a4520a861104b769aa4e7c491d89c48",
+        "text": "Clasificación"
+      }
+    ],
+    "selected": "Clasificación"
+  },
+  {
+    "id": "_210977171_1",
+    "question": "Es el proceso de analizar grandes cantidades de datos para encontrar tendencias y patrones:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8c3e4ecfc32c4e79b6fd92321dbdf2de",
+        "text": "Conversión de datos"
+      },
+      {
+        "id": "ca044331cd994e229bec2a76a4989d0f",
+        "text": "Recolección de datos"
+      },
+      {
+        "id": "dd4030a5af6448399ce2f6b26df008ba",
+        "text": "Clasificación de datos"
+      },
+      {
+        "id": "1da248d0fd1048de913c2360a5c43bbc",
+        "text": "Minería de datos"
+      },
+      {
+        "id": "9becad7152674cb2849c8818ca764e54",
+        "text": "Ingreso de datos"
+      }
+    ],
+    "selected": "Minería de datos"
+  },
+  {
+    "id": "_210977172_1",
+    "question": "Se lo conoce por sus tres “V”: volumen, variedad y velocidad:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f26985382f1e4b5da897a44ca561e5df",
+        "text": "POI"
+      },
+      {
+        "id": "a0e4c091c55441679eac95da65bcadd5",
+        "text": "Planeamiento TI"
+      },
+      {
+        "id": "8954cd9c31254d7c997ba481fef693f5",
+        "text": "Big data"
+      },
+      {
+        "id": "5f8ed61c02ed4021b9841a235187156e",
+        "text": "Inteligencia de Negocios"
+      },
+      {
+        "id": "fc15b56fb5fc47de92fdd66833f24831",
+        "text": "BI"
+      }
+    ],
+    "selected": "Big data"
+  },
+  {
+    "id": "_210977173_1",
+    "question": "Corresponde a uno de los tipos de Big Data:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a14e83deb4b64a04a027af7349f62bbc",
+        "text": "UML"
+      },
+      {
+        "id": "70ffe632f10346b28b15184b3bddd1b0",
+        "text": "Frame"
+      },
+      {
+        "id": "167e5ef42d62404f96b22f25169d2031",
+        "text": "Estructurados."
+      },
+      {
+        "id": "04dd740b47224920a119f34daeb4c074",
+        "text": "Django"
+      },
+      {
+        "id": "aeedf910c916447497b1a2ec4366871a",
+        "text": "XML"
+      }
+    ],
+    "selected": "Estructurados."
+  },
+  {
+    "id": "_210977174_1",
+    "question": "¿Cuál sería un ejemplo para poder aplicar la tecnología de Big Data?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7a1512de0820497d9a1b3b034ac1f976",
+        "text": "Una farmacia que necesita guardar sus listados de precios, productos, personal y ventas con un volumen de datos de 25GB"
+      },
+      {
+        "id": "8da06a3d3d8949b6960dae14cfd98302",
+        "text": "Una mediana empresa que utiliza de datos que puede alcanzar cientos de GB"
+      },
+      {
+        "id": "5f26695dd5c44136876b7d7ef0c8927b",
+        "text": "Una pequeña empresa que utiliza un volumen de datos que máximo esta por 40GB"
+      },
+      {
+        "id": "a3c39434c79b47408e0dffafb571bc89",
+        "text": "Una mediana empresa puede utilizar un volumen de los datos que puede alcanzar cientos de Gigabytes"
+      },
+      {
+        "id": "10d297423d6c4b76a015adb6d04ec7e3",
+        "text": "Una mediana empresa que utiliza un volumen de datos que puede alcanzar los 30TB y mucho mas"
+      }
+    ],
+    "selected": "Una mediana empresa que utiliza un volumen de datos que puede alcanzar los 30TB y mucho mas"
+  },
+  {
+    "id": "_210977175_1",
+    "question": "¿Cuál es uno de los usos más populares de Hadoop hoy en día?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0c852da7d5aa46838dcbebfe1573448e",
+        "text": "Planificación"
+      },
+      {
+        "id": "cc1a3dfe8985455d8cd05a3ce084a05d",
+        "text": "Almacenamiento y archivo de datos de bajo coste"
+      },
+      {
+        "id": "6c96acc96f364efeaa42adac646abcf3",
+        "text": "Tiempo"
+      },
+      {
+        "id": "87e1a21852a648f3b250fc3e81e5f285",
+        "text": "Programación"
+      },
+      {
+        "id": "ecdf0c928ec246b69a04441fd2183385",
+        "text": "Control"
+      }
+    ],
+    "selected": "Almacenamiento y archivo de datos de bajo coste"
+  },
+  {
+    "id": "_210977176_1",
+    "question": "¿Cuál es una característica de Hadoop?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2a8fb4e09b654916bdec46d071656e79",
+        "text": "Al tratarse de una arquitectura distribuida de gran cantidad de nodos, no dispone de tolerancia a fallos"
+      },
+      {
+        "id": "3c4deb8725184ec9b1cae88ae0a2938f",
+        "text": "Procesar tareas o trabajos concurrentes virtualmente ilimitados"
+      },
+      {
+        "id": "98d9b2fe08544f24b4d42c637b4605c9",
+        "text": "Los costos de mantenimiento son extremadamente altos y requiere de profesionales capacitados"
+      },
+      {
+        "id": "e1897497c1c34662b1fe2144aac5d5f9",
+        "text": "Es una estructura de código de pago"
+      },
+      {
+        "id": "30a7e5fed73f4d39a31a3581cf68f3c4",
+        "text": "Proporciona almacenamiento"
+      }
+    ],
+    "selected": "Procesar tareas o trabajos concurrentes virtualmente ilimitados"
+  },
+  {
+    "id": "_210977177_1",
+    "question": "¿Cuál es el framework open source para almacenar datos y ejecutar aplicaciones en clusters de hardware básicos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "96f3f6fb202347f9aa1df1a729a868f5",
+        "text": "Arquitectura"
+      },
+      {
+        "id": "367a1738563d4b308280484fa863f8fd",
+        "text": "Tema"
+      },
+      {
+        "id": "1814fc818ca342e6bb1b26c652b88397",
+        "text": "Software"
+      },
+      {
+        "id": "412094a8858e41edb722ca4cd3d82bc1",
+        "text": "Objetivo"
+      },
+      {
+        "id": "238e7d0c592242d7b686af7fdd41466f",
+        "text": "Hadoop"
+      }
+    ],
+    "selected": "Hadoop"
+  }
+]

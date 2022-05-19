@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_210696619_1",
+    "question": "Es el proceso de analizar grandes cantidades de datos para encontrar tendencias y patrones:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "1da248d0fd1048de913c2360a5c43bbc",
+        "text": "Minería de datos"
+      },
+      {
+        "id": "dd4030a5af6448399ce2f6b26df008ba",
+        "text": "Clasificación de datos"
+      },
+      {
+        "id": "ca044331cd994e229bec2a76a4989d0f",
+        "text": "Recolección de datos"
+      },
+      {
+        "id": "8c3e4ecfc32c4e79b6fd92321dbdf2de",
+        "text": "Conversión de datos"
+      },
+      {
+        "id": "9becad7152674cb2849c8818ca764e54",
+        "text": "Ingreso de datos"
+      }
+    ],
+    "selected": "Minería de datos"
+  },
+  {
+    "id": "_210696620_1",
+    "question": "¿Cuál es una categoría de las técnicas predictivas?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b5537c2374184659971693143289b842",
+        "text": "General"
+      },
+      {
+        "id": "75bb18e551344acda856bd809345c6f7",
+        "text": "Detección de anomalías"
+      },
+      {
+        "id": "1560dfe75d8d4ad1acc928e22e19c753",
+        "text": "Expandible"
+      },
+      {
+        "id": "0d11e3f6ca4948b6a90b37900e5993e3",
+        "text": "Neutral"
+      },
+      {
+        "id": "9bd025ac3f444bc9b31ef851fe4402fb",
+        "text": "Homogénea"
+      }
+    ],
+    "selected": "Detección de anomalías"
+  },
+  {
+    "id": "_210696621_1",
+    "question": "¿Cuál es un beneficio de la minería de datos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "49e20fde2b0d46f3b053066f9caeef59",
+        "text": "Algoritmo"
+      },
+      {
+        "id": "a3c8517f28534281816efb9bd5efffda",
+        "text": "Problema"
+      },
+      {
+        "id": "c279b438634449dab626dd9a3d975b14",
+        "text": "Pensamiento crítico"
+      },
+      {
+        "id": "3eb0cb0a2f294dc68de2f7b09ebecd1b",
+        "text": "Modelo entidad relación"
+      },
+      {
+        "id": "7db2dc68e3e64950924dc707ad31c062",
+        "text": "Comprender mejor a los clientes y su recorrido"
+      }
+    ],
+    "selected": "Comprender mejor a los clientes y su recorrido"
+  },
+  {
+    "id": "_210696622_1",
+    "question": "¿A qué se debe que cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "34e6604b214c436a9f463e1345c7b374",
+        "text": "Mensaje de texto"
+      },
+      {
+        "id": "26041f68a2eb409ab0a9c7e485d70882",
+        "text": "Plan estratégico"
+      },
+      {
+        "id": "72b119f195ed4885be0619e1942d8acb",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "0861a40c3aa643bfaf7a2eec3b228c3c",
+        "text": "Software más fácil de usar."
+      },
+      {
+        "id": "60011bd539dc474c8b1a509391a851c1",
+        "text": "Método de proyectos"
+      }
+    ],
+    "selected": "Software más fácil de usar."
+  },
+  {
+    "id": "_210696623_1",
+    "question": "Es una importancia de la analítica predictiva:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "5dcf69437c0349a4aa1896dc19f94eeb",
+        "text": "Método de proyectos"
+      },
+      {
+        "id": "6e4121cfd654452393eb3bb06f21bb4b",
+        "text": "Mensaje de texto"
+      },
+      {
+        "id": "16a6d41663824415928347e6e178de25",
+        "text": "Plan estratégico"
+      },
+      {
+        "id": "75812f2c520d4dda9ac16fa592fa36a7",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "71befd79f2f94a5bba1602b79be7969c",
+        "text": "Optimización de las campañas de marketing"
+      }
+    ],
+    "selected": "Gestionar los DCU"
+  },
+  {
+    "id": "_210696624_1",
+    "question": "Cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva, debido a:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a4866026c1ba4789ad892e241d02df6d",
+        "text": "General"
+      },
+      {
+        "id": "b114d4a8ab174042b2f7e912fdf9dcd0",
+        "text": "Volúmenes y tipos de datos cada vez mayores, además de un mayor interés en el uso de datos para producir insights valiosos."
+      },
+      {
+        "id": "ed13a1fd40834876bdee60afb91d993b",
+        "text": "Homogénea"
+      },
+      {
+        "id": "8eac44db3c5b40f8b752e01a11ec8051",
+        "text": "Expandible"
+      },
+      {
+        "id": "72b02bfead43436fa8b9266c6b7ebb5a",
+        "text": "Neutral"
+      }
+    ],
+    "selected": "Volúmenes y tipos de datos cada vez mayores, además de un mayor interés en el uso de datos para producir insights valiosos."
+  },
+  {
+    "id": "_210696625_1",
+    "question": "¿Cuál es uno de los usos más populares de Hadoop hoy en día?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "87e1a21852a648f3b250fc3e81e5f285",
+        "text": "Programación"
+      },
+      {
+        "id": "6c96acc96f364efeaa42adac646abcf3",
+        "text": "Tiempo"
+      },
+      {
+        "id": "ecdf0c928ec246b69a04441fd2183385",
+        "text": "Control"
+      },
+      {
+        "id": "0c852da7d5aa46838dcbebfe1573448e",
+        "text": "Planificación"
+      },
+      {
+        "id": "cc1a3dfe8985455d8cd05a3ce084a05d",
+        "text": "Almacenamiento y archivo de datos de bajo coste"
+      }
+    ],
+    "selected": "Almacenamiento y archivo de datos de bajo coste"
+  },
+  {
+    "id": "_210696626_1",
+    "question": "¿Qué es lo que proporciona un almacenamiento masivo para cualquier tipo de datos, un enorme poder de procesamiento y la capacidad de manejar tareas o trabajos prácticamente ilimitados?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "24bf4f2680f641b7bc34d5667a2cd411",
+        "text": "Hadoop"
+      },
+      {
+        "id": "942e0f3f35934510a7595496447b6e10",
+        "text": "Análisis de requerimientos"
+      },
+      {
+        "id": "ec76716b9d7c481f90e2067d73a6eb34",
+        "text": "DAO"
+      },
+      {
+        "id": "e0abab444ab74209b530aa0d244bc79f",
+        "text": "DCU"
+      },
+      {
+        "id": "ef4851d10a5d4c57ba7b3cf3b4d3bf97",
+        "text": "Prototipo"
+      }
+    ],
+    "selected": "Hadoop"
+  },
+  {
+    "id": "_210696627_1",
+    "question": "¿Cuál es una ventaja de Hadoop?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9b4485b30bd44f6dae984be2ff2b4ae9",
+        "text": "star"
+      },
+      {
+        "id": "116f483c475b44bd9829bb647e5a21e9",
+        "text": "init"
+      },
+      {
+        "id": "1d7ef3ffd78144b5b704950cb9197b8c",
+        "text": "group"
+      },
+      {
+        "id": "97a92849e8d746a88ccf9c639b0466ff",
+        "text": "exit"
+      },
+      {
+        "id": "f00967f9ab304e79b47a2eb83ae233f9",
+        "text": "escalabilidad"
+      }
+    ],
+    "selected": "escalabilidad"
+  },
+  {
+    "id": "_210696628_1",
+    "question": "¿Cuál no es una característica de R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "108d72d115644b6981175e92ad8aaca9",
+        "text": "Manejo y almacenamiento efectivo de los datos."
+      },
+      {
+        "id": "af90e406589a409a885674047aa42213",
+        "text": "Lenguaje de programación que incluye saltos condicionales, bucles, funciones recursivas, utilidades para la entrada y salida de datos, etc."
+      },
+      {
+        "id": "10352130b4c04b8582e0f1edb3e874f9",
+        "text": "Tiene gran colección de herramientas para el análisis de datos."
+      },
+      {
+        "id": "04ddc0fea3f34b5fb92645df1122d9bc",
+        "text": "Conjunto de operadores para la realización de cálculos con matrices."
+      },
+      {
+        "id": "3f45c5658f6c42e3b0eaad9af1766277",
+        "text": "Tiene un formato de documentación basado en Matrices, que se utiliza para proporcionar documentación completa tanto en formato físico como digital."
+      }
+    ],
+    "selected": "Tiene un formato de documentación basado en Matrices, que se utiliza para proporcionar documentación completa tanto en formato físico como digital."
+  },
+  {
+    "id": "_210696629_1",
+    "question": "¿Cuál es una ventana de R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8d921be3a8cb42b5ad743693017281ab",
+        "text": "ETL"
+      },
+      {
+        "id": "e7ba89bc5be04a46b6c4ae01cd9d25e0",
+        "text": "BSC"
+      },
+      {
+        "id": "c6196040835646e5850eceeacbd1422a",
+        "text": "Lista de variables"
+      },
+      {
+        "id": "96f9d27f7bd64b05845b7d7d19299cb9",
+        "text": "MVC"
+      },
+      {
+        "id": "49f563ab83f442b180fbb71d8f105be9",
+        "text": "BI"
+      }
+    ],
+    "selected": "Lista de variables"
+  },
+  {
+    "id": "_210696630_1",
+    "question": "Es una representación simbólica, una característica de una entidad que pueden describir o explicar hechos empíricos, acontecimientos y a las entidades mismas que se están estudiando:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "5421e2d76cc0446fb06aa5e63914a22a",
+        "text": "DFD"
+      },
+      {
+        "id": "960e9ef162b9484c96e5340574c38d96",
+        "text": "BI"
+      },
+      {
+        "id": "a3175d5efa3246e1bff6899bc172359b",
+        "text": "Dato"
+      },
+      {
+        "id": "987a2fd4fc29491d960c6d12768e07b8",
+        "text": "Componente"
+      },
+      {
+        "id": "c2c75a1ca30842f1a8f83b1e55bf6984",
+        "text": "BSC"
+      }
+    ],
+    "selected": "Dato"
+  },
+  {
+    "id": "_210696631_1",
+    "question": "Se refiere a todo el proceso que sigue un investigador desde la recolección de datos, hasta la presentación de los mismos en forma resumida:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d8222ff2ac814fd59daf4bf59aa81c73",
+        "text": "Procesamiento de datos"
+      },
+      {
+        "id": "5bd31116241942f78cdc1ef99c3da42d",
+        "text": "DFD"
+      },
+      {
+        "id": "2366a114b3394d668ec72b3d33e8971e",
+        "text": "Unity"
+      },
+      {
+        "id": "8476055b24fd4fd6b9fcf3994355f672",
+        "text": "Init"
+      },
+      {
+        "id": "1e3578f183bb4cc2aeb03b3744887e25",
+        "text": "Prime"
+      }
+    ],
+    "selected": "Procesamiento de datos"
+  },
+  {
+    "id": "_210696632_1",
+    "question": "Es una etapa del procesamiento de datos:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "bc936953d2ce4d46b36f570f7b0a564f",
+        "text": "Recolección"
+      },
+      {
+        "id": "8527c2039f314d178a076ed8d1236918",
+        "text": "UML"
+      },
+      {
+        "id": "28ababc8d1c2478bb9349b5d4aa95418",
+        "text": "END"
+      },
+      {
+        "id": "20b0ec686cbd4f32aa6a11ae0de4ec0b",
+        "text": "BIM"
+      },
+      {
+        "id": "c701bad184e044b58daae72e113549f8",
+        "text": "Unity"
+      }
+    ],
+    "selected": "Recolección"
+  },
+  {
+    "id": "_210696633_1",
+    "question": "¿Cuál sería el comando en RStudio que permite fijar el directorio donde queremos guardar nuestros ficheros?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "22ea7bf04e544056a61793e0a6d0e37b",
+        "text": "getwd"
+      },
+      {
+        "id": "34eb3a304e1b4d868581c5ac6acd26cd",
+        "text": "netwd"
+      },
+      {
+        "id": "f7d6411ecfe44ba2b9344ac2e3bb32c6",
+        "text": "setwd"
+      },
+      {
+        "id": "4b1bcc8d229b4b6ebbd08c161a598b97",
+        "text": "metwd"
+      },
+      {
+        "id": "1cedf91f08c042c0aaabfa3df3b1ea22",
+        "text": "dir"
+      }
+    ],
+    "selected": "setwd"
+  },
+  {
+    "id": "_210696634_1",
+    "question": "Es una característica de R:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "73d14b057b9446a39555914683eca03f",
+        "text": "BI"
+      },
+      {
+        "id": "628dc7b86b304fe28864dd510b493f96",
+        "text": "Almacenamiento y manipulación efectiva de datos"
+      },
+      {
+        "id": "157d43265ee345d98b4d994555b30acb",
+        "text": "DFD"
+      },
+      {
+        "id": "7c28208efc6b4750a1c4803d0e524c9b",
+        "text": "BSC"
+      },
+      {
+        "id": "122df2fb9b774cfba98fe56019d4da42",
+        "text": "Componente"
+      }
+    ],
+    "selected": "BSC"
+  },
+  {
+    "id": "_210696635_1",
+    "question": "¿Cuál sería una de las limitaciones de la consola en R?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "3bb19ee8f3a54dd2b0a3220bf78bfbdf",
+        "text": "Ingresar instrucciones una por una"
+      },
+      {
+        "id": "f84971b10c5144d98b4863ec1cf18f39",
+        "text": "Ejecutamos código desde la opción Menú"
+      },
+      {
+        "id": "9e47d5f4419e41618936f2c8c728e6da",
+        "text": "Se debe crear un script para ejecutar las instrucciones"
+      },
+      {
+        "id": "ae1d32ef358f4ea080a8b0347538cd12",
+        "text": "Las instrucciones se pueden ejecutar en bloque"
+      },
+      {
+        "id": "f336eecbd27944beb37c0fa979ae0e7a",
+        "text": "Puede ejecutar script"
+      }
+    ],
+    "selected": "Ingresar instrucciones una por una"
+  },
+  {
+    "id": "_210696636_1",
+    "question": "Corresponde a uno de los tipos de Big Data:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "167e5ef42d62404f96b22f25169d2031",
+        "text": "Estructurados."
+      },
+      {
+        "id": "70ffe632f10346b28b15184b3bddd1b0",
+        "text": "Frame"
+      },
+      {
+        "id": "04dd740b47224920a119f34daeb4c074",
+        "text": "Django"
+      },
+      {
+        "id": "a14e83deb4b64a04a027af7349f62bbc",
+        "text": "UML"
+      },
+      {
+        "id": "aeedf910c916447497b1a2ec4366871a",
+        "text": "XML"
+      }
+    ],
+    "selected": "Estructurados."
+  },
+  {
+    "id": "_210696637_1",
+    "question": "Se lo conoce por sus tres “V”: volumen, variedad y velocidad:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "fc15b56fb5fc47de92fdd66833f24831",
+        "text": "BI"
+      },
+      {
+        "id": "a0e4c091c55441679eac95da65bcadd5",
+        "text": "Planeamiento TI"
+      },
+      {
+        "id": "5f8ed61c02ed4021b9841a235187156e",
+        "text": "Inteligencia de Negocios"
+      },
+      {
+        "id": "f26985382f1e4b5da897a44ca561e5df",
+        "text": "POI"
+      },
+      {
+        "id": "8954cd9c31254d7c997ba481fef693f5",
+        "text": "Big data"
+      }
+    ],
+    "selected": "Big data"
+  },
+  {
+    "id": "_210696638_1",
+    "question": "¿Cuál no sería una fuente de los datos según su procedencia en BigData?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8eca75fc26e34b51a161a4a460ec63c3",
+        "text": "Blog"
+      },
+      {
+        "id": "74e426e91540444fbfa73a7f9d62a09c",
+        "text": "Páginas web"
+      },
+      {
+        "id": "d933ee727c4247c1999733d58d818970",
+        "text": "Datos generados por interacción de sensores inteligentes"
+      },
+      {
+        "id": "66db37e89ab74b3eab2a9f005dba19cb",
+        "text": "No estructurados"
+      },
+      {
+        "id": "f0fe8e2e3e8b4db183e39ef60b684d53",
+        "text": "Redes sociales"
+      }
+    ],
+    "selected": "No estructurados"
+  }
+]
