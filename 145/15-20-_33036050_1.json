@@ -2,7 +2,7 @@
   {
     "id": "_221955189_1",
     "question": "Este indicador de evaluación en la formación práctica está referido al ritmo de aprendizaje que el monitor deberá dosificar y orientar progresivamente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f4ea0af3110c4c47bd2b0cc803e57a7e",
@@ -30,7 +30,7 @@
   {
     "id": "_221955190_1",
     "question": "La pregunta: ¿A qué hora dejó de funcionar el equipo?, es un ejemplo de:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "aa7326b0a4ff42248bfda1d0a9192ff9",
@@ -58,7 +58,7 @@
   {
     "id": "_221955191_1",
     "question": "Es una relación descriptiva que enumera, paso a paso las actividades de una tarea, respetando su secuencia. Se usa para evaluar procesos y cotejar entre: si o no; aceptable o inaceptable o, algunas otras designaciones similares",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b5eb3cc2d7a3474c981d0c2051a9fa05",
@@ -86,7 +86,7 @@
   {
     "id": "_221955192_1",
     "question": "Es una técnica muy útil en el proceso de aprendizaje, pues despierta y conduce al aprendiz al pensamiento reflexivo, que es el elemento básico de toda acción consciente y definida.",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "6198d0deeae144b580ba2d29f680178b",
@@ -114,7 +114,7 @@
   {
     "id": "_221955193_1",
     "question": "Andrés en su evaluación práctica obtuvo una nota de 15.2, de acuerdo con la escala cualitativa su nota corresponde a:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4645db3f4bad4df1b6fd469d8121138f",
@@ -142,7 +142,7 @@
   {
     "id": "_221955194_1",
     "question": "Cuando por alguna causa de fuerza mayor el especialista de seguimiento no llegase a registrar la calificación del alumno, ………. y ………. Así mismo debe informar al coordinador sustentando el motivo.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "62711a75a6ec46a78db965332b14820c",
@@ -170,7 +170,7 @@
   {
     "id": "_221955195_1",
     "question": "Con este documento la empresa colaboradora se compromete a brindar las facilidades de sus instalaciones para el aprendizaje práctico del estudiante, ubicándolo en los procesos de producción; y no tiene la obligación de pagar al estudiante alguna asignación económica mensual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6e4e24bd87854c12b66a770cf827a0a3",
@@ -198,7 +198,7 @@
   {
     "id": "_221955196_1",
     "question": "El patrocinio consiste en brindarle las oportunidades para el aprendizaje práctico en sus instalaciones productivas, y otorgarle una asignación económica mensual no menor de 50% de remuneración mínima vital. Se refiere a:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "8c4a10a29f264a60900d78b0430e6605",
@@ -226,7 +226,7 @@
   {
     "id": "_221955197_1",
     "question": "SENATI busca garantizar la adecuada aplicación de los formatos de vinculación de los aprendices con las empresas para realizar su ……………… en estricto cumplimiento del …………………, llevándose a cabo la formación dual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b9de2ed656e44cdb8953e27867851ffd",
@@ -254,7 +254,7 @@
   {
     "id": "_221955198_1",
     "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b0212382bb5e4754903d073e2ce9f586",
@@ -282,7 +282,7 @@
   {
     "id": "_221955199_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución de formación profesional ……………………, de gestión privada; no forma parte de la Administración Pública",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e5167e8f07e040aebe6f8eb6a7aaf5c3",
@@ -310,7 +310,7 @@
   {
     "id": "_221955200_1",
     "question": "Tiene una duración de 6 semestres académicos, y el profesional egresado está capacitado para el desempeño en tareas complejas o no rutinarias correspondientes a una ocupación o grupo de ocupaciones afines",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "da952cb164a5453e948a2ec2023a8cc1",
@@ -338,7 +338,7 @@
   {
     "id": "_221955201_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución creada a iniciativa de la ………………………………",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9662ec8ec0ae4921a40c8e632e321493",
@@ -366,7 +366,7 @@
   {
     "id": "_221955202_1",
     "question": "“Formar profesionales técnicos innovadores y altamente productivos”, esta expresión es considerada como:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fb14a064c8f74a3cb5a40bdf3f655acb",
@@ -394,7 +394,7 @@
   {
     "id": "_221955203_1",
     "question": "Es el modelo pedagógico cuyas actividades de formación se caracterizan por una formación básica o teórica en SENATI y formación práctica en las empresas:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5ed0306d39e84a5b95145865973aec9d",
@@ -422,7 +422,7 @@
   {
     "id": "_221955204_1",
     "question": "Puntualidad, respeto a normas de seguridad, conservación del medio ambiente, buena calidad en la producción, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fcd4afebeefb45bdb4448e69e25fbd41",
@@ -450,7 +450,7 @@
   {
     "id": "_221955205_1",
     "question": "Para cada secuencia de instrucción, el monitor debe tener:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "36088169e0d9468c8046bf9b2aeb6216",
@@ -478,7 +478,7 @@
   {
     "id": "_221955206_1",
     "question": "En la actualidad el ……………………………está sujeto a permanentes cambios en el medio socio laboral, nuevas exigencias y competencias.",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "c4b5bee056094eb3bf74306be079ae8a",
@@ -506,7 +506,7 @@
   {
     "id": "_221955207_1",
     "question": "Es importante que al final de su estadía en empresa, las actividades realizadas por el aprendiz cubran como mínimo las partes esenciales establecidas en el …………………………………. y acordado previamente con el instructor del SENATI",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5cc11b57ef4a403099b171ccb40026f8",
@@ -534,7 +534,7 @@
   {
     "id": "_221955208_1",
     "question": "Es una exposición demostrativa que hace el monitor cuando necesita comunicar experiencias vividas y ganadas por él en su contexto laboral:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "1e676737fb954fc8b727d389653b0e58",
