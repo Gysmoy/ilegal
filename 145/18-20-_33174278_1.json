@@ -2,7 +2,7 @@
   {
     "id": "_223596201_1",
     "question": "Es el proceso de observación, verificación y juzgamiento de la adquisición de conocimientos, habilidades y actitudes del aprendiz.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "03b56d93ba5f453ca48991910198e7c0",
@@ -30,7 +30,7 @@
   {
     "id": "_223596202_1",
     "question": "Este indicador de evaluación en la formación práctica está referido al ritmo de aprendizaje que el monitor deberá dosificar y orientar progresivamente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "01101df6f22949c4a872ac184d9950cb",
@@ -58,7 +58,7 @@
   {
     "id": "_223596203_1",
     "question": "Andrés en su evaluación práctica obtuvo una nota de 15.2, de acuerdo con la escala cualitativa su nota corresponde a:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3e7c8cb5b68d49cd99f76ccc9118d627",
@@ -86,7 +86,7 @@
   {
     "id": "_223596204_1",
     "question": "La pregunta: ¿A qué hora dejó de funcionar el equipo?, es un ejemplo de:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "aa7326b0a4ff42248bfda1d0a9192ff9",
@@ -114,7 +114,7 @@
   {
     "id": "_223596205_1",
     "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3c0f61536ea84c4da16ed634c7782905",
@@ -142,7 +142,7 @@
   {
     "id": "_223596206_1",
     "question": "En el caso de ……………………………es recomendable asignar al aprendiz a un trabajador experimentado que domine las tareas de su oficio, para que lo oriente y supervise constantemente hasta lograr con éxito el desarrollo de tareas de ese puesto de trabajo.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "43fe21ad1d374c61ae3cc0b2c77c1576",
@@ -170,7 +170,7 @@
   {
     "id": "_223596207_1",
     "question": "Puntualidad, respeto a normas de seguridad, conservación del medio ambiente, buena calidad en la producción, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6fd73d16a96944918b222e5e84aca722",
@@ -198,7 +198,7 @@
   {
     "id": "_223596208_1",
     "question": "El monitor transfiere la información del proceso de trabajo al aprendiz. La información es recibida por el aprendiz, generalmente por dos canales: oídos y vista, en tanto se desarrolla explicando y demostrando el trabajo a ejecutar ¿A qué etapa corresponde en el método demostrativo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6dd7b14c262e4f308f383d8053b5691c",
@@ -226,7 +226,7 @@
   {
     "id": "_223596209_1",
     "question": "El ………………. es la apropiación de conocimientos, capacidades y habilidades que forman competencias en la persona que aprende",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aee5f15849884d47a8d7219a548767a1",
@@ -254,7 +254,7 @@
   {
     "id": "_223596210_1",
     "question": "En la actualidad el ……………………………está sujeto a permanentes cambios en el medio socio laboral, nuevas exigencias y competencias.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "774bfbbe462d49c898b7b1408def1788",
@@ -282,7 +282,7 @@
   {
     "id": "_223596211_1",
     "question": "Tiene una duración de 6 semestres académicos, y el profesional egresado está capacitado para el desempeño en tareas complejas o no rutinarias correspondientes a una ocupación o grupo de ocupaciones afines",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c5f3b09c596241ca98c4ca5ed135d548",
@@ -310,7 +310,7 @@
   {
     "id": "_223596212_1",
     "question": "Tiene la función de realizar el seguimiento de la formación práctica en empresas a los aprendices, acompañando, orientando, asesorando, evaluando la formación práctica en condiciones de seguridad de los estudiantes en la empresa de acuerdo con el PEA",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7c45b87c15f4446795f7506958875afa",
@@ -338,7 +338,7 @@
   {
     "id": "_223596213_1",
     "question": "Es el trabajador designado por la empresa y capacitado por el SENATI, para organizar y desarrollar la formación práctica del estudiante en los diferentes puestos de trabajo de los procesos de producción o servicio de las empresas, cuidando la aplicación correcta de Normas de Seguridad, Higiene Industrial y Ambiental en la realización de las tareas y operaciones.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aac1340353544861b2356757d35e3176",
@@ -366,7 +366,7 @@
   {
     "id": "_223596214_1",
     "question": "“Liderar en América Latina, la excelencia en formación profesional Tecnológica”. Esta expresión es:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6201130dd282491983e2fc82fba46606",
@@ -394,7 +394,7 @@
   {
     "id": "_223596215_1",
     "question": "“Formar profesionales técnicos innovadores y altamente productivos”, esta expresión es considerada como:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fb14a064c8f74a3cb5a40bdf3f655acb",
@@ -422,7 +422,7 @@
   {
     "id": "_223596216_1",
     "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aa48d80c1a3249a794ac158c000bd82c",
@@ -450,7 +450,7 @@
   {
     "id": "_223596217_1",
     "question": "Es el listado de tareas y operaciones relacionadas a los procesos productivos de la empresa que debe desarrollar el estudiante en concordancia con los programas curriculares para cada semestre:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a1af0309a60f443087e69e36f6b53d44",
@@ -478,7 +478,7 @@
   {
     "id": "_223596218_1",
     "question": "Esta modalidad se aplicará para aquellos Aprendices que deseen realizar su formación práctica en las empresas donde laboran actualmente como trabajadores dependientes",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b5fc8fe74bce4fdf97679a14810cf1b0",
@@ -506,7 +506,7 @@
   {
     "id": "_223596219_1",
     "question": "A través de las observaciones en el …………………………, el Monitor le puede enviar mensajes al Instructor. Así él está al tanto, no solamente en cuanto a los aprendizajes realizados por el aprendiz, sino también a eventuales problemas o dificultades, a la asistencia del joven a la empresa y del cumplimiento de sus obligaciones",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1b25db12ac5e4a3ebcf108f805b4114e",
@@ -534,7 +534,7 @@
   {
     "id": "_223596220_1",
     "question": "Es el cronograma de permanencia del aprendiz en áreas, puestos de trabajo, secciones de una empresa de acuerdo a las tareas y operaciones programadas en el PEA para el semestre correspondiente",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "73512f93c1104910b3fbb97647a917dd",

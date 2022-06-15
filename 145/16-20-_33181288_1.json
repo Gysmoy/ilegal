@@ -2,7 +2,7 @@
   {
     "id": "_223683296_1",
     "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aa48d80c1a3249a794ac158c000bd82c",
@@ -30,7 +30,7 @@
   {
     "id": "_223683297_1",
     "question": "SENATI busca garantizar la adecuada aplicación de los formatos de vinculación de los aprendices con las empresas para realizar su ……………… en estricto cumplimiento del …………………, llevándose a cabo la formación dual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c351da7303404ae89df431d7b4a2ec04",
@@ -58,7 +58,7 @@
   {
     "id": "_223683298_1",
     "question": "Es el cronograma de permanencia del aprendiz en áreas, puestos de trabajo, secciones de una empresa de acuerdo a las tareas y operaciones programadas en el PEA para el semestre correspondiente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e2a2cbd4a74342e4972abfc49d5aa6a3",
@@ -86,7 +86,7 @@
   {
     "id": "_223683299_1",
     "question": "Es el documento oficial de información que los instructores y monitores, asesorados por el especialista de seguimiento, utilizan para registrar la asistencia y evaluación de los aprendices en el SENATI y en la empresa:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "97b8d8f5ecb94f898af0555168480d06",
@@ -114,7 +114,7 @@
   {
     "id": "_223683300_1",
     "question": "Con este documento la empresa colaboradora se compromete a brindar las facilidades de sus instalaciones para el aprendizaje práctico del estudiante, ubicándolo en los procesos de producción; y no tiene la obligación de pagar al estudiante alguna asignación económica mensual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6e4e24bd87854c12b66a770cf827a0a3",
@@ -142,7 +142,7 @@
   {
     "id": "_223683301_1",
     "question": "Conducir un vehículo, tocar instrumentos musicales, dibujar planos, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e346ef4f9200484ebf1ae99e17b439c7",
@@ -170,7 +170,7 @@
   {
     "id": "_223683302_1",
     "question": "Es importante que al final de su estadía en empresa, las actividades realizadas por el aprendiz cubran como mínimo las partes esenciales establecidas en el …………………………………. y acordado previamente con el instructor del SENATI",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5cc11b57ef4a403099b171ccb40026f8",
@@ -198,7 +198,7 @@
   {
     "id": "_223683303_1",
     "question": "El ………………. es la apropiación de conocimientos, capacidades y habilidades que forman competencias en la persona que aprende",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aee5f15849884d47a8d7219a548767a1",
@@ -226,7 +226,7 @@
   {
     "id": "_223683304_1",
     "question": "En la actualidad el ……………………………está sujeto a permanentes cambios en el medio socio laboral, nuevas exigencias y competencias.",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "d146653a9ef3409487ded58514776fec",
@@ -254,7 +254,7 @@
   {
     "id": "_223683305_1",
     "question": "Es una exposición demostrativa que hace el monitor cuando necesita comunicar experiencias vividas y ganadas por él en su contexto laboral:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9b4a8dbbe88741f38aa5bf6eafc372a3",
@@ -282,7 +282,7 @@
   {
     "id": "_223683306_1",
     "question": "La primera y más importante instancia para evaluar el logro de los aprendices en la empresa son",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "67359d92fcc449ca821af3dbf4bcea45",
@@ -310,7 +310,7 @@
   {
     "id": "_223683307_1",
     "question": "Este indicador de evaluación en la formación práctica está referido al ritmo de aprendizaje que el monitor deberá dosificar y orientar progresivamente",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "38e027ea1ea74ad3a9c8678f00775fcf",
@@ -338,7 +338,7 @@
   {
     "id": "_223683308_1",
     "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2ff16afe9a9a4f3f8a9ed4fedce37bea",
@@ -366,7 +366,7 @@
   {
     "id": "_223683309_1",
     "question": "La pregunta: ¿Qué quiere decir con eso?, es un ejemplo de",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ba0ecc135e92481784b0c00d3981ed2c",
@@ -394,7 +394,7 @@
   {
     "id": "_223683310_1",
     "question": "Es una técnica muy útil en el proceso de aprendizaje, pues despierta y conduce al aprendiz al pensamiento reflexivo, que es el elemento básico de toda acción consciente y definida.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d5e7db0f9f2b460c9e7519774180b5e2",
@@ -422,7 +422,7 @@
   {
     "id": "_223683311_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución creada a iniciativa de la ………………………………",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "556dd5513fee415aa837fcc8161d322d",
@@ -450,7 +450,7 @@
   {
     "id": "_223683312_1",
     "question": "“Liderar en América Latina, la excelencia en formación profesional Tecnológica”. Esta expresión es:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6201130dd282491983e2fc82fba46606",
@@ -478,7 +478,7 @@
   {
     "id": "_223683313_1",
     "question": "Tiene una duración de 6 semestres académicos, y el profesional egresado está capacitado para el desempeño en tareas complejas o no rutinarias correspondientes a una ocupación o grupo de ocupaciones afines",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0e31579d4962489fae971c9b1d6fe0aa",
@@ -506,7 +506,7 @@
   {
     "id": "_223683314_1",
     "question": "Es el trabajador designado por la empresa y capacitado por el SENATI, para organizar y desarrollar la formación práctica del estudiante en los diferentes puestos de trabajo de los procesos de producción o servicio de las empresas, cuidando la aplicación correcta de Normas de Seguridad, Higiene Industrial y Ambiental en la realización de las tareas y operaciones.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aac1340353544861b2356757d35e3176",
@@ -534,7 +534,7 @@
   {
     "id": "_223683315_1",
     "question": "La metodología del sistema de formación profesional del SENATI se basa en …………… es decir en el aprendizaje de conductas de acción, se realiza mediante la propia experiencia de trabajo, sin separar la tecnología de la práctica.",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "a895bb263fa949b4b851b679b8a03bbf",

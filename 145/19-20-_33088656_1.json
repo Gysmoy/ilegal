@@ -2,7 +2,7 @@
   {
     "id": "_222583504_1",
     "question": "Es el modelo pedagógico cuyas actividades de formación se caracterizan por una formación básica o teórica en SENATI y formación práctica en las empresas:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ea3eba04798b4ee7b00561cec9d9c0c2",
@@ -30,7 +30,7 @@
   {
     "id": "_222583505_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución creada a iniciativa de la ………………………………",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9662ec8ec0ae4921a40c8e632e321493",
@@ -58,7 +58,7 @@
   {
     "id": "_222583506_1",
     "question": "La metodología del sistema de formación profesional del SENATI se basa en …………… es decir en el aprendizaje de conductas de acción, se realiza mediante la propia experiencia de trabajo, sin separar la tecnología de la práctica.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3802161963414887b47410123c4605a8",
@@ -86,7 +86,7 @@
   {
     "id": "_222583507_1",
     "question": "Tiene la función de realizar el seguimiento de la formación práctica en empresas a los aprendices, acompañando, orientando, asesorando, evaluando la formación práctica en condiciones de seguridad de los estudiantes en la empresa de acuerdo con el PEA",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "29f42bf6a3bb47818297c95a115e0871",
@@ -114,7 +114,7 @@
   {
     "id": "_222583508_1",
     "question": "Tiene una duración de 6 semestres académicos, y el profesional egresado está capacitado para el desempeño en tareas complejas o no rutinarias correspondientes a una ocupación o grupo de ocupaciones afines",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "759cdcb7b2c94b489df5c409b3ce2313",
@@ -142,7 +142,7 @@
   {
     "id": "_222583509_1",
     "question": "Este indicador de evaluación en la formación práctica está referido al ritmo de aprendizaje que el monitor deberá dosificar y orientar progresivamente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "45aa42f0b44447e287a6f0618f1541ea",
@@ -170,7 +170,7 @@
   {
     "id": "_222583510_1",
     "question": "Es una relación descriptiva que enumera, paso a paso las actividades de una tarea, respetando su secuencia. Se usa para evaluar procesos y cotejar entre: si o no; aceptable o inaceptable o, algunas otras designaciones similares",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "72ade67875c141b782a4f1b7c75cf736",
@@ -198,7 +198,7 @@
   {
     "id": "_222583511_1",
     "question": "La siguiente pregunta: ¿Cómo estaba funcionando la máquina esta mañana?, pertenece al tipo de preguntas",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "96bde3ab64c443099a3e75c16a26c0c6",
@@ -226,7 +226,7 @@
   {
     "id": "_222583512_1",
     "question": "Es una técnica muy útil en el proceso de aprendizaje, pues despierta y conduce al aprendiz al pensamiento reflexivo, que es el elemento básico de toda acción consciente y definida.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "29a8e9fb37864b1e82bdf3286e3b1acd",
@@ -254,7 +254,7 @@
   {
     "id": "_222583513_1",
     "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3c0f61536ea84c4da16ed634c7782905",
@@ -282,7 +282,7 @@
   {
     "id": "_222583514_1",
     "question": "El patrocinio consiste en brindarle las oportunidades para el aprendizaje práctico en sus instalaciones productivas, y otorgarle una asignación económica mensual no menor de 50% de remuneración mínima vital. Se refiere a:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "365eb12665334f64b8274f0c583c4f53",
@@ -310,7 +310,7 @@
   {
     "id": "_222583515_1",
     "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "50c35ca6e9604531bc7085594cdb3c6c",
@@ -338,7 +338,7 @@
   {
     "id": "_222583516_1",
     "question": "Es el listado de tareas y operaciones relacionadas a los procesos productivos de la empresa que debe desarrollar el estudiante en concordancia con los programas curriculares para cada semestre:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "498cc12b4cbe492e9597af7648c8edaf",
@@ -366,7 +366,7 @@
   {
     "id": "_222583517_1",
     "question": "Con este documento la empresa colaboradora se compromete a brindar las facilidades de sus instalaciones para el aprendizaje práctico del estudiante, ubicándolo en los procesos de producción; y no tiene la obligación de pagar al estudiante alguna asignación económica mensual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5fbffc8e747c4c038c5ec2eaf0c1656e",
@@ -394,7 +394,7 @@
   {
     "id": "_222583518_1",
     "question": "Es el documento oficial de información que los instructores y monitores, asesorados por el especialista de seguimiento, utilizan para registrar la asistencia y evaluación de los aprendices en el SENATI y en la empresa:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b4c6d837df35404f8c29f517c1fc8f6c",
@@ -422,7 +422,7 @@
   {
     "id": "_222583519_1",
     "question": "El ………………. es la apropiación de conocimientos, capacidades y habilidades que forman competencias en la persona que aprende",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aee5f15849884d47a8d7219a548767a1",
@@ -450,7 +450,7 @@
   {
     "id": "_222583522_1",
     "question": "El monitor transfiere la información del proceso de trabajo al aprendiz. La información es recibida por el aprendiz, generalmente por dos canales: oídos y vista, en tanto se desarrolla explicando y demostrando el trabajo a ejecutar ¿A qué etapa corresponde en el método demostrativo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0bb34d2b59f547819315adb52ddecfa7",
@@ -478,7 +478,7 @@
   {
     "id": "_222583523_1",
     "question": "Es una exposición demostrativa que hace el monitor cuando necesita comunicar experiencias vividas y ganadas por él en su contexto laboral:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1e676737fb954fc8b727d389653b0e58",
@@ -506,7 +506,7 @@
   {
     "id": "_222583524_1",
     "question": "Conducir un vehículo, tocar instrumentos musicales, dibujar planos, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "59783a4ad5e84f1b8e94829906c8c2fe",
@@ -534,7 +534,7 @@
   {
     "id": "_222583525_1",
     "question": "Puntualidad, respeto a normas de seguridad, conservación del medio ambiente, buena calidad en la producción, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "cc26109ad51e47e0b6f318e64d64c7b5",

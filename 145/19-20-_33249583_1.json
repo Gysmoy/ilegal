@@ -2,7 +2,7 @@
   {
     "id": "_224512963_1",
     "question": "Se trata de informaciones procesadas y almacenadas en la memoria de una persona. Se generan haciendo ensayos, observando y recibiendo explicaciones que luego se constituyen en un plan que se almacenará a un nivel cerebral",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7b34ce60f7374536b6c1e4ba430e1133",
@@ -30,7 +30,7 @@
   {
     "id": "_224512964_1",
     "question": "El monitor transfiere la información del proceso de trabajo al aprendiz. La información es recibida por el aprendiz, generalmente por dos canales: oídos y vista, en tanto se desarrolla explicando y demostrando el trabajo a ejecutar ¿A qué etapa corresponde en el método demostrativo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4d7e64991d194316a27376ce7d7a6a7a",
@@ -58,7 +58,7 @@
   {
     "id": "_224512965_1",
     "question": "Conducir un vehículo, tocar instrumentos musicales, dibujar planos, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "727e67b1eca5459db76d4bd5158a6851",
@@ -86,7 +86,7 @@
   {
     "id": "_224512966_1",
     "question": "El ………………. es la apropiación de conocimientos, capacidades y habilidades que forman competencias en la persona que aprende",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "eb4a9270cb4245e2b31ca97715955acd",
@@ -114,7 +114,7 @@
   {
     "id": "_224512967_1",
     "question": "Es una exposición demostrativa que hace el monitor cuando necesita comunicar experiencias vividas y ganadas por él en su contexto laboral:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1e676737fb954fc8b727d389653b0e58",
@@ -142,7 +142,7 @@
   {
     "id": "_224512968_1",
     "question": "La metodología del sistema de formación profesional del SENATI se basa en …………… es decir en el aprendizaje de conductas de acción, se realiza mediante la propia experiencia de trabajo, sin separar la tecnología de la práctica.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a895bb263fa949b4b851b679b8a03bbf",
@@ -170,7 +170,7 @@
   {
     "id": "_224512969_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución de formación profesional ……………………, de gestión privada; no forma parte de la Administración Pública",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e5167e8f07e040aebe6f8eb6a7aaf5c3",
@@ -198,7 +198,7 @@
   {
     "id": "_224512970_1",
     "question": "“Formar profesionales técnicos innovadores y altamente productivos”, esta expresión es considerada como:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8db1f7849c3b45ca8d19e49b450a7dc0",
@@ -226,7 +226,7 @@
   {
     "id": "_224512971_1",
     "question": "Tiene la función de realizar el seguimiento de la formación práctica en empresas a los aprendices, acompañando, orientando, asesorando, evaluando la formación práctica en condiciones de seguridad de los estudiantes en la empresa de acuerdo con el PEA",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "29f42bf6a3bb47818297c95a115e0871",
@@ -254,7 +254,7 @@
   {
     "id": "_224512972_1",
     "question": "“Liderar en América Latina, la excelencia en formación profesional Tecnológica”. Esta expresión es:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6201130dd282491983e2fc82fba46606",
@@ -282,7 +282,7 @@
   {
     "id": "_224512973_1",
     "question": "La siguiente pregunta: ¿Cómo estaba funcionando la máquina esta mañana?, pertenece al tipo de preguntas",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e8d0619915724a489e8d437024b9b082",
@@ -310,7 +310,7 @@
   {
     "id": "_224512974_1",
     "question": "Es una técnica muy útil en el proceso de aprendizaje, pues despierta y conduce al aprendiz al pensamiento reflexivo, que es el elemento básico de toda acción consciente y definida.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "29a8e9fb37864b1e82bdf3286e3b1acd",
@@ -338,7 +338,7 @@
   {
     "id": "_224512975_1",
     "question": "La pregunta: ¿A qué hora dejó de funcionar el equipo?, es un ejemplo de:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2d6059690a0e4559a872d5a21afd377d",
@@ -366,7 +366,7 @@
   {
     "id": "_224512976_1",
     "question": "La primera y más importante instancia para evaluar el logro de los aprendices en la empresa son",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "67359d92fcc449ca821af3dbf4bcea45",
@@ -394,7 +394,7 @@
   {
     "id": "_224512977_1",
     "question": "Es una relación descriptiva que enumera, paso a paso las actividades de una tarea, respetando su secuencia. Se usa para evaluar procesos y cotejar entre: si o no; aceptable o inaceptable o, algunas otras designaciones similares",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b5eb3cc2d7a3474c981d0c2051a9fa05",
@@ -422,7 +422,7 @@
   {
     "id": "_224512978_1",
     "question": "Esta modalidad se aplicará para aquellos Aprendices que deseen realizar su formación práctica en las empresas donde laboran actualmente como trabajadores dependientes",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0596bb8e4c6442acb13c02c269c6ef99",
@@ -450,7 +450,7 @@
   {
     "id": "_224512979_1",
     "question": "Cuando por alguna causa de fuerza mayor el especialista de seguimiento no llegase a registrar la calificación del alumno, ………. y ………. Así mismo debe informar al coordinador sustentando el motivo.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "330920ba5d62469896e70c3f9e6310d4",
@@ -478,7 +478,7 @@
   {
     "id": "_224512980_1",
     "question": "Es el cronograma de permanencia del aprendiz en áreas, puestos de trabajo, secciones de una empresa de acuerdo a las tareas y operaciones programadas en el PEA para el semestre correspondiente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d16c572a301c44d2b07ad7810c39d0a1",
@@ -506,7 +506,7 @@
   {
     "id": "_224512981_1",
     "question": "Con este documento la empresa colaboradora se compromete a brindar las facilidades de sus instalaciones para el aprendizaje práctico del estudiante, ubicándolo en los procesos de producción; y no tiene la obligación de pagar al estudiante alguna asignación económica mensual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5fbffc8e747c4c038c5ec2eaf0c1656e",
@@ -534,7 +534,7 @@
   {
     "id": "_224512982_1",
     "question": "Es el listado de tareas y operaciones relacionadas a los procesos productivos de la empresa que debe desarrollar el estudiante en concordancia con los programas curriculares para cada semestre:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "51ceec4a059544c496984df287e7ae64",
