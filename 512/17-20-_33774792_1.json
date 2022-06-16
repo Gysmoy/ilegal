@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_230775335_1",
+    "question": "¿Qué representa las dependencias entre los paquetes que componen un modelo?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "980a3b87e5ab4715a43679c093c39f5e",
+        "text": "Reingeniería"
+      },
+      {
+        "id": "e971ca04141043f5a1c2388196e90916",
+        "text": "Proceso"
+      },
+      {
+        "id": "2f0bd0ea54394f6891391e46393c2bb0",
+        "text": "Diagrama de paquetes"
+      },
+      {
+        "id": "a1e75d08235b4a9cadd562c8c3d3949f",
+        "text": "Salida"
+      },
+      {
+        "id": "60d42faf63e34af18b05a5c8e806e1f5",
+        "text": "Entrada"
+      }
+    ],
+    "selected": "Diagrama de paquetes"
+  },
+  {
+    "id": "_230775336_1",
+    "question": "¿Con que simbolo se representa una dependencia entre clases; que va desde el paquete que requiere la función hasta el paquete que ofrece esa función?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9840832c03ae423aa225f73ee6f9de5a",
+        "text": "Una flecha discontinua"
+      },
+      {
+        "id": "74b7446f37ec4d87bfdad9a85878939a",
+        "text": "Una flecha solida"
+      },
+      {
+        "id": "309ae79f60f047478a1c15fa5ea57bea",
+        "text": "Una línea discontinua"
+      },
+      {
+        "id": "e9e902929b5d4ebf84a0374dd08d73f2",
+        "text": "Una caja rectangular"
+      },
+      {
+        "id": "fbde6d2432114b319a6973db818b773e",
+        "text": "Una línea solida"
+      }
+    ],
+    "selected": "Una flecha discontinua"
+  },
+  {
+    "id": "_230775337_1",
+    "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "955f360e5a684bd3b77a0c98c6e0f190",
+        "text": "Modelamiento de paquetes"
+      },
+      {
+        "id": "21567243ee694ed5bc3c199a0568779d",
+        "text": "Desplieguen de paquetes"
+      },
+      {
+        "id": "f14cb83a10764972b5fefeb00306d175",
+        "text": "Diseño de paquetes"
+      },
+      {
+        "id": "ed376b058d8a41cb9dc2d04c51e5710d",
+        "text": "Relación entre paquetes"
+      },
+      {
+        "id": "0feb4ad98f9c45e3a4da8e0d255e39ad",
+        "text": "Dependencia entre paquetes"
+      }
+    ],
+    "selected": "Dependencia entre paquetes"
+  },
+  {
+    "id": "_230775338_1",
+    "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f8ad81c0eca04b62aea61de54b0be3bc",
+        "text": "Diagrama de componentes"
+      },
+      {
+        "id": "366581da0a43409ba5eaee88d7fa52d2",
+        "text": "Diagrama de despliegue"
+      },
+      {
+        "id": "dab65c8058c948e98cb21afd50b1c6e0",
+        "text": "Diagrama de flujo de datos"
+      },
+      {
+        "id": "8cebee68569c46728fe91391fb297d38",
+        "text": "Diagrama de paquetes"
+      },
+      {
+        "id": "39d35bea6aba4932af38bedb549aaf8f",
+        "text": "Diagrama de actividades"
+      }
+    ],
+    "selected": "Diagrama de actividades"
+  },
+  {
+    "id": "_230775339_1",
+    "question": "¿Cuál no es un diagrama de la notación UML?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "e569d0b99a7844c5ac596bbe02c281f4",
+        "text": "Diagrama de estados"
+      },
+      {
+        "id": "91c3518c424d40af8654168828ab3e28",
+        "text": "Diagrama de Actividades"
+      },
+      {
+        "id": "841245ade24247f7a1275c365d78f04f",
+        "text": "Diagrama Entidad Relacion"
+      },
+      {
+        "id": "5a80a97839304ffe8140646f174d7ad3",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "5b302c67f712458abd7abd7624126d7a",
+        "text": "Diagrama de Clases"
+      }
+    ],
+    "selected": "Diagrama Entidad Relacion"
+  },
+  {
+    "id": "_230775340_1",
+    "question": "¿Cuál de los siguientes diagramas pertenece al tipo de diagrama estático?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b3eccaad5f5140e888b0cbb448f8a6c5",
+        "text": "Diagrama de estados"
+      },
+      {
+        "id": "8dbcff6f033a4757b15d8593b64eb426",
+        "text": "Diagrama de Actividades"
+      },
+      {
+        "id": "792922502eaf4622a17426260b68a602",
+        "text": "Diagrama de Clases"
+      },
+      {
+        "id": "e677a3e51fc548e0a4156e1392990f54",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "0b077634f8a140a19d6a7d61cf5711ac",
+        "text": "Diagrama de casos de uso"
+      }
+    ],
+    "selected": "Diagrama de Clases"
+  },
+  {
+    "id": "_230775341_1",
+    "question": "¿Cuál es una etapa de la ingeniería del software?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4028f0f37f914b1f85913b91ea0e37e3",
+        "text": "ETL"
+      },
+      {
+        "id": "a57abd86d7074c73a06bc73a4e67c463",
+        "text": "BI"
+      },
+      {
+        "id": "81986ab171354719b8e5f47498057371",
+        "text": "MVC"
+      },
+      {
+        "id": "914af46263184f8f911382b4c89a3522",
+        "text": "BSC"
+      },
+      {
+        "id": "0ab76e87113944f3a5b5d9ea63e0a287",
+        "text": "Concepción"
+      }
+    ],
+    "selected": "Concepción"
+  },
+  {
+    "id": "_230775342_1",
+    "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0ae1da60747c4e43bdda266dfbc56b93",
+        "text": "Estandarización"
+      },
+      {
+        "id": "d95a6247b1574562b80a7fc9b2180f66",
+        "text": "SQL"
+      },
+      {
+        "id": "abf6080fe3be47488093a100c5c9ecd0",
+        "text": "Exploración"
+      },
+      {
+        "id": "6d97a2bcd44e4cd9be4296e8984f5821",
+        "text": "Mantenimiento"
+      },
+      {
+        "id": "3b18d08993b3442bab474c81878900ec",
+        "text": "Identificación de requerimientos"
+      }
+    ],
+    "selected": "Estandarización"
+  },
+  {
+    "id": "_230775343_1",
+    "question": "¿Una interacción es un comportamiento?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f9eb4c18adaf403db7b8e86c80d9f982",
+        "text": "Entrada"
+      },
+      {
+        "id": "ea9a073ac3e549859b17a1573e217c77",
+        "text": "Reingeniería"
+      },
+      {
+        "id": "e1e857acb4664ba09190819995bcf94b",
+        "text": "Que intercambian entre sí un conjunto de objetos"
+      },
+      {
+        "id": "5cad66478bc041b6b9e6810f25f44f0a",
+        "text": "Salida"
+      },
+      {
+        "id": "7df83ecf6a3b4398930324d1ef1703ac",
+        "text": "Proceso"
+      }
+    ],
+    "selected": "Que intercambian entre sí un conjunto de objetos"
+  },
+  {
+    "id": "_230775344_1",
+    "question": "¿Qué diagrama Muestra cómo los objetos interactúan entre sí y el orden de la ocurrencia y representan interacciones para un escenario concreto?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0a669afd040b4680906e52b4ea0cec89",
+        "text": "Diagrama de clases"
+      },
+      {
+        "id": "5fdd2297c57c4b22a62f65c6ddf77032",
+        "text": "Diagrama de componentes"
+      },
+      {
+        "id": "836b41ad417a44e390574db9ad33c314",
+        "text": "Diagrama de objetos"
+      },
+      {
+        "id": "4c495cdaba474448b032f37d579a8874",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "a1f3b9c777f441b3b1898d7a12f09883",
+        "text": "Diagrama de Despliegue"
+      }
+    ],
+    "selected": "Diagrama de secuencia"
+  },
+  {
+    "id": "_230775345_1",
+    "question": "¿Qué se realiza en la fase de diseño del ciclo de vida del desarrollo de software?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a7cf5c22eaf740db87f41c676905b4f9",
+        "text": "Se diseña todos los componentes listos para el despliegue"
+      },
+      {
+        "id": "8888982ffc754bc5837e293d075f45dc",
+        "text": "Se realiza el mantenimiento del software"
+      },
+      {
+        "id": "4ca5d681b6944cb4b9aefb38cb38a86a",
+        "text": "Se estudian posibles opciones de implementación para el software que hay que construir."
+      },
+      {
+        "id": "6faa793ada5a4a0b90da9e95a09c613b",
+        "text": "Se diseña el plan de pruebas del software"
+      },
+      {
+        "id": "ea377e6daab6464da36392c24e2dd45c",
+        "text": "Se seleccionan las herramientas de desarrollo como por ejemplo un lenguaje de programación"
+      }
+    ],
+    "selected": "Se diseña todos los componentes listos para el despliegue"
+  },
+  {
+    "id": "_230775346_1",
+    "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8e8b8645fbc7493b8c9605b8d9f5ab43",
+        "text": "Detallista y analítico"
+      },
+      {
+        "id": "37a7be22db934b0ba52a11051dcbed35",
+        "text": "Programático e incremental"
+      },
+      {
+        "id": "f7b669ee8d744da0bc4b004c88a8ba04",
+        "text": "Iterativo e incremental"
+      },
+      {
+        "id": "63a10c99dab34f518ffef598fd199243",
+        "text": "Iterativo y Practico"
+      },
+      {
+        "id": "e56a810f2bca4be9b7a9021647f1bd34",
+        "text": "Analítico y diseño"
+      }
+    ],
+    "selected": "Iterativo e incremental"
+  },
+  {
+    "id": "_230775347_1",
+    "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d392fddba6dd4a63b72014fb55150943",
+        "text": "Composición"
+      },
+      {
+        "id": "a0995d957ee647d5a1519cef76ae5abe",
+        "text": "Agregación"
+      },
+      {
+        "id": "7b0444e37aba40d8b9dd30c19ddb9aed",
+        "text": "Uso/dependencia"
+      },
+      {
+        "id": "4ed7dea1169b445b95d4d68c865a71d6",
+        "text": "Directa"
+      },
+      {
+        "id": "6cbd801f05e049ab9e8936306a654ab4",
+        "text": "Uso/independencia"
+      }
+    ],
+    "selected": "Uso/dependencia"
+  },
+  {
+    "id": "_230775348_1",
+    "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de Estructura?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "44d968d2593b42b88437bbe5fe5b4225",
+        "text": "Diagrama de Secuencia"
+      },
+      {
+        "id": "575cfa985e164f3bb5b2d9631d78b446",
+        "text": "Diagrama de Actividades"
+      },
+      {
+        "id": "6cb7adcfc010478582bc21acad3c6d61",
+        "text": "Diagrama de Paquetes"
+      },
+      {
+        "id": "ce04d7c9c5f645518af4decb0969d027",
+        "text": "Diagrama de Despliegue"
+      },
+      {
+        "id": "882c3f5119d14669898abbd0efa182e3",
+        "text": "Diagrama de Componentes"
+      }
+    ],
+    "selected": "Diagrama de Actividades"
+  },
+  {
+    "id": "_230775349_1",
+    "question": "¿Cuál es el diagrama que representa una instancia específica de un diagrama de clases en un momento determinado en el tiempo?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "fb9c23341dda49a19023f278c34cff73",
+        "text": "Diagrama de Secuencia"
+      },
+      {
+        "id": "a0b5e0dfb8ab49a0b9afa19dd192e6ba",
+        "text": "Diagrama de Componentes"
+      },
+      {
+        "id": "721074d817b940a1a031a7494b3fd9fc",
+        "text": "Diagrama de Paquetes"
+      },
+      {
+        "id": "1c06860391ae4851a13e688b81ce5362",
+        "text": "Diagrama de objetos"
+      },
+      {
+        "id": "3d6c32d892d048d6851b4ee0e926e404",
+        "text": "Diagrama de clases"
+      }
+    ],
+    "selected": "Diagrama de objetos"
+  },
+  {
+    "id": "_230775350_1",
+    "question": "¿Es cualquier suceso que activa un proceso, que actualiza datos en el sistema?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8dd15240323f4c6cbc08432533ce603a",
+        "text": "Clase"
+      },
+      {
+        "id": "3ffb17e9cfcc4f36bf2bc539c2ee861e",
+        "text": "Función"
+      },
+      {
+        "id": "0eaf7ec104084a86bdbe2fc8aa0001ae",
+        "text": "Objeto"
+      },
+      {
+        "id": "85b4f07184444e3d9481daad811ffef5",
+        "text": "Método"
+      },
+      {
+        "id": "fa8ca9bdb24f4648a05c566e917b1922",
+        "text": "Evento"
+      }
+    ],
+    "selected": "Evento"
+  },
+  {
+    "id": "_230775351_1",
+    "question": "¿Qué diagrama muestra el comportamiento dependiente del tiempo de un sistema de información?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d5772a1aec1940899337f157ebe1c580",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "e3156478d4264d0abea211e2308867c8",
+        "text": "Diagrama de paquetes"
+      },
+      {
+        "id": "feabc041fed749cc9afeed3e38d9641d",
+        "text": "Diagrama de actividades"
+      },
+      {
+        "id": "b6268e06fa504cdabadf12ef9e23c084",
+        "text": "Diagrama de casos de uso"
+      },
+      {
+        "id": "edbfb306d5bc4c9dbed2aa0b31e45201",
+        "text": "Diagrama de transición de estados"
+      }
+    ],
+    "selected": "Diagrama de transición de estados"
+  },
+  {
+    "id": "_230775352_1",
+    "question": "Representa las relaciones e interacciones entre los distintos objetos de software. ¿A qué diagrama se refiere el enunciado?:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4b5b7ec02b6b462cb1cd20bface1dcf9",
+        "text": "Diagrama de flujo de datos"
+      },
+      {
+        "id": "2b4ed5bf24fb4a8084c631b968841767",
+        "text": "Diagrama de colaboración"
+      },
+      {
+        "id": "c02bc09c3d05401291607e6e50f1edef",
+        "text": "Relación de generalización"
+      },
+      {
+        "id": "49f964a3556d491aaca012f7ddb4ed82",
+        "text": "Diagrama de estado"
+      },
+      {
+        "id": "3c71bcad0edc46d88bdf47b351ef3874",
+        "text": "Diagrama de paquetes"
+      }
+    ],
+    "selected": "Diagrama de colaboración"
+  },
+  {
+    "id": "_230775353_1",
+    "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a9388c9b53fc4c02ba401b1f0a6c1f63",
+        "text": "Diagrama de flujo de datos"
+      },
+      {
+        "id": "c262e04d483149c399a6210b66e658dc",
+        "text": "Diagrama de casos de uso"
+      },
+      {
+        "id": "cfde11c57ebb44698b87f67a3f22ce23",
+        "text": "Árbol de problemas"
+      },
+      {
+        "id": "b975736a3b85494090153fe48e0e56ec",
+        "text": "Árbol de soluciones"
+      },
+      {
+        "id": "450796740d7f4ca283a385dccf3800e6",
+        "text": "Definir los requerimientos."
+      }
+    ],
+    "selected": "Diagrama de flujo de datos"
+  },
+  {
+    "id": "_230775354_1",
+    "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7dbb280fe3ce47ea8b3646f25e39fab1",
+        "text": "Diseño de la Arquitectura"
+      },
+      {
+        "id": "8f36694782714ecf80b6b40e84bab769",
+        "text": "DAO"
+      },
+      {
+        "id": "2f94a5a0dfe24d3f9884fc712d616e9b",
+        "text": "Requerimientos funcionales"
+      },
+      {
+        "id": "dd08a631c10a4a0fbd75b2da907b9efe",
+        "text": "Requerimientos no funcionales"
+      },
+      {
+        "id": "ff644980db3c4619a793cb6a35cc9da9",
+        "text": "View"
+      }
+    ],
+    "selected": "Diseño de la Arquitectura"
+  }
+]
