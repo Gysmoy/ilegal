@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_224621809_1",
+    "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5dee745232f34edab1dce59f2f591cf0",
+        "text": "Complementación Teórica – PEA"
+      },
+      {
+        "id": "9aca630ed14d452299be193a0184ea38",
+        "text": "Seminarios de Práctica – PAE"
+      },
+      {
+        "id": "50c35ca6e9604531bc7085594cdb3c6c",
+        "text": "Talleres – PAE"
+      },
+      {
+        "id": "b0212382bb5e4754903d073e2ce9f586",
+        "text": "Seminarios de Complementación Práctica - PEA."
+      },
+      {
+        "id": "aa48d80c1a3249a794ac158c000bd82c",
+        "text": "Seminarios de Complementación Teórica – PEA"
+      }
+    ],
+    "selected": "Seminarios de Complementación Práctica - PEA."
+  },
+  {
+    "id": "_224621810_1",
+    "question": "Con este documento la empresa colaboradora se compromete a brindar las facilidades de sus instalaciones para el aprendizaje práctico del estudiante, ubicándolo en los procesos de producción; y no tiene la obligación de pagar al estudiante alguna asignación económica mensual",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6e4e24bd87854c12b66a770cf827a0a3",
+        "text": "Formación de aprendices con vínculo laboral vigente"
+      },
+      {
+        "id": "1b15e96f8890475f864ffbae8c80aeba",
+        "text": "Convenio de aprendizaje con predominio en la empresa"
+      },
+      {
+        "id": "5fbffc8e747c4c038c5ec2eaf0c1656e",
+        "text": "Contrato de aprendizaje"
+      },
+      {
+        "id": "6f1b510ad2b14ce1a50914dcc0f22589",
+        "text": "Convenio de colaboración mutua"
+      },
+      {
+        "id": "0ae2edb1abf14a7ba2dcc2ff036b95b6",
+        "text": "Contrato de trabajo – aprendizaje"
+      }
+    ],
+    "selected": "Convenio de colaboración mutua"
+  },
+  {
+    "id": "_224621811_1",
+    "question": "El patrocinio consiste en brindarle las oportunidades para el aprendizaje práctico en sus instalaciones productivas, y otorgarle una asignación económica mensual no menor de 50% de remuneración mínima vital. Se refiere a:",
+    "correct": false,
+    "answers": [
+      {
+        "id": "0f163b3848c14a35855c17273f804307",
+        "text": "Convenio de aprendizaje con predominio en la empresa"
+      },
+      {
+        "id": "5d708251a44342b49e829df99edd13c2",
+        "text": "Contrato de aprendizaje"
+      },
+      {
+        "id": "365eb12665334f64b8274f0c583c4f53",
+        "text": "Convenio de colaboración mutua"
+      },
+      {
+        "id": "b7c7bc79535a48919379bc4ce2d5cd67",
+        "text": "Contrato de trabajo - aprendizaje"
+      },
+      {
+        "id": "8c4a10a29f264a60900d78b0430e6605",
+        "text": "Formación de aprendices con vínculo laboral vigente"
+      }
+    ],
+    "selected": "Contrato de aprendizaje"
+  },
+  {
+    "id": "_224621812_1",
+    "question": "Es el listado de tareas y operaciones relacionadas a los procesos productivos de la empresa que debe desarrollar el estudiante en concordancia con los programas curriculares para cada semestre:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5ecb215627b3466094f83be68454cb1d",
+        "text": "El cuaderno de informes de trabajo semanal"
+      },
+      {
+        "id": "a1af0309a60f443087e69e36f6b53d44",
+        "text": "El programa de recepción del aprendiz"
+      },
+      {
+        "id": "498cc12b4cbe492e9597af7648c8edaf",
+        "text": "Plan de rotación"
+      },
+      {
+        "id": "51ceec4a059544c496984df287e7ae64",
+        "text": "Plan específico de aprendizaje"
+      },
+      {
+        "id": "5cbad5e2f266487eb17e70e23172c148",
+        "text": "El registro de asistencia y evaluación"
+      }
+    ],
+    "selected": "Plan específico de aprendizaje"
+  },
+  {
+    "id": "_224621813_1",
+    "question": "Es el documento oficial de información que los instructores y monitores, asesorados por el especialista de seguimiento, utilizan para registrar la asistencia y evaluación de los aprendices en el SENATI y en la empresa:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c37b982f54d24fc6bc17925993aeb2f6",
+        "text": "Plan específico de aprendizaje"
+      },
+      {
+        "id": "b2624a9e273f44208f6ccb8c7825a9aa",
+        "text": "El registro de asistencia y evaluación"
+      },
+      {
+        "id": "b4c6d837df35404f8c29f517c1fc8f6c",
+        "text": "Plan de rotación"
+      },
+      {
+        "id": "696b8156b4dc42c2b7abd095fba5ccc5",
+        "text": "El programa de recepción del aprendiz"
+      },
+      {
+        "id": "97b8d8f5ecb94f898af0555168480d06",
+        "text": "El Cuaderno de informes de trabajo semanal"
+      }
+    ],
+    "selected": "El registro de asistencia y evaluación"
+  },
+  {
+    "id": "_224621814_1",
+    "question": "La metodología del sistema de formación profesional del SENATI se basa en …………… es decir en el aprendizaje de conductas de acción, se realiza mediante la propia experiencia de trabajo, sin separar la tecnología de la práctica.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a895bb263fa949b4b851b679b8a03bbf",
+        "text": "La competencia metodológica"
+      },
+      {
+        "id": "d5c2358d880b4adcbc0753f0e9dbd8ea",
+        "text": "El desarrollo de competencias"
+      },
+      {
+        "id": "d526295b66cd4f06a575c0af7de03044",
+        "text": "La competencia técnica"
+      },
+      {
+        "id": "f6aca1af18044e2fa0d932f83086021d",
+        "text": "El aprender haciendo"
+      },
+      {
+        "id": "3802161963414887b47410123c4605a8",
+        "text": "La formación profesional"
+      }
+    ],
+    "selected": "El aprender haciendo"
+  },
+  {
+    "id": "_224621815_1",
+    "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución creada a iniciativa de la ………………………………",
+    "correct": true,
+    "answers": [
+      {
+        "id": "0e20b5e5d0cf45c98305b7aad4cc6cee",
+        "text": "Sociedad Nacional de Industrias"
+      },
+      {
+        "id": "b8ad8d8480b348bfa80d92bf0011f64e",
+        "text": "Confederación Nacional de Instituciones Empresariales Privadas"
+      },
+      {
+        "id": "9662ec8ec0ae4921a40c8e632e321493",
+        "text": "Sociedad Nacional de Empresarios"
+      },
+      {
+        "id": "bd7a07bd17d64709b11b7673d2a93c7e",
+        "text": "Sociedad Nacional del Perú"
+      },
+      {
+        "id": "556dd5513fee415aa837fcc8161d322d",
+        "text": "Sociedad de Ingenieros Automotrices"
+      }
+    ],
+    "selected": "Sociedad Nacional de Industrias"
+  },
+  {
+    "id": "_224621816_1",
+    "question": "“Liderar en América Latina, la excelencia en formación profesional Tecnológica”. Esta expresión es:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "495536d50f124020a4ceae8c9fcca979",
+        "text": "El concepto de SENATI"
+      },
+      {
+        "id": "944fb33f57a34f19884e3777353ac523",
+        "text": "La visión de SENATI"
+      },
+      {
+        "id": "5e1b601bc75c48ceaa767e8f43cd6348",
+        "text": "Los valores de SENATI"
+      },
+      {
+        "id": "6201130dd282491983e2fc82fba46606",
+        "text": "La ética de SENATI"
+      },
+      {
+        "id": "f9a6edfd7bba4b3ea57b814a44827db2",
+        "text": "La misión de SENATI"
+      }
+    ],
+    "selected": "La visión de SENATI"
+  },
+  {
+    "id": "_224621817_1",
+    "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución de formación profesional ……………………, de gestión privada; no forma parte de la Administración Pública",
+    "correct": true,
+    "answers": [
+      {
+        "id": "da9c0b23a68f4aa6a7474250389a78d8",
+        "text": "Subordinada"
+      },
+      {
+        "id": "9a9ecbff52204d298aba739548c39e8d",
+        "text": "Sin patrimonio"
+      },
+      {
+        "id": "da6750b9186c408aa81fbcf452d00506",
+        "text": "Dependiente del Gobierno"
+      },
+      {
+        "id": "936cffdbfcff4cf99bb788e28a125bb4",
+        "text": "Autónoma"
+      },
+      {
+        "id": "e5167e8f07e040aebe6f8eb6a7aaf5c3",
+        "text": "Del estado"
+      }
+    ],
+    "selected": "Autónoma"
+  },
+  {
+    "id": "_224621818_1",
+    "question": "“Formar profesionales técnicos innovadores y altamente productivos”, esta expresión es considerada como:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "8db1f7849c3b45ca8d19e49b450a7dc0",
+        "text": "La ética de SENATI"
+      },
+      {
+        "id": "ec251ade75c8457384b1f20aec5e8539",
+        "text": "La misión de SENATI"
+      },
+      {
+        "id": "fb14a064c8f74a3cb5a40bdf3f655acb",
+        "text": "La visión de SENATI"
+      },
+      {
+        "id": "06f6bab0a93343d1b55c42debe6ce729",
+        "text": "Los valores de SENATI"
+      },
+      {
+        "id": "fbd53e49c3804766b4b527f10307712d",
+        "text": "El concepto de SENATI"
+      }
+    ],
+    "selected": "La misión de SENATI"
+  },
+  {
+    "id": "_224621819_1",
+    "question": "Se trata de informaciones procesadas y almacenadas en la memoria de una persona. Se generan haciendo ensayos, observando y recibiendo explicaciones que luego se constituyen en un plan que se almacenará a un nivel cerebral",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7b34ce60f7374536b6c1e4ba430e1133",
+        "text": "Conocimientos"
+      },
+      {
+        "id": "04063e61517d4c3fa67bed438561fd7d",
+        "text": "Habilidades"
+      },
+      {
+        "id": "7cd50795fc2c4ead89f76d6e9a515fbb",
+        "text": "Actitudes"
+      },
+      {
+        "id": "de98bd0ff54a4d58b0413459236f38e7",
+        "text": "Talento"
+      },
+      {
+        "id": "8ea5cafa4ca94ac2a9a126937c5c60e6",
+        "text": "Destrezas"
+      }
+    ],
+    "selected": "Conocimientos"
+  },
+  {
+    "id": "_224621820_1",
+    "question": "El ………………. es la apropiación de conocimientos, capacidades y habilidades que forman competencias en la persona que aprende",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d5004d2929b14a7ca9368804c6b4648e",
+        "text": "Análisis"
+      },
+      {
+        "id": "eb4a9270cb4245e2b31ca97715955acd",
+        "text": "Conocimiento"
+      },
+      {
+        "id": "1abb967da80c4213ba719c0b6476b6f7",
+        "text": "Aprendizaje"
+      },
+      {
+        "id": "aee5f15849884d47a8d7219a548767a1",
+        "text": "Memorismo"
+      },
+      {
+        "id": "2c795bfdafc444ba84463dd010ed2d7c",
+        "text": "Talento"
+      }
+    ],
+    "selected": "Aprendizaje"
+  },
+  {
+    "id": "_224621821_1",
+    "question": "En la actualidad el ……………………………está sujeto a permanentes cambios en el medio socio laboral, nuevas exigencias y competencias.",
+    "correct": false,
+    "answers": [
+      {
+        "id": "1a28139d3e034205bc347cc20890e9d0",
+        "text": "Nuevo perfil del trabajador"
+      },
+      {
+        "id": "d146653a9ef3409487ded58514776fec",
+        "text": "Aprendizaje en la empresa"
+      },
+      {
+        "id": "c4b5bee056094eb3bf74306be079ae8a",
+        "text": "Aprendiz"
+      },
+      {
+        "id": "cf9ee950b27f45f480368d4de51493ff",
+        "text": "Estudiante"
+      },
+      {
+        "id": "774bfbbe462d49c898b7b1408def1788",
+        "text": "Conocimiento"
+      }
+    ],
+    "selected": "Aprendizaje en la empresa"
+  },
+  {
+    "id": "_224621822_1",
+    "question": "Puntualidad, respeto a normas de seguridad, conservación del medio ambiente, buena calidad en la producción, son ejemplos de:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fcd4afebeefb45bdb4448e69e25fbd41",
+        "text": "Habilidades"
+      },
+      {
+        "id": "1b9e3ab498494f4aae664e07c7f56ccd",
+        "text": "Destrezas"
+      },
+      {
+        "id": "6fd73d16a96944918b222e5e84aca722",
+        "text": "Conocimientos"
+      },
+      {
+        "id": "df6e9e635d1c4ad9b141580114f64545",
+        "text": "Actitudes"
+      },
+      {
+        "id": "cc26109ad51e47e0b6f318e64d64c7b5",
+        "text": "Talento"
+      }
+    ],
+    "selected": "Actitudes"
+  },
+  {
+    "id": "_224621823_1",
+    "question": "Conducir un vehículo, tocar instrumentos musicales, dibujar planos, son ejemplos de:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "59783a4ad5e84f1b8e94829906c8c2fe",
+        "text": "Destrezas"
+      },
+      {
+        "id": "6fe2ffd43eab4834b72e0c55ee8ae5b6",
+        "text": "Desempeño"
+      },
+      {
+        "id": "727e67b1eca5459db76d4bd5158a6851",
+        "text": "Conocimiento"
+      },
+      {
+        "id": "048c8d60ec4d4a3a85c7ca590bb29e7e",
+        "text": "Actitudes"
+      },
+      {
+        "id": "e346ef4f9200484ebf1ae99e17b439c7",
+        "text": "Comportamiento"
+      }
+    ],
+    "selected": "Destrezas"
+  },
+  {
+    "id": "_224621824_1",
+    "question": "La pregunta: ¿A qué hora dejó de funcionar el equipo?, es un ejemplo de:",
+    "correct": false,
+    "answers": [
+      {
+        "id": "2d6059690a0e4559a872d5a21afd377d",
+        "text": "Pregunta cerrada"
+      },
+      {
+        "id": "3327fd54d0614cda88ecde45b8bcc702",
+        "text": "Pregunta de seguimiento"
+      },
+      {
+        "id": "2409994e3f4f429ca3482626818b8ade",
+        "text": "Pregunta de opción múltiple"
+      },
+      {
+        "id": "aa7326b0a4ff42248bfda1d0a9192ff9",
+        "text": "Pregunta retórica"
+      },
+      {
+        "id": "06b7e014f41a43ff8c22c8dbff0dbef0",
+        "text": "Pregunta abierta"
+      }
+    ],
+    "selected": "Pregunta cerrada"
+  },
+  {
+    "id": "_224621825_1",
+    "question": "Es una relación descriptiva que enumera, paso a paso las actividades de una tarea, respetando su secuencia. Se usa para evaluar procesos y cotejar entre: si o no; aceptable o inaceptable o, algunas otras designaciones similares",
+    "correct": true,
+    "answers": [
+      {
+        "id": "72ade67875c141b782a4f1b7c75cf736",
+        "text": "La lista de verificación de producto semi acabado"
+      },
+      {
+        "id": "af731108d9274e5b93502e512ee75f4b",
+        "text": "La lista de verificación de desempeño"
+      },
+      {
+        "id": "b5eb3cc2d7a3474c981d0c2051a9fa05",
+        "text": "La lista de verificación de producto acabad"
+      },
+      {
+        "id": "dc173438a99346968608394e704a7841",
+        "text": "La lista de verificación de materiales"
+      },
+      {
+        "id": "539b40ca7ea04c85b67be42d2fb50bd8",
+        "text": "La lista de verificación de aprendices"
+      }
+    ],
+    "selected": "La lista de verificación de desempeño"
+  },
+  {
+    "id": "_224621826_1",
+    "question": "La primera y más importante instancia para evaluar el logro de los aprendices en la empresa son",
+    "correct": true,
+    "answers": [
+      {
+        "id": "bcbfa3ecd4b4479ba225b57dc843402c",
+        "text": "Los instructores del aprendiz"
+      },
+      {
+        "id": "802f2f79cc754ec5b635c715156b7526",
+        "text": "Los coordinadores de taller"
+      },
+      {
+        "id": "a0d423da7f404d84840acf618a97e9dd",
+        "text": "El director y asistente de SENATI"
+      },
+      {
+        "id": "67359d92fcc449ca821af3dbf4bcea45",
+        "text": "El gerente general y de Recursos Humanos de la empresa"
+      },
+      {
+        "id": "75972f01e65040979c053ef18784e4f4",
+        "text": "El monitor y los trabajadores que tuvieron a cargo al aprendiz"
+      }
+    ],
+    "selected": "El monitor y los trabajadores que tuvieron a cargo al aprendiz"
+  },
+  {
+    "id": "_224621827_1",
+    "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2ff16afe9a9a4f3f8a9ed4fedce37bea",
+        "text": "Tiempo de ejecución"
+      },
+      {
+        "id": "3c0f61536ea84c4da16ed634c7782905",
+        "text": "Precisión y acabado"
+      },
+      {
+        "id": "709dcb1e277a4a0ebf789e42dac497a9",
+        "text": "Orden y seguridad"
+      },
+      {
+        "id": "ca7fba0c75954a038795a69673cee3ed",
+        "text": "Proceso operacional"
+      },
+      {
+        "id": "2d0202315ad8455084c57ac2470e3182",
+        "text": "Manejo de recursos"
+      }
+    ],
+    "selected": "Manejo de recursos"
+  },
+  {
+    "id": "_224621828_1",
+    "question": "Andrés en su evaluación práctica obtuvo una nota de 15.2, de acuerdo con la escala cualitativa su nota corresponde a:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "3e7c8cb5b68d49cd99f76ccc9118d627",
+        "text": "Bueno"
+      },
+      {
+        "id": "af9f34a5b175415cb79e9d50bd3fa4d3",
+        "text": "Aceptable"
+      },
+      {
+        "id": "4645db3f4bad4df1b6fd469d8121138f",
+        "text": "Muy bueno"
+      },
+      {
+        "id": "ce8e0af8ad464fb79b7b6b0d8fb31c7d",
+        "text": "Deficiente"
+      },
+      {
+        "id": "058ebee26ae54ea895c283a8669748c8",
+        "text": "Excelente"
+      }
+    ],
+    "selected": "Bueno"
+  }
+]

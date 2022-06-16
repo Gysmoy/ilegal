@@ -2,7 +2,7 @@
   {
     "id": "_223325277_1",
     "question": "Esta modalidad se aplicará para aquellos Aprendices que deseen realizar su formación práctica en las empresas donde laboran actualmente como trabajadores dependientes",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0596bb8e4c6442acb13c02c269c6ef99",
@@ -30,7 +30,7 @@
   {
     "id": "_223325278_1",
     "question": "Es el listado de tareas y operaciones relacionadas a los procesos productivos de la empresa que debe desarrollar el estudiante en concordancia con los programas curriculares para cada semestre:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "498cc12b4cbe492e9597af7648c8edaf",
@@ -58,7 +58,7 @@
   {
     "id": "_223325279_1",
     "question": "Es el documento oficial de información que los instructores y monitores, asesorados por el especialista de seguimiento, utilizan para registrar la asistencia y evaluación de los aprendices en el SENATI y en la empresa:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b4c6d837df35404f8c29f517c1fc8f6c",
@@ -86,7 +86,7 @@
   {
     "id": "_223325280_1",
     "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aa48d80c1a3249a794ac158c000bd82c",
@@ -114,7 +114,7 @@
   {
     "id": "_223325281_1",
     "question": "Es el cronograma de permanencia del aprendiz en áreas, puestos de trabajo, secciones de una empresa de acuerdo a las tareas y operaciones programadas en el PEA para el semestre correspondiente",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "73512f93c1104910b3fbb97647a917dd",
@@ -142,7 +142,7 @@
   {
     "id": "_223325282_1",
     "question": "Conducir un vehículo, tocar instrumentos musicales, dibujar planos, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "59783a4ad5e84f1b8e94829906c8c2fe",
@@ -170,7 +170,7 @@
   {
     "id": "_223325283_1",
     "question": "En la actualidad el ……………………………está sujeto a permanentes cambios en el medio socio laboral, nuevas exigencias y competencias.",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "c4b5bee056094eb3bf74306be079ae8a",
@@ -198,7 +198,7 @@
   {
     "id": "_223325284_1",
     "question": "Puntualidad, respeto a normas de seguridad, conservación del medio ambiente, buena calidad en la producción, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1b9e3ab498494f4aae664e07c7f56ccd",
@@ -226,7 +226,7 @@
   {
     "id": "_223325285_1",
     "question": "En el caso de ……………………………es recomendable asignar al aprendiz a un trabajador experimentado que domine las tareas de su oficio, para que lo oriente y supervise constantemente hasta lograr con éxito el desarrollo de tareas de ese puesto de trabajo.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "144a3b18b2974c85a83de5a53310e51f",
@@ -254,7 +254,7 @@
   {
     "id": "_223325286_1",
     "question": "Es una exposición demostrativa que hace el monitor cuando necesita comunicar experiencias vividas y ganadas por él en su contexto laboral:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b4adcdca37d84b389c49c322397896ee",
@@ -282,7 +282,7 @@
   {
     "id": "_223325287_1",
     "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ca7fba0c75954a038795a69673cee3ed",
@@ -310,7 +310,7 @@
   {
     "id": "_223325288_1",
     "question": "Es una relación descriptiva que enumera, paso a paso las actividades de una tarea, respetando su secuencia. Se usa para evaluar procesos y cotejar entre: si o no; aceptable o inaceptable o, algunas otras designaciones similares",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "af731108d9274e5b93502e512ee75f4b",
@@ -338,7 +338,7 @@
   {
     "id": "_223325289_1",
     "question": "Este indicador de evaluación en la formación práctica está referido al ritmo de aprendizaje que el monitor deberá dosificar y orientar progresivamente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f4ea0af3110c4c47bd2b0cc803e57a7e",
@@ -366,7 +366,7 @@
   {
     "id": "_223325290_1",
     "question": "La pregunta: ¿Qué quiere decir con eso?, es un ejemplo de",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f715bdf9f1674c46b52b433b4dc9e714",
@@ -394,7 +394,7 @@
   {
     "id": "_223325291_1",
     "question": "Andrés en su evaluación práctica obtuvo una nota de 15.2, de acuerdo con la escala cualitativa su nota corresponde a:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4645db3f4bad4df1b6fd469d8121138f",
@@ -422,7 +422,7 @@
   {
     "id": "_223325292_1",
     "question": "La metodología del sistema de formación profesional del SENATI se basa en …………… es decir en el aprendizaje de conductas de acción, se realiza mediante la propia experiencia de trabajo, sin separar la tecnología de la práctica.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a895bb263fa949b4b851b679b8a03bbf",
@@ -450,7 +450,7 @@
   {
     "id": "_223325293_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución creada a iniciativa de la ………………………………",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "556dd5513fee415aa837fcc8161d322d",
@@ -478,7 +478,7 @@
   {
     "id": "_223325294_1",
     "question": "Es el trabajador designado por la empresa y capacitado por el SENATI, para organizar y desarrollar la formación práctica del estudiante en los diferentes puestos de trabajo de los procesos de producción o servicio de las empresas, cuidando la aplicación correcta de Normas de Seguridad, Higiene Industrial y Ambiental en la realización de las tareas y operaciones.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e5810052b26b4cf78467522a71abad0f",
@@ -506,7 +506,7 @@
   {
     "id": "_223325295_1",
     "question": "Tiene la función de realizar el seguimiento de la formación práctica en empresas a los aprendices, acompañando, orientando, asesorando, evaluando la formación práctica en condiciones de seguridad de los estudiantes en la empresa de acuerdo con el PEA",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ca7c413d05574b6a8f8deb890cbcc5a5",
@@ -534,7 +534,7 @@
   {
     "id": "_223325296_1",
     "question": "“Liderar en América Latina, la excelencia en formación profesional Tecnológica”. Esta expresión es:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5e1b601bc75c48ceaa767e8f43cd6348",

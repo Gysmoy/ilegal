@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_228986286_1",
+    "question": "Es una exposición demostrativa que hace el monitor cuando necesita comunicar experiencias vividas y ganadas por él en su contexto laboral:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4a5e84c06ba041c4ac4d738774e6e9d7",
+        "text": "Aprendizaje dual"
+      },
+      {
+        "id": "b4adcdca37d84b389c49c322397896ee",
+        "text": "Método demostrativo"
+      },
+      {
+        "id": "9b4a8dbbe88741f38aa5bf6eafc372a3",
+        "text": "Elaboración de instrucciones"
+      },
+      {
+        "id": "c1f1c80a719145f880901c4770b4a138",
+        "text": "Objetivos instruccionales"
+      },
+      {
+        "id": "1e676737fb954fc8b727d389653b0e58",
+        "text": "Ponencia didáctica"
+      }
+    ],
+    "selected": "Ponencia didáctica"
+  },
+  {
+    "id": "_228986287_1",
+    "question": "Conducir un vehículo, tocar instrumentos musicales, dibujar planos, son ejemplos de:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e346ef4f9200484ebf1ae99e17b439c7",
+        "text": "Comportamiento"
+      },
+      {
+        "id": "727e67b1eca5459db76d4bd5158a6851",
+        "text": "Conocimiento"
+      },
+      {
+        "id": "048c8d60ec4d4a3a85c7ca590bb29e7e",
+        "text": "Actitudes"
+      },
+      {
+        "id": "59783a4ad5e84f1b8e94829906c8c2fe",
+        "text": "Destrezas"
+      },
+      {
+        "id": "6fe2ffd43eab4834b72e0c55ee8ae5b6",
+        "text": "Desempeño"
+      }
+    ],
+    "selected": "Destrezas"
+  },
+  {
+    "id": "_228986288_1",
+    "question": "En la actualidad el ……………………………está sujeto a permanentes cambios en el medio socio laboral, nuevas exigencias y competencias.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1a28139d3e034205bc347cc20890e9d0",
+        "text": "Nuevo perfil del trabajador"
+      },
+      {
+        "id": "c4b5bee056094eb3bf74306be079ae8a",
+        "text": "Aprendiz"
+      },
+      {
+        "id": "cf9ee950b27f45f480368d4de51493ff",
+        "text": "Estudiante"
+      },
+      {
+        "id": "d146653a9ef3409487ded58514776fec",
+        "text": "Aprendizaje en la empresa"
+      },
+      {
+        "id": "774bfbbe462d49c898b7b1408def1788",
+        "text": "Conocimiento"
+      }
+    ],
+    "selected": "Nuevo perfil del trabajador"
+  },
+  {
+    "id": "_228986289_1",
+    "question": "El monitor transfiere la información del proceso de trabajo al aprendiz. La información es recibida por el aprendiz, generalmente por dos canales: oídos y vista, en tanto se desarrolla explicando y demostrando el trabajo a ejecutar ¿A qué etapa corresponde en el método demostrativo?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "65ae67f28f7e4c40be7a0732c7bc82c0",
+        "text": "Demostración (presentación de la tarea) por el Monitor"
+      },
+      {
+        "id": "6dd7b14c262e4f308f383d8053b5691c",
+        "text": "Control y verificación"
+      },
+      {
+        "id": "bf43e7230cef4364a30b5415a90c2810",
+        "text": "Explicación y aplicación por parte del Monitor"
+      },
+      {
+        "id": "4d7e64991d194316a27376ce7d7a6a7a",
+        "text": "Explicación y aplicación por parte del aprendiz."
+      },
+      {
+        "id": "0bb34d2b59f547819315adb52ddecfa7",
+        "text": "Preparación del aprendiz y de los objetos"
+      }
+    ],
+    "selected": "Demostración (presentación de la tarea) por el Monitor"
+  },
+  {
+    "id": "_228986290_1",
+    "question": "Es importante que al final de su estadía en empresa, las actividades realizadas por el aprendiz cubran como mínimo las partes esenciales establecidas en el …………………………………. y acordado previamente con el instructor del SENATI",
+    "correct": true,
+    "answers": [
+      {
+        "id": "57053642a86e4291aaa031533b0225aa",
+        "text": "Plan específico del monitor"
+      },
+      {
+        "id": "5cc11b57ef4a403099b171ccb40026f8",
+        "text": "Plan específico de responsabilidades"
+      },
+      {
+        "id": "10eb4d4e0ad04a5d94fe777e171f9e9c",
+        "text": "Plan específico de actividades"
+      },
+      {
+        "id": "76e08d267bf347258d9458dccd5d4546",
+        "text": "Plan específico de la empresa"
+      },
+      {
+        "id": "acda3befa78d45ee96a4810735a6e019",
+        "text": "Plan específico de aprendizaje"
+      }
+    ],
+    "selected": "Plan específico de aprendizaje"
+  },
+  {
+    "id": "_228986291_1",
+    "question": "Es el trabajador designado por la empresa y capacitado por el SENATI, para organizar y desarrollar la formación práctica del estudiante en los diferentes puestos de trabajo de los procesos de producción o servicio de las empresas, cuidando la aplicación correcta de Normas de Seguridad, Higiene Industrial y Ambiental en la realización de las tareas y operaciones.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a3dc1d99190643ff95eb94f11e5d0c85",
+        "text": "El gestor empresarial"
+      },
+      {
+        "id": "aac1340353544861b2356757d35e3176",
+        "text": "El tutor"
+      },
+      {
+        "id": "e5810052b26b4cf78467522a71abad0f",
+        "text": "El monitor"
+      },
+      {
+        "id": "7fe8dd8100ac4fd99c7bee2df74b7b21",
+        "text": "El especialista de seguimiento"
+      },
+      {
+        "id": "d2f79e6b31fd4de1920932300ade404f",
+        "text": "El instructor"
+      }
+    ],
+    "selected": "El monitor"
+  },
+  {
+    "id": "_228986292_1",
+    "question": "La metodología del sistema de formación profesional del SENATI se basa en …………… es decir en el aprendizaje de conductas de acción, se realiza mediante la propia experiencia de trabajo, sin separar la tecnología de la práctica.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d5c2358d880b4adcbc0753f0e9dbd8ea",
+        "text": "El desarrollo de competencias"
+      },
+      {
+        "id": "d526295b66cd4f06a575c0af7de03044",
+        "text": "La competencia técnica"
+      },
+      {
+        "id": "a895bb263fa949b4b851b679b8a03bbf",
+        "text": "La competencia metodológica"
+      },
+      {
+        "id": "3802161963414887b47410123c4605a8",
+        "text": "La formación profesional"
+      },
+      {
+        "id": "f6aca1af18044e2fa0d932f83086021d",
+        "text": "El aprender haciendo"
+      }
+    ],
+    "selected": "El aprender haciendo"
+  },
+  {
+    "id": "_228986293_1",
+    "question": "Es el modelo pedagógico cuyas actividades de formación se caracterizan por una formación básica o teórica en SENATI y formación práctica en las empresas:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ea3eba04798b4ee7b00561cec9d9c0c2",
+        "text": "Aprendizaje dual"
+      },
+      {
+        "id": "031ea9ba24cd417fbf1729eb4be8d9a9",
+        "text": "Formación básica"
+      },
+      {
+        "id": "7e0f3076c4184fec96d09533e1286015",
+        "text": "Competencia personal - social"
+      },
+      {
+        "id": "5ed0306d39e84a5b95145865973aec9d",
+        "text": "Formación específica"
+      },
+      {
+        "id": "d4684fd39a91415d8fb6e17dccddd0af",
+        "text": "Competencia metodológica"
+      }
+    ],
+    "selected": "Aprendizaje dual"
+  },
+  {
+    "id": "_228986294_1",
+    "question": "Se desarrolla en 8 semestres académicos y el profesional egresado está capacitado para desempeñarse en tareas o funciones de gran complejidad correspondientes a una familia ocupacional o área productiva:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "de67041d241945b78b1e677f67df2d78",
+        "text": "Nivel profesional técnico"
+      },
+      {
+        "id": "faf34920f81649e39745045e212fe518",
+        "text": "Nivel superior técnico"
+      },
+      {
+        "id": "954eb36b340c47299a6f0c118111aeea",
+        "text": "Nivel superior técnico"
+      },
+      {
+        "id": "97715e8a207b40beb68daabd142990ca",
+        "text": "Nivel superior"
+      },
+      {
+        "id": "861f9d5901224d749dca39826e9db3db",
+        "text": "Nivel profesional"
+      }
+    ],
+    "selected": "Nivel profesional"
+  },
+  {
+    "id": "_228986295_1",
+    "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución creada a iniciativa de la ………………………………",
+    "correct": true,
+    "answers": [
+      {
+        "id": "bd7a07bd17d64709b11b7673d2a93c7e",
+        "text": "Sociedad Nacional del Perú"
+      },
+      {
+        "id": "0e20b5e5d0cf45c98305b7aad4cc6cee",
+        "text": "Sociedad Nacional de Industrias"
+      },
+      {
+        "id": "556dd5513fee415aa837fcc8161d322d",
+        "text": "Sociedad de Ingenieros Automotrices"
+      },
+      {
+        "id": "b8ad8d8480b348bfa80d92bf0011f64e",
+        "text": "Confederación Nacional de Instituciones Empresariales Privadas"
+      },
+      {
+        "id": "9662ec8ec0ae4921a40c8e632e321493",
+        "text": "Sociedad Nacional de Empresarios"
+      }
+    ],
+    "selected": "Sociedad Nacional de Industrias"
+  },
+  {
+    "id": "_228986296_1",
+    "question": "Esta modalidad se aplicará para aquellos Aprendices que deseen realizar su formación práctica en las empresas donde laboran actualmente como trabajadores dependientes",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7db03f7083ab4b479738c467ab2d68c5",
+        "text": "Aprendices con vínculo laboral en empresa"
+      },
+      {
+        "id": "0596bb8e4c6442acb13c02c269c6ef99",
+        "text": "Convenio de apreConvenio de colaboración"
+      },
+      {
+        "id": "b5fc8fe74bce4fdf97679a14810cf1b0",
+        "text": "Contrato de aprendizaje"
+      },
+      {
+        "id": "9ac79cf6ec544360a3753769346d31a9",
+        "text": "Convenio de colaboración"
+      },
+      {
+        "id": "79126712596742509f4bac447eb34375",
+        "text": "Carta de presentación de un aprendiz"
+      }
+    ],
+    "selected": "Aprendices con vínculo laboral en empresa"
+  },
+  {
+    "id": "_228986297_1",
+    "question": "Es el documento oficial de información que los instructores y monitores, asesorados por el especialista de seguimiento, utilizan para registrar la asistencia y evaluación de los aprendices en el SENATI y en la empresa:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b2624a9e273f44208f6ccb8c7825a9aa",
+        "text": "El registro de asistencia y evaluación"
+      },
+      {
+        "id": "c37b982f54d24fc6bc17925993aeb2f6",
+        "text": "Plan específico de aprendizaje"
+      },
+      {
+        "id": "97b8d8f5ecb94f898af0555168480d06",
+        "text": "El Cuaderno de informes de trabajo semanal"
+      },
+      {
+        "id": "b4c6d837df35404f8c29f517c1fc8f6c",
+        "text": "Plan de rotación"
+      },
+      {
+        "id": "696b8156b4dc42c2b7abd095fba5ccc5",
+        "text": "El programa de recepción del aprendiz"
+      }
+    ],
+    "selected": "El registro de asistencia y evaluación"
+  },
+  {
+    "id": "_228986298_1",
+    "question": "Con este documento la empresa colaboradora se compromete a brindar las facilidades de sus instalaciones para el aprendizaje práctico del estudiante, ubicándolo en los procesos de producción; y no tiene la obligación de pagar al estudiante alguna asignación económica mensual",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6e4e24bd87854c12b66a770cf827a0a3",
+        "text": "Formación de aprendices con vínculo laboral vigente"
+      },
+      {
+        "id": "6f1b510ad2b14ce1a50914dcc0f22589",
+        "text": "Convenio de colaboración mutua"
+      },
+      {
+        "id": "5fbffc8e747c4c038c5ec2eaf0c1656e",
+        "text": "Contrato de aprendizaje"
+      },
+      {
+        "id": "1b15e96f8890475f864ffbae8c80aeba",
+        "text": "Convenio de aprendizaje con predominio en la empresa"
+      },
+      {
+        "id": "0ae2edb1abf14a7ba2dcc2ff036b95b6",
+        "text": "Contrato de trabajo – aprendizaje"
+      }
+    ],
+    "selected": "Convenio de colaboración mutua"
+  },
+  {
+    "id": "_228986299_1",
+    "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9aca630ed14d452299be193a0184ea38",
+        "text": "Seminarios de Práctica – PAE"
+      },
+      {
+        "id": "b0212382bb5e4754903d073e2ce9f586",
+        "text": "Seminarios de Complementación Práctica - PEA."
+      },
+      {
+        "id": "aa48d80c1a3249a794ac158c000bd82c",
+        "text": "Seminarios de Complementación Teórica – PEA"
+      },
+      {
+        "id": "50c35ca6e9604531bc7085594cdb3c6c",
+        "text": "Talleres – PAE"
+      },
+      {
+        "id": "5dee745232f34edab1dce59f2f591cf0",
+        "text": "Complementación Teórica – PEA"
+      }
+    ],
+    "selected": "Seminarios de Complementación Práctica - PEA."
+  },
+  {
+    "id": "_228986300_1",
+    "question": "A través de las observaciones en el …………………………, el Monitor le puede enviar mensajes al Instructor. Así él está al tanto, no solamente en cuanto a los aprendizajes realizados por el aprendiz, sino también a eventuales problemas o dificultades, a la asistencia del joven a la empresa y del cumplimiento de sus obligaciones",
+    "correct": true,
+    "answers": [
+      {
+        "id": "3efc631a1e3347a491f08c26c294b91a",
+        "text": "Cuaderno de informes de trabajo semanal"
+      },
+      {
+        "id": "6bbbea0a059a4dfb874a3d8fdfb0541a",
+        "text": "Plan específico de aprendizaje"
+      },
+      {
+        "id": "a81ac3adbfb14b63bca5b033c77e7769",
+        "text": "Programa de recepción del aprendiz"
+      },
+      {
+        "id": "e2b39aad30a44ab7bfaa037d12ad55e0",
+        "text": "Registro de asistencia y evaluación"
+      },
+      {
+        "id": "1b25db12ac5e4a3ebcf108f805b4114e",
+        "text": "Cuaderno de informes de trabajo mensual"
+      }
+    ],
+    "selected": "Cuaderno de informes de trabajo semanal"
+  },
+  {
+    "id": "_228986301_1",
+    "question": "Es una técnica muy útil en el proceso de aprendizaje, pues despierta y conduce al aprendiz al pensamiento reflexivo, que es el elemento básico de toda acción consciente y definida.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d5e7db0f9f2b460c9e7519774180b5e2",
+        "text": "La evaluación"
+      },
+      {
+        "id": "4aac510de6514ba596a5c843b91e4795",
+        "text": "El desempeño"
+      },
+      {
+        "id": "6198d0deeae144b580ba2d29f680178b",
+        "text": "La observación"
+      },
+      {
+        "id": "29a8e9fb37864b1e82bdf3286e3b1acd",
+        "text": "El aprendizaje"
+      },
+      {
+        "id": "d955a568cf65405494410f6f021fbb45",
+        "text": "La formulación de preguntas"
+      }
+    ],
+    "selected": "La formulación de preguntas"
+  },
+  {
+    "id": "_228986302_1",
+    "question": "La primera y más importante instancia para evaluar el logro de los aprendices en la empresa son",
+    "correct": true,
+    "answers": [
+      {
+        "id": "67359d92fcc449ca821af3dbf4bcea45",
+        "text": "El gerente general y de Recursos Humanos de la empresa"
+      },
+      {
+        "id": "75972f01e65040979c053ef18784e4f4",
+        "text": "El monitor y los trabajadores que tuvieron a cargo al aprendiz"
+      },
+      {
+        "id": "802f2f79cc754ec5b635c715156b7526",
+        "text": "Los coordinadores de taller"
+      },
+      {
+        "id": "a0d423da7f404d84840acf618a97e9dd",
+        "text": "El director y asistente de SENATI"
+      },
+      {
+        "id": "bcbfa3ecd4b4479ba225b57dc843402c",
+        "text": "Los instructores del aprendiz"
+      }
+    ],
+    "selected": "El monitor y los trabajadores que tuvieron a cargo al aprendiz"
+  },
+  {
+    "id": "_228986303_1",
+    "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2d0202315ad8455084c57ac2470e3182",
+        "text": "Manejo de recursos"
+      },
+      {
+        "id": "2ff16afe9a9a4f3f8a9ed4fedce37bea",
+        "text": "Tiempo de ejecución"
+      },
+      {
+        "id": "ca7fba0c75954a038795a69673cee3ed",
+        "text": "Proceso operacional"
+      },
+      {
+        "id": "709dcb1e277a4a0ebf789e42dac497a9",
+        "text": "Orden y seguridad"
+      },
+      {
+        "id": "3c0f61536ea84c4da16ed634c7782905",
+        "text": "Precisión y acabado"
+      }
+    ],
+    "selected": "Manejo de recursos"
+  },
+  {
+    "id": "_228986304_1",
+    "question": "Es una relación descriptiva que enumera, paso a paso las actividades de una tarea, respetando su secuencia. Se usa para evaluar procesos y cotejar entre: si o no; aceptable o inaceptable o, algunas otras designaciones similares",
+    "correct": true,
+    "answers": [
+      {
+        "id": "dc173438a99346968608394e704a7841",
+        "text": "La lista de verificación de materiales"
+      },
+      {
+        "id": "af731108d9274e5b93502e512ee75f4b",
+        "text": "La lista de verificación de desempeño"
+      },
+      {
+        "id": "539b40ca7ea04c85b67be42d2fb50bd8",
+        "text": "La lista de verificación de aprendices"
+      },
+      {
+        "id": "b5eb3cc2d7a3474c981d0c2051a9fa05",
+        "text": "La lista de verificación de producto acabad"
+      },
+      {
+        "id": "72ade67875c141b782a4f1b7c75cf736",
+        "text": "La lista de verificación de producto semi acabado"
+      }
+    ],
+    "selected": "La lista de verificación de desempeño"
+  },
+  {
+    "id": "_228986305_1",
+    "question": "Es el proceso de observación, verificación y juzgamiento de la adquisición de conocimientos, habilidades y actitudes del aprendiz.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "03b56d93ba5f453ca48991910198e7c0",
+        "text": "Realización"
+      },
+      {
+        "id": "7304c880403d48c5b520b923b92de124",
+        "text": "Evaluación"
+      },
+      {
+        "id": "728b8a3ecce34f92855093581e783454",
+        "text": "Competencia"
+      },
+      {
+        "id": "a6c86fa329fd4a52ac7178bac94c2f3e",
+        "text": "Desempeño"
+      },
+      {
+        "id": "80342f011bdf476399adabccfda6321a",
+        "text": "Formulación"
+      }
+    ],
+    "selected": "Evaluación"
+  }
+]

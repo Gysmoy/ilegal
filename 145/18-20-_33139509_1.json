@@ -2,7 +2,7 @@
   {
     "id": "_223172535_1",
     "question": "Es el listado de tareas y operaciones relacionadas a los procesos productivos de la empresa que debe desarrollar el estudiante en concordancia con los programas curriculares para cada semestre:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a1af0309a60f443087e69e36f6b53d44",
@@ -30,7 +30,7 @@
   {
     "id": "_223172536_1",
     "question": "SENATI busca garantizar la adecuada aplicación de los formatos de vinculación de los aprendices con las empresas para realizar su ……………… en estricto cumplimiento del …………………, llevándose a cabo la formación dual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b9de2ed656e44cdb8953e27867851ffd",
@@ -58,7 +58,7 @@
   {
     "id": "_223172537_1",
     "question": "A través de las observaciones en el …………………………, el Monitor le puede enviar mensajes al Instructor. Así él está al tanto, no solamente en cuanto a los aprendizajes realizados por el aprendiz, sino también a eventuales problemas o dificultades, a la asistencia del joven a la empresa y del cumplimiento de sus obligaciones",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6bbbea0a059a4dfb874a3d8fdfb0541a",
@@ -86,7 +86,7 @@
   {
     "id": "_223172538_1",
     "question": "Es el cronograma de permanencia del aprendiz en áreas, puestos de trabajo, secciones de una empresa de acuerdo a las tareas y operaciones programadas en el PEA para el semestre correspondiente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b6927efd9dbb45598b7b19a5c949e50a",
@@ -114,7 +114,7 @@
   {
     "id": "_223172539_1",
     "question": "Con este documento la empresa colaboradora se compromete a brindar las facilidades de sus instalaciones para el aprendizaje práctico del estudiante, ubicándolo en los procesos de producción; y no tiene la obligación de pagar al estudiante alguna asignación económica mensual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6e4e24bd87854c12b66a770cf827a0a3",
@@ -142,7 +142,7 @@
   {
     "id": "_223172540_1",
     "question": "Tiene una duración de 6 semestres académicos, y el profesional egresado está capacitado para el desempeño en tareas complejas o no rutinarias correspondientes a una ocupación o grupo de ocupaciones afines",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c5f3b09c596241ca98c4ca5ed135d548",
@@ -170,7 +170,7 @@
   {
     "id": "_223172541_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución de formación profesional ……………………, de gestión privada; no forma parte de la Administración Pública",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "936cffdbfcff4cf99bb788e28a125bb4",
@@ -198,7 +198,7 @@
   {
     "id": "_223172542_1",
     "question": "Es el modelo pedagógico cuyas actividades de formación se caracterizan por una formación básica o teórica en SENATI y formación práctica en las empresas:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ea3eba04798b4ee7b00561cec9d9c0c2",
@@ -226,7 +226,7 @@
   {
     "id": "_223172543_1",
     "question": "Tiene la función de realizar el seguimiento de la formación práctica en empresas a los aprendices, acompañando, orientando, asesorando, evaluando la formación práctica en condiciones de seguridad de los estudiantes en la empresa de acuerdo con el PEA",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "29f42bf6a3bb47818297c95a115e0871",
@@ -254,7 +254,7 @@
   {
     "id": "_223172544_1",
     "question": "El Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) es una institución creada a iniciativa de la ………………………………",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "bd7a07bd17d64709b11b7673d2a93c7e",
@@ -282,7 +282,7 @@
   {
     "id": "_223172545_1",
     "question": "La pregunta: ¿Qué quiere decir con eso?, es un ejemplo de",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "db33d16d0c5d4be2babae1842888f5ea",
@@ -310,7 +310,7 @@
   {
     "id": "_223172546_1",
     "question": "La siguiente pregunta: ¿Cómo estaba funcionando la máquina esta mañana?, pertenece al tipo de preguntas",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e8d0619915724a489e8d437024b9b082",
@@ -338,7 +338,7 @@
   {
     "id": "_223172547_1",
     "question": "Es el proceso de observación, verificación y juzgamiento de la adquisición de conocimientos, habilidades y actitudes del aprendiz.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "728b8a3ecce34f92855093581e783454",
@@ -366,7 +366,7 @@
   {
     "id": "_223172548_1",
     "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2d0202315ad8455084c57ac2470e3182",
@@ -394,7 +394,7 @@
   {
     "id": "_223172549_1",
     "question": "La primera y más importante instancia para evaluar el logro de los aprendices en la empresa son",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "75972f01e65040979c053ef18784e4f4",
@@ -422,7 +422,7 @@
   {
     "id": "_223172550_1",
     "question": "El monitor transfiere la información del proceso de trabajo al aprendiz. La información es recibida por el aprendiz, generalmente por dos canales: oídos y vista, en tanto se desarrolla explicando y demostrando el trabajo a ejecutar ¿A qué etapa corresponde en el método demostrativo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "65ae67f28f7e4c40be7a0732c7bc82c0",
@@ -450,7 +450,7 @@
   {
     "id": "_223172551_1",
     "question": "Puntualidad, respeto a normas de seguridad, conservación del medio ambiente, buena calidad en la producción, son ejemplos de:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fcd4afebeefb45bdb4448e69e25fbd41",
@@ -478,7 +478,7 @@
   {
     "id": "_223172552_1",
     "question": "El ………………. es la apropiación de conocimientos, capacidades y habilidades que forman competencias en la persona que aprende",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "eb4a9270cb4245e2b31ca97715955acd",
@@ -506,7 +506,7 @@
   {
     "id": "_223172553_1",
     "question": "Para cada secuencia de instrucción, el monitor debe tener:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "36088169e0d9468c8046bf9b2aeb6216",
@@ -534,7 +534,7 @@
   {
     "id": "_223172554_1",
     "question": "Se trata de informaciones procesadas y almacenadas en la memoria de una persona. Se generan haciendo ensayos, observando y recibiendo explicaciones que luego se constituyen en un plan que se almacenará a un nivel cerebral",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "de98bd0ff54a4d58b0413459236f38e7",

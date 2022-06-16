@@ -2,7 +2,7 @@
   {
     "id": "_223690449_1",
     "question": "En el caso de ……………………………es recomendable asignar al aprendiz a un trabajador experimentado que domine las tareas de su oficio, para que lo oriente y supervise constantemente hasta lograr con éxito el desarrollo de tareas de ese puesto de trabajo.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0d615f8c52c942fb88d61c7a76280052",
@@ -30,7 +30,7 @@
   {
     "id": "_223690450_1",
     "question": "Es importante que al final de su estadía en empresa, las actividades realizadas por el aprendiz cubran como mínimo las partes esenciales establecidas en el …………………………………. y acordado previamente con el instructor del SENATI",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "76e08d267bf347258d9458dccd5d4546",
@@ -58,7 +58,7 @@
   {
     "id": "_223690451_1",
     "question": "Conducir un vehículo, tocar instrumentos musicales, dibujar planos, son ejemplos de:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "e346ef4f9200484ebf1ae99e17b439c7",
@@ -86,7 +86,7 @@
   {
     "id": "_223690452_1",
     "question": "Para cada secuencia de instrucción, el monitor debe tener:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1efa5a0f93cb44cdb62e5bc35ca04a07",
@@ -114,7 +114,7 @@
   {
     "id": "_223690453_1",
     "question": "El monitor transfiere la información del proceso de trabajo al aprendiz. La información es recibida por el aprendiz, generalmente por dos canales: oídos y vista, en tanto se desarrolla explicando y demostrando el trabajo a ejecutar ¿A qué etapa corresponde en el método demostrativo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4d7e64991d194316a27376ce7d7a6a7a",
@@ -142,7 +142,7 @@
   {
     "id": "_223690454_1",
     "question": "Es el documento oficial de información que los instructores y monitores, asesorados por el especialista de seguimiento, utilizan para registrar la asistencia y evaluación de los aprendices en el SENATI y en la empresa:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b4c6d837df35404f8c29f517c1fc8f6c",
@@ -170,7 +170,7 @@
   {
     "id": "_223690455_1",
     "question": "Esta modalidad se aplicará para aquellos Aprendices que deseen realizar su formación práctica en las empresas donde laboran actualmente como trabajadores dependientes",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0596bb8e4c6442acb13c02c269c6ef99",
@@ -198,7 +198,7 @@
   {
     "id": "_223690456_1",
     "question": "Periódicamente se organizan ………………. en las instalaciones de los Centros de Formación Profesional del SENATI, para el aprendizaje de los aspectos que no se han realizado dentro de la empresa según el ……….",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9aca630ed14d452299be193a0184ea38",
@@ -226,7 +226,7 @@
   {
     "id": "_223690457_1",
     "question": "SENATI busca garantizar la adecuada aplicación de los formatos de vinculación de los aprendices con las empresas para realizar su ……………… en estricto cumplimiento del …………………, llevándose a cabo la formación dual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c351da7303404ae89df431d7b4a2ec04",
@@ -254,7 +254,7 @@
   {
     "id": "_223690458_1",
     "question": "El patrocinio consiste en brindarle las oportunidades para el aprendizaje práctico en sus instalaciones productivas, y otorgarle una asignación económica mensual no menor de 50% de remuneración mínima vital. Se refiere a:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "365eb12665334f64b8274f0c583c4f53",
@@ -282,7 +282,7 @@
   {
     "id": "_223690459_1",
     "question": "Tiene la función de realizar el seguimiento de la formación práctica en empresas a los aprendices, acompañando, orientando, asesorando, evaluando la formación práctica en condiciones de seguridad de los estudiantes en la empresa de acuerdo con el PEA",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "29f42bf6a3bb47818297c95a115e0871",
@@ -310,7 +310,7 @@
   {
     "id": "_223690460_1",
     "question": "Es el modelo pedagógico cuyas actividades de formación se caracterizan por una formación básica o teórica en SENATI y formación práctica en las empresas:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "031ea9ba24cd417fbf1729eb4be8d9a9",
@@ -338,7 +338,7 @@
   {
     "id": "_223690461_1",
     "question": "“Formar profesionales técnicos innovadores y altamente productivos”, esta expresión es considerada como:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ec251ade75c8457384b1f20aec5e8539",
@@ -366,7 +366,7 @@
   {
     "id": "_223690462_1",
     "question": "Se desarrolla en 8 semestres académicos y el profesional egresado está capacitado para desempeñarse en tareas o funciones de gran complejidad correspondientes a una familia ocupacional o área productiva:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "861f9d5901224d749dca39826e9db3db",
@@ -394,7 +394,7 @@
   {
     "id": "_223690463_1",
     "question": "“Liderar en América Latina, la excelencia en formación profesional Tecnológica”. Esta expresión es:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "495536d50f124020a4ceae8c9fcca979",
@@ -422,7 +422,7 @@
   {
     "id": "_223690464_1",
     "question": "La primera y más importante instancia para evaluar el logro de los aprendices en la empresa son",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "a0d423da7f404d84840acf618a97e9dd",
@@ -450,7 +450,7 @@
   {
     "id": "_223690465_1",
     "question": "Es una relación descriptiva que enumera, paso a paso las actividades de una tarea, respetando su secuencia. Se usa para evaluar procesos y cotejar entre: si o no; aceptable o inaceptable o, algunas otras designaciones similares",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b5eb3cc2d7a3474c981d0c2051a9fa05",
@@ -478,7 +478,7 @@
   {
     "id": "_223690466_1",
     "question": "Es una técnica muy útil en el proceso de aprendizaje, pues despierta y conduce al aprendiz al pensamiento reflexivo, que es el elemento básico de toda acción consciente y definida.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6198d0deeae144b580ba2d29f680178b",
@@ -506,7 +506,7 @@
   {
     "id": "_223690467_1",
     "question": "La pregunta: ¿A qué hora dejó de funcionar el equipo?, es un ejemplo de:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "aa7326b0a4ff42248bfda1d0a9192ff9",
@@ -534,7 +534,7 @@
   {
     "id": "_223690468_1",
     "question": "Usa los recursos y materiales con porcentajes aceptables de desperdicio ¿A qué indicador de evaluación corresponde?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2ff16afe9a9a4f3f8a9ed4fedce37bea",
