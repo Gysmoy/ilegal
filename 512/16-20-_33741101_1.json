@@ -2,7 +2,7 @@
   {
     "id": "_230204407_1",
     "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "63a10c99dab34f518ffef598fd199243",
@@ -30,7 +30,7 @@
   {
     "id": "_230204408_1",
     "question": "¿Cuál es una fase del desarrollo de software:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2d6daf84a8f04767a2eaa87be7c1e12e",
@@ -58,7 +58,7 @@
   {
     "id": "_230204409_1",
     "question": "¿A qué se refiere P.Hall como un proceso que recorre hacia atrás el ciclo de desarrollo de software, donde a partir del código fuente se llaga a la fase de análisis?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c5a30b1a3df94b568fb65d8e6e477aad",
@@ -86,7 +86,7 @@
   {
     "id": "_230204410_1",
     "question": "¿Qué diagrama es similar a los diagramas de secuencia, pero el enfoque está en los mensajes que se pasan entre objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9ad1d9f0ea8f49299cbf906cc3607ef3",
@@ -114,7 +114,7 @@
   {
     "id": "_230204411_1",
     "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "a0995d957ee647d5a1519cef76ae5abe",
@@ -142,7 +142,7 @@
   {
     "id": "_230204412_1",
     "question": "¿Cuál es el diagrama que representa una instancia específica de un diagrama de clases en un momento determinado en el tiempo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1c06860391ae4851a13e688b81ce5362",
@@ -170,7 +170,7 @@
   {
     "id": "_230204413_1",
     "question": "¿Cuál es el diagrama que representan las estructuras estáticas de un sistema, incluidas sus clases, atributos, operaciones y objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "df5c6ce523c54602bfe56469769e4ded",
@@ -198,7 +198,7 @@
   {
     "id": "_230204414_1",
     "question": "¿Cuál es un objetivo de UML?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "140df17ec64c45818050c4d6aa0b276e",
@@ -226,7 +226,7 @@
   {
     "id": "_230204415_1",
     "question": "¿Cuál de los siguientes diagramas pertenece al tipo de diagrama estático?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e677a3e51fc548e0a4156e1392990f54",
@@ -254,7 +254,7 @@
   {
     "id": "_230204416_1",
     "question": "¿Qué tipo de relación en UML especifica que dos clases u objetos están relacionados, pero siendo un elemento independiente del otro?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "7fcb88c0bae0497795ffa8ce2b7b6e08",
@@ -282,7 +282,7 @@
   {
     "id": "_230204417_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "dd08a631c10a4a0fbd75b2da907b9efe",
@@ -310,7 +310,7 @@
   {
     "id": "_230204418_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "450796740d7f4ca283a385dccf3800e6",
@@ -338,7 +338,7 @@
   {
     "id": "_230204419_1",
     "question": "¿Qué es una disciplina formada por un conjunto de métodos, herramientas y técnicas que se utilizan en el desarrollo de programas informáticos, más conocidos como softwares?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2d76157f4fa542a397738cabb5bb6181",
@@ -366,7 +366,7 @@
   {
     "id": "_230204420_1",
     "question": "¿Cuál es el paso en que empezamos a elaborar de forma tangible todo aquellos que de momento solo hemos plasmado en forma de ideas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "580623e0d057414b84c2effdba5872c1",
@@ -394,7 +394,7 @@
   {
     "id": "_230204421_1",
     "question": "¿Qué es lo que representa algún comportamiento que es observable externamente y que perdura durante un periodo de tiempo finito?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4f8188b1f5684caaa56e394a77ca969c",
@@ -422,7 +422,7 @@
   {
     "id": "_230204422_1",
     "question": "¿Es cualquier suceso que activa un proceso, que actualiza datos en el sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fa8ca9bdb24f4648a05c566e917b1922",
@@ -450,7 +450,7 @@
   {
     "id": "_230204423_1",
     "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2b5db1b315574ee2aadc8587ea93c4f3",
@@ -478,7 +478,7 @@
   {
     "id": "_230204424_1",
     "question": "¿Qué representa las dependencias entre los paquetes que componen un modelo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "980a3b87e5ab4715a43679c093c39f5e",
@@ -506,7 +506,7 @@
   {
     "id": "_230204425_1",
     "question": "¿Cuál es la relación dirigida en la que los contenidos de un paquete se extienden según los contenidos de otro paquete?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "69e756fbd4a34bfcbcc328ca66463ac0",
@@ -534,7 +534,7 @@
   {
     "id": "_230204426_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f14cb83a10764972b5fefeb00306d175",

@@ -2,7 +2,7 @@
   {
     "id": "_228551788_1",
     "question": "¿Cuál es una fase del desarrollo de software:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "361461adab754225958e289b4897e686",
@@ -30,7 +30,7 @@
   {
     "id": "_228551789_1",
     "question": "¿Qué se realiza en la fase de diseño del ciclo de vida del desarrollo de software?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "6faa793ada5a4a0b90da9e95a09c613b",
@@ -58,7 +58,7 @@
   {
     "id": "_228551790_1",
     "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "c4bebc6ba6e1487885ac297a1873c65f",
@@ -86,7 +86,7 @@
   {
     "id": "_228551791_1",
     "question": "¿Con que simbolo se representa una dependencia entre clases; que va desde el paquete que requiere la función hasta el paquete que ofrece esa función?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "309ae79f60f047478a1c15fa5ea57bea",
@@ -114,7 +114,7 @@
   {
     "id": "_228551792_1",
     "question": "¿Cuál es la relación dirigida en la que los contenidos de un paquete se extienden según los contenidos de otro paquete?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0c89675b27944f328271ea481a426e99",
@@ -142,7 +142,7 @@
   {
     "id": "_228551793_1",
     "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3b18d08993b3442bab474c81878900ec",
@@ -170,7 +170,7 @@
   {
     "id": "_228551794_1",
     "question": "¿Cuál es una etapa de la ingeniería del software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0ab76e87113944f3a5b5d9ea63e0a287",
@@ -198,7 +198,7 @@
   {
     "id": "_228551795_1",
     "question": "¿Qué diagrama Muestra cómo los objetos interactúan entre sí y el orden de la ocurrencia y representan interacciones para un escenario concreto?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "836b41ad417a44e390574db9ad33c314",
@@ -226,7 +226,7 @@
   {
     "id": "_228551796_1",
     "question": "¿Qué diagrama es similar a los diagramas de secuencia, pero el enfoque está en los mensajes que se pasan entre objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "43cf142c18434b7b874e754a1bb32b14",
@@ -254,7 +254,7 @@
   {
     "id": "_228551797_1",
     "question": "¿Qué es lo que representa algún comportamiento que es observable externamente y que perdura durante un periodo de tiempo finito?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "d56c336c1c7941089a2e97a41668e376",
@@ -282,7 +282,7 @@
   {
     "id": "_228551798_1",
     "question": "Representa las relaciones e interacciones entre los distintos objetos de software. ¿A qué diagrama se refiere el enunciado?:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3c71bcad0edc46d88bdf47b351ef3874",
@@ -310,7 +310,7 @@
   {
     "id": "_228551799_1",
     "question": "¿Un evento puede ser?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2587394211544588ac72177ae6a212a4",
@@ -338,7 +338,7 @@
   {
     "id": "_228551800_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de Estructura?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "575cfa985e164f3bb5b2d9631d78b446",
@@ -366,7 +366,7 @@
   {
     "id": "_228551801_1",
     "question": "¿Cuál es el diagrama que representan las estructuras estáticas de un sistema, incluidas sus clases, atributos, operaciones y objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c81b79bd3ae84210adf9924d296c709d",
@@ -394,7 +394,7 @@
   {
     "id": "_228551802_1",
     "question": "¿Cuál es el diagrama que representa una instancia específica de un diagrama de clases en un momento determinado en el tiempo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3d6c32d892d048d6851b4ee0e926e404",
@@ -422,7 +422,7 @@
   {
     "id": "_228551803_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "dd08a631c10a4a0fbd75b2da907b9efe",
@@ -450,7 +450,7 @@
   {
     "id": "_228551804_1",
     "question": "¿A qué se refiere a las estructuras de un sistema, compuestas de elementos con propiedades visibles de forma externa y las relaciones que existen entre ellos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7ae6edcd79d941aca6082be249be09a5",
@@ -478,7 +478,7 @@
   {
     "id": "_228551805_1",
     "question": "¿Cuál no es un diagrama de la notación UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "91c3518c424d40af8654168828ab3e28",
@@ -506,7 +506,7 @@
   {
     "id": "_228551806_1",
     "question": "¿Cuál es un objetivo de UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "78c784a92047474bbb152dd02050c9ba",
@@ -534,7 +534,7 @@
   {
     "id": "_228551807_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "8cebee68569c46728fe91391fb297d38",

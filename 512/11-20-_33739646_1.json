@@ -2,7 +2,7 @@
   {
     "id": "_230180056_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ed376b058d8a41cb9dc2d04c51e5710d",
@@ -30,7 +30,7 @@
   {
     "id": "_230180057_1",
     "question": "¿Qué representa las dependencias entre los paquetes que componen un modelo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2f0bd0ea54394f6891391e46393c2bb0",
@@ -58,7 +58,7 @@
   {
     "id": "_230180058_1",
     "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "03d797db279b42e6948aa301a58a7340",
@@ -86,7 +86,7 @@
   {
     "id": "_230180060_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "a9388c9b53fc4c02ba401b1f0a6c1f63",
@@ -114,7 +114,7 @@
   {
     "id": "_230180061_1",
     "question": "¿Cuál de los siguientes patrones de diseño no es un patrón de tipo creacional?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7c57d2e87e374ea8be1e3477e7f5dd19",
@@ -142,7 +142,7 @@
   {
     "id": "_230180062_1",
     "question": "¿Qué es una disciplina formada por un conjunto de métodos, herramientas y técnicas que se utilizan en el desarrollo de programas informáticos, más conocidos como softwares?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2d76157f4fa542a397738cabb5bb6181",
@@ -170,7 +170,7 @@
   {
     "id": "_230180063_1",
     "question": "¿Cuál es el paso en que empezamos a elaborar de forma tangible todo aquellos que de momento solo hemos plasmado en forma de ideas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3f550f2e83fa48c0a64c4a77a727ad0d",
@@ -198,7 +198,7 @@
   {
     "id": "_230180064_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de Estructura?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "575cfa985e164f3bb5b2d9631d78b446",
@@ -226,7 +226,7 @@
   {
     "id": "_230180065_1",
     "question": "¿Cuál es el diagrama que representan las estructuras estáticas de un sistema, incluidas sus clases, atributos, operaciones y objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c81b79bd3ae84210adf9924d296c709d",
@@ -254,7 +254,7 @@
   {
     "id": "_230180066_1",
     "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "6cbd801f05e049ab9e8936306a654ab4",
@@ -282,7 +282,7 @@
   {
     "id": "_230180067_1",
     "question": "¿Qué diagrama es similar a los diagramas de secuencia, pero el enfoque está en los mensajes que se pasan entre objetos?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "930db4cc33de41868be1867b2479cb45",
@@ -310,7 +310,7 @@
   {
     "id": "_230180068_1",
     "question": "¿A qué se refiere P.Hall como un proceso que recorre hacia atrás el ciclo de desarrollo de software, donde a partir del código fuente se llaga a la fase de análisis?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "a85df86496984d439265a39ba1950094",
@@ -338,7 +338,7 @@
   {
     "id": "_230180069_1",
     "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "00a40736e5f245cbbdf4aba8c704f03b",
@@ -366,7 +366,7 @@
   {
     "id": "_230180070_1",
     "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8e8b8645fbc7493b8c9605b8d9f5ab43",
@@ -394,7 +394,7 @@
   {
     "id": "_230180071_1",
     "question": "¿Cuál es el diagrama que modela la distribución del sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "20c8a948914c4bc8846498eef060deb0",
@@ -422,7 +422,7 @@
   {
     "id": "_230180072_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "366581da0a43409ba5eaee88d7fa52d2",
@@ -450,7 +450,7 @@
   {
     "id": "_230180073_1",
     "question": "¿Qué tipo de relación en UML especifica que dos clases u objetos están relacionados, pero siendo un elemento independiente del otro?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "e3a513897a7c472990cc5a83b557dcc2",
@@ -478,7 +478,7 @@
   {
     "id": "_230180074_1",
     "question": "¿Es cualquier suceso que activa un proceso, que actualiza datos en el sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fa8ca9bdb24f4648a05c566e917b1922",
@@ -506,7 +506,7 @@
   {
     "id": "_230180075_1",
     "question": "¿Qué diagrama muestra el comportamiento dependiente del tiempo de un sistema de información?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d5772a1aec1940899337f157ebe1c580",
@@ -534,7 +534,7 @@
   {
     "id": "_230180076_1",
     "question": "¿Un evento puede ser?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2587394211544588ac72177ae6a212a4",

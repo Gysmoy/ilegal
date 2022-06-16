@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_230894495_1",
+    "question": "¿Cuál es el diagrama que modela la distribución del sistema?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "72da7f83d66e4c9ea01e68dcc01c9ade",
+        "text": "Diagrama de Actividades"
+      },
+      {
+        "id": "20c8a948914c4bc8846498eef060deb0",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "88594f4adc874e4ea55a40bbc4931f4c",
+        "text": "Diagrama de estados"
+      },
+      {
+        "id": "8cc2c28493c647d9b0cca4990cbc59f4",
+        "text": "Diagrama de Clases"
+      },
+      {
+        "id": "458c13cf16f4441ca78c898853dcada7",
+        "text": "Diagrama de despliegue"
+      }
+    ],
+    "selected": "Diagrama de despliegue"
+  },
+  {
+    "id": "_230894496_1",
+    "question": "¿Cuál no es un diagrama de la notación UML?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5a80a97839304ffe8140646f174d7ad3",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "91c3518c424d40af8654168828ab3e28",
+        "text": "Diagrama de Actividades"
+      },
+      {
+        "id": "5b302c67f712458abd7abd7624126d7a",
+        "text": "Diagrama de Clases"
+      },
+      {
+        "id": "e569d0b99a7844c5ac596bbe02c281f4",
+        "text": "Diagrama de estados"
+      },
+      {
+        "id": "841245ade24247f7a1275c365d78f04f",
+        "text": "Diagrama Entidad Relacion"
+      }
+    ],
+    "selected": "Diagrama Entidad Relacion"
+  },
+  {
+    "id": "_230894497_1",
+    "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "dab65c8058c948e98cb21afd50b1c6e0",
+        "text": "Diagrama de flujo de datos"
+      },
+      {
+        "id": "39d35bea6aba4932af38bedb549aaf8f",
+        "text": "Diagrama de actividades"
+      },
+      {
+        "id": "8cebee68569c46728fe91391fb297d38",
+        "text": "Diagrama de paquetes"
+      },
+      {
+        "id": "f8ad81c0eca04b62aea61de54b0be3bc",
+        "text": "Diagrama de componentes"
+      },
+      {
+        "id": "366581da0a43409ba5eaee88d7fa52d2",
+        "text": "Diagrama de despliegue"
+      }
+    ],
+    "selected": "Diagrama de actividades"
+  },
+  {
+    "id": "_230894498_1",
+    "question": "¿Que sería el modelo Nissan Sentra 2020 si la clase es llamada Autos?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "2fa81a29a5934a9f9ea7670e6915bf95",
+        "text": "Relación"
+      },
+      {
+        "id": "2e4cae2a6a6a45ec9088a0a4bdcfc2cb",
+        "text": "Clase"
+      },
+      {
+        "id": "4bd6d560b1984cde90451fc8bdd5e320",
+        "text": "Atributo"
+      },
+      {
+        "id": "03b8408c57444833b0baf184c6f12a54",
+        "text": "Objeto"
+      },
+      {
+        "id": "5469b436e0e946fd8e56f307b2e4f2ad",
+        "text": "Interface"
+      }
+    ],
+    "selected": "Atributo"
+  },
+  {
+    "id": "_230894499_1",
+    "question": "¿Cómo denominamos a la relación que une entre sí instancias de una misma clase?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a3b6ed286e6743b98fb293c18881867e",
+        "text": "Instancias recursivas"
+      },
+      {
+        "id": "d441a1c3a7714ac2a69e2763f4b9a933",
+        "text": "Relación por valor"
+      },
+      {
+        "id": "8fd1502fffd9418a8b1827651d31f284",
+        "text": "Asociación reflexiva"
+      },
+      {
+        "id": "4ad866beacb641d8baaf95c147b42c20",
+        "text": "Clase asociación"
+      },
+      {
+        "id": "5b45a34a1f7f4866a5afa2aa97e22e7d",
+        "text": "Relación por referencia"
+      }
+    ],
+    "selected": "Asociación reflexiva"
+  },
+  {
+    "id": "_230894500_1",
+    "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d392fddba6dd4a63b72014fb55150943",
+        "text": "Composición"
+      },
+      {
+        "id": "6cbd801f05e049ab9e8936306a654ab4",
+        "text": "Uso/independencia"
+      },
+      {
+        "id": "a0995d957ee647d5a1519cef76ae5abe",
+        "text": "Agregación"
+      },
+      {
+        "id": "7b0444e37aba40d8b9dd30c19ddb9aed",
+        "text": "Uso/dependencia"
+      },
+      {
+        "id": "4ed7dea1169b445b95d4d68c865a71d6",
+        "text": "Directa"
+      }
+    ],
+    "selected": "Uso/dependencia"
+  },
+  {
+    "id": "_230894501_1",
+    "question": "Representa las relaciones e interacciones entre los distintos objetos de software. ¿A qué diagrama se refiere el enunciado?:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c02bc09c3d05401291607e6e50f1edef",
+        "text": "Relación de generalización"
+      },
+      {
+        "id": "2b4ed5bf24fb4a8084c631b968841767",
+        "text": "Diagrama de colaboración"
+      },
+      {
+        "id": "49f964a3556d491aaca012f7ddb4ed82",
+        "text": "Diagrama de estado"
+      },
+      {
+        "id": "3c71bcad0edc46d88bdf47b351ef3874",
+        "text": "Diagrama de paquetes"
+      },
+      {
+        "id": "4b5b7ec02b6b462cb1cd20bface1dcf9",
+        "text": "Diagrama de flujo de datos"
+      }
+    ],
+    "selected": "Diagrama de colaboración"
+  },
+  {
+    "id": "_230894502_1",
+    "question": "¿Qué diagrama muestra el comportamiento dependiente del tiempo de un sistema de información?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d5772a1aec1940899337f157ebe1c580",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "feabc041fed749cc9afeed3e38d9641d",
+        "text": "Diagrama de actividades"
+      },
+      {
+        "id": "b6268e06fa504cdabadf12ef9e23c084",
+        "text": "Diagrama de casos de uso"
+      },
+      {
+        "id": "e3156478d4264d0abea211e2308867c8",
+        "text": "Diagrama de paquetes"
+      },
+      {
+        "id": "edbfb306d5bc4c9dbed2aa0b31e45201",
+        "text": "Diagrama de transición de estados"
+      }
+    ],
+    "selected": "Diagrama de transición de estados"
+  },
+  {
+    "id": "_230894503_1",
+    "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2b5db1b315574ee2aadc8587ea93c4f3",
+        "text": "Estructura"
+      },
+      {
+        "id": "1aa1e7e442e641b09b6cb5118f0291e1",
+        "text": "Estado"
+      },
+      {
+        "id": "fcfe3e2935ed48cab484b73b99400ef3",
+        "text": "Comportamiento"
+      },
+      {
+        "id": "dca9e68bfefc473d8deb5bd1f7084fb1",
+        "text": "Arquitectura"
+      },
+      {
+        "id": "7afdeba68e434185821ba9ac508e9419",
+        "text": "Interacción"
+      }
+    ],
+    "selected": "Estructura"
+  },
+  {
+    "id": "_230894504_1",
+    "question": "¿Una interacción es un comportamiento?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5cad66478bc041b6b9e6810f25f44f0a",
+        "text": "Salida"
+      },
+      {
+        "id": "e1e857acb4664ba09190819995bcf94b",
+        "text": "Que intercambian entre sí un conjunto de objetos"
+      },
+      {
+        "id": "ea9a073ac3e549859b17a1573e217c77",
+        "text": "Reingeniería"
+      },
+      {
+        "id": "f9eb4c18adaf403db7b8e86c80d9f982",
+        "text": "Entrada"
+      },
+      {
+        "id": "7df83ecf6a3b4398930324d1ef1703ac",
+        "text": "Proceso"
+      }
+    ],
+    "selected": "Que intercambian entre sí un conjunto de objetos"
+  },
+  {
+    "id": "_230894505_1",
+    "question": "¿A qué se refiere P.Hall como un proceso que recorre hacia atrás el ciclo de desarrollo de software, donde a partir del código fuente se llaga a la fase de análisis?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "cb3d7454a1d14c29a558ab68e0ee7a6e",
+        "text": "Ingeniería adversa"
+      },
+      {
+        "id": "f4fa804ac2ba4d43bd736308c85668b7",
+        "text": "Ingeniería perversa"
+      },
+      {
+        "id": "c5a30b1a3df94b568fb65d8e6e477aad",
+        "text": "Ingeniería en retroceso"
+      },
+      {
+        "id": "a85df86496984d439265a39ba1950094",
+        "text": "Ingeniería inversa"
+      },
+      {
+        "id": "cfbb01ebf3644bef980fe4370a61dff6",
+        "text": "Ingeniería hacia atrás"
+      }
+    ],
+    "selected": "Ingeniería inversa"
+  },
+  {
+    "id": "_230894506_1",
+    "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "63a10c99dab34f518ffef598fd199243",
+        "text": "Iterativo y Practico"
+      },
+      {
+        "id": "f7b669ee8d744da0bc4b004c88a8ba04",
+        "text": "Iterativo e incremental"
+      },
+      {
+        "id": "37a7be22db934b0ba52a11051dcbed35",
+        "text": "Programático e incremental"
+      },
+      {
+        "id": "e56a810f2bca4be9b7a9021647f1bd34",
+        "text": "Analítico y diseño"
+      },
+      {
+        "id": "8e8b8645fbc7493b8c9605b8d9f5ab43",
+        "text": "Detallista y analítico"
+      }
+    ],
+    "selected": "Iterativo e incremental"
+  },
+  {
+    "id": "_230894508_1",
+    "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "cb7855ec156246b39be61ffa7b440cfd",
+        "text": "Diseño lógico"
+      },
+      {
+        "id": "fb38b4baa5874f0486161688cbe8da3e",
+        "text": "Análisis Inicial de requerimientos"
+      },
+      {
+        "id": "c457d3d0652d41aaa396c0447ec73e76",
+        "text": "Diseño Físico"
+      },
+      {
+        "id": "1a8ba0103e624f4493a6691c321b785b",
+        "text": "Análisis del negocio"
+      },
+      {
+        "id": "00a40736e5f245cbbdf4aba8c704f03b",
+        "text": "Análisis de Requerimientos"
+      }
+    ],
+    "selected": "Análisis del negocio"
+  },
+  {
+    "id": "_230894509_1",
+    "question": "¿Cuál es una etapa de la ingeniería del software?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "81986ab171354719b8e5f47498057371",
+        "text": "MVC"
+      },
+      {
+        "id": "914af46263184f8f911382b4c89a3522",
+        "text": "BSC"
+      },
+      {
+        "id": "0ab76e87113944f3a5b5d9ea63e0a287",
+        "text": "Concepción"
+      },
+      {
+        "id": "a57abd86d7074c73a06bc73a4e67c463",
+        "text": "BI"
+      },
+      {
+        "id": "4028f0f37f914b1f85913b91ea0e37e3",
+        "text": "ETL"
+      }
+    ],
+    "selected": "Concepción"
+  },
+  {
+    "id": "_230894512_1",
+    "question": "¿Cuál es el paso en que empezamos a elaborar de forma tangible todo aquellos que de momento solo hemos plasmado en forma de ideas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b1d66966d9244f6c9f6976dbe4d39f88",
+        "text": "MVC"
+      },
+      {
+        "id": "b374b8619f66408e9cd24546c68a9150",
+        "text": "ETL"
+      },
+      {
+        "id": "3f550f2e83fa48c0a64c4a77a727ad0d",
+        "text": "PowerBI"
+      },
+      {
+        "id": "efd474c3ab5945c18c9d5ca868924c33",
+        "text": "BSC"
+      },
+      {
+        "id": "580623e0d057414b84c2effdba5872c1",
+        "text": "Construcción"
+      }
+    ],
+    "selected": "Construcción"
+  },
+  {
+    "id": "_230894514_1",
+    "question": "¿Cuál es la relación dirigida en la que los contenidos de un paquete se extienden según los contenidos de otro paquete?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2583dffd1e5e4fb4a93bc89c1f98d9f0",
+        "text": "Dependencia del paquete."
+      },
+      {
+        "id": "8089a9add06346bcb5db6a1f0fe26e98",
+        "text": "Elementos empaquetables"
+      },
+      {
+        "id": "16711994a4e845429354401e90b2f7e1",
+        "text": "Importación de paquetes"
+      },
+      {
+        "id": "0c89675b27944f328271ea481a426e99",
+        "text": "Importación del elemento"
+      },
+      {
+        "id": "69e756fbd4a34bfcbcc328ca66463ac0",
+        "text": "Fusión de paquetes"
+      }
+    ],
+    "selected": "Fusión de paquetes"
+  },
+  {
+    "id": "_230894515_1",
+    "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ed376b058d8a41cb9dc2d04c51e5710d",
+        "text": "Relación entre paquetes"
+      },
+      {
+        "id": "21567243ee694ed5bc3c199a0568779d",
+        "text": "Desplieguen de paquetes"
+      },
+      {
+        "id": "0feb4ad98f9c45e3a4da8e0d255e39ad",
+        "text": "Dependencia entre paquetes"
+      },
+      {
+        "id": "955f360e5a684bd3b77a0c98c6e0f190",
+        "text": "Modelamiento de paquetes"
+      },
+      {
+        "id": "f14cb83a10764972b5fefeb00306d175",
+        "text": "Diseño de paquetes"
+      }
+    ],
+    "selected": "Dependencia entre paquetes"
+  },
+  {
+    "id": "_230894516_1",
+    "question": "¿Cuál es un tipo de relación de dependencia entre paquetes?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f74b84ff20c24de586bf1d9aaeae534d",
+        "text": "Homogénea"
+      },
+      {
+        "id": "9e7a22c234254e569e1ef88d209ff4bc",
+        "text": "Importación"
+      },
+      {
+        "id": "46bf65bb76124f7aa595e74350495ffa",
+        "text": "Neutral"
+      },
+      {
+        "id": "953a0614ae9348208162122ee1cafee3",
+        "text": "General"
+      },
+      {
+        "id": "e01099d5bfc64b8b841627d353cef278",
+        "text": "Expandible"
+      }
+    ],
+    "selected": "Importación"
+  },
+  {
+    "id": "_230894517_1",
+    "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2f94a5a0dfe24d3f9884fc712d616e9b",
+        "text": "Requerimientos funcionales"
+      },
+      {
+        "id": "dd08a631c10a4a0fbd75b2da907b9efe",
+        "text": "Requerimientos no funcionales"
+      },
+      {
+        "id": "7dbb280fe3ce47ea8b3646f25e39fab1",
+        "text": "Diseño de la Arquitectura"
+      },
+      {
+        "id": "ff644980db3c4619a793cb6a35cc9da9",
+        "text": "View"
+      },
+      {
+        "id": "8f36694782714ecf80b6b40e84bab769",
+        "text": "DAO"
+      }
+    ],
+    "selected": "Diseño de la Arquitectura"
+  },
+  {
+    "id": "_230894519_1",
+    "question": "¿Cuál de los siguientes patrones de diseño no es un patrón de tipo creacional?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c938d54270734d53ba38213c02410eef",
+        "text": "Builder Patterns"
+      },
+      {
+        "id": "dc552a40d0934f6aa3e5a41ba411656b",
+        "text": "Abstract Factory"
+      },
+      {
+        "id": "7c57d2e87e374ea8be1e3477e7f5dd19",
+        "text": "Factory Method"
+      },
+      {
+        "id": "e9320d4f754e4c669a7a5113f40d6d9a",
+        "text": "Singleton"
+      },
+      {
+        "id": "37b88906d3b248e289224e4787aedb30",
+        "text": "Composite"
+      }
+    ],
+    "selected": "Composite"
+  }
+]

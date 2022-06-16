@@ -2,7 +2,7 @@
   {
     "id": "_230077432_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f14cb83a10764972b5fefeb00306d175",
@@ -30,7 +30,7 @@
   {
     "id": "_230077433_1",
     "question": "¿Cuál es la relación dirigida en la que los contenidos de un paquete se extienden según los contenidos de otro paquete?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "16711994a4e845429354401e90b2f7e1",
@@ -58,7 +58,7 @@
   {
     "id": "_230077434_1",
     "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "c4bebc6ba6e1487885ac297a1873c65f",
@@ -86,7 +86,7 @@
   {
     "id": "_230077435_1",
     "question": "¿Qué tipo de relación en UML especifica que dos clases u objetos están relacionados, pero siendo un elemento independiente del otro?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "e3a513897a7c472990cc5a83b557dcc2",
@@ -114,7 +114,7 @@
   {
     "id": "_230077436_1",
     "question": "¿Cuál de los siguientes diagramas pertenece al tipo de diagrama estático?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0b077634f8a140a19d6a7d61cf5711ac",
@@ -142,7 +142,7 @@
   {
     "id": "_230077437_1",
     "question": "¿Cuál no es un diagrama de la notación UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e569d0b99a7844c5ac596bbe02c281f4",
@@ -170,7 +170,7 @@
   {
     "id": "_230077438_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2f94a5a0dfe24d3f9884fc712d616e9b",
@@ -198,7 +198,7 @@
   {
     "id": "_230077439_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a9388c9b53fc4c02ba401b1f0a6c1f63",
@@ -226,7 +226,7 @@
   {
     "id": "_230077440_1",
     "question": "¿Es cualquier suceso que activa un proceso, que actualiza datos en el sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8dd15240323f4c6cbc08432533ce603a",
@@ -254,7 +254,7 @@
   {
     "id": "_230077441_1",
     "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7afdeba68e434185821ba9ac508e9419",
@@ -282,7 +282,7 @@
   {
     "id": "_230077442_1",
     "question": "¿Qué diagrama muestra el comportamiento dependiente del tiempo de un sistema de información?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "feabc041fed749cc9afeed3e38d9641d",
@@ -310,7 +310,7 @@
   {
     "id": "_230077443_1",
     "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f7b669ee8d744da0bc4b004c88a8ba04",
@@ -338,7 +338,7 @@
   {
     "id": "_230077444_1",
     "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1a8ba0103e624f4493a6691c321b785b",
@@ -366,7 +366,7 @@
   {
     "id": "_230077445_1",
     "question": "¿Que sería el modelo Nissan Sentra 2020 si la clase es llamada Autos?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2fa81a29a5934a9f9ea7670e6915bf95",
@@ -394,7 +394,7 @@
   {
     "id": "_230077446_1",
     "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "d392fddba6dd4a63b72014fb55150943",
@@ -422,7 +422,7 @@
   {
     "id": "_230077447_1",
     "question": "¿Cómo denominamos a la relación que une entre sí instancias de una misma clase?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "4ad866beacb641d8baaf95c147b42c20",
@@ -450,7 +450,7 @@
   {
     "id": "_230077448_1",
     "question": "¿Una interacción es un comportamiento?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "ea9a073ac3e549859b17a1573e217c77",
@@ -478,7 +478,7 @@
   {
     "id": "_230077449_1",
     "question": "¿Qué diagrama es similar a los diagramas de secuencia, pero el enfoque está en los mensajes que se pasan entre objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "dd952855a7a84b31adcd7ffa8ae666b1",
@@ -506,7 +506,7 @@
   {
     "id": "_230077450_1",
     "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "abf6080fe3be47488093a100c5c9ecd0",
@@ -534,7 +534,7 @@
   {
     "id": "_230077451_1",
     "question": "¿Qué es una disciplina formada por un conjunto de métodos, herramientas y técnicas que se utilizan en el desarrollo de programas informáticos, más conocidos como softwares?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2d76157f4fa542a397738cabb5bb6181",

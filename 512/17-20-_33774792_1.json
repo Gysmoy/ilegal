@@ -2,7 +2,7 @@
   {
     "id": "_230775335_1",
     "question": "¿Qué representa las dependencias entre los paquetes que componen un modelo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "980a3b87e5ab4715a43679c093c39f5e",
@@ -30,7 +30,7 @@
   {
     "id": "_230775336_1",
     "question": "¿Con que simbolo se representa una dependencia entre clases; que va desde el paquete que requiere la función hasta el paquete que ofrece esa función?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9840832c03ae423aa225f73ee6f9de5a",
@@ -58,7 +58,7 @@
   {
     "id": "_230775337_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "955f360e5a684bd3b77a0c98c6e0f190",
@@ -86,7 +86,7 @@
   {
     "id": "_230775338_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f8ad81c0eca04b62aea61de54b0be3bc",
@@ -114,7 +114,7 @@
   {
     "id": "_230775339_1",
     "question": "¿Cuál no es un diagrama de la notación UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e569d0b99a7844c5ac596bbe02c281f4",
@@ -142,7 +142,7 @@
   {
     "id": "_230775340_1",
     "question": "¿Cuál de los siguientes diagramas pertenece al tipo de diagrama estático?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b3eccaad5f5140e888b0cbb448f8a6c5",
@@ -170,7 +170,7 @@
   {
     "id": "_230775341_1",
     "question": "¿Cuál es una etapa de la ingeniería del software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4028f0f37f914b1f85913b91ea0e37e3",
@@ -198,7 +198,7 @@
   {
     "id": "_230775342_1",
     "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "0ae1da60747c4e43bdda266dfbc56b93",
@@ -226,7 +226,7 @@
   {
     "id": "_230775343_1",
     "question": "¿Una interacción es un comportamiento?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f9eb4c18adaf403db7b8e86c80d9f982",
@@ -254,7 +254,7 @@
   {
     "id": "_230775344_1",
     "question": "¿Qué diagrama Muestra cómo los objetos interactúan entre sí y el orden de la ocurrencia y representan interacciones para un escenario concreto?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0a669afd040b4680906e52b4ea0cec89",
@@ -282,7 +282,7 @@
   {
     "id": "_230775345_1",
     "question": "¿Qué se realiza en la fase de diseño del ciclo de vida del desarrollo de software?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "a7cf5c22eaf740db87f41c676905b4f9",
@@ -310,7 +310,7 @@
   {
     "id": "_230775346_1",
     "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8e8b8645fbc7493b8c9605b8d9f5ab43",
@@ -338,7 +338,7 @@
   {
     "id": "_230775347_1",
     "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d392fddba6dd4a63b72014fb55150943",
@@ -366,7 +366,7 @@
   {
     "id": "_230775348_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de Estructura?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "44d968d2593b42b88437bbe5fe5b4225",
@@ -394,7 +394,7 @@
   {
     "id": "_230775349_1",
     "question": "¿Cuál es el diagrama que representa una instancia específica de un diagrama de clases en un momento determinado en el tiempo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fb9c23341dda49a19023f278c34cff73",
@@ -422,7 +422,7 @@
   {
     "id": "_230775350_1",
     "question": "¿Es cualquier suceso que activa un proceso, que actualiza datos en el sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8dd15240323f4c6cbc08432533ce603a",
@@ -450,7 +450,7 @@
   {
     "id": "_230775351_1",
     "question": "¿Qué diagrama muestra el comportamiento dependiente del tiempo de un sistema de información?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d5772a1aec1940899337f157ebe1c580",
@@ -478,7 +478,7 @@
   {
     "id": "_230775352_1",
     "question": "Representa las relaciones e interacciones entre los distintos objetos de software. ¿A qué diagrama se refiere el enunciado?:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4b5b7ec02b6b462cb1cd20bface1dcf9",
@@ -506,7 +506,7 @@
   {
     "id": "_230775353_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "a9388c9b53fc4c02ba401b1f0a6c1f63",
@@ -534,7 +534,7 @@
   {
     "id": "_230775354_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7dbb280fe3ce47ea8b3646f25e39fab1",

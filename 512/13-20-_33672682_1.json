@@ -2,7 +2,7 @@
   {
     "id": "_229164718_1",
     "question": "¿Una interacción es un comportamiento?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e1e857acb4664ba09190819995bcf94b",
@@ -30,7 +30,7 @@
   {
     "id": "_229164719_1",
     "question": "¿Qué diagrama Muestra cómo los objetos interactúan entre sí y el orden de la ocurrencia y representan interacciones para un escenario concreto?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "836b41ad417a44e390574db9ad33c314",
@@ -58,7 +58,7 @@
   {
     "id": "_229164720_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f8ad81c0eca04b62aea61de54b0be3bc",
@@ -86,7 +86,7 @@
   {
     "id": "_229164721_1",
     "question": "¿Cuál es un objetivo de UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4a2856ba693e4affbda605596cb20fc7",
@@ -114,7 +114,7 @@
   {
     "id": "_229164722_1",
     "question": "¿Cuál no es un diagrama de la notación UML?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "5a80a97839304ffe8140646f174d7ad3",
@@ -142,7 +142,7 @@
   {
     "id": "_229164723_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "955f360e5a684bd3b77a0c98c6e0f190",
@@ -170,7 +170,7 @@
   {
     "id": "_229164724_1",
     "question": "¿Con que simbolo se representa una dependencia entre clases; que va desde el paquete que requiere la función hasta el paquete que ofrece esa función?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e9e902929b5d4ebf84a0374dd08d73f2",
@@ -198,7 +198,7 @@
   {
     "id": "_229164725_1",
     "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "c4bebc6ba6e1487885ac297a1873c65f",
@@ -226,7 +226,7 @@
   {
     "id": "_229164726_1",
     "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2b5db1b315574ee2aadc8587ea93c4f3",
@@ -254,7 +254,7 @@
   {
     "id": "_229164727_1",
     "question": "¿Un evento puede ser?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "8349e8b606b44b768c92ea1401e9b474",
@@ -282,7 +282,7 @@
   {
     "id": "_229164728_1",
     "question": "¿Qué es lo que representa algún comportamiento que es observable externamente y que perdura durante un periodo de tiempo finito?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "d56c336c1c7941089a2e97a41668e376",
@@ -310,7 +310,7 @@
   {
     "id": "_229164729_1",
     "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "fb38b4baa5874f0486161688cbe8da3e",
@@ -338,7 +338,7 @@
   {
     "id": "_229164730_1",
     "question": "¿Cuál es una fase del desarrollo de software:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c356d25dbc4a45afbfae65723b39a98e",
@@ -366,7 +366,7 @@
   {
     "id": "_229164731_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "450796740d7f4ca283a385dccf3800e6",
@@ -394,7 +394,7 @@
   {
     "id": "_229164732_1",
     "question": "¿A qué se refiere a las estructuras de un sistema, compuestas de elementos con propiedades visibles de forma externa y las relaciones que existen entre ellos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "98221fc02dcd4e5c9ad9a2302f4e5486",
@@ -422,7 +422,7 @@
   {
     "id": "_229164733_1",
     "question": "¿Que sería el modelo Nissan Sentra 2020 si la clase es llamada Autos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2e4cae2a6a6a45ec9088a0a4bdcfc2cb",
@@ -450,7 +450,7 @@
   {
     "id": "_229164734_1",
     "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "d392fddba6dd4a63b72014fb55150943",
@@ -478,7 +478,7 @@
   {
     "id": "_229164735_1",
     "question": "¿Cómo denominamos a la relación que une entre sí instancias de una misma clase?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "8fd1502fffd9418a8b1827651d31f284",
@@ -506,7 +506,7 @@
   {
     "id": "_229164736_1",
     "question": "¿Cuál es el paso en que empezamos a elaborar de forma tangible todo aquellos que de momento solo hemos plasmado en forma de ideas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "efd474c3ab5945c18c9d5ca868924c33",
@@ -534,7 +534,7 @@
   {
     "id": "_229164737_1",
     "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d95a6247b1574562b80a7fc9b2180f66",

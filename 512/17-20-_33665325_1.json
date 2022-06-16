@@ -2,7 +2,7 @@
   {
     "id": "_229046607_1",
     "question": "¿Una interacción es un comportamiento?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5cad66478bc041b6b9e6810f25f44f0a",
@@ -30,7 +30,7 @@
   {
     "id": "_229046608_1",
     "question": "¿Qué diagrama es similar a los diagramas de secuencia, pero el enfoque está en los mensajes que se pasan entre objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "930db4cc33de41868be1867b2479cb45",
@@ -58,7 +58,7 @@
   {
     "id": "_229046609_1",
     "question": "¿Qué es una disciplina formada por un conjunto de métodos, herramientas y técnicas que se utilizan en el desarrollo de programas informáticos, más conocidos como softwares?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "81145b41a0bf483fbaa70fa59f8f219c",
@@ -86,7 +86,7 @@
   {
     "id": "_229046610_1",
     "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "d95a6247b1574562b80a7fc9b2180f66",
@@ -114,7 +114,7 @@
   {
     "id": "_229046611_1",
     "question": "¿Cuál no es un diagrama de la notación UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5b302c67f712458abd7abd7624126d7a",
@@ -142,7 +142,7 @@
   {
     "id": "_229046612_1",
     "question": "¿Cuál es un objetivo de UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "140df17ec64c45818050c4d6aa0b276e",
@@ -170,7 +170,7 @@
   {
     "id": "_229046613_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "39d35bea6aba4932af38bedb549aaf8f",
@@ -198,7 +198,7 @@
   {
     "id": "_229046614_1",
     "question": "¿Cuál es el diagrama que representan las estructuras estáticas de un sistema, incluidas sus clases, atributos, operaciones y objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "df5c6ce523c54602bfe56469769e4ded",
@@ -226,7 +226,7 @@
   {
     "id": "_229046615_1",
     "question": "¿Que sería el modelo Nissan Sentra 2020 si la clase es llamada Autos?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "5469b436e0e946fd8e56f307b2e4f2ad",
@@ -254,7 +254,7 @@
   {
     "id": "_229046616_1",
     "question": "¿Cuál es el diagrama que representa una instancia específica de un diagrama de clases en un momento determinado en el tiempo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1c06860391ae4851a13e688b81ce5362",
@@ -282,7 +282,7 @@
   {
     "id": "_229046617_1",
     "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d3902d4349c24fb8a0dd39943cc905c9",
@@ -310,7 +310,7 @@
   {
     "id": "_229046618_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "21567243ee694ed5bc3c199a0568779d",
@@ -338,7 +338,7 @@
   {
     "id": "_229046619_1",
     "question": "¿Qué representa las dependencias entre los paquetes que componen un modelo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "980a3b87e5ab4715a43679c093c39f5e",
@@ -366,7 +366,7 @@
   {
     "id": "_229046620_1",
     "question": "¿Qué diagrama muestra el comportamiento dependiente del tiempo de un sistema de información?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "feabc041fed749cc9afeed3e38d9641d",
@@ -394,7 +394,7 @@
   {
     "id": "_229046621_1",
     "question": "Representa las relaciones e interacciones entre los distintos objetos de software. ¿A qué diagrama se refiere el enunciado?:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "49f964a3556d491aaca012f7ddb4ed82",
@@ -422,7 +422,7 @@
   {
     "id": "_229046622_1",
     "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2b5db1b315574ee2aadc8587ea93c4f3",
@@ -450,7 +450,7 @@
   {
     "id": "_229046623_1",
     "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "63a10c99dab34f518ffef598fd199243",
@@ -478,7 +478,7 @@
   {
     "id": "_229046624_1",
     "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "00a40736e5f245cbbdf4aba8c704f03b",
@@ -506,7 +506,7 @@
   {
     "id": "_229046625_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2f94a5a0dfe24d3f9884fc712d616e9b",
@@ -534,7 +534,7 @@
   {
     "id": "_229046626_1",
     "question": "¿A qué se refiere a las estructuras de un sistema, compuestas de elementos con propiedades visibles de forma externa y las relaciones que existen entre ellos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3dd7d3d0d32b4aeeae94bf01acb3ae1b",

@@ -2,7 +2,7 @@
   {
     "id": "_230581624_1",
     "question": "¿Una interacción es un comportamiento?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ea9a073ac3e549859b17a1573e217c77",
@@ -30,7 +30,7 @@
   {
     "id": "_230581625_1",
     "question": "¿Qué diagrama Muestra cómo los objetos interactúan entre sí y el orden de la ocurrencia y representan interacciones para un escenario concreto?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0a669afd040b4680906e52b4ea0cec89",
@@ -58,7 +58,7 @@
   {
     "id": "_230581626_1",
     "question": "¿Cuál es un tipo de relación de dependencia entre paquetes?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "953a0614ae9348208162122ee1cafee3",
@@ -86,7 +86,7 @@
   {
     "id": "_230581627_1",
     "question": "¿Qué representa las dependencias entre los paquetes que componen un modelo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e971ca04141043f5a1c2388196e90916",
@@ -114,7 +114,7 @@
   {
     "id": "_230581628_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f14cb83a10764972b5fefeb00306d175",
@@ -142,7 +142,7 @@
   {
     "id": "_230581629_1",
     "question": "¿Cómo denominamos a la relación que une entre sí instancias de una misma clase?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a3b6ed286e6743b98fb293c18881867e",
@@ -170,7 +170,7 @@
   {
     "id": "_230581630_1",
     "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a0995d957ee647d5a1519cef76ae5abe",
@@ -198,7 +198,7 @@
   {
     "id": "_230581631_1",
     "question": "¿Cuál es el diagrama que representan las estructuras estáticas de un sistema, incluidas sus clases, atributos, operaciones y objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c81b79bd3ae84210adf9924d296c709d",
@@ -226,7 +226,7 @@
   {
     "id": "_230581632_1",
     "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "00a40736e5f245cbbdf4aba8c704f03b",
@@ -254,7 +254,7 @@
   {
     "id": "_230581633_1",
     "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "63a10c99dab34f518ffef598fd199243",
@@ -282,7 +282,7 @@
   {
     "id": "_230581634_1",
     "question": "¿Cuál es el paso en que empezamos a elaborar de forma tangible todo aquellos que de momento solo hemos plasmado en forma de ideas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "efd474c3ab5945c18c9d5ca868924c33",
@@ -310,7 +310,7 @@
   {
     "id": "_230581635_1",
     "question": "¿Qué es una disciplina formada por un conjunto de métodos, herramientas y técnicas que se utilizan en el desarrollo de programas informáticos, más conocidos como softwares?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "de4a3da04a52407980fe6f3b9f205853",
@@ -338,7 +338,7 @@
   {
     "id": "_230581636_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a9388c9b53fc4c02ba401b1f0a6c1f63",
@@ -366,7 +366,7 @@
   {
     "id": "_230581637_1",
     "question": "¿Cuál de los siguientes patrones de diseño no es un patrón de tipo creacional?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7c57d2e87e374ea8be1e3477e7f5dd19",
@@ -394,7 +394,7 @@
   {
     "id": "_230581638_1",
     "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "1aa1e7e442e641b09b6cb5118f0291e1",
@@ -422,7 +422,7 @@
   {
     "id": "_230581639_1",
     "question": "¿Es cualquier suceso que activa un proceso, que actualiza datos en el sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3ffb17e9cfcc4f36bf2bc539c2ee861e",
@@ -450,7 +450,7 @@
   {
     "id": "_230581640_1",
     "question": "¿Qué es lo que representa algún comportamiento que es observable externamente y que perdura durante un periodo de tiempo finito?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d56c336c1c7941089a2e97a41668e376",
@@ -478,7 +478,7 @@
   {
     "id": "_230581641_1",
     "question": "¿Cuál es el diagrama que modela la distribución del sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8cc2c28493c647d9b0cca4990cbc59f4",
@@ -506,7 +506,7 @@
   {
     "id": "_230581642_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "39d35bea6aba4932af38bedb549aaf8f",
@@ -534,7 +534,7 @@
   {
     "id": "_230581643_1",
     "question": "¿Qué tipo de relación en UML especifica que dos clases u objetos están relacionados, pero siendo un elemento independiente del otro?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "92bff7c48e9845a1b44c337a3bde01cb",

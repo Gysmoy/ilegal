@@ -2,7 +2,7 @@
   {
     "id": "_230696810_1",
     "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0ae1da60747c4e43bdda266dfbc56b93",
@@ -30,7 +30,7 @@
   {
     "id": "_230696811_1",
     "question": "¿Cuál es una etapa de la ingeniería del software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4028f0f37f914b1f85913b91ea0e37e3",
@@ -58,7 +58,7 @@
   {
     "id": "_230696812_1",
     "question": "¿Cuál es el diagrama que representan las estructuras estáticas de un sistema, incluidas sus clases, atributos, operaciones y objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "11fc7d5e378c482ea3481b6889e2901d",
@@ -86,7 +86,7 @@
   {
     "id": "_230696813_1",
     "question": "¿Cuál es el diagrama que representa una instancia específica de un diagrama de clases en un momento determinado en el tiempo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1c06860391ae4851a13e688b81ce5362",
@@ -114,7 +114,7 @@
   {
     "id": "_230696814_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de Estructura?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "882c3f5119d14669898abbd0efa182e3",
@@ -142,7 +142,7 @@
   {
     "id": "_230696815_1",
     "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7afdeba68e434185821ba9ac508e9419",
@@ -170,7 +170,7 @@
   {
     "id": "_230696817_1",
     "question": "¿Un evento puede ser?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8349e8b606b44b768c92ea1401e9b474",
@@ -198,7 +198,7 @@
   {
     "id": "_230696819_1",
     "question": "¿Es cualquier suceso que activa un proceso, que actualiza datos en el sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "85b4f07184444e3d9481daad811ffef5",
@@ -226,7 +226,7 @@
   {
     "id": "_230696822_1",
     "question": "¿Cuál de los siguientes diagramas pertenece al tipo de diagrama estático?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0b077634f8a140a19d6a7d61cf5711ac",
@@ -254,7 +254,7 @@
   {
     "id": "_230696823_1",
     "question": "¿Cuál es un objetivo de UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3e45c0b2ebf04d95a2117b3374cda3dd",
@@ -282,7 +282,7 @@
   {
     "id": "_230696824_1",
     "question": "¿Cuál es el diagrama que modela la distribución del sistema?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "88594f4adc874e4ea55a40bbc4931f4c",
@@ -310,7 +310,7 @@
   {
     "id": "_230696825_1",
     "question": "¿Cuál es una fase del desarrollo de software:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2d6daf84a8f04767a2eaa87be7c1e12e",
@@ -338,7 +338,7 @@
   {
     "id": "_230696826_1",
     "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c457d3d0652d41aaa396c0447ec73e76",
@@ -366,7 +366,7 @@
   {
     "id": "_230696830_1",
     "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c4bebc6ba6e1487885ac297a1873c65f",
@@ -394,7 +394,7 @@
   {
     "id": "_230696832_1",
     "question": "¿Qué representa las dependencias entre los paquetes que componen un modelo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "980a3b87e5ab4715a43679c093c39f5e",
@@ -422,7 +422,7 @@
   {
     "id": "_230696834_1",
     "question": "¿Cuál es un tipo de relación de dependencia entre paquetes?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9e7a22c234254e569e1ef88d209ff4bc",
@@ -450,7 +450,7 @@
   {
     "id": "_230696835_1",
     "question": "¿Qué diagrama es similar a los diagramas de secuencia, pero el enfoque está en los mensajes que se pasan entre objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "43cf142c18434b7b874e754a1bb32b14",
@@ -478,7 +478,7 @@
   {
     "id": "_230696836_1",
     "question": "¿Qué diagrama Muestra cómo los objetos interactúan entre sí y el orden de la ocurrencia y representan interacciones para un escenario concreto?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4c495cdaba474448b032f37d579a8874",
@@ -506,7 +506,7 @@
   {
     "id": "_230696837_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "dd08a631c10a4a0fbd75b2da907b9efe",
@@ -534,7 +534,7 @@
   {
     "id": "_230696838_1",
     "question": "¿A qué se refiere a las estructuras de un sistema, compuestas de elementos con propiedades visibles de forma externa y las relaciones que existen entre ellos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ad7ec32fce3a419db995177400920a3f",

@@ -2,7 +2,7 @@
   {
     "id": "_230549491_1",
     "question": "¿Una interacción es un comportamiento?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ea9a073ac3e549859b17a1573e217c77",
@@ -30,7 +30,7 @@
   {
     "id": "_230549492_1",
     "question": "¿A qué se refiere P.Hall como un proceso que recorre hacia atrás el ciclo de desarrollo de software, donde a partir del código fuente se llaga a la fase de análisis?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "cb3d7454a1d14c29a558ab68e0ee7a6e",
@@ -58,7 +58,7 @@
   {
     "id": "_230549493_1",
     "question": "¿Un evento puede ser?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b913b1756c834af58c285d51e1b88138",
@@ -86,7 +86,7 @@
   {
     "id": "_230549494_1",
     "question": "¿Qué es lo que representa algún comportamiento que es observable externamente y que perdura durante un periodo de tiempo finito?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e7abbc20dff54bf4a9030d3027e11935",
@@ -114,7 +114,7 @@
   {
     "id": "_230549495_1",
     "question": "¿Qué diagrama muestra el comportamiento dependiente del tiempo de un sistema de información?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e3156478d4264d0abea211e2308867c8",
@@ -142,7 +142,7 @@
   {
     "id": "_230549496_1",
     "question": "¿Cuál de los siguientes diagramas pertenece al tipo de diagrama estático?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "792922502eaf4622a17426260b68a602",
@@ -170,7 +170,7 @@
   {
     "id": "_230549497_1",
     "question": "¿Cuál es un objetivo de UML?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "78c784a92047474bbb152dd02050c9ba",
@@ -198,7 +198,7 @@
   {
     "id": "_230549498_1",
     "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8cebee68569c46728fe91391fb297d38",
@@ -226,7 +226,7 @@
   {
     "id": "_230549499_1",
     "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "21567243ee694ed5bc3c199a0568779d",
@@ -254,7 +254,7 @@
   {
     "id": "_230549500_1",
     "question": "¿Cuál es la relación dirigida en la que los contenidos de un paquete se extienden según los contenidos de otro paquete?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2583dffd1e5e4fb4a93bc89c1f98d9f0",
@@ -282,7 +282,7 @@
   {
     "id": "_230549501_1",
     "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "5d1db9568a2d475aa7323c448b39670b",
@@ -310,7 +310,7 @@
   {
     "id": "_230549503_1",
     "question": "¿Cuál es el paso en que empezamos a elaborar de forma tangible todo aquellos que de momento solo hemos plasmado en forma de ideas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3f550f2e83fa48c0a64c4a77a727ad0d",
@@ -338,7 +338,7 @@
   {
     "id": "_230549504_1",
     "question": "¿Qué es una disciplina formada por un conjunto de métodos, herramientas y técnicas que se utilizan en el desarrollo de programas informáticos, más conocidos como softwares?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2706774ecb124b19a11140f07f6758c9",
@@ -366,7 +366,7 @@
   {
     "id": "_230549506_1",
     "question": "¿Qué se realiza en la fase de diseño del ciclo de vida del desarrollo de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a7cf5c22eaf740db87f41c676905b4f9",
@@ -394,7 +394,7 @@
   {
     "id": "_230549508_1",
     "question": "¿El ciclo de vida típico en una metodología de diseño orientado a objetos es?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f7b669ee8d744da0bc4b004c88a8ba04",
@@ -422,7 +422,7 @@
   {
     "id": "_230549509_1",
     "question": "¿Que sería el modelo Nissan Sentra 2020 si la clase es llamada Autos?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2e4cae2a6a6a45ec9088a0a4bdcfc2cb",
@@ -450,7 +450,7 @@
   {
     "id": "_230549510_1",
     "question": "¿Cuál es el diagrama que representan las estructuras estáticas de un sistema, incluidas sus clases, atributos, operaciones y objetos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "11fc7d5e378c482ea3481b6889e2901d",
@@ -478,7 +478,7 @@
   {
     "id": "_230549511_1",
     "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "d392fddba6dd4a63b72014fb55150943",
@@ -506,7 +506,7 @@
   {
     "id": "_230549512_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "450796740d7f4ca283a385dccf3800e6",
@@ -534,7 +534,7 @@
   {
     "id": "_230549513_1",
     "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7dbb280fe3ce47ea8b3646f25e39fab1",
