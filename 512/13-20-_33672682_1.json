@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_229164718_1",
+    "question": "¿Una interacción es un comportamiento?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "e1e857acb4664ba09190819995bcf94b",
+        "text": "Que intercambian entre sí un conjunto de objetos"
+      },
+      {
+        "id": "7df83ecf6a3b4398930324d1ef1703ac",
+        "text": "Proceso"
+      },
+      {
+        "id": "5cad66478bc041b6b9e6810f25f44f0a",
+        "text": "Salida"
+      },
+      {
+        "id": "ea9a073ac3e549859b17a1573e217c77",
+        "text": "Reingeniería"
+      },
+      {
+        "id": "f9eb4c18adaf403db7b8e86c80d9f982",
+        "text": "Entrada"
+      }
+    ],
+    "selected": "Que intercambian entre sí un conjunto de objetos"
+  },
+  {
+    "id": "_229164719_1",
+    "question": "¿Qué diagrama Muestra cómo los objetos interactúan entre sí y el orden de la ocurrencia y representan interacciones para un escenario concreto?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "836b41ad417a44e390574db9ad33c314",
+        "text": "Diagrama de objetos"
+      },
+      {
+        "id": "4c495cdaba474448b032f37d579a8874",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "0a669afd040b4680906e52b4ea0cec89",
+        "text": "Diagrama de clases"
+      },
+      {
+        "id": "5fdd2297c57c4b22a62f65c6ddf77032",
+        "text": "Diagrama de componentes"
+      },
+      {
+        "id": "a1f3b9c777f441b3b1898d7a12f09883",
+        "text": "Diagrama de Despliegue"
+      }
+    ],
+    "selected": "Diagrama de secuencia"
+  },
+  {
+    "id": "_229164720_1",
+    "question": "¿Cuál de los siguientes diagramas no pertenece a los diagramas de estructura?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f8ad81c0eca04b62aea61de54b0be3bc",
+        "text": "Diagrama de componentes"
+      },
+      {
+        "id": "dab65c8058c948e98cb21afd50b1c6e0",
+        "text": "Diagrama de flujo de datos"
+      },
+      {
+        "id": "8cebee68569c46728fe91391fb297d38",
+        "text": "Diagrama de paquetes"
+      },
+      {
+        "id": "39d35bea6aba4932af38bedb549aaf8f",
+        "text": "Diagrama de actividades"
+      },
+      {
+        "id": "366581da0a43409ba5eaee88d7fa52d2",
+        "text": "Diagrama de despliegue"
+      }
+    ],
+    "selected": "Diagrama de actividades"
+  },
+  {
+    "id": "_229164721_1",
+    "question": "¿Cuál es un objetivo de UML?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4a2856ba693e4affbda605596cb20fc7",
+        "text": "Planeamiento TI"
+      },
+      {
+        "id": "da29794325a54032b13119bd8f8b303f",
+        "text": "Proporcionar una notación y semánticas suficientes para poder alcanzar una gran cantidad de aspectos del modelado contemporáneo de una forma directa y económica."
+      },
+      {
+        "id": "3e45c0b2ebf04d95a2117b3374cda3dd",
+        "text": "Inteligencia de Negocios"
+      },
+      {
+        "id": "78c784a92047474bbb152dd02050c9ba",
+        "text": "BI"
+      },
+      {
+        "id": "140df17ec64c45818050c4d6aa0b276e",
+        "text": "POI"
+      }
+    ],
+    "selected": "Proporcionar una notación y semánticas suficientes para poder alcanzar una gran cantidad de aspectos del modelado contemporáneo de una forma directa y económica."
+  },
+  {
+    "id": "_229164722_1",
+    "question": "¿Cuál no es un diagrama de la notación UML?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "5a80a97839304ffe8140646f174d7ad3",
+        "text": "Diagrama de secuencia"
+      },
+      {
+        "id": "841245ade24247f7a1275c365d78f04f",
+        "text": "Diagrama Entidad Relacion"
+      },
+      {
+        "id": "e569d0b99a7844c5ac596bbe02c281f4",
+        "text": "Diagrama de estados"
+      },
+      {
+        "id": "5b302c67f712458abd7abd7624126d7a",
+        "text": "Diagrama de Clases"
+      },
+      {
+        "id": "91c3518c424d40af8654168828ab3e28",
+        "text": "Diagrama de Actividades"
+      }
+    ],
+    "selected": "Diagrama de secuencia"
+  },
+  {
+    "id": "_229164723_1",
+    "question": "¿Qué representan que un paquete necesita de los elementos de otro paquete para poder funcionar con normalidad?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "955f360e5a684bd3b77a0c98c6e0f190",
+        "text": "Modelamiento de paquetes"
+      },
+      {
+        "id": "0feb4ad98f9c45e3a4da8e0d255e39ad",
+        "text": "Dependencia entre paquetes"
+      },
+      {
+        "id": "ed376b058d8a41cb9dc2d04c51e5710d",
+        "text": "Relación entre paquetes"
+      },
+      {
+        "id": "21567243ee694ed5bc3c199a0568779d",
+        "text": "Desplieguen de paquetes"
+      },
+      {
+        "id": "f14cb83a10764972b5fefeb00306d175",
+        "text": "Diseño de paquetes"
+      }
+    ],
+    "selected": "Dependencia entre paquetes"
+  },
+  {
+    "id": "_229164724_1",
+    "question": "¿Con que simbolo se representa una dependencia entre clases; que va desde el paquete que requiere la función hasta el paquete que ofrece esa función?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "e9e902929b5d4ebf84a0374dd08d73f2",
+        "text": "Una caja rectangular"
+      },
+      {
+        "id": "9840832c03ae423aa225f73ee6f9de5a",
+        "text": "Una flecha discontinua"
+      },
+      {
+        "id": "74b7446f37ec4d87bfdad9a85878939a",
+        "text": "Una flecha solida"
+      },
+      {
+        "id": "309ae79f60f047478a1c15fa5ea57bea",
+        "text": "Una línea discontinua"
+      },
+      {
+        "id": "fbde6d2432114b319a6973db818b773e",
+        "text": "Una línea solida"
+      }
+    ],
+    "selected": "Una flecha discontinua"
+  },
+  {
+    "id": "_229164725_1",
+    "question": "¿Qué es un conjunto de elementos, en concreto puede ser un conjunto de clases, casos de uso, componentes, etc.?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c4bebc6ba6e1487885ac297a1873c65f",
+        "text": "Objeto"
+      },
+      {
+        "id": "5d1db9568a2d475aa7323c448b39670b",
+        "text": "Relacion"
+      },
+      {
+        "id": "03d797db279b42e6948aa301a58a7340",
+        "text": "Diagrama"
+      },
+      {
+        "id": "d3902d4349c24fb8a0dd39943cc905c9",
+        "text": "Clase"
+      },
+      {
+        "id": "629283cca3ec4d48962101ddc6d0af5b",
+        "text": "Paquete"
+      }
+    ],
+    "selected": "Diagrama"
+  },
+  {
+    "id": "_229164726_1",
+    "question": "¿A qué tipo pertenece el diagrama de despliegue, según UML?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2b5db1b315574ee2aadc8587ea93c4f3",
+        "text": "Estructura"
+      },
+      {
+        "id": "7afdeba68e434185821ba9ac508e9419",
+        "text": "Interacción"
+      },
+      {
+        "id": "1aa1e7e442e641b09b6cb5118f0291e1",
+        "text": "Estado"
+      },
+      {
+        "id": "fcfe3e2935ed48cab484b73b99400ef3",
+        "text": "Comportamiento"
+      },
+      {
+        "id": "dca9e68bfefc473d8deb5bd1f7084fb1",
+        "text": "Arquitectura"
+      }
+    ],
+    "selected": "Arquitectura"
+  },
+  {
+    "id": "_229164727_1",
+    "question": "¿Un evento puede ser?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8349e8b606b44b768c92ea1401e9b474",
+        "text": "Gestionar los DCU"
+      },
+      {
+        "id": "afbc2b8bed824db8aa995fd42b23d6de",
+        "text": "Plan estratégico"
+      },
+      {
+        "id": "b913b1756c834af58c285d51e1b88138",
+        "text": "Síncrono"
+      },
+      {
+        "id": "d51d60e61fa84dd49e813f619eebc3d8",
+        "text": "Mensaje de texto"
+      },
+      {
+        "id": "2587394211544588ac72177ae6a212a4",
+        "text": "Método de proyectos"
+      }
+    ],
+    "selected": "Mensaje de texto"
+  },
+  {
+    "id": "_229164728_1",
+    "question": "¿Qué es lo que representa algún comportamiento que es observable externamente y que perdura durante un periodo de tiempo finito?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d56c336c1c7941089a2e97a41668e376",
+        "text": "Relación"
+      },
+      {
+        "id": "4f8188b1f5684caaa56e394a77ca969c",
+        "text": "Transición"
+      },
+      {
+        "id": "f2b581b0b724460380e2c547f99626be",
+        "text": "Comportamiento"
+      },
+      {
+        "id": "7423c4fece96490288c6d447d684e18f",
+        "text": "Objeto"
+      },
+      {
+        "id": "e7abbc20dff54bf4a9030d3027e11935",
+        "text": "Estado"
+      }
+    ],
+    "selected": "Comportamiento"
+  },
+  {
+    "id": "_229164729_1",
+    "question": "¿Qué fase durante el ciclo de desarrollo se reconocen objetos claves del negocio y generan las abstracciones en las clases apropiadas (objetos entidad)?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "fb38b4baa5874f0486161688cbe8da3e",
+        "text": "Análisis Inicial de requerimientos"
+      },
+      {
+        "id": "cb7855ec156246b39be61ffa7b440cfd",
+        "text": "Diseño lógico"
+      },
+      {
+        "id": "00a40736e5f245cbbdf4aba8c704f03b",
+        "text": "Análisis de Requerimientos"
+      },
+      {
+        "id": "1a8ba0103e624f4493a6691c321b785b",
+        "text": "Análisis del negocio"
+      },
+      {
+        "id": "c457d3d0652d41aaa396c0447ec73e76",
+        "text": "Diseño Físico"
+      }
+    ],
+    "selected": "Análisis del negocio"
+  },
+  {
+    "id": "_229164730_1",
+    "question": "¿Cuál es una fase del desarrollo de software:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c356d25dbc4a45afbfae65723b39a98e",
+        "text": "Planificación"
+      },
+      {
+        "id": "361461adab754225958e289b4897e686",
+        "text": "BI"
+      },
+      {
+        "id": "afe4380733654521b207edc3b9157812",
+        "text": "DFD"
+      },
+      {
+        "id": "2d6daf84a8f04767a2eaa87be7c1e12e",
+        "text": "BSC"
+      },
+      {
+        "id": "65118ce5341b45b1903e19bc3a3455cf",
+        "text": "Componente"
+      }
+    ],
+    "selected": "Planificación"
+  },
+  {
+    "id": "_229164731_1",
+    "question": "¿Cuál es una etapa del proceso de modelado de Arquitectura de software?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "450796740d7f4ca283a385dccf3800e6",
+        "text": "Definir los requerimientos."
+      },
+      {
+        "id": "a9388c9b53fc4c02ba401b1f0a6c1f63",
+        "text": "Diagrama de flujo de datos"
+      },
+      {
+        "id": "b975736a3b85494090153fe48e0e56ec",
+        "text": "Árbol de soluciones"
+      },
+      {
+        "id": "cfde11c57ebb44698b87f67a3f22ce23",
+        "text": "Árbol de problemas"
+      },
+      {
+        "id": "c262e04d483149c399a6210b66e658dc",
+        "text": "Diagrama de casos de uso"
+      }
+    ],
+    "selected": "Definir los requerimientos."
+  },
+  {
+    "id": "_229164732_1",
+    "question": "¿A qué se refiere a las estructuras de un sistema, compuestas de elementos con propiedades visibles de forma externa y las relaciones que existen entre ellos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "98221fc02dcd4e5c9ad9a2302f4e5486",
+        "text": "Implementación del software"
+      },
+      {
+        "id": "ad7ec32fce3a419db995177400920a3f",
+        "text": "Prototipado del software"
+      },
+      {
+        "id": "e2fd13d8aeb44224a6f43f2dc9ca2935",
+        "text": "Realización del software"
+      },
+      {
+        "id": "7ae6edcd79d941aca6082be249be09a5",
+        "text": "Despliegue del software"
+      },
+      {
+        "id": "3dd7d3d0d32b4aeeae94bf01acb3ae1b",
+        "text": "Arquitectura de software"
+      }
+    ],
+    "selected": "Arquitectura de software"
+  },
+  {
+    "id": "_229164733_1",
+    "question": "¿Que sería el modelo Nissan Sentra 2020 si la clase es llamada Autos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2e4cae2a6a6a45ec9088a0a4bdcfc2cb",
+        "text": "Clase"
+      },
+      {
+        "id": "2fa81a29a5934a9f9ea7670e6915bf95",
+        "text": "Relación"
+      },
+      {
+        "id": "4bd6d560b1984cde90451fc8bdd5e320",
+        "text": "Atributo"
+      },
+      {
+        "id": "5469b436e0e946fd8e56f307b2e4f2ad",
+        "text": "Interface"
+      },
+      {
+        "id": "03b8408c57444833b0baf184c6f12a54",
+        "text": "Objeto"
+      }
+    ],
+    "selected": "Objeto"
+  },
+  {
+    "id": "_229164734_1",
+    "question": "¿Qué tipo de relación tienen los paquetes de control, datos y ventanas?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d392fddba6dd4a63b72014fb55150943",
+        "text": "Composición"
+      },
+      {
+        "id": "6cbd801f05e049ab9e8936306a654ab4",
+        "text": "Uso/independencia"
+      },
+      {
+        "id": "4ed7dea1169b445b95d4d68c865a71d6",
+        "text": "Directa"
+      },
+      {
+        "id": "7b0444e37aba40d8b9dd30c19ddb9aed",
+        "text": "Uso/dependencia"
+      },
+      {
+        "id": "a0995d957ee647d5a1519cef76ae5abe",
+        "text": "Agregación"
+      }
+    ],
+    "selected": "Uso/independencia"
+  },
+  {
+    "id": "_229164735_1",
+    "question": "¿Cómo denominamos a la relación que une entre sí instancias de una misma clase?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8fd1502fffd9418a8b1827651d31f284",
+        "text": "Asociación reflexiva"
+      },
+      {
+        "id": "4ad866beacb641d8baaf95c147b42c20",
+        "text": "Clase asociación"
+      },
+      {
+        "id": "5b45a34a1f7f4866a5afa2aa97e22e7d",
+        "text": "Relación por referencia"
+      },
+      {
+        "id": "d441a1c3a7714ac2a69e2763f4b9a933",
+        "text": "Relación por valor"
+      },
+      {
+        "id": "a3b6ed286e6743b98fb293c18881867e",
+        "text": "Instancias recursivas"
+      }
+    ],
+    "selected": "Instancias recursivas"
+  },
+  {
+    "id": "_229164736_1",
+    "question": "¿Cuál es el paso en que empezamos a elaborar de forma tangible todo aquellos que de momento solo hemos plasmado en forma de ideas?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "efd474c3ab5945c18c9d5ca868924c33",
+        "text": "BSC"
+      },
+      {
+        "id": "3f550f2e83fa48c0a64c4a77a727ad0d",
+        "text": "PowerBI"
+      },
+      {
+        "id": "580623e0d057414b84c2effdba5872c1",
+        "text": "Construcción"
+      },
+      {
+        "id": "b374b8619f66408e9cd24546c68a9150",
+        "text": "ETL"
+      },
+      {
+        "id": "b1d66966d9244f6c9f6976dbe4d39f88",
+        "text": "MVC"
+      }
+    ],
+    "selected": "Construcción"
+  },
+  {
+    "id": "_229164737_1",
+    "question": "¿Cuál es la siguiente fase una vez cumplida la concepción, elaboración, concepción y transición?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d95a6247b1574562b80a7fc9b2180f66",
+        "text": "SQL"
+      },
+      {
+        "id": "0ae1da60747c4e43bdda266dfbc56b93",
+        "text": "Estandarización"
+      },
+      {
+        "id": "3b18d08993b3442bab474c81878900ec",
+        "text": "Identificación de requerimientos"
+      },
+      {
+        "id": "abf6080fe3be47488093a100c5c9ecd0",
+        "text": "Exploración"
+      },
+      {
+        "id": "6d97a2bcd44e4cd9be4296e8984f5821",
+        "text": "Mantenimiento"
+      }
+    ],
+    "selected": "Mantenimiento"
+  }
+]
