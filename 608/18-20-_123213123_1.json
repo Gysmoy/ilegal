@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_246064994_1",
+    "question": "Cual no es una característica de Watson Assistant",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7c07111b4f2b44ec9b6689cf921ca70d",
+        "text": "Permite crear, ejecutar y gestionar modelos de IA"
+      },
+      {
+        "id": "d5be07a22b5e4c77a78803fe48c400c2",
+        "text": "Permite a los analistas revisar manualmente la información obtenida"
+      },
+      {
+        "id": "4d399e0076574fb187c5f89e315afbe1",
+        "text": "Permite interactuar con clientes vía telefónica"
+      },
+      {
+        "id": "2cd464acc0a646729dc0ad5b32cd27ed",
+        "text": "Permite interactuar con clientes vía Chatbots"
+      },
+      {
+        "id": "0d534fcd44ee4d9b89f508587ba465f5",
+        "text": "Permite el almacenamiento de datos procesados"
+      }
+    ],
+    "selected": "Se basa en modelos de deep learning"
+  },
+  {
+    "id": "_246064995_1",
+    "question": "¿Qué es una de las ventajas asociadas al uso de Watson Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a519837a620e433d86ed773229747efc",
+        "text": "Diagrama de clases"
+      },
+      {
+        "id": "6b1458f6746d4f89baa2824678f77b10",
+        "text": "Diagrama de casos de uso"
+      },
+      {
+        "id": "4ba69425a8c34a138c499cced684ff94",
+        "text": "API"
+      },
+      {
+        "id": "394a21ce9d144137980b888f539ae0c2",
+        "text": "Diagrama de procesos"
+      },
+      {
+        "id": "1214ef6d35af44ff93547b3aa0ef7499",
+        "text": "UML"
+      }
+    ],
+    "selected": "Aumenta la productividad de sus científicos de datos, analistas, desarrolladores y expertos en la materia."
+  },
+  {
+    "id": "_246064996_1",
+    "question": "¿Qué tecnología utiliza Watson Assistant con el fin de buscar más datos en el caso de no encontrar la mejor respuesta?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "27f38f4ba8a549c5a297c5cd360d0ae5",
+        "text": "Desarrollador"
+      },
+      {
+        "id": "ad05390b503a489ebb86ff7fd5f9588c",
+        "text": "Análisis"
+      },
+      {
+        "id": "b4074bc7e29d42e0a9e038210d254f7c",
+        "text": "Editor"
+      },
+      {
+        "id": "1071838fc73141098395d078652efdac",
+        "text": "Programador"
+      },
+      {
+        "id": "688850094bde41519bc7a059b67e6366",
+        "text": "Visor"
+      }
+    ],
+    "selected": "Machine Learning"
+  },
+  {
+    "id": "_246064997_1",
+    "question": "¿Qué aplicaciones involucra el uso de Watson Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "47a8d9849fe34e94b40299c4c380ebd6",
+        "text": "Acceder a datos desde conexiones a tu nube o fuentes de datos"
+      },
+      {
+        "id": "962ebd1f87544ead97f0e18b891a0cce",
+        "text": "Crear otras aplicaciones menos las tareas de ciencia de datos"
+      },
+      {
+        "id": "9742996f6bb340f0b878050c903323c5",
+        "text": "Crear proyectos para organizar los recursos"
+      },
+      {
+        "id": "12dd83f23986403894e256558e4f8397",
+        "text": "Cargar archivos al almacenamiento de objetos del proyecto"
+      },
+      {
+        "id": "143dbdcbefec4435bd2f8c081a14ed3b",
+        "text": "Crear y mantener catálogos de datos"
+      }
+    ],
+    "selected": "Simplificar la ciencia de datos empresariales y la inteligencia artificial."
+  },
+  {
+    "id": "_246064998_1",
+    "question": "¿Cuál no es una de las ventajas del asistente Watson Assistant?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c8955a703c1b41fca2c36dad3cdbc156",
+        "text": "El constructor de experimentos"
+      },
+      {
+        "id": "05be900f8b2446eda8a3895cd4597c6c",
+        "text": "AutoAI"
+      },
+      {
+        "id": "3de533cd7c004d7fb9a75ab3a8609106",
+        "text": "Modelos incorporados"
+      },
+      {
+        "id": "e4864e9a03614c178122235a226b49c0",
+        "text": "Modelo Lineal."
+      },
+      {
+        "id": "c76d8644229a426d83a89c8c9f368976",
+        "text": "La interfaz de línea de comandos de aprendizaje automático"
+      }
+    ],
+    "selected": "Optimiza el proceso de digitalizacion"
+  },
+  {
+    "id": "_246064999_1",
+    "question": "¿Cuál no es una característica de Azure Machine Learning?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "243d996956454aa6bb98e358c0587683",
+        "text": "Lucidchart"
+      },
+      {
+        "id": "45c36321f0424ad1b6c48031c9ffd186",
+        "text": "IBM Cloud SQL Query."
+      },
+      {
+        "id": "23b7d16f423d4adcb584007f7d6f9364",
+        "text": "SQL server"
+      },
+      {
+        "id": "a5fa78f7a0d24709b440d84ee46cb4ef",
+        "text": "Programiz"
+      },
+      {
+        "id": "5dfde13f32e74bb69408c1c990ed0637",
+        "text": "OneDrive"
+      }
+    ],
+    "selected": "Aprendizaje automático basados en servidores Microsoft del datacenter local"
+  },
+  {
+    "id": "_246065000_1",
+    "question": "Indicar una característica de Azure Machine Learning",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8ceee2a5a1ef4ce2a0baa821960fdc2d",
+        "text": "Generar nuevas fuentes de ingresos"
+      },
+      {
+        "id": "4467b8cbd6034f169c30a9ffc2acf2d3",
+        "text": "Mejorar la experiencia del cliente"
+      },
+      {
+        "id": "f62397b0ff58450fafc22737140789cc",
+        "text": "Productividad de los empleados"
+      },
+      {
+        "id": "a1b16595715b422b9e229ce8d2b63863",
+        "text": "Reducir costos operativos"
+      },
+      {
+        "id": "b84ed312f5bf4221952485f7ddc7da69",
+        "text": "Atención al cliente"
+      }
+    ],
+    "selected": "Acelera y administrar el ciclo de vida de los proyectos de aprendizaje automático"
+  },
+  {
+    "id": "_246065001_1",
+    "question": "Cuál tipo de aprendizaje de ML se produce cuando una maquina aprende por medio de prueba y error hasta alcanzar la mejor manera de completar una tarea?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "eb5f6649a9844c8d8f18f051a5814eb8",
+        "text": "El desarrollo de análisis de datos"
+      },
+      {
+        "id": "f72108ed8ec04e7e9d96353e7533593e",
+        "text": "El desarrollo programas y funciones"
+      },
+      {
+        "id": "6d47f6a6718c41d9a607b90e4683d67b",
+        "text": "El diseño de eventos y clases"
+      },
+      {
+        "id": "a7d18610d1484f21a7689d54a06a0b96",
+        "text": "Simplificar la ciencia de datos empresariales y la inteligencia artificial."
+      },
+      {
+        "id": "74939b61fc8e4e2599b4acbce44869fd",
+        "text": "Mejorar el desarrollo de Arrays y tuplas;"
+      }
+    ],
+    "selected": "Por refuerzo"
+  },
+  {
+    "id": "_246065002_1",
+    "question": "¿Cuál es el factor relacionado con el hablante es uno de los principales factores que influyen en los sistemas de reconocimiento de voz actuales?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "dcc63e7bd19e4905bde79a27bcb73c7b",
+        "text": "Cloud Computing"
+      },
+      {
+        "id": "faa51baff7b741e1b5c2ca0723952733",
+        "text": "Herramientas CASE"
+      },
+      {
+        "id": "1be64f323fbf4294a7e8129eadc54255",
+        "text": "IA"
+      },
+      {
+        "id": "41f398c0fdcc413fa5ed0b31f14008b8",
+        "text": "WATSON Studio"
+      },
+      {
+        "id": "2b5306ff1c1c44bba3d530ca3f209be0",
+        "text": "Prototipos"
+      }
+    ],
+    "selected": "La variabilidad"
+  },
+  {
+    "id": "_246065003_1",
+    "question": "¿Cuál es un tipo de Aprendizaje Machine Learning?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9deaa65c419f4b08905a3c61ffa1d7cf",
+        "text": "Optimiza el proceso de digitalizacion"
+      },
+      {
+        "id": "5bae86b09971449893392f58384dcd45",
+        "text": "Mejorar la experiencia del cliente"
+      },
+      {
+        "id": "eae9a363faf846d6a90202aa6ddb22de",
+        "text": "Reducir costes operativos"
+      },
+      {
+        "id": "a86d4af510334e229f94d584b8b7a32d",
+        "text": "Reduce los costos de Call Center"
+      },
+      {
+        "id": "91ff062cdd6d4ec584190b6ea7aea69d",
+        "text": "Generar nuevas fuentes de ingresos"
+      }
+    ],
+    "selected": "Supervisado"
+  },
+  {
+    "id": "_246065004_1",
+    "question": "¿Qué es correcto afirmar sobre AutoIA?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "273610ea2b86402db2a35f8f0450d3e0",
+        "text": "Realiza actividades de análisis de sistemas"
+      },
+      {
+        "id": "c242b46ddeaa4f2888b9cc6dd9fb9d6d",
+        "text": "Crea aplicaciones CASE."
+      },
+      {
+        "id": "9a5db66cc62d49b1aa46fcd27f9a0bc5",
+        "text": "Desarrolla UML"
+      },
+      {
+        "id": "9d9422098fce41d59d297e601805bcee",
+        "text": "Realiza procesos de diseño de software"
+      },
+      {
+        "id": "46396840c19a4ca5b92c092c8b0649fc",
+        "text": "Permite a los desarrolladores y las empresas crear Bots inteligentes que puedan interactuar con los usuarios"
+      }
+    ],
+    "selected": "Herramienta de Watson Machine Learning, que analiza automáticamente sus datos y genera tuberías de modelos candidatos"
+  },
+  {
+    "id": "_246065005_1",
+    "question": "¿Cuál es el nivel de acceso para el Control de activos del proyecto, está asignado al colaborador del tipo?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "39142a8e4ef84acf990bfd805c49f22b",
+        "text": "ChatBoot Simple"
+      },
+      {
+        "id": "15008bf1b4844ca58f3fdb363f45de0b",
+        "text": "ChatBoot compuesto"
+      },
+      {
+        "id": "8249575c7bb14e1c8c4489ab92978e55",
+        "text": "ChatBoot Funcional"
+      },
+      {
+        "id": "17b51af811eb437b9b4a1c50a7ee3772",
+        "text": "ChatBoot hibrido"
+      },
+      {
+        "id": "64b188c8513b4bd69ad70caee17a49d0",
+        "text": "ChatBoot convencional"
+      }
+    ],
+    "selected": "Análisis"
+  },
+  {
+    "id": "_246065006_1",
+    "question": "¿Qué es la AutoML de IBM?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "6c41087987a24f608d617dce12909fba",
+        "text": "Es el nombre de un programa que se puede instalar on premise"
+      },
+      {
+        "id": "c686daf0d9ba4df9beb305eba4cb418d",
+        "text": "Es un servicio en la nube que nos provee de todo lo necesario para que nuestra aplicación comprenda el lenguaje natural"
+      },
+      {
+        "id": "cc256dcb640740379831cad28f33f0b9",
+        "text": "Es un PaaS el cual brinda el entendimiento de inteligencia de negocios basado en lenguaje"
+      },
+      {
+        "id": "e0aaa9521d1349dea0968676852c80be",
+        "text": "Es un lenguaje de programación basado en Amazon Web Services"
+      },
+      {
+        "id": "54dedce0e7d6498a93735990bd3c7dbd",
+        "text": "En un sistema de recolección y análisis de información en la nube"
+      }
+    ],
+    "selected": "Proceso de automatizar las tareas manuales a medida que se crea y entrena modelos de machine learning"
+  },
+  {
+    "id": "_246065007_1",
+    "question": "¿En qué tecnologías no está basado Watson Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2e5f688207cd43f5b9679eeb4ead6684",
+        "text": "Bot de Inteligencia Artificial"
+      },
+      {
+        "id": "e2621ae56af04a6db4a056ce2a58c3fc",
+        "text": "Diseño de sistemas"
+      },
+      {
+        "id": "29be2f7a47b64a8e85fd1fd23e8a56ce",
+        "text": "Prototipos"
+      },
+      {
+        "id": "ce126265ca8246b490bda33c9e2755a5",
+        "text": "UML"
+      },
+      {
+        "id": "214bb54f6b91485c8507e7bfa9c3f377",
+        "text": "POO"
+      }
+    ],
+    "selected": "Visual Studio"
+  },
+  {
+    "id": "_246065008_1",
+    "question": "¿Cuál es el componente clave de IBM Watson Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9657184f6bcb41c7a8f338215c38ad16",
+        "text": "Es el estudio de un robot y su inteligencia Artificial"
+      },
+      {
+        "id": "413062623baa4e46966977de9db5a301",
+        "text": "Es Una herramienta de chat oficial en el Facebook"
+      },
+      {
+        "id": "8b13a1892ed9422c970f11eddbcc4135",
+        "text": "Es la herramienta que permite a los desarrolladores y las empresas sistemas inteligentes que puedan interactuar con los usuarios.”"
+      },
+      {
+        "id": "f3a3cb8fa3a347b8bdc72c964e953351",
+        "text": "Es un software creado sobre inteligencia artificial que es capaz de realizar diferentes tareas por su cuenta, sin la necesidad de intervención humana"
+      },
+      {
+        "id": "c58706e7e23a4b3da3cd7153ab59b9fe",
+        "text": "Es el estudio de agentes inteligentes, donde es un sistema que percibe su entorno y lleva a cabo acciones que minimizan sus posibilidades de éxito"
+      }
+    ],
+    "selected": "Machine Learning y su conjunto de API de REST"
+  },
+  {
+    "id": "_246065009_1",
+    "question": "¿Es un tipo de inteligencia artificial que trata de establecer una comunicación entre el hombre y los ordenadores o dispositivos inteligentes, a través del lenguaje humano?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4a599d05ae4f4f65900319e759ff4f5c",
+        "text": "Machine Hard"
+      },
+      {
+        "id": "14a5b44082804ddea6485f76e6647423",
+        "text": "Machine New"
+      },
+      {
+        "id": "2758ce0b9347417e8c470eecfc45d0c4",
+        "text": "Machine Soft"
+      },
+      {
+        "id": "4cb4035474f94b63b09f604ce33807f5",
+        "text": "Machine Learning"
+      },
+      {
+        "id": "79e34f8d0c8b44a0ae081a0358df9a99",
+        "text": "Machine Main"
+      }
+    ],
+    "selected": "Reconocimiento de voz"
+  },
+  {
+    "id": "_246065010_1",
+    "question": "¿Qué es un Bot en Inteligencia Artificial?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f495c1078374411988527789ee34d897",
+        "text": "Interfaz de equipo humano mediante el lenguaje natural para responder a las preguntas de los clientes"
+      },
+      {
+        "id": "35503b0e315e49f7a63794fc4cc0cbae",
+        "text": "Servicio on Premise que permite aprendizaje automático"
+      },
+      {
+        "id": "1e67db47594e43c38c33247e18983ce2",
+        "text": "Acelera y administrar el ciclo de vida de los proyectos de aprendizaje automático"
+      },
+      {
+        "id": "0b6938a5a77a4a25a8a4c19033d11db6",
+        "text": "No predice el comportamiento futuro a partir de acciones anteriores"
+      },
+      {
+        "id": "f8efc83982664d3790c40d04a66c2843",
+        "text": "Identifica el contenido de las imágenes de productos"
+      }
+    ],
+    "selected": "Es un software creado sobre inteligencia artificial que es capaz de realizar diferentes tareas por su cuenta, sin la necesidad de intervención humana"
+  },
+  {
+    "id": "_246065011_1",
+    "question": "Cual es una característica del Language Understanding Intelligence Service (LUIS)",
+    "correct": null,
+    "answers": [
+      {
+        "id": "77e3abd112f44330b633d12ab7340647",
+        "text": "Desarrollo de aplicaciones basadas en plataformas web"
+      },
+      {
+        "id": "7718fb1ab3a94f16a594d00f0fb0df5d",
+        "text": "Predecir fallos en equipos tecnológicos"
+      },
+      {
+        "id": "9247700ac3ca4299a28200fac0a80c35",
+        "text": "Predicción en la Rentabilidad de personal"
+      },
+      {
+        "id": "8f0aac54a6184180a678fa1c56f8649c",
+        "text": "Detectar fraude de transacciones"
+      },
+      {
+        "id": "5747494bafd848f881b6f1c924ef045d",
+        "text": "Seleccionar clientes potenciales"
+      }
+    ],
+    "selected": "Es un PaaS el cual brinda el entendimiento de inteligencia de negocios basado en lenguaje"
+  },
+  {
+    "id": "_246065012_1",
+    "question": "¿Qué tipo de aprendizaje en la IA que consiste en la transferencia de conocimientos del hombre a un sistema informático?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d06c801a7f234c7bbe106d02c0a04fe8",
+        "text": "Programador"
+      },
+      {
+        "id": "c986e037ee914aff9476ad5c91622344",
+        "text": "Documentador de sistemas"
+      },
+      {
+        "id": "4aa5d966853c476a87c5486fb5453cb4",
+        "text": "Analista de sistemas"
+      },
+      {
+        "id": "3215b34931b546349778b2bc75f919ff",
+        "text": "Usuario"
+      },
+      {
+        "id": "f9a6e4e43c4e479b99e94b9c1ef580ae",
+        "text": "Digitador"
+      }
+    ],
+    "selected": "Deductivo"
+  },
+  {
+    "id": "_246065013_1",
+    "question": "¿A qué se refiere la siguiente expresión: “Se trata de un software o programa informático de inteligencia artificial que funciona de manera autónoma”?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7ba1a5d7664c4bd89e55071c76afb0aa",
+        "text": "Hey Google"
+      },
+      {
+        "id": "4998f870a02c47908ff456c2ad3de16b",
+        "text": "Alexa"
+      },
+      {
+        "id": "96bd5a326e9f4b25bd5228fd58829a5b",
+        "text": "Cortana"
+      },
+      {
+        "id": "784952526f4c44a48efceb4db5052d1b",
+        "text": "Google Now"
+      },
+      {
+        "id": "320043c04df7455abea11163b95af28d",
+        "text": "Braina"
+      }
+    ],
+    "selected": "Bot de Inteligencia Artificial"
+  }
+]

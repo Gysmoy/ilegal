@@ -1,0 +1,142 @@
+[
+    {
+      "id": "_246064994_1",
+      "question": "Qué es lo que realiza Watson Assistant durante su operación",
+      "correct": null,
+      "answers": [],
+      "selected": "Compara lo que dicen los usuarios con respuestas del bot"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál no es una de las ventajas del asistente Watson Assistant?",
+      "correct": null,
+      "answers": [],
+      "selected": "Optimiza el proceso de digitalizacion"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Qué empresa de reconocido prestigio mundial soporta Watson Studio?",
+      "correct": null,
+      "answers": [],
+      "selected": "IBM"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál es el Servicio de visualización y análisis predictivo de datos inteligente para descubrir patrones y significado en sus datos de forma rápida y por su cuenta?",
+      "correct": null,
+      "answers": [],
+      "selected": "IBM Watson analytics"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿A qué ventaja se refiere cuando se dice que gracias a Watson Assistant, te permite reducir los costes del call center, mejorar la experiencia del cliente y generar ingresos adicionales?",
+      "correct": null,
+      "answers": [],
+      "selected": "Atención al cliente"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿A qué se refiere la expresión, “es un modelo hospedado, por lo que puede elegir niveles de producto de acuerdo con sus necesidades de tamaño y rendimiento y sentirse seguro con todos los componentes dentro de los límites de cumplimiento de Azure”?",
+      "correct": null,
+      "answers": [],
+      "selected": "QnA Maker"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "Para que se utiliza el procesamiento de lenguaje natural",
+      "correct": null,
+      "answers": [],
+      "selected": "Ayuda al chatbot a entender lo que el usuario ha dicho"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cómo se llama aquello que trata de gestionar las consultas de los usuarios y delega en un agente humano aquellas que le es imposible resolver?",
+      "correct": null,
+      "answers": [],
+      "selected": "ChatBoot hibrido"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Qué tipo de aprendizaje en la IA que consiste en la transferencia de conocimientos del hombre a un sistema informático?",
+      "correct": null,
+      "answers": [],
+      "selected": "Deductivo"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál no es una ventaja de los ChatBoot?",
+      "correct": null,
+      "answers": [],
+      "selected": "Permite integrar los procesos de la empresa"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál es la herramienta grafica en Watson Studio que no requiere conocimientos de programación?",
+      "correct": null,
+      "answers": [],
+      "selected": "Flujos de SPSS Modeler"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "Una de las herramientas de Watson Studio, enfocadas específicamente en el reconocimiento visual es:",
+      "correct": null,
+      "answers": [],
+      "selected": "Modelos incorporados"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál es el componente clave de IBM Watson Studio?",
+      "correct": null,
+      "answers": [],
+      "selected": "Machine Learning y su conjunto de API de REST"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Qué es correcto afirmar sobre AutoIA?",
+      "correct": null,
+      "answers": [],
+      "selected": "Herramienta de Watson Machine Learning, que analiza automáticamente sus datos y genera tuberías de modelos candidatos"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿En qué tecnologías no está basado Watson Studio?",
+      "correct": null,
+      "answers": [],
+      "selected": "Visual Studio"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "Indicar una característica de Azure Machine Learning",
+      "correct": null,
+      "answers": [],
+      "selected": "Acelera y administrar el ciclo de vida de los proyectos de aprendizaje automático"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál es una aplicación asociada con Machine Learning?",
+      "correct": null,
+      "answers": [],
+      "selected": "Vehículos inteligentes"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál es el factor relacionado con el hablante es uno de los principales factores que influyen en los sistemas de reconocimiento de voz actuales?",
+      "correct": null,
+      "answers": [],
+      "selected": "La variabilidad"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál es la aplicación de reconocimiento de voz de Amazon?",
+      "correct": null,
+      "answers": [],
+      "selected": "Alexa"
+    },
+    {
+      "id": "_246064994_1",
+      "question": "¿Cuál no es una característica de Azure Machine Learning?",
+      "correct": null,
+      "answers": [],
+      "selected": "Aprendizaje automático basados en servidores Microsoft del datacenter local"
+    }
+  ]

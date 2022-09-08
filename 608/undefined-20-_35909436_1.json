@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_246571791_1",
+    "question": "¿A qué se refiere la expresión, “es un modelo hospedado, por lo que puede elegir niveles de producto de acuerdo con sus necesidades de tamaño y rendimiento y sentirse seguro con todos los componentes dentro de los límites de cumplimiento de Azure”?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "074e92ab6e4d4d2693f30ed2b1d4d5c5",
+        "text": "CISCO"
+      },
+      {
+        "id": "712b22573f7b49608c43dda59c7674b6",
+        "text": "Sysbase"
+      },
+      {
+        "id": "41a3d7ed7071458894a5a0f2a3b1f85b",
+        "text": "QnA Maker"
+      },
+      {
+        "id": "da7f2212d77a4d269ffaf5aaf71f5d5e",
+        "text": "SQL server"
+      },
+      {
+        "id": "1fb7dea9fbd24b24b1780cfd6937980d",
+        "text": "Oracle"
+      }
+    ],
+    "selected": null
+  },
+  {
+    "id": "_246571792_1",
+    "question": "¿el servicio de un chatboot es de?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "66c0566d329e4ba0985ffa3044e29961",
+        "text": "6 horas 5 días"
+      },
+      {
+        "id": "3515cd595bf448f6b69eca99cf3e8d29",
+        "text": "24 horas 7 días"
+      },
+      {
+        "id": "441e7ee550b546828d88074d54ac88c6",
+        "text": "12 horas 5 días"
+      },
+      {
+        "id": "24ee1581e680417794c1cdfb3c124f8d",
+        "text": "12 horas 7 días"
+      },
+      {
+        "id": "90ebd2e7ac404c9a9d7b0fab50598f67",
+        "text": "7 horas y 7 días"
+      }
+    ],
+    "selected": "24 horas 7 días"
+  },
+  {
+    "id": "_246571793_1",
+    "question": "¿Es correcto afirmar sobre Microsoft Bot Framework?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c242b46ddeaa4f2888b9cc6dd9fb9d6d",
+        "text": "Crea aplicaciones CASE."
+      },
+      {
+        "id": "273610ea2b86402db2a35f8f0450d3e0",
+        "text": "Realiza actividades de análisis de sistemas"
+      },
+      {
+        "id": "9d9422098fce41d59d297e601805bcee",
+        "text": "Realiza procesos de diseño de software"
+      },
+      {
+        "id": "9a5db66cc62d49b1aa46fcd27f9a0bc5",
+        "text": "Desarrolla UML"
+      },
+      {
+        "id": "46396840c19a4ca5b92c092c8b0649fc",
+        "text": "Permite a los desarrolladores y las empresas crear Bots inteligentes que puedan interactuar con los usuarios"
+      }
+    ],
+    "selected": "Permite a los desarrolladores y las empresas crear Bots inteligentes que puedan interactuar con los usuarios"
+  },
+  {
+    "id": "_246571794_1",
+    "question": "Para que se utiliza el procesamiento de lenguaje natural",
+    "correct": null,
+    "answers": [
+      {
+        "id": "73c5c70ede2040afb77e346444feaf8d",
+        "text": "Para dividir la entrada del usuario en oraciones y palabras"
+      },
+      {
+        "id": "8a7a4d655d664e5492690c39dd1bbcbc",
+        "text": "Para usar memorias y datos de preferencias personales"
+      },
+      {
+        "id": "aaa148f5b3e3406ea76ddc00dfe7de11",
+        "text": "Para consultar repositorios de datos"
+      },
+      {
+        "id": "b3ecff1d11c242578f31b856a719dcdb",
+        "text": "Para algoritmos o reglas para construir un diálogo"
+      },
+      {
+        "id": "8ffda82e68dc4e6489f0de9093f0bb93",
+        "text": "Ayuda al chatbot a entender lo que el usuario ha dicho"
+      }
+    ],
+    "selected": "Ayuda al chatbot a entender lo que el usuario ha dicho"
+  },
+  {
+    "id": "_246571795_1",
+    "question": "Es un asistente que se comunica con los usuarios a través de mensajes de texto",
+    "correct": null,
+    "answers": [
+      {
+        "id": "da887cceef584cbab949442368b11ad4",
+        "text": "Una persona que atiende a través de un chat"
+      },
+      {
+        "id": "4f8190e9a42944eea49518ff91e55fb6",
+        "text": "Una APP de Azure Compute"
+      },
+      {
+        "id": "c849b1b3b2fa430ba9a06b655e87ec8b",
+        "text": "Un chatbot"
+      },
+      {
+        "id": "e0ca3ee96044498799062867fc6b710f",
+        "text": "Un sistema con Machine Learning"
+      },
+      {
+        "id": "fa88b1be23a64be68d8ab6fad3532e26",
+        "text": "Un sistema de big data"
+      }
+    ],
+    "selected": "Un chatbot"
+  },
+  {
+    "id": "_246571796_1",
+    "question": "¿Cuál no es una de las ventajas del asistente Watson Assistant?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "eae9a363faf846d6a90202aa6ddb22de",
+        "text": "Reducir costes operativos"
+      },
+      {
+        "id": "5bae86b09971449893392f58384dcd45",
+        "text": "Mejorar la experiencia del cliente"
+      },
+      {
+        "id": "a86d4af510334e229f94d584b8b7a32d",
+        "text": "Reduce los costos de Call Center"
+      },
+      {
+        "id": "91ff062cdd6d4ec584190b6ea7aea69d",
+        "text": "Generar nuevas fuentes de ingresos"
+      },
+      {
+        "id": "9deaa65c419f4b08905a3c61ffa1d7cf",
+        "text": "Optimiza el proceso de digitalizacion"
+      }
+    ],
+    "selected": "Optimiza el proceso de digitalizacion"
+  },
+  {
+    "id": "_246571797_1",
+    "question": "¿Cuál es la herramienta que está incluida en el servicio Watson Studio que utiliza para derivar conocimientos a partir de los datos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "644c2ac98dfd4dd8aef96614b7348d3a",
+        "text": "Azure AZ900"
+      },
+      {
+        "id": "b9b384bb1cb345f49568bea81cae69a5",
+        "text": "IBM® SPSS®"
+      },
+      {
+        "id": "00739096a4ba44cbbc47af5f38c739f7",
+        "text": "Ruby"
+      },
+      {
+        "id": "8c192b28fbf04984a0872d8d449f4fc3",
+        "text": "Data Refinery"
+      },
+      {
+        "id": "9d24b9ca5eae471cb80bd5d6d1861b28",
+        "text": "WATSON"
+      }
+    ],
+    "selected": "IBM® SPSS®"
+  },
+  {
+    "id": "_246571798_1",
+    "question": "Cuáles son los tipos de datos que utiliza Watson",
+    "correct": null,
+    "answers": [
+      {
+        "id": "bcbad92915784e7ba75e63045e011a19",
+        "text": "Estructurados, relacionales y no relacionales"
+      },
+      {
+        "id": "22dc14dfd21f43928a04c81c759f016e",
+        "text": "Solo estructurados"
+      },
+      {
+        "id": "523e2e2a3a9e479094603b8173bef36e",
+        "text": "Estructurados, no estructurados y relacionales"
+      },
+      {
+        "id": "1543e7a1f773422aa4867f15aa08b053",
+        "text": "Solo estructurados y no estructurados"
+      },
+      {
+        "id": "df0685a041e940a9aa7d7d983c69da15",
+        "text": "Estructurados, semi estructurados y no estructurados"
+      }
+    ],
+    "selected": "Solo estructurados y no estructurados"
+  },
+  {
+    "id": "_246571799_1",
+    "question": "Cuál es el sistema de IBM basado en inteligencia artificial capaz de responder a preguntas formuladas en lenguaje natural",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f91cd8380a694c32ba359c938ff1e07e",
+        "text": "Logic Apps"
+      },
+      {
+        "id": "6a457c6dad51413db35039c481ec3435",
+        "text": "Bot Service"
+      },
+      {
+        "id": "1b56f9e58cbb4aceb949db029813dac5",
+        "text": "Cognitive services"
+      },
+      {
+        "id": "49652556f25a4347a32abb988a762bb1",
+        "text": "Watson"
+      },
+      {
+        "id": "4a4387948e164d7da7dc44c010a395e8",
+        "text": "Chatbot"
+      }
+    ],
+    "selected": "Watson"
+  },
+  {
+    "id": "_246571800_1",
+    "question": "¿Qué es una de las ventajas asociadas al uso de Watson Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4adf85a919bb4afc869cb2c7ab268f67",
+        "text": "Aumenta la productividad de sus científicos de datos, analistas, desarrolladores y expertos en la materia."
+      },
+      {
+        "id": "a905be6d46c646a2a9d2883ee61e18c7",
+        "text": "Elaboración Diagrama de caso de uso"
+      },
+      {
+        "id": "bce835d74bf24d67b5a7d7bb01b4abb1",
+        "text": "Desarrolla con facilidad Diagrama de actividades"
+      },
+      {
+        "id": "646b76f8bc6f449683e65b5d21c96ec3",
+        "text": "Diseño de Diagrama de eventos"
+      },
+      {
+        "id": "582dd448a72645eb9b23d1aaee2061d6",
+        "text": "Implementación de Diagrama de comportamiento"
+      }
+    ],
+    "selected": "Aumenta la productividad de sus científicos de datos, analistas, desarrolladores y expertos en la materia."
+  },
+  {
+    "id": "_246571801_1",
+    "question": "Cuál tipo de aprendizaje de ML se produce cuando una maquina aprende por medio de prueba y error hasta alcanzar la mejor manera de completar una tarea?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "3ee01198dc0b49cd920e4c91cf82a427",
+        "text": "No supervisado"
+      },
+      {
+        "id": "de2b200470db474b817c2c50f5d6c04f",
+        "text": "Supervisado"
+      },
+      {
+        "id": "4d68d6c59a67472ba1e652d1bb60bd74",
+        "text": "Estructurado"
+      },
+      {
+        "id": "40977ed94c144aad856bf175ed30ccd8",
+        "text": "Integral"
+      },
+      {
+        "id": "e960f62660c0480389eafbec5295197d",
+        "text": "Por refuerzo"
+      }
+    ],
+    "selected": "Por refuerzo"
+  },
+  {
+    "id": "_246571802_1",
+    "question": "Que simplifica el SDK de Azure de código abierto para Python",
+    "correct": null,
+    "answers": [
+      {
+        "id": "22d002bd9d7a4e62b62bddbc6d54c5ef",
+        "text": "Administración y aprovisionamiento"
+      },
+      {
+        "id": "37f8b9e3a6cc422987f4b36fbfb24771",
+        "text": "La distribución"
+      },
+      {
+        "id": "d1e7d42ee02e45e9a3ea166184635359",
+        "text": "Investigación y desarrollo"
+      },
+      {
+        "id": "c35136ebf4064dcf8a3133d3dd8dd821",
+        "text": "Evolución y administración"
+      },
+      {
+        "id": "70cb942225874d51bc190c91f8fb6e69",
+        "text": "Navegación y uso de recursos"
+      }
+    ],
+    "selected": "Administración y aprovisionamiento"
+  },
+  {
+    "id": "_246571803_1",
+    "question": "¿Cuál no es un ejemplo de aplicación de ML?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7718fb1ab3a94f16a594d00f0fb0df5d",
+        "text": "Predecir fallos en equipos tecnológicos"
+      },
+      {
+        "id": "77e3abd112f44330b633d12ab7340647",
+        "text": "Desarrollo de aplicaciones basadas en plataformas web"
+      },
+      {
+        "id": "8f0aac54a6184180a678fa1c56f8649c",
+        "text": "Detectar fraude de transacciones"
+      },
+      {
+        "id": "9247700ac3ca4299a28200fac0a80c35",
+        "text": "Predicción en la Rentabilidad de personal"
+      },
+      {
+        "id": "5747494bafd848f881b6f1c924ef045d",
+        "text": "Seleccionar clientes potenciales"
+      }
+    ],
+    "selected": "Detectar fraude de transacciones"
+  },
+  {
+    "id": "_246571804_1",
+    "question": "Qué interfaces pueden usar los desarrolladores para conectarse a Azure Machine Learning",
+    "correct": null,
+    "answers": [
+      {
+        "id": "fa9246546be44c73ac43a39071aa248f",
+        "text": "A través de http/https"
+      },
+      {
+        "id": "87c9add2b186479bb628eb5cd7810a67",
+        "text": "A través de VPN"
+      },
+      {
+        "id": "0053faf6392b4d4f9d365338fe29075f",
+        "text": "A través del portal de Azure"
+      },
+      {
+        "id": "521a2962bee145dfb10b9bab1e3b8d8b",
+        "text": "A través de API REST"
+      },
+      {
+        "id": "c2ae693d590c451eb9f97f43b0db4e33",
+        "text": "A través de Azure ExpressRoute"
+      }
+    ],
+    "selected": null
+  },
+  {
+    "id": "_246571805_1",
+    "question": "¿Cuál no es una característica de Azure Machine Learning?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "fb611ffdfb1e418a854201dd25b0f1c9",
+        "text": "Utiliza herramientas para acelerar y automatizar sus flujos de trabajo diarios"
+      },
+      {
+        "id": "4d0364c589e640fba17c87926785404c",
+        "text": "Seguridad y control de acceso basado en rol (RBAC)"
+      },
+      {
+        "id": "b43194d8112d43e8900b903700c8312f",
+        "text": "Aprendizaje automático basados en servidores Microsoft del datacenter local"
+      },
+      {
+        "id": "1fb447be799c45739bd858014d5722cc",
+        "text": "sólido conjunto de herramientas, respaldado con API duraderas de Azure Resource Manager"
+      },
+      {
+        "id": "e5b1ae8dd5c740ccb00717ac506bb5e9",
+        "text": "Los modelos de aprendizaje automático entran en producción en un entorno seguro y auditable"
+      }
+    ],
+    "selected": null
+  },
+  {
+    "id": "_246571806_1",
+    "question": "¿Qué es la AutoML de IBM?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2bd56a0a10bc42c58c16a378e67d963d",
+        "text": "Proceso de automatizar las tareas manuales a medida que se crea y entrena modelos de machine learning"
+      },
+      {
+        "id": "726e67564e0740809b36b558a744ded0",
+        "text": "Permite interactuar con clientes vía telefónica"
+      },
+      {
+        "id": "308b82eba5aa4273b3f3186f0e427afd",
+        "text": "Crear proyectos para organizar los recursos"
+      },
+      {
+        "id": "cd6d11d8a8bc48f298be4887d4654fa5",
+        "text": "Una interfaz de línea de comandos de aprendizaje automático"
+      },
+      {
+        "id": "c0abaf03ede345b28adc2ebff548dc44",
+        "text": "Machine Learning y su conjunto de API de REST"
+      }
+    ],
+    "selected": null
+  },
+  {
+    "id": "_246571807_1",
+    "question": "Cual es una ventaja de utilizar Watson Studio por los científicos, desarrolladores y analistas",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2cd464acc0a646729dc0ad5b32cd27ed",
+        "text": "Permite interactuar con clientes vía Chatbots"
+      },
+      {
+        "id": "7c07111b4f2b44ec9b6689cf921ca70d",
+        "text": "Permite crear, ejecutar y gestionar modelos de IA"
+      },
+      {
+        "id": "0d534fcd44ee4d9b89f508587ba465f5",
+        "text": "Permite el almacenamiento de datos procesados"
+      },
+      {
+        "id": "d5be07a22b5e4c77a78803fe48c400c2",
+        "text": "Permite a los analistas revisar manualmente la información obtenida"
+      },
+      {
+        "id": "4d399e0076574fb187c5f89e315afbe1",
+        "text": "Permite interactuar con clientes vía telefónica"
+      }
+    ],
+    "selected": null
+  },
+  {
+    "id": "_246571808_1",
+    "question": "¿Cuál es la herramienta grafica en Watson Studio que no requiere conocimientos de programación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d10188f161a340e3b104d864363b7ff1",
+        "text": "Flujos de SPSS Modeler"
+      },
+      {
+        "id": "ce0b86c589ca453eb7e15e3e9c4bfd74",
+        "text": "AutoAI Model builder"
+      },
+      {
+        "id": "18775ec9b05547fb83c107d7462257ad",
+        "text": "Data Refinery"
+      },
+      {
+        "id": "e99f29c9260e4c139ee5b424501580c1",
+        "text": "RStudio"
+      },
+      {
+        "id": "fdddb8f3e09242eab5b12971582c231c",
+        "text": "Cognos Dashboards"
+      }
+    ],
+    "selected": null
+  },
+  {
+    "id": "_246571809_1",
+    "question": "¿Qué no es posible realizar con IBM Watson Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "143dbdcbefec4435bd2f8c081a14ed3b",
+        "text": "Crear y mantener catálogos de datos"
+      },
+      {
+        "id": "47a8d9849fe34e94b40299c4c380ebd6",
+        "text": "Acceder a datos desde conexiones a tu nube o fuentes de datos"
+      },
+      {
+        "id": "962ebd1f87544ead97f0e18b891a0cce",
+        "text": "Crear otras aplicaciones menos las tareas de ciencia de datos"
+      },
+      {
+        "id": "9742996f6bb340f0b878050c903323c5",
+        "text": "Crear proyectos para organizar los recursos"
+      },
+      {
+        "id": "12dd83f23986403894e256558e4f8397",
+        "text": "Cargar archivos al almacenamiento de objetos del proyecto"
+      }
+    ],
+    "selected": null
+  },
+  {
+    "id": "_246571810_1",
+    "question": "¿Qué hacen referencia a la acción que quiere realizar el usuario en Watson Studio?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b9222f1dcc684b298ed73827e9162285",
+        "text": "Dialog"
+      },
+      {
+        "id": "31ef87a2b38144c2bd1869a0ab6233bf",
+        "text": "Description"
+      },
+      {
+        "id": "da445575e14e433f9422c3bdffd343c4",
+        "text": "Assistant"
+      },
+      {
+        "id": "2c48437020dd4093b0a6fa29f15659c1",
+        "text": "Entities"
+      },
+      {
+        "id": "c1779bf2b1ad4cc9906fb510c66b2020",
+        "text": "Intents"
+      }
+    ],
+    "selected": null
+  }
+]
