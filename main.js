@@ -40,7 +40,7 @@ $(document).on('change', '#query', function () {
                     <td>${attemp.id}</td>
                     <td id="${attemp.id}"></td>
                     <td width="0%">${attemp.nota}</td>
-                    <td>${question.correct}</td>
+                    <td>${question.correct ?? 'Indefinido'}</td>
                 </tr>
                 `);
                 $(`#${attemp.id}`).text(question.selected);
