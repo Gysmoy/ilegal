@@ -1,5 +1,6 @@
 <?php
-$jsons = scandir("./{$_GET['course']}");
+$course = $_GET['course'];
+$jsons = scandir("./{$course}");
 $array = array();
 
 foreach ($jsons as $json) {
@@ -9,5 +10,10 @@ foreach ($jsons as $json) {
         ];
     }
 }
-echo json_encode($array);
+$json = json_encode($array, JSON_PRETTY_PRINT);
+
+file_put_contents("assets/sources/{$course}.json", $json);
+
+header('Content-Type: application/json');
+echo $json;
 ?>
