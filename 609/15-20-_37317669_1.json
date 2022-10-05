@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_256065083_1",
+    "question": "Diferencia entre servicios SOAP y REST",
+    "correct": false,
+    "answers": [
+      {
+        "id": "13b6f889e5014a079a7f54bbd196b4a6",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "9cf833f8730c4439bf735c680fa7cb1a",
+        "text": "REST generalmente no utiliza el protocolo SSL, SOAP siempre utiliza SSL"
+      },
+      {
+        "id": "8ef0098cbbdd4f5ba14c286f4d697c6f",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "c07ebb4eddfa43ee835a28cefa2caafb",
+        "text": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+      },
+      {
+        "id": "1391366cd2424da68262e3adc5fb3411",
+        "text": "Son iguales, no existe diferencia"
+      }
+    ],
+    "selected": "REST generalmente no utiliza el protocolo SSL, SOAP siempre utiliza SSL"
+  },
+  {
+    "id": "_256065084_1",
+    "question": "¿A qué se refiere el concepto de que Es una de las principales características de un servicio web REST, ya que proporciona una serie de métodos que permiten a la aplicación cliente realizar operaciones sobre determinados recursos del servidor web?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e2a1816429ce48bd9ef14abd9dfdbcdd",
+        "text": "Protocolo de comunicación"
+      },
+      {
+        "id": "ba0e07fc490a4039899344cf776fcea7",
+        "text": "Arquitectura cliente servidor"
+      },
+      {
+        "id": "f7501330ee064c64b7e46a238c4fdaa5",
+        "text": "Métodos HTTP de forma explicita"
+      },
+      {
+        "id": "6a08036a118f455a8a1650d0cc4953a2",
+        "text": "Servicio web"
+      },
+      {
+        "id": "013d1555a0924f80baba6604d1bc5391",
+        "text": "Servicio P2P"
+      }
+    ],
+    "selected": "Métodos HTTP de forma explicita"
+  },
+  {
+    "id": "_256065085_1",
+    "question": "Modificar un recurso, que no es un recurso de dato en REST hace referencial método",
+    "correct": false,
+    "answers": [
+      {
+        "id": "55097faf598744498399c5801d7b24cb",
+        "text": "DELETE"
+      },
+      {
+        "id": "2652465b95544acfb3f585b003290d67",
+        "text": "HEAD"
+      },
+      {
+        "id": "19580c0da47b48ed8505ff2a59959d87",
+        "text": "PATCH"
+      },
+      {
+        "id": "ee287549e4384d64947d5f0b69ee3bd4",
+        "text": "POST"
+      },
+      {
+        "id": "dcd58d63c6b9460f886dd3f8d3727579",
+        "text": "PUT"
+      }
+    ],
+    "selected": "PUT"
+  },
+  {
+    "id": "_256065086_1",
+    "question": "Que significa REST",
+    "correct": true,
+    "answers": [
+      {
+        "id": "40cc89cf0c1446798a3b9bed68980c5f",
+        "text": "Transporte de estado representacional"
+      },
+      {
+        "id": "3a20fb313cee4dfea79d631464238cc9",
+        "text": "Transferencia de emergencia de protocolo"
+      },
+      {
+        "id": "3d42639815ec4faab5af62da605fccd7",
+        "text": "Transferencia de estado representacional"
+      },
+      {
+        "id": "231906479fa84cfd856d125185c20781",
+        "text": "Transporte de estado de riesgos"
+      },
+      {
+        "id": "3d8c21c3b59b49698c8ca96f5d911856",
+        "text": "Transporte de elementos representacionales"
+      }
+    ],
+    "selected": "Transferencia de estado representacional"
+  },
+  {
+    "id": "_256065087_1",
+    "question": "¿Qué tipo de control especial debe contener una Master Page en .NET?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c22f0d66d9ad4b8594c2f513246c85bf",
+        "text": "ViewList"
+      },
+      {
+        "id": "e07166d4b5eb4b79858fd4675c8d4fd3",
+        "text": "ListView"
+      },
+      {
+        "id": "67d3904243a04480a1bbfe090c583a13",
+        "text": "Lista ordenada"
+      },
+      {
+        "id": "551386abbf62475095591603e1348da0",
+        "text": "ContenPlaceHolder"
+      },
+      {
+        "id": "8b1348edc9b64411bdba4e1404945293",
+        "text": "Div"
+      }
+    ],
+    "selected": "ContenPlaceHolder"
+  },
+  {
+    "id": "_256065088_1",
+    "question": "Es el diseño de la interfaz de usuario de la computadora, muestra una lista y los detalles del elemento seleccionado actualmente",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1fcd732e3fde4eb9ab9b309d9c4402ff",
+        "text": "Mediante Visual Studio"
+      },
+      {
+        "id": "5cd3b1ddca8743e08f8f0ecf05c20d7d",
+        "text": "Drawer Navigation"
+      },
+      {
+        "id": "11f1e2f08f884428bb2559df18a428e0",
+        "text": "Master–detail"
+      },
+      {
+        "id": "eb53fbf4e4e548c6b19684f241b6381c",
+        "text": "Xamarin"
+      },
+      {
+        "id": "48a9bde6433b4740bad10923f71af926",
+        "text": "Uso de APIs disponibles con C#"
+      }
+    ],
+    "selected": "Master–detail"
+  },
+  {
+    "id": "_256065089_1",
+    "question": "¿Con que extensión en .NET se guarda una Master Page?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "110af149530e4299b6d9e771a302cc99",
+        "text": ".master"
+      },
+      {
+        "id": "b3e4fc1099a144399a2a9f9ed9510e2c",
+        "text": ".cfp"
+      },
+      {
+        "id": "db0a88b8321248f989f31fb460ddb566",
+        "text": ".dll"
+      },
+      {
+        "id": "e221146f77e14d698adcc19354832225",
+        "text": ".docx"
+      },
+      {
+        "id": "08d27515f88d40eb9d850d5027463be9",
+        "text": ".txt"
+      }
+    ],
+    "selected": ".master"
+  },
+  {
+    "id": "_256065090_1",
+    "question": "Sirve para que podamos colocar 2 aplicaciones en cada mitad de una pantalla móvil",
+    "correct": true,
+    "answers": [
+      {
+        "id": "18ce22841d874b5d903f50e32f460368",
+        "text": "Drawer"
+      },
+      {
+        "id": "cb4ad5bcc4a64555a905a39848928b90",
+        "text": "Master–detail"
+      },
+      {
+        "id": "f55c342f114b42be985d377f5b6055f2",
+        "text": "Split View"
+      },
+      {
+        "id": "934fd6a1f833401794f383114c1146b0",
+        "text": "Slider"
+      },
+      {
+        "id": "171711711d214759a61d220a91687751",
+        "text": "ListView"
+      }
+    ],
+    "selected": "Split View"
+  },
+  {
+    "id": "_256065091_1",
+    "question": "¿Cuál no es un paso para definir un ListView?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b85c1515a19f4baca5872a8bdc14b327",
+        "text": "Diseñar un layout individual que se repetirá en la lista"
+      },
+      {
+        "id": "e12f5f697a4542c7a03aba81b6da9fec",
+        "text": "Diseñar un layout que lo contenga al listview"
+      },
+      {
+        "id": "25fbd418e3034fabaaea20682f6ca76b",
+        "text": "Personalizar cada uno de lo layouts individuales según nuestros datos"
+      },
+      {
+        "id": "f748250533064a0190c1be39fc02231b",
+        "text": "Implementar una actividad que lo visualice el layout"
+      },
+      {
+        "id": "2b5cdd4fa1d34688a6c2eefa81ee9a66",
+        "text": "Crear un objeto conexión a la fuente de datos"
+      }
+    ],
+    "selected": "Crear un objeto conexión a la fuente de datos"
+  },
+  {
+    "id": "_256065092_1",
+    "question": "¿Con que atributo se podrá definir el modo de selección en un ListView?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "311e047c7e76475b85856f3dbce666e7",
+        "text": "ListMode"
+      },
+      {
+        "id": "3749b2f622294d9eab2db5a0b5a835bd",
+        "text": "arrayMode"
+      },
+      {
+        "id": "433640b1312644d6a29f9da3abc579f8",
+        "text": "EqulasMode"
+      },
+      {
+        "id": "893015f3f4784f4aa767953433f0fc36",
+        "text": "choiceMode"
+      },
+      {
+        "id": "b3dddc1e7fe4495f92fb53e144a9a696",
+        "text": "ítemMode"
+      }
+    ],
+    "selected": "choiceMode"
+  },
+  {
+    "id": "_256065093_1",
+    "question": "¿Desde qué clase puede ser poblada dinámicamente un Listview?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ed17805e27324bdf9c9a70b197e1dd81",
+        "text": "resources"
+      },
+      {
+        "id": "05548cefe15747899759e910d74edf32",
+        "text": "ArrayAdapter"
+      },
+      {
+        "id": "e41530862b5f4b5a8eeba4a20046c327",
+        "text": "String-array"
+      },
+      {
+        "id": "5c696cb1ce9148b1a525c51a978bf4e3",
+        "text": "Choice Mode"
+      },
+      {
+        "id": "dd9e7597ffd54046b01dc07e3215e00a",
+        "text": "ArayString"
+      }
+    ],
+    "selected": "ArrayAdapter"
+  },
+  {
+    "id": "_256065094_1",
+    "question": "Contiene un componente de scroll que permite generar desplazamiento vertical cuando se agota la pantalla para los elementos de una lista a mostrar",
+    "correct": false,
+    "answers": [
+      {
+        "id": "de77f8ba79cb44e7a6c6dbcd0bce47d0",
+        "text": "Navegation mode"
+      },
+      {
+        "id": "2d0a49281d304d028b519b2105d20c79",
+        "text": "ListView"
+      },
+      {
+        "id": "1bcc4b6b3c754d82afa594dcfacab7e3",
+        "text": "Visualizador"
+      },
+      {
+        "id": "9d06dee7033842ff91596c4505a0274d",
+        "text": "Scroller"
+      },
+      {
+        "id": "499c55ac6eb34bc8a5781b7746da7c99",
+        "text": "ListMode"
+      }
+    ],
+    "selected": "Scroller"
+  },
+  {
+    "id": "_256065095_1",
+    "question": "¿Las aplicaciones Xamarin. Android se compilan usando el lenguaje?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "55991e9619d6440ab14b40143e132499",
+        "text": "Java"
+      },
+      {
+        "id": "9076701ef08c4290b3636ef6124a2544",
+        "text": "Basic"
+      },
+      {
+        "id": "6e10ead4310a40f0a9eab40183c33bcc",
+        "text": "PHP"
+      },
+      {
+        "id": "5020e47e22ca46958170e2bddbfab4e4",
+        "text": "C#"
+      },
+      {
+        "id": "399d69b98b354a409f8587a2ab5c4af7",
+        "text": "CSS"
+      }
+    ],
+    "selected": "C#"
+  },
+  {
+    "id": "_256065096_1",
+    "question": "Que significa firmar una aplicación APK",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b7c2ea2f528644f19449a6e0c22d47c0",
+        "text": "Colocar un código de encriptación a la APK"
+      },
+      {
+        "id": "37f31f4c8624497b9061963f0b08bd52",
+        "text": "Asignarle un nombre representativo a la aplicación"
+      },
+      {
+        "id": "938cbfaaeb8946e09e7c82c743dac9b6",
+        "text": "Registrar la aplicación en Google Play"
+      },
+      {
+        "id": "0a9b18a62aae40a696484f581d3e64c5",
+        "text": "Aplicar un certificado digital a la APK"
+      },
+      {
+        "id": "57c78c178c524572ab845025dab2a821",
+        "text": "Usar un certificado SSL con la aplicación"
+      }
+    ],
+    "selected": "Aplicar un certificado digital a la APK"
+  },
+  {
+    "id": "_256065097_1",
+    "question": "¿A qué se refiere con publicar tu App?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fc5b7d1700bb4655b5fdb55da0992b6b",
+        "text": "Proceso por el cual tu app se pone a disposición de los usuarios"
+      },
+      {
+        "id": "af4208a4be5a4f89bc472369a93cead5",
+        "text": "Que tengas ganancias por tu App"
+      },
+      {
+        "id": "d0194d33bacc48448811e8ffb8219827",
+        "text": "Técnica para subir tu app a la nube"
+      },
+      {
+        "id": "8f42864f088f4b8b8d5647c3b92c9714",
+        "text": "Método de subir tu app a la niebla"
+      },
+      {
+        "id": "7b538eeda1824816bbb38ec429bc075a",
+        "text": "Proceso para reducir costos de tu app"
+      }
+    ],
+    "selected": "Proceso por el cual tu app se pone a disposición de los usuarios"
+  },
+  {
+    "id": "_256065098_1",
+    "question": "¿Durante que paso puedo publicitar, vender y distribuir la versión de actualización de mi app para los usuarios?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "1c7ea4987cb14a97bb5f74d5007fc0a5",
+        "text": "Compilación de la App"
+      },
+      {
+        "id": "8c50bfbe38074ce1bf747c3873f37742",
+        "text": "Lanzamiento"
+      },
+      {
+        "id": "708b2049120f4f20900f5da64f59c130",
+        "text": "Venta de la App"
+      },
+      {
+        "id": "fc9753d985ca498a832fe6b8ec19239c",
+        "text": "Publicación"
+      },
+      {
+        "id": "1c1ec1db197f4235adcbc4eec2955f63",
+        "text": "Distribución"
+      }
+    ],
+    "selected": "Publicación"
+  },
+  {
+    "id": "_256065099_1",
+    "question": "¿Qué atributos sobreescriben valores a fin de pre visualizar elementos?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "910f8ee946a643ad94975958d0c47ffb",
+        "text": "Data"
+      },
+      {
+        "id": "8e75a080d98149539576bcab6b5d88bf",
+        "text": "Tolos"
+      },
+      {
+        "id": "c1c3667ecac04a80a1a57c03e309ce57",
+        "text": "Binding"
+      },
+      {
+        "id": "0ca559374e8f49ec9abefbbc57226e30",
+        "text": "Rest"
+      },
+      {
+        "id": "88b2fa3111574e7da2bbbd6821e6dcd8",
+        "text": "Reeful"
+      }
+    ],
+    "selected": "Rest"
+  },
+  {
+    "id": "_256065100_1",
+    "question": "¿Qué es un DataBinding?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "df9153baa7a441089981a1840d1c9d2f",
+        "text": "Es una librería de modelado de datos"
+      },
+      {
+        "id": "82b5b6a4da3f4b53a5711b0dc9f7fb82",
+        "text": "Es una respuesta del servidor de Base de Datos"
+      },
+      {
+        "id": "8d4857b7218d45bc817f14ef2649e5db",
+        "text": "Es una clase de conexión a datos"
+      },
+      {
+        "id": "529ff869f9e14656933e7f8e1daea610",
+        "text": "Es una biblioteca de vinculación de datos"
+      },
+      {
+        "id": "e8787aa0f27c4559927185e3d45b7016",
+        "text": "Es un objeto de análisis de datos"
+      }
+    ],
+    "selected": "Es una biblioteca de vinculación de datos"
+  },
+  {
+    "id": "_256065101_1",
+    "question": "Es correcto afirmar MVVM:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fe32f5301da2420fa29a146b87ea1aee",
+        "text": "Es un patrón de programación secuencial"
+      },
+      {
+        "id": "1df44191eff24f6d825fd6098a564630",
+        "text": "Sirve para designar procedimientos de almacenamiento."
+      },
+      {
+        "id": "6c5eb8869330467ab1d93a9f9724e2e0",
+        "text": "Es un patrón de diseño o modelos de abstracción utilizados para definir y estructurar los componentes necesarios en el de desarrollo de software"
+      },
+      {
+        "id": "83af05e3610d4727924639439a6ad125",
+        "text": "Establecer descansos del equipo de trabajo."
+      },
+      {
+        "id": "8183c9234f7646d7990a1db30a0778d1",
+        "text": "Es una disciplina analista de sistemas"
+      }
+    ],
+    "selected": "Es un patrón de diseño o modelos de abstracción utilizados para definir y estructurar los componentes necesarios en el de desarrollo de software"
+  },
+  {
+    "id": "_256065102_1",
+    "question": "En MVVM, ¿cuál es la parte visual de la aplicación",
+    "correct": true,
+    "answers": [
+      {
+        "id": "04bb20c4fdd34894a761a2b5e0e4939f",
+        "text": "MainActivity.cs"
+      },
+      {
+        "id": "88a9890ea30445f8b946ca5d88b3e29e",
+        "text": "Views"
+      },
+      {
+        "id": "3e75577ca9114a47acdd6f27366b4764",
+        "text": "Strings.xml"
+      },
+      {
+        "id": "d8192007a0d849a29140d6e064b7494d",
+        "text": "View Models"
+      },
+      {
+        "id": "0cdc1c034e504993850a85d9e0795b07",
+        "text": "Model"
+      }
+    ],
+    "selected": "Views"
+  }
+]

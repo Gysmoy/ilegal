@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_256472976_1",
+    "question": "Es el diseño de la interfaz de usuario de la computadora, muestra una lista y los detalles del elemento seleccionado actualmente",
+    "correct": true,
+    "answers": [
+      {
+        "id": "eb53fbf4e4e548c6b19684f241b6381c",
+        "text": "Xamarin"
+      },
+      {
+        "id": "1fcd732e3fde4eb9ab9b309d9c4402ff",
+        "text": "Mediante Visual Studio"
+      },
+      {
+        "id": "11f1e2f08f884428bb2559df18a428e0",
+        "text": "Master–detail"
+      },
+      {
+        "id": "5cd3b1ddca8743e08f8f0ecf05c20d7d",
+        "text": "Drawer Navigation"
+      },
+      {
+        "id": "48a9bde6433b4740bad10923f71af926",
+        "text": "Uso de APIs disponibles con C#"
+      }
+    ],
+    "selected": "Master–detail"
+  },
+  {
+    "id": "_256472977_1",
+    "question": "¿Qué patrón permite contener títulos, aunque no son interactivos sirven para organizar en temas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ff43df19afe84985bd51e063a44e9e42",
+        "text": "Master-detail"
+      },
+      {
+        "id": "22a63057fed740e6ab6515704b1b1ca7",
+        "text": "Factory"
+      },
+      {
+        "id": "ebcf3d5f7d24461c8077972670c4e01c",
+        "text": "Navigation drawer"
+      },
+      {
+        "id": "9bae903ca4b2450b83ba399ce4e41bea",
+        "text": "Builder"
+      },
+      {
+        "id": "2c5982b035fb48bc98501f9c5ba6cca1",
+        "text": "Multi tolos"
+      }
+    ],
+    "selected": "Navigation drawer"
+  },
+  {
+    "id": "_256472978_1",
+    "question": "¿Con que extensión en .NET se guarda una Master Page?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "110af149530e4299b6d9e771a302cc99",
+        "text": ".master"
+      },
+      {
+        "id": "08d27515f88d40eb9d850d5027463be9",
+        "text": ".txt"
+      },
+      {
+        "id": "b3e4fc1099a144399a2a9f9ed9510e2c",
+        "text": ".cfp"
+      },
+      {
+        "id": "e221146f77e14d698adcc19354832225",
+        "text": ".docx"
+      },
+      {
+        "id": "db0a88b8321248f989f31fb460ddb566",
+        "text": ".dll"
+      }
+    ],
+    "selected": ".master"
+  },
+  {
+    "id": "_256472979_1",
+    "question": "¿Cuál es una ventaja asociada con Xamarin?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6c385c75841c4819819a2b8ea5b8d32a",
+        "text": "Permite acelerar el tráfico de la web."
+      },
+      {
+        "id": "8f37736c667a454e868e981ce0032198",
+        "text": "Es una librería JSON."
+      },
+      {
+        "id": "a82d9fce24ce494397d169ee340fbe2e",
+        "text": "Capacidad de compartir su código en todas las plataformas"
+      },
+      {
+        "id": "243e9c35c165407985c45117b813d62f",
+        "text": "Es una plataforma web."
+      },
+      {
+        "id": "32ff9744bda04e64a34566128811a9e0",
+        "text": "Asigna permiso de usuario al servidor web"
+      }
+    ],
+    "selected": "Capacidad de compartir su código en todas las plataformas"
+  },
+  {
+    "id": "_256472980_1",
+    "question": "¿Cuál es un proceso esencial para la publicación de proyectos con Xamarin?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b6406a38d8f741c9b24acd26444ad7da",
+        "text": "Distribución"
+      },
+      {
+        "id": "64340990a6254a7eb506d412b2880643",
+        "text": "Realizar el cronograma de publicaciones"
+      },
+      {
+        "id": "6b986faed7b54668aee0c288d81a344b",
+        "text": "Informar al desarrollador web"
+      },
+      {
+        "id": "c75deacebfbd41f18952dd2fc76007b1",
+        "text": "Implementación de Diagrama de procesos"
+      },
+      {
+        "id": "5c138254fa1c454a91c127616590a2f1",
+        "text": "Diseñar los objetos del proyecto web"
+      }
+    ],
+    "selected": "Distribución"
+  },
+  {
+    "id": "_256472981_1",
+    "question": "¿Para crear el identificador de nuestra aplicación, la opción correcta es?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5440de64d3a54f22b6c8c481a14d05f7",
+        "text": "Functions"
+      },
+      {
+        "id": "0b0e578d624f4ca383f3ad7743d421d0",
+        "text": "Controlers"
+      },
+      {
+        "id": "abc25a9e8b464167a3e6ddf9f4e316bb",
+        "text": "Identifiers"
+      },
+      {
+        "id": "a4b8467c26544fd8bdb926e2aa577b62",
+        "text": "Selects;"
+      },
+      {
+        "id": "937f8bb9fb3f494199d549e4b8cfdd07",
+        "text": "DataSelects"
+      }
+    ],
+    "selected": "Identifiers"
+  },
+  {
+    "id": "_256472982_1",
+    "question": "¿A qué se refiere con publicar tu App?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fc5b7d1700bb4655b5fdb55da0992b6b",
+        "text": "Proceso por el cual tu app se pone a disposición de los usuarios"
+      },
+      {
+        "id": "7b538eeda1824816bbb38ec429bc075a",
+        "text": "Proceso para reducir costos de tu app"
+      },
+      {
+        "id": "d0194d33bacc48448811e8ffb8219827",
+        "text": "Técnica para subir tu app a la nube"
+      },
+      {
+        "id": "8f42864f088f4b8b8d5647c3b92c9714",
+        "text": "Método de subir tu app a la niebla"
+      },
+      {
+        "id": "af4208a4be5a4f89bc472369a93cead5",
+        "text": "Que tengas ganancias por tu App"
+      }
+    ],
+    "selected": "Proceso por el cual tu app se pone a disposición de los usuarios"
+  },
+  {
+    "id": "_256472983_1",
+    "question": "¿Las aplicaciones Xamarin. Android se compilan usando el lenguaje?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5020e47e22ca46958170e2bddbfab4e4",
+        "text": "C#"
+      },
+      {
+        "id": "55991e9619d6440ab14b40143e132499",
+        "text": "Java"
+      },
+      {
+        "id": "6e10ead4310a40f0a9eab40183c33bcc",
+        "text": "PHP"
+      },
+      {
+        "id": "399d69b98b354a409f8587a2ab5c4af7",
+        "text": "CSS"
+      },
+      {
+        "id": "9076701ef08c4290b3636ef6124a2544",
+        "text": "Basic"
+      }
+    ],
+    "selected": "C#"
+  },
+  {
+    "id": "_256472984_1",
+    "question": "¿Qué es XML?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d5be255820e441959ec515451abdf445",
+        "text": "Es un estilo de arquitectura"
+      },
+      {
+        "id": "98e21aa885f540789d1ad468bb9b9e1b",
+        "text": "Es un meta lenguaje que permite definir lenguajes de marcado"
+      },
+      {
+        "id": "6782a9bb478a4157a0df814de754f41d",
+        "text": "Se trata de un formato para describir servicios web"
+      },
+      {
+        "id": "14012deb374449feb0ce233a54917b69",
+        "text": "Protocolo estándar que posibilita que dos objetos se puedan comunicar"
+      },
+      {
+        "id": "9c0257cb39ee4a8fb74204001f2a1c5d",
+        "text": "Formato ligero para el intercambio de datos"
+      }
+    ],
+    "selected": "Es un meta lenguaje que permite definir lenguajes de marcado"
+  },
+  {
+    "id": "_256472985_1",
+    "question": "¿Es correcto afirmar sobre servicios REST?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "8852f0280c344b57a8d8f39bb6a77901",
+        "text": "Son herramientas para Casos de uso"
+      },
+      {
+        "id": "0db2b9ac541c4cb987030f71551214d0",
+        "text": "Son herramientas CASE"
+      },
+      {
+        "id": "c6e6afcfe7664490a82c2600fa81b14d",
+        "text": "Son herramientas que nos permite armar y enviar peticiones REST para testear una comunicación entre cliente y servidor"
+      },
+      {
+        "id": "9f60511a717f4051a33fca0d2fae7db4",
+        "text": "Son herramientas para el análisis de datos"
+      },
+      {
+        "id": "4ee4a86f6e3344d79351ab9c12cd055a",
+        "text": "Son herramientas para DataMart"
+      }
+    ],
+    "selected": "Son herramientas que nos permite armar y enviar peticiones REST para testear una comunicación entre cliente y servidor"
+  },
+  {
+    "id": "_256472986_1",
+    "question": "¿Cuál es el método HTTP que actualiza o cambia el estado de un recurso del servidor?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2f32bde461724b4bac1c4aad5dac9357",
+        "text": "POST"
+      },
+      {
+        "id": "843398d446fd40c4848f3a1e059740a8",
+        "text": "HEAD"
+      },
+      {
+        "id": "15c6e0c609514c0fabd66232bc36d865",
+        "text": "GET"
+      },
+      {
+        "id": "d21e729862af4cb9915ab12f3e227651",
+        "text": "DELETE"
+      },
+      {
+        "id": "bff1bc92e6854fa5b8fac674588841e7",
+        "text": "PUT"
+      }
+    ],
+    "selected": "PUT"
+  },
+  {
+    "id": "_256472987_1",
+    "question": "Diferencia entre servicios SOAP y REST",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9cf833f8730c4439bf735c680fa7cb1a",
+        "text": "REST generalmente no utiliza el protocolo SSL, SOAP siempre utiliza SSL"
+      },
+      {
+        "id": "c07ebb4eddfa43ee835a28cefa2caafb",
+        "text": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+      },
+      {
+        "id": "13b6f889e5014a079a7f54bbd196b4a6",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "8ef0098cbbdd4f5ba14c286f4d697c6f",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "1391366cd2424da68262e3adc5fb3411",
+        "text": "Son iguales, no existe diferencia"
+      }
+    ],
+    "selected": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+  },
+  {
+    "id": "_256472988_1",
+    "question": "¿Desde qué clase puede ser poblada dinámicamente un Listview?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ed17805e27324bdf9c9a70b197e1dd81",
+        "text": "resources"
+      },
+      {
+        "id": "e41530862b5f4b5a8eeba4a20046c327",
+        "text": "String-array"
+      },
+      {
+        "id": "5c696cb1ce9148b1a525c51a978bf4e3",
+        "text": "Choice Mode"
+      },
+      {
+        "id": "05548cefe15747899759e910d74edf32",
+        "text": "ArrayAdapter"
+      },
+      {
+        "id": "dd9e7597ffd54046b01dc07e3215e00a",
+        "text": "ArayString"
+      }
+    ],
+    "selected": "ArrayAdapter"
+  },
+  {
+    "id": "_256472989_1",
+    "question": "¿A qué se refiere el siguiente enunciado? “Objeto que nos permite mostrar una lista de elementos desplazables”.",
+    "correct": false,
+    "answers": [
+      {
+        "id": "183b027d9e7940afbd415bdcefbe3e83",
+        "text": "MainActivity"
+      },
+      {
+        "id": "6b9765f271b34eb39b9c9d3107dc6460",
+        "text": "ArrayAdapter"
+      },
+      {
+        "id": "03702a27a9c044f285fb320c27448983",
+        "text": "Add"
+      },
+      {
+        "id": "2dff69f5c8c84ceba0a49a95492667f4",
+        "text": "ListView"
+      },
+      {
+        "id": "6004ea7914234fc7943e94bd96dfbe59",
+        "text": "ClickListener"
+      }
+    ],
+    "selected": "ListView"
+  },
+  {
+    "id": "_256472990_1",
+    "question": "A que está asociada la siguiente expresión, “Crear una plantilla de datos con un tipo y creación de una plantilla de datos como recurso”?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "802d6b2388d9407dabd829dd7da99198",
+        "text": "DataMart"
+      },
+      {
+        "id": "2cc4d9fc77b54b158c42cafb01cb981d",
+        "text": "Database"
+      },
+      {
+        "id": "b938fe68e4744d1cbda62b1f51390d96",
+        "text": "Datareport"
+      },
+      {
+        "id": "fe01e021715a46ae80fd358908c9de2d",
+        "text": "Dataform"
+      },
+      {
+        "id": "c820a836504c425e926f7707303e6bf2",
+        "text": "Data Template"
+      }
+    ],
+    "selected": "Data Template"
+  },
+  {
+    "id": "_256472991_1",
+    "question": "Contiene un componente de scroll que permite generar desplazamiento vertical cuando se agota la pantalla para los elementos de una lista a mostrar",
+    "correct": true,
+    "answers": [
+      {
+        "id": "499c55ac6eb34bc8a5781b7746da7c99",
+        "text": "ListMode"
+      },
+      {
+        "id": "9d06dee7033842ff91596c4505a0274d",
+        "text": "Scroller"
+      },
+      {
+        "id": "de77f8ba79cb44e7a6c6dbcd0bce47d0",
+        "text": "Navegation mode"
+      },
+      {
+        "id": "1bcc4b6b3c754d82afa594dcfacab7e3",
+        "text": "Visualizador"
+      },
+      {
+        "id": "2d0a49281d304d028b519b2105d20c79",
+        "text": "ListView"
+      }
+    ],
+    "selected": "ListView"
+  },
+  {
+    "id": "_256472992_1",
+    "question": "En MVVM, es un actor intermediario entre el modelo y la vista, contiene toda la lógica de presentación y se comporta como una abstracción de la interfaz.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "54ebf1509a5e4261ab33ebbba7b608de",
+        "text": "View"
+      },
+      {
+        "id": "082eb82496534e67a731d033dce1ba1b",
+        "text": "Patrón MVVM"
+      },
+      {
+        "id": "de1cb3c037c94cdfbade7b1f67c97c5f",
+        "text": "Binders"
+      },
+      {
+        "id": "74510a8300e845b4a54e13bc60061d8f",
+        "text": "Model"
+      },
+      {
+        "id": "a6db44a423a644f7bd54fc0b572ae85e",
+        "text": "ViewModel"
+      }
+    ],
+    "selected": "ViewModel"
+  },
+  {
+    "id": "_256472993_1",
+    "question": "¿Qué es un patrón de diseño?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "06b036f43bb140189da9b79481c51e6e",
+        "text": "Es el objeto del dominio y que contiene información"
+      },
+      {
+        "id": "f15ece4a8ac044619ea115ad74e15540",
+        "text": "Elementos visuales para mostrarlos a los usuarios"
+      },
+      {
+        "id": "7e4f81c97ee54d28b3f6576daab5cd53",
+        "text": "La lógica de presentación"
+      },
+      {
+        "id": "44d52ae48db6406fa24184e15e2e3ae3",
+        "text": "Se encarga de mostrar una vista y nuestra lógica del negocio"
+      },
+      {
+        "id": "a411638e3b9548e88d07d90ebdbdc3f2",
+        "text": "Técnica para resolver problemas comunes en el desarrollo de software y diseño de interacción o interfaces"
+      }
+    ],
+    "selected": "Se encarga de mostrar una vista y nuestra lógica del negocio"
+  },
+  {
+    "id": "_256472994_1",
+    "question": "¿Qué es un DataBinding?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "529ff869f9e14656933e7f8e1daea610",
+        "text": "Es una biblioteca de vinculación de datos"
+      },
+      {
+        "id": "e8787aa0f27c4559927185e3d45b7016",
+        "text": "Es un objeto de análisis de datos"
+      },
+      {
+        "id": "df9153baa7a441089981a1840d1c9d2f",
+        "text": "Es una librería de modelado de datos"
+      },
+      {
+        "id": "82b5b6a4da3f4b53a5711b0dc9f7fb82",
+        "text": "Es una respuesta del servidor de Base de Datos"
+      },
+      {
+        "id": "8d4857b7218d45bc817f14ef2649e5db",
+        "text": "Es una clase de conexión a datos"
+      }
+    ],
+    "selected": "Es una biblioteca de vinculación de datos"
+  },
+  {
+    "id": "_256472995_1",
+    "question": "En MVVM, ¿cuál es la parte visual de la aplicación",
+    "correct": true,
+    "answers": [
+      {
+        "id": "0cdc1c034e504993850a85d9e0795b07",
+        "text": "Model"
+      },
+      {
+        "id": "3e75577ca9114a47acdd6f27366b4764",
+        "text": "Strings.xml"
+      },
+      {
+        "id": "d8192007a0d849a29140d6e064b7494d",
+        "text": "View Models"
+      },
+      {
+        "id": "04bb20c4fdd34894a761a2b5e0e4939f",
+        "text": "MainActivity.cs"
+      },
+      {
+        "id": "88a9890ea30445f8b946ca5d88b3e29e",
+        "text": "Views"
+      }
+    ],
+    "selected": "Views"
+  }
+]

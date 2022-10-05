@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_256483755_1",
+    "question": "¿Para qué sirve el método POST dentro del servicio REST?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "f1c603262756447ab4bbc31cbc1a013e",
+        "text": "Realizar reportes online."
+      },
+      {
+        "id": "5d6e5773c15247f38ebbd45c7ff2c83a",
+        "text": "Mandar archivos a un servidor web."
+      },
+      {
+        "id": "287e5dc1967c4b38a7c4316ea32c8612",
+        "text": "Crear recursos nuevos"
+      },
+      {
+        "id": "c9aabf527edc42a7ac34cf4844ae080e",
+        "text": "Crear recursos nuevos"
+      },
+      {
+        "id": "0a93c5757f5a47d7b8428f7b51f67a9a",
+        "text": "Analizar bases de datos SQL server"
+      }
+    ],
+    "selected": "Crear recursos nuevos"
+  },
+  {
+    "id": "_256483756_1",
+    "question": "Diferencia entre servicios SOAP y REST",
+    "correct": false,
+    "answers": [
+      {
+        "id": "8ef0098cbbdd4f5ba14c286f4d697c6f",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "1391366cd2424da68262e3adc5fb3411",
+        "text": "Son iguales, no existe diferencia"
+      },
+      {
+        "id": "13b6f889e5014a079a7f54bbd196b4a6",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "c07ebb4eddfa43ee835a28cefa2caafb",
+        "text": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+      },
+      {
+        "id": "9cf833f8730c4439bf735c680fa7cb1a",
+        "text": "REST generalmente no utiliza el protocolo SSL, SOAP siempre utiliza SSL"
+      }
+    ],
+    "selected": "SOAP usa XML y REST no usa XML, usa JSON"
+  },
+  {
+    "id": "_256483757_1",
+    "question": "¿Qué es REST?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "5ac1239c8cc14d27a1d7fcce09080102",
+        "text": "Se trata de un formato para describir servicios web"
+      },
+      {
+        "id": "3d093ce45c6641e2819dd7a64d68c832",
+        "text": "Es un estilo de arquitectura software que define un conjunto de principios para el diseño de servicios web"
+      },
+      {
+        "id": "894f76b2c8d148e5b13c9e58eb1a5a72",
+        "text": "Protocolo estándar que posibilita que dos objetos se puedan comunicar"
+      },
+      {
+        "id": "30244349457045b9bb5174228e86fbf9",
+        "text": "Formato ligero para el intercambio de datos"
+      },
+      {
+        "id": "8b2e6ee290a94100ba2df38fb8c84642",
+        "text": "Es un meta lenguaje que permite definir lenguajes de marcado"
+      }
+    ],
+    "selected": "Se trata de un formato para describir servicios web"
+  },
+  {
+    "id": "_256483758_1",
+    "question": "¿A qué se refiere el concepto de que Es una de las principales características de un servicio web REST, ya que proporciona una serie de métodos que permiten a la aplicación cliente realizar operaciones sobre determinados recursos del servidor web?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "013d1555a0924f80baba6604d1bc5391",
+        "text": "Servicio P2P"
+      },
+      {
+        "id": "e2a1816429ce48bd9ef14abd9dfdbcdd",
+        "text": "Protocolo de comunicación"
+      },
+      {
+        "id": "ba0e07fc490a4039899344cf776fcea7",
+        "text": "Arquitectura cliente servidor"
+      },
+      {
+        "id": "6a08036a118f455a8a1650d0cc4953a2",
+        "text": "Servicio web"
+      },
+      {
+        "id": "f7501330ee064c64b7e46a238c4fdaa5",
+        "text": "Métodos HTTP de forma explicita"
+      }
+    ],
+    "selected": "Métodos HTTP de forma explicita"
+  },
+  {
+    "id": "_256483759_1",
+    "question": "¿Qué es un DataBinding?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "e8787aa0f27c4559927185e3d45b7016",
+        "text": "Es un objeto de análisis de datos"
+      },
+      {
+        "id": "8d4857b7218d45bc817f14ef2649e5db",
+        "text": "Es una clase de conexión a datos"
+      },
+      {
+        "id": "df9153baa7a441089981a1840d1c9d2f",
+        "text": "Es una librería de modelado de datos"
+      },
+      {
+        "id": "529ff869f9e14656933e7f8e1daea610",
+        "text": "Es una biblioteca de vinculación de datos"
+      },
+      {
+        "id": "82b5b6a4da3f4b53a5711b0dc9f7fb82",
+        "text": "Es una respuesta del servidor de Base de Datos"
+      }
+    ],
+    "selected": "Es una clase de conexión a datos"
+  },
+  {
+    "id": "_256483760_1",
+    "question": "En MVVM, es un actor intermediario entre el modelo y la vista, contiene toda la lógica de presentación y se comporta como una abstracción de la interfaz.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "74510a8300e845b4a54e13bc60061d8f",
+        "text": "Model"
+      },
+      {
+        "id": "54ebf1509a5e4261ab33ebbba7b608de",
+        "text": "View"
+      },
+      {
+        "id": "de1cb3c037c94cdfbade7b1f67c97c5f",
+        "text": "Binders"
+      },
+      {
+        "id": "a6db44a423a644f7bd54fc0b572ae85e",
+        "text": "ViewModel"
+      },
+      {
+        "id": "082eb82496534e67a731d033dce1ba1b",
+        "text": "Patrón MVVM"
+      }
+    ],
+    "selected": "ViewModel"
+  },
+  {
+    "id": "_256483761_1",
+    "question": "¿Quién es el responsable de ajustar el modelo y preparar los datos observables que necesita la vista en MVVM?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b711d61565ee4230825cd2d796d22772",
+        "text": "Model"
+      },
+      {
+        "id": "228c2a6009194a24bd27424d63a9bf56",
+        "text": "Controlador"
+      },
+      {
+        "id": "1aca34b7ed19401c8cfc72455c1a3c55",
+        "text": "Código"
+      },
+      {
+        "id": "a75e06ade51a4a4e899c8094970f9c17",
+        "text": "Vista"
+      },
+      {
+        "id": "2a0c91f11b864efebe84dad402bcfb0a",
+        "text": "ViewModel"
+      }
+    ],
+    "selected": "ViewModel"
+  },
+  {
+    "id": "_256483762_1",
+    "question": "En MVVM, ¿cuál es la parte visual de la aplicación",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d8192007a0d849a29140d6e064b7494d",
+        "text": "View Models"
+      },
+      {
+        "id": "0cdc1c034e504993850a85d9e0795b07",
+        "text": "Model"
+      },
+      {
+        "id": "88a9890ea30445f8b946ca5d88b3e29e",
+        "text": "Views"
+      },
+      {
+        "id": "04bb20c4fdd34894a761a2b5e0e4939f",
+        "text": "MainActivity.cs"
+      },
+      {
+        "id": "3e75577ca9114a47acdd6f27366b4764",
+        "text": "Strings.xml"
+      }
+    ],
+    "selected": "Views"
+  },
+  {
+    "id": "_256483763_1",
+    "question": "¿Desde qué clase puede ser poblada estáticamente un ListView?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "a78ddf1cc9914909b10d274077a28c32",
+        "text": "string-array"
+      },
+      {
+        "id": "ed2fd4f8d47c4c12b67432fcfc3fb2c6",
+        "text": "ArayString"
+      },
+      {
+        "id": "6b512780fc9f4c8cbb13e1ba27b9c247",
+        "text": "resources"
+      },
+      {
+        "id": "7fa1ee4ef7774203a613ab0f9db3951c",
+        "text": "ArrayAdapter"
+      },
+      {
+        "id": "84e6315a0c654d80b45d522ee1dc114b",
+        "text": "Choice Mode"
+      }
+    ],
+    "selected": "ArrayAdapter"
+  },
+  {
+    "id": "_256483764_1",
+    "question": "A que está asociada la siguiente expresión, “Crear una plantilla de datos con un tipo y creación de una plantilla de datos como recurso”?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2cc4d9fc77b54b158c42cafb01cb981d",
+        "text": "Database"
+      },
+      {
+        "id": "c820a836504c425e926f7707303e6bf2",
+        "text": "Data Template"
+      },
+      {
+        "id": "802d6b2388d9407dabd829dd7da99198",
+        "text": "DataMart"
+      },
+      {
+        "id": "fe01e021715a46ae80fd358908c9de2d",
+        "text": "Dataform"
+      },
+      {
+        "id": "b938fe68e4744d1cbda62b1f51390d96",
+        "text": "Datareport"
+      }
+    ],
+    "selected": "Data Template"
+  },
+  {
+    "id": "_256483765_1",
+    "question": "¿A qué se refiere el siguiente enunciado? “Objeto que nos permite mostrar una lista de elementos desplazables”.",
+    "correct": false,
+    "answers": [
+      {
+        "id": "03702a27a9c044f285fb320c27448983",
+        "text": "Add"
+      },
+      {
+        "id": "6b9765f271b34eb39b9c9d3107dc6460",
+        "text": "ArrayAdapter"
+      },
+      {
+        "id": "6004ea7914234fc7943e94bd96dfbe59",
+        "text": "ClickListener"
+      },
+      {
+        "id": "2dff69f5c8c84ceba0a49a95492667f4",
+        "text": "ListView"
+      },
+      {
+        "id": "183b027d9e7940afbd415bdcefbe3e83",
+        "text": "MainActivity"
+      }
+    ],
+    "selected": "ListView"
+  },
+  {
+    "id": "_256483766_1",
+    "question": "Para añadir cabeceras y/o pies de página se requiere usar un adaptador a un ListView denominado",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c8b541b1678f4e2692b1fa549be97cee",
+        "text": "SwipeView"
+      },
+      {
+        "id": "a16646c62c2a4948bf11567a4bd73ef0",
+        "text": "WrapperListAdapter"
+      },
+      {
+        "id": "572974cbd8e449048a38de460b53eb82",
+        "text": "ListMode"
+      },
+      {
+        "id": "68709a03ba8f47fda2f2db90a198c156",
+        "text": "Adaptador de lista"
+      },
+      {
+        "id": "976c83c6d2b945d0ab04674f9c68454c",
+        "text": "Atributo XML"
+      }
+    ],
+    "selected": "WrapperListAdapter"
+  },
+  {
+    "id": "_256483767_1",
+    "question": "¿Para crear el identificador de nuestra aplicación, la opción correcta es?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "abc25a9e8b464167a3e6ddf9f4e316bb",
+        "text": "Identifiers"
+      },
+      {
+        "id": "a4b8467c26544fd8bdb926e2aa577b62",
+        "text": "Selects;"
+      },
+      {
+        "id": "5440de64d3a54f22b6c8c481a14d05f7",
+        "text": "Functions"
+      },
+      {
+        "id": "937f8bb9fb3f494199d549e4b8cfdd07",
+        "text": "DataSelects"
+      },
+      {
+        "id": "0b0e578d624f4ca383f3ad7743d421d0",
+        "text": "Controlers"
+      }
+    ],
+    "selected": "Identifiers"
+  },
+  {
+    "id": "_256483768_1",
+    "question": "¿Qué debemos quitar del archivo manifiesto como mínimo para configurar una App para el lanzamiento?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "fc01b9b3b1a14637b7901ad3a3c0b8dd",
+        "text": "Las llamadas log y el atributo debuggable"
+      },
+      {
+        "id": "677326a635b6458c9b024f4e113ec41b",
+        "text": "Archivos de compilación"
+      },
+      {
+        "id": "8bc1835bfe9347f2877ccb6539674792",
+        "text": "Archivos de código fuente"
+      },
+      {
+        "id": "33f29e4a5fe341b69091baea98821b26",
+        "text": "Código residual"
+      },
+      {
+        "id": "9d2be6f5e8b4486183bef8daf8717ec2",
+        "text": "Código no compilado"
+      }
+    ],
+    "selected": "Código residual"
+  },
+  {
+    "id": "_256483769_1",
+    "question": "Indique la característica incorrecta de publicar una aplicación en Google Play",
+    "correct": false,
+    "answers": [
+      {
+        "id": "4ff2e5c6c479451493ef3bfc77d9b4d1",
+        "text": "Registrar la cuenta del desarrollador"
+      },
+      {
+        "id": "1fa0b89bc0104f7c91fb1945023f9f0e",
+        "text": "Solo el desarrollador de la aplicación podrá crear actualizaciones"
+      },
+      {
+        "id": "6cca603a70904bfbbe03f9d2828d93d5",
+        "text": "Se requiere un certificado"
+      },
+      {
+        "id": "c117406d54254c34a5a02ef6d3b3bdb8",
+        "text": "Se debe de generar un archivo firmado"
+      },
+      {
+        "id": "536cfc283fff495aa90eaeb25cf82122",
+        "text": "Se requiere exclusivamente un archivo APK"
+      }
+    ],
+    "selected": "Se requiere un certificado"
+  },
+  {
+    "id": "_256483770_1",
+    "question": "¿Las aplicaciones Xamarin. Android se compilan usando el lenguaje?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "399d69b98b354a409f8587a2ab5c4af7",
+        "text": "CSS"
+      },
+      {
+        "id": "6e10ead4310a40f0a9eab40183c33bcc",
+        "text": "PHP"
+      },
+      {
+        "id": "9076701ef08c4290b3636ef6124a2544",
+        "text": "Basic"
+      },
+      {
+        "id": "55991e9619d6440ab14b40143e132499",
+        "text": "Java"
+      },
+      {
+        "id": "5020e47e22ca46958170e2bddbfab4e4",
+        "text": "C#"
+      }
+    ],
+    "selected": "C#"
+  },
+  {
+    "id": "_256483771_1",
+    "question": "¿Qué tipo de control especial debe contener una Master Page en .NET?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "67d3904243a04480a1bbfe090c583a13",
+        "text": "Lista ordenada"
+      },
+      {
+        "id": "8b1348edc9b64411bdba4e1404945293",
+        "text": "Div"
+      },
+      {
+        "id": "e07166d4b5eb4b79858fd4675c8d4fd3",
+        "text": "ListView"
+      },
+      {
+        "id": "551386abbf62475095591603e1348da0",
+        "text": "ContenPlaceHolder"
+      },
+      {
+        "id": "c22f0d66d9ad4b8594c2f513246c85bf",
+        "text": "ViewList"
+      }
+    ],
+    "selected": "ContenPlaceHolder"
+  },
+  {
+    "id": "_256483772_1",
+    "question": "Es el diseño de la interfaz de usuario de la computadora, muestra una lista y los detalles del elemento seleccionado actualmente",
+    "correct": true,
+    "answers": [
+      {
+        "id": "11f1e2f08f884428bb2559df18a428e0",
+        "text": "Master–detail"
+      },
+      {
+        "id": "eb53fbf4e4e548c6b19684f241b6381c",
+        "text": "Xamarin"
+      },
+      {
+        "id": "5cd3b1ddca8743e08f8f0ecf05c20d7d",
+        "text": "Drawer Navigation"
+      },
+      {
+        "id": "48a9bde6433b4740bad10923f71af926",
+        "text": "Uso de APIs disponibles con C#"
+      },
+      {
+        "id": "1fcd732e3fde4eb9ab9b309d9c4402ff",
+        "text": "Mediante Visual Studio"
+      }
+    ],
+    "selected": "Master–detail"
+  },
+  {
+    "id": "_256483773_1",
+    "question": "¿Cuál es una ventaja asociada con Xamarin?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6c385c75841c4819819a2b8ea5b8d32a",
+        "text": "Permite acelerar el tráfico de la web."
+      },
+      {
+        "id": "243e9c35c165407985c45117b813d62f",
+        "text": "Es una plataforma web."
+      },
+      {
+        "id": "8f37736c667a454e868e981ce0032198",
+        "text": "Es una librería JSON."
+      },
+      {
+        "id": "a82d9fce24ce494397d169ee340fbe2e",
+        "text": "Capacidad de compartir su código en todas las plataformas"
+      },
+      {
+        "id": "32ff9744bda04e64a34566128811a9e0",
+        "text": "Asigna permiso de usuario al servidor web"
+      }
+    ],
+    "selected": "Capacidad de compartir su código en todas las plataformas"
+  },
+  {
+    "id": "_256483774_1",
+    "question": "¿Con que extensión en .NET se guarda una Master Page?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "08d27515f88d40eb9d850d5027463be9",
+        "text": ".txt"
+      },
+      {
+        "id": "b3e4fc1099a144399a2a9f9ed9510e2c",
+        "text": ".cfp"
+      },
+      {
+        "id": "db0a88b8321248f989f31fb460ddb566",
+        "text": ".dll"
+      },
+      {
+        "id": "110af149530e4299b6d9e771a302cc99",
+        "text": ".master"
+      },
+      {
+        "id": "e221146f77e14d698adcc19354832225",
+        "text": ".docx"
+      }
+    ],
+    "selected": ".master"
+  }
+]

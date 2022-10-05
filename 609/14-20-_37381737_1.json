@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_256465609_1",
+    "question": "¿Para qué sirve el método POST dentro del servicio REST?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c9aabf527edc42a7ac34cf4844ae080e",
+        "text": "Crear recursos nuevos"
+      },
+      {
+        "id": "5d6e5773c15247f38ebbd45c7ff2c83a",
+        "text": "Mandar archivos a un servidor web."
+      },
+      {
+        "id": "287e5dc1967c4b38a7c4316ea32c8612",
+        "text": "Crear recursos nuevos"
+      },
+      {
+        "id": "0a93c5757f5a47d7b8428f7b51f67a9a",
+        "text": "Analizar bases de datos SQL server"
+      },
+      {
+        "id": "f1c603262756447ab4bbc31cbc1a013e",
+        "text": "Realizar reportes online."
+      }
+    ],
+    "selected": "Crear recursos nuevos"
+  },
+  {
+    "id": "_256465610_1",
+    "question": "Modificar un recurso, que no es un recurso de dato en REST hace referencial método",
+    "correct": false,
+    "answers": [
+      {
+        "id": "55097faf598744498399c5801d7b24cb",
+        "text": "DELETE"
+      },
+      {
+        "id": "dcd58d63c6b9460f886dd3f8d3727579",
+        "text": "PUT"
+      },
+      {
+        "id": "ee287549e4384d64947d5f0b69ee3bd4",
+        "text": "POST"
+      },
+      {
+        "id": "2652465b95544acfb3f585b003290d67",
+        "text": "HEAD"
+      },
+      {
+        "id": "19580c0da47b48ed8505ff2a59959d87",
+        "text": "PATCH"
+      }
+    ],
+    "selected": "PUT"
+  },
+  {
+    "id": "_256465611_1",
+    "question": "¿Qué librería se debe usar para realizar peticiones usando los verbos HTTP y utilizar con notaciones Java?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a20965754c3d4abd92c01b4b9667b81a",
+        "text": "Retrofit"
+      },
+      {
+        "id": "11b4787962c6437e888a036e4fe28464",
+        "text": "JSONPlaceholder"
+      },
+      {
+        "id": "baed6a24bb1f4e6d844fd276eddfb15c",
+        "text": "AndroidManifest"
+      },
+      {
+        "id": "7bfde6a8b5314b238396fa9293079967",
+        "text": "Converter-gson"
+      },
+      {
+        "id": "7bfbb0add8a94c108010f57b5c666acf",
+        "text": "Implementation"
+      }
+    ],
+    "selected": "Retrofit"
+  },
+  {
+    "id": "_256465612_1",
+    "question": "Diferencia entre servicios SOAP y REST",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9cf833f8730c4439bf735c680fa7cb1a",
+        "text": "REST generalmente no utiliza el protocolo SSL, SOAP siempre utiliza SSL"
+      },
+      {
+        "id": "c07ebb4eddfa43ee835a28cefa2caafb",
+        "text": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+      },
+      {
+        "id": "1391366cd2424da68262e3adc5fb3411",
+        "text": "Son iguales, no existe diferencia"
+      },
+      {
+        "id": "13b6f889e5014a079a7f54bbd196b4a6",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "8ef0098cbbdd4f5ba14c286f4d697c6f",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      }
+    ],
+    "selected": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+  },
+  {
+    "id": "_256465613_1",
+    "question": "¿Qué contiene una Master Page en .NET?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a81389ac00f0441c94e6db759dd1dfe1",
+        "text": "iconos e imágenes"
+      },
+      {
+        "id": "731abbc6022f498cb2b9b8f31f75fbdc",
+        "text": "menú principal y slider"
+      },
+      {
+        "id": "cb5bc29c063444dabca39728d792626d",
+        "text": "imágenes y texto"
+      },
+      {
+        "id": "1d10a07f40714f2887e29e3a36d88311",
+        "text": "slider y menú"
+      },
+      {
+        "id": "57d6a3149dd54b56bac920768ca5d01c",
+        "text": "Marcas y controles"
+      }
+    ],
+    "selected": "Marcas y controles"
+  },
+  {
+    "id": "_256465614_1",
+    "question": "Sirve para que podamos colocar 2 aplicaciones en cada mitad de una pantalla móvil",
+    "correct": true,
+    "answers": [
+      {
+        "id": "18ce22841d874b5d903f50e32f460368",
+        "text": "Drawer"
+      },
+      {
+        "id": "f55c342f114b42be985d377f5b6055f2",
+        "text": "Split View"
+      },
+      {
+        "id": "cb4ad5bcc4a64555a905a39848928b90",
+        "text": "Master–detail"
+      },
+      {
+        "id": "171711711d214759a61d220a91687751",
+        "text": "ListView"
+      },
+      {
+        "id": "934fd6a1f833401794f383114c1146b0",
+        "text": "Slider"
+      }
+    ],
+    "selected": "Split View"
+  },
+  {
+    "id": "_256465615_1",
+    "question": "¿Qué es una Master Page?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "126dbd8e1e874ad0b5b9fe71b0a93ede",
+        "text": "Página de menú"
+      },
+      {
+        "id": "0336d0f291474625815943db3406231a",
+        "text": "Página principal"
+      },
+      {
+        "id": "f7e2f9ec92694082bda1563e8affbcdf",
+        "text": "Página de encabezado"
+      },
+      {
+        "id": "515835c23bb945d4bd033e11c5a4d059",
+        "text": "Página de listas"
+      },
+      {
+        "id": "685008f49434424fa637ca7f54734d28",
+        "text": "Página de pie"
+      }
+    ],
+    "selected": "Página principal"
+  },
+  {
+    "id": "_256465616_1",
+    "question": "Es el diseño de la interfaz de usuario de la computadora, muestra una lista y los detalles del elemento seleccionado actualmente",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5cd3b1ddca8743e08f8f0ecf05c20d7d",
+        "text": "Drawer Navigation"
+      },
+      {
+        "id": "11f1e2f08f884428bb2559df18a428e0",
+        "text": "Master–detail"
+      },
+      {
+        "id": "eb53fbf4e4e548c6b19684f241b6381c",
+        "text": "Xamarin"
+      },
+      {
+        "id": "1fcd732e3fde4eb9ab9b309d9c4402ff",
+        "text": "Mediante Visual Studio"
+      },
+      {
+        "id": "48a9bde6433b4740bad10923f71af926",
+        "text": "Uso de APIs disponibles con C#"
+      }
+    ],
+    "selected": "Master–detail"
+  },
+  {
+    "id": "_256465617_1",
+    "question": "¿Cuál es un proceso esencial para la publicación de proyectos con Xamarin?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b6406a38d8f741c9b24acd26444ad7da",
+        "text": "Distribución"
+      },
+      {
+        "id": "6b986faed7b54668aee0c288d81a344b",
+        "text": "Informar al desarrollador web"
+      },
+      {
+        "id": "64340990a6254a7eb506d412b2880643",
+        "text": "Realizar el cronograma de publicaciones"
+      },
+      {
+        "id": "5c138254fa1c454a91c127616590a2f1",
+        "text": "Diseñar los objetos del proyecto web"
+      },
+      {
+        "id": "c75deacebfbd41f18952dd2fc76007b1",
+        "text": "Implementación de Diagrama de procesos"
+      }
+    ],
+    "selected": "Distribución"
+  },
+  {
+    "id": "_256465618_1",
+    "question": "Indique la característica incorrecta de publicar una aplicación en Google Play",
+    "correct": false,
+    "answers": [
+      {
+        "id": "6cca603a70904bfbbe03f9d2828d93d5",
+        "text": "Se requiere un certificado"
+      },
+      {
+        "id": "1fa0b89bc0104f7c91fb1945023f9f0e",
+        "text": "Solo el desarrollador de la aplicación podrá crear actualizaciones"
+      },
+      {
+        "id": "536cfc283fff495aa90eaeb25cf82122",
+        "text": "Se requiere exclusivamente un archivo APK"
+      },
+      {
+        "id": "4ff2e5c6c479451493ef3bfc77d9b4d1",
+        "text": "Registrar la cuenta del desarrollador"
+      },
+      {
+        "id": "c117406d54254c34a5a02ef6d3b3bdb8",
+        "text": "Se debe de generar un archivo firmado"
+      }
+    ],
+    "selected": "Se debe de generar un archivo firmado"
+  },
+  {
+    "id": "_256465619_1",
+    "question": "¿Es correcto afirmar sobre App IDs?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "cabf5af635b845009ce140358e76a450",
+        "text": "Es una librería de Java"
+      },
+      {
+        "id": "ee94d772363645c7b6106228f387be9b",
+        "text": "Es una app de Google"
+      },
+      {
+        "id": "d498cf2ea8e04a159bd6801f8f1d33a4",
+        "text": "Es una aplicación de Google Cloud"
+      },
+      {
+        "id": "61885e301e6849069e15cd4e9236373b",
+        "text": "Es un identificador necesario para publicar una aplicación."
+      },
+      {
+        "id": "e0df54df558342bdb589770a67d29875",
+        "text": "Es una librería de HTML"
+      }
+    ],
+    "selected": "Es un identificador necesario para publicar una aplicación."
+  },
+  {
+    "id": "_256465620_1",
+    "question": "¿Qué debemos quitar del archivo manifiesto como mínimo para configurar una App para el lanzamiento?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "8bc1835bfe9347f2877ccb6539674792",
+        "text": "Archivos de código fuente"
+      },
+      {
+        "id": "fc01b9b3b1a14637b7901ad3a3c0b8dd",
+        "text": "Las llamadas log y el atributo debuggable"
+      },
+      {
+        "id": "9d2be6f5e8b4486183bef8daf8717ec2",
+        "text": "Código no compilado"
+      },
+      {
+        "id": "677326a635b6458c9b024f4e113ec41b",
+        "text": "Archivos de compilación"
+      },
+      {
+        "id": "33f29e4a5fe341b69091baea98821b26",
+        "text": "Código residual"
+      }
+    ],
+    "selected": "Código residual"
+  },
+  {
+    "id": "_256465621_1",
+    "question": "¿Qué tipo de prueba podemos realizar en MVVM?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "783575540f194ac9bc199f4f4019822b",
+        "text": "Testing"
+      },
+      {
+        "id": "ab83e9242a2649a5a69e9204d302cec5",
+        "text": "Deploy test"
+      },
+      {
+        "id": "3020f3890cd349ae819336e06ef24a68",
+        "text": "Test fact"
+      },
+      {
+        "id": "623fee1c82a84e0480ba6e9c62de3040",
+        "text": "Unit test"
+      },
+      {
+        "id": "4138f4a8226446f59a17a68b9d7be8f9",
+        "text": "Deploy Testing"
+      }
+    ],
+    "selected": "Unit test"
+  },
+  {
+    "id": "_256465622_1",
+    "question": "¿Qué es un patrón de diseño?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "44d52ae48db6406fa24184e15e2e3ae3",
+        "text": "Se encarga de mostrar una vista y nuestra lógica del negocio"
+      },
+      {
+        "id": "f15ece4a8ac044619ea115ad74e15540",
+        "text": "Elementos visuales para mostrarlos a los usuarios"
+      },
+      {
+        "id": "7e4f81c97ee54d28b3f6576daab5cd53",
+        "text": "La lógica de presentación"
+      },
+      {
+        "id": "a411638e3b9548e88d07d90ebdbdc3f2",
+        "text": "Técnica para resolver problemas comunes en el desarrollo de software y diseño de interacción o interfaces"
+      },
+      {
+        "id": "06b036f43bb140189da9b79481c51e6e",
+        "text": "Es el objeto del dominio y que contiene información"
+      }
+    ],
+    "selected": "Se encarga de mostrar una vista y nuestra lógica del negocio"
+  },
+  {
+    "id": "_256465623_1",
+    "question": "Contiene la lógica de presentación. Implementa propiedades y comandos que definen funcionalidad que tomará dicha aplicación. ¿A qué hace referencia el enunciado?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "ea096d2bd4754f0ba07450bb5ba043b3",
+        "text": "Controler"
+      },
+      {
+        "id": "67a3cc6c0a3744658115998a71729bc5",
+        "text": "View"
+      },
+      {
+        "id": "09dec63e9bcb4fec8908b705d24c3189",
+        "text": "Model"
+      },
+      {
+        "id": "c4d7c659ccd742c6b8f4e3a33c5572b1",
+        "text": "ViewModel"
+      },
+      {
+        "id": "237fe0acf1ac433a8e626e832aac1636",
+        "text": "ModelControler"
+      }
+    ],
+    "selected": "ViewModel"
+  },
+  {
+    "id": "_256465624_1",
+    "question": "Las siglas MVVM significan:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "3fc12c5ce1c8415da43c9fc4d461e7cd",
+        "text": "Master Value – Value Machine"
+      },
+      {
+        "id": "3f28f1c4a91848c68922f8e84d579ae2",
+        "text": "Model–view–viewmodel"
+      },
+      {
+        "id": "7725bccab9814d538f7e5cb8633133a6",
+        "text": "Machine Virtual – Vintage Machine"
+      },
+      {
+        "id": "6775e6d6eb504334a6068de5f2f1f7d5",
+        "text": "Machine Virtual Virtual Machine"
+      },
+      {
+        "id": "3ec29db96f4d42c3b821a40f07b6892c",
+        "text": "Machine Vox – Vox Machine"
+      }
+    ],
+    "selected": "Model–view–viewmodel"
+  },
+  {
+    "id": "_256465625_1",
+    "question": "¿Cuál no es un paso para definir un ListView?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "e12f5f697a4542c7a03aba81b6da9fec",
+        "text": "Diseñar un layout que lo contenga al listview"
+      },
+      {
+        "id": "b85c1515a19f4baca5872a8bdc14b327",
+        "text": "Diseñar un layout individual que se repetirá en la lista"
+      },
+      {
+        "id": "2b5cdd4fa1d34688a6c2eefa81ee9a66",
+        "text": "Crear un objeto conexión a la fuente de datos"
+      },
+      {
+        "id": "25fbd418e3034fabaaea20682f6ca76b",
+        "text": "Personalizar cada uno de lo layouts individuales según nuestros datos"
+      },
+      {
+        "id": "f748250533064a0190c1be39fc02231b",
+        "text": "Implementar una actividad que lo visualice el layout"
+      }
+    ],
+    "selected": "Diseñar un layout que lo contenga al listview"
+  },
+  {
+    "id": "_256465626_1",
+    "question": "A que está asociada la siguiente expresión, “Crear una plantilla de datos con un tipo y creación de una plantilla de datos como recurso”?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2cc4d9fc77b54b158c42cafb01cb981d",
+        "text": "Database"
+      },
+      {
+        "id": "802d6b2388d9407dabd829dd7da99198",
+        "text": "DataMart"
+      },
+      {
+        "id": "fe01e021715a46ae80fd358908c9de2d",
+        "text": "Dataform"
+      },
+      {
+        "id": "c820a836504c425e926f7707303e6bf2",
+        "text": "Data Template"
+      },
+      {
+        "id": "b938fe68e4744d1cbda62b1f51390d96",
+        "text": "Datareport"
+      }
+    ],
+    "selected": "Data Template"
+  },
+  {
+    "id": "_256465627_1",
+    "question": "Cual no es una característica de ListView",
+    "correct": false,
+    "answers": [
+      {
+        "id": "6f3ef1dd42a54d38bffa0d1291a57ae5",
+        "text": "Es un widget de android que nos permite renderizar una lista de elementos desplazables"
+      },
+      {
+        "id": "cc692219c1174e6e9b314a0e3265f974",
+        "text": "Los datos pueden provenir de un array o una base de datos o desde la red"
+      },
+      {
+        "id": "13fb1572bf7c481e8ecd243def27e111",
+        "text": "Puede crear cabeceras y pies de pagina"
+      },
+      {
+        "id": "5206a47cf6ee481d916369b46272c36a",
+        "text": "Requiere un adaptador para insertar sus elementos"
+      },
+      {
+        "id": "084e697c84ff43158c112d4d8ae123f8",
+        "text": "Controla el comportamiento de una MasterDetailPage"
+      }
+    ],
+    "selected": "Puede crear cabeceras y pies de pagina"
+  },
+  {
+    "id": "_256465628_1",
+    "question": "¿Desde qué clase puede ser poblada dinámicamente un Listview?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e41530862b5f4b5a8eeba4a20046c327",
+        "text": "String-array"
+      },
+      {
+        "id": "05548cefe15747899759e910d74edf32",
+        "text": "ArrayAdapter"
+      },
+      {
+        "id": "5c696cb1ce9148b1a525c51a978bf4e3",
+        "text": "Choice Mode"
+      },
+      {
+        "id": "ed17805e27324bdf9c9a70b197e1dd81",
+        "text": "resources"
+      },
+      {
+        "id": "dd9e7597ffd54046b01dc07e3215e00a",
+        "text": "ArayString"
+      }
+    ],
+    "selected": "ArrayAdapter"
+  }
+]

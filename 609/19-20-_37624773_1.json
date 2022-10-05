@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_258201003_1",
+    "question": "¿Para crear el identificador de nuestra aplicación, la opción correcta es?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0b0e578d624f4ca383f3ad7743d421d0",
+        "text": "Controlers"
+      },
+      {
+        "id": "abc25a9e8b464167a3e6ddf9f4e316bb",
+        "text": "Identifiers"
+      },
+      {
+        "id": "5440de64d3a54f22b6c8c481a14d05f7",
+        "text": "Functions"
+      },
+      {
+        "id": "937f8bb9fb3f494199d549e4b8cfdd07",
+        "text": "DataSelects"
+      },
+      {
+        "id": "a4b8467c26544fd8bdb926e2aa577b62",
+        "text": "Selects;"
+      }
+    ],
+    "selected": "Identifiers"
+  },
+  {
+    "id": "_258201004_1",
+    "question": "¿Las aplicaciones Xamarin. Android se compilan usando el lenguaje?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "399d69b98b354a409f8587a2ab5c4af7",
+        "text": "CSS"
+      },
+      {
+        "id": "6e10ead4310a40f0a9eab40183c33bcc",
+        "text": "PHP"
+      },
+      {
+        "id": "5020e47e22ca46958170e2bddbfab4e4",
+        "text": "C#"
+      },
+      {
+        "id": "9076701ef08c4290b3636ef6124a2544",
+        "text": "Basic"
+      },
+      {
+        "id": "55991e9619d6440ab14b40143e132499",
+        "text": "Java"
+      }
+    ],
+    "selected": "C#"
+  },
+  {
+    "id": "_258201005_1",
+    "question": "¿A qué se refiere con publicar tu App?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "af4208a4be5a4f89bc472369a93cead5",
+        "text": "Que tengas ganancias por tu App"
+      },
+      {
+        "id": "8f42864f088f4b8b8d5647c3b92c9714",
+        "text": "Método de subir tu app a la niebla"
+      },
+      {
+        "id": "fc5b7d1700bb4655b5fdb55da0992b6b",
+        "text": "Proceso por el cual tu app se pone a disposición de los usuarios"
+      },
+      {
+        "id": "7b538eeda1824816bbb38ec429bc075a",
+        "text": "Proceso para reducir costos de tu app"
+      },
+      {
+        "id": "d0194d33bacc48448811e8ffb8219827",
+        "text": "Técnica para subir tu app a la nube"
+      }
+    ],
+    "selected": "Proceso por el cual tu app se pone a disposición de los usuarios"
+  },
+  {
+    "id": "_258201006_1",
+    "question": "Indique la característica incorrecta de publicar una aplicación en Google Play",
+    "correct": null,
+    "answers": [
+      {
+        "id": "6cca603a70904bfbbe03f9d2828d93d5",
+        "text": "Se requiere un certificado"
+      },
+      {
+        "id": "1fa0b89bc0104f7c91fb1945023f9f0e",
+        "text": "Solo el desarrollador de la aplicación podrá crear actualizaciones"
+      },
+      {
+        "id": "c117406d54254c34a5a02ef6d3b3bdb8",
+        "text": "Se debe de generar un archivo firmado"
+      },
+      {
+        "id": "536cfc283fff495aa90eaeb25cf82122",
+        "text": "Se requiere exclusivamente un archivo APK"
+      },
+      {
+        "id": "4ff2e5c6c479451493ef3bfc77d9b4d1",
+        "text": "Registrar la cuenta del desarrollador"
+      }
+    ],
+    "selected": "Solo el desarrollador de la aplicación podrá crear actualizaciones"
+  },
+  {
+    "id": "_258201007_1",
+    "question": "¿Qué es un patrón de diseño?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a411638e3b9548e88d07d90ebdbdc3f2",
+        "text": "Técnica para resolver problemas comunes en el desarrollo de software y diseño de interacción o interfaces"
+      },
+      {
+        "id": "f15ece4a8ac044619ea115ad74e15540",
+        "text": "Elementos visuales para mostrarlos a los usuarios"
+      },
+      {
+        "id": "06b036f43bb140189da9b79481c51e6e",
+        "text": "Es el objeto del dominio y que contiene información"
+      },
+      {
+        "id": "44d52ae48db6406fa24184e15e2e3ae3",
+        "text": "Se encarga de mostrar una vista y nuestra lógica del negocio"
+      },
+      {
+        "id": "7e4f81c97ee54d28b3f6576daab5cd53",
+        "text": "La lógica de presentación"
+      }
+    ],
+    "selected": "Se encarga de mostrar una vista y nuestra lógica del negocio"
+  },
+  {
+    "id": "_258201008_1",
+    "question": "¿Quién es el responsable de ajustar el modelo y preparar los datos observables que necesita la vista en MVVM?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a75e06ade51a4a4e899c8094970f9c17",
+        "text": "Vista"
+      },
+      {
+        "id": "2a0c91f11b864efebe84dad402bcfb0a",
+        "text": "ViewModel"
+      },
+      {
+        "id": "228c2a6009194a24bd27424d63a9bf56",
+        "text": "Controlador"
+      },
+      {
+        "id": "b711d61565ee4230825cd2d796d22772",
+        "text": "Model"
+      },
+      {
+        "id": "1aca34b7ed19401c8cfc72455c1a3c55",
+        "text": "Código"
+      }
+    ],
+    "selected": "ViewModel"
+  },
+  {
+    "id": "_258201009_1",
+    "question": "Las siglas MVVM significan:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "3f28f1c4a91848c68922f8e84d579ae2",
+        "text": "Model–view–viewmodel"
+      },
+      {
+        "id": "7725bccab9814d538f7e5cb8633133a6",
+        "text": "Machine Virtual – Vintage Machine"
+      },
+      {
+        "id": "3fc12c5ce1c8415da43c9fc4d461e7cd",
+        "text": "Master Value – Value Machine"
+      },
+      {
+        "id": "6775e6d6eb504334a6068de5f2f1f7d5",
+        "text": "Machine Virtual Virtual Machine"
+      },
+      {
+        "id": "3ec29db96f4d42c3b821a40f07b6892c",
+        "text": "Machine Vox – Vox Machine"
+      }
+    ],
+    "selected": "Model–view–viewmodel"
+  },
+  {
+    "id": "_258201010_1",
+    "question": "En MVVM, es un actor intermediario entre el modelo y la vista, contiene toda la lógica de presentación y se comporta como una abstracción de la interfaz.",
+    "correct": null,
+    "answers": [
+      {
+        "id": "082eb82496534e67a731d033dce1ba1b",
+        "text": "Patrón MVVM"
+      },
+      {
+        "id": "de1cb3c037c94cdfbade7b1f67c97c5f",
+        "text": "Binders"
+      },
+      {
+        "id": "a6db44a423a644f7bd54fc0b572ae85e",
+        "text": "ViewModel"
+      },
+      {
+        "id": "74510a8300e845b4a54e13bc60061d8f",
+        "text": "Model"
+      },
+      {
+        "id": "54ebf1509a5e4261ab33ebbba7b608de",
+        "text": "View"
+      }
+    ],
+    "selected": "ViewModel"
+  },
+  {
+    "id": "_258201011_1",
+    "question": "¿Con que extensión en .NET se guarda una Master Page?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "db0a88b8321248f989f31fb460ddb566",
+        "text": ".dll"
+      },
+      {
+        "id": "110af149530e4299b6d9e771a302cc99",
+        "text": ".master"
+      },
+      {
+        "id": "b3e4fc1099a144399a2a9f9ed9510e2c",
+        "text": ".cfp"
+      },
+      {
+        "id": "08d27515f88d40eb9d850d5027463be9",
+        "text": ".txt"
+      },
+      {
+        "id": "e221146f77e14d698adcc19354832225",
+        "text": ".docx"
+      }
+    ],
+    "selected": ".master"
+  },
+  {
+    "id": "_258201012_1",
+    "question": "¿Qué es una Master Page?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f7e2f9ec92694082bda1563e8affbcdf",
+        "text": "Página de encabezado"
+      },
+      {
+        "id": "515835c23bb945d4bd033e11c5a4d059",
+        "text": "Página de listas"
+      },
+      {
+        "id": "0336d0f291474625815943db3406231a",
+        "text": "Página principal"
+      },
+      {
+        "id": "685008f49434424fa637ca7f54734d28",
+        "text": "Página de pie"
+      },
+      {
+        "id": "126dbd8e1e874ad0b5b9fe71b0a93ede",
+        "text": "Página de menú"
+      }
+    ],
+    "selected": "Página principal"
+  },
+  {
+    "id": "_258201013_1",
+    "question": "Sirve para que podamos colocar 2 aplicaciones en cada mitad de una pantalla móvil",
+    "correct": null,
+    "answers": [
+      {
+        "id": "171711711d214759a61d220a91687751",
+        "text": "ListView"
+      },
+      {
+        "id": "f55c342f114b42be985d377f5b6055f2",
+        "text": "Split View"
+      },
+      {
+        "id": "18ce22841d874b5d903f50e32f460368",
+        "text": "Drawer"
+      },
+      {
+        "id": "cb4ad5bcc4a64555a905a39848928b90",
+        "text": "Master–detail"
+      },
+      {
+        "id": "934fd6a1f833401794f383114c1146b0",
+        "text": "Slider"
+      }
+    ],
+    "selected": "Split View"
+  },
+  {
+    "id": "_258201014_1",
+    "question": "¿Cuál es una ventaja asociada con Xamarin?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "6c385c75841c4819819a2b8ea5b8d32a",
+        "text": "Permite acelerar el tráfico de la web."
+      },
+      {
+        "id": "a82d9fce24ce494397d169ee340fbe2e",
+        "text": "Capacidad de compartir su código en todas las plataformas"
+      },
+      {
+        "id": "243e9c35c165407985c45117b813d62f",
+        "text": "Es una plataforma web."
+      },
+      {
+        "id": "32ff9744bda04e64a34566128811a9e0",
+        "text": "Asigna permiso de usuario al servidor web"
+      },
+      {
+        "id": "8f37736c667a454e868e981ce0032198",
+        "text": "Es una librería JSON."
+      }
+    ],
+    "selected": "Capacidad de compartir su código en todas las plataformas"
+  },
+  {
+    "id": "_258201015_1",
+    "question": "Diferencia entre servicios SOAP y REST",
+    "correct": null,
+    "answers": [
+      {
+        "id": "13b6f889e5014a079a7f54bbd196b4a6",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "1391366cd2424da68262e3adc5fb3411",
+        "text": "Son iguales, no existe diferencia"
+      },
+      {
+        "id": "c07ebb4eddfa43ee835a28cefa2caafb",
+        "text": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+      },
+      {
+        "id": "8ef0098cbbdd4f5ba14c286f4d697c6f",
+        "text": "SOAP usa XML y REST no usa XML, usa JSON"
+      },
+      {
+        "id": "9cf833f8730c4439bf735c680fa7cb1a",
+        "text": "REST generalmente no utiliza el protocolo SSL, SOAP siempre utiliza SSL"
+      }
+    ],
+    "selected": "SOAP está implementado sobre http, y REST utiliza el propio protocolo http, usando sus operaciones GET, POST, PUT, etc"
+  },
+  {
+    "id": "_258201016_1",
+    "question": "¿Qué es XML?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9c0257cb39ee4a8fb74204001f2a1c5d",
+        "text": "Formato ligero para el intercambio de datos"
+      },
+      {
+        "id": "d5be255820e441959ec515451abdf445",
+        "text": "Es un estilo de arquitectura"
+      },
+      {
+        "id": "14012deb374449feb0ce233a54917b69",
+        "text": "Protocolo estándar que posibilita que dos objetos se puedan comunicar"
+      },
+      {
+        "id": "98e21aa885f540789d1ad468bb9b9e1b",
+        "text": "Es un meta lenguaje que permite definir lenguajes de marcado"
+      },
+      {
+        "id": "6782a9bb478a4157a0df814de754f41d",
+        "text": "Se trata de un formato para describir servicios web"
+      }
+    ],
+    "selected": "Es un meta lenguaje que permite definir lenguajes de marcado"
+  },
+  {
+    "id": "_258201017_1",
+    "question": "No es una ventaja de REST",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0c415cecb29f4e2e8a0652adfec72259",
+        "text": "Puede convertirse las APIs en públicas para su uso general"
+      },
+      {
+        "id": "727823000cd14abab0063ca1881765f4",
+        "text": "Google y Facebook usan API REST"
+      },
+      {
+        "id": "b2213126bff940c7bcc1441917ac4b70",
+        "text": "Depende de la plataforma de uso, principalmente Android"
+      },
+      {
+        "id": "8959c55d2fb5412aac43d95070b1e0f5",
+        "text": "Nos permite separar el cliente del servidor."
+      },
+      {
+        "id": "1b04afc754b94df7b05a13ef0acc373a",
+        "text": "Brinda escalabilidad"
+      }
+    ],
+    "selected": "Depende de la plataforma de uso, principalmente Android"
+  },
+  {
+    "id": "_258201018_1",
+    "question": "¿A qué se refiere el concepto de que Es una de las principales características de un servicio web REST, ya que proporciona una serie de métodos que permiten a la aplicación cliente realizar operaciones sobre determinados recursos del servidor web?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "ba0e07fc490a4039899344cf776fcea7",
+        "text": "Arquitectura cliente servidor"
+      },
+      {
+        "id": "6a08036a118f455a8a1650d0cc4953a2",
+        "text": "Servicio web"
+      },
+      {
+        "id": "013d1555a0924f80baba6604d1bc5391",
+        "text": "Servicio P2P"
+      },
+      {
+        "id": "e2a1816429ce48bd9ef14abd9dfdbcdd",
+        "text": "Protocolo de comunicación"
+      },
+      {
+        "id": "f7501330ee064c64b7e46a238c4fdaa5",
+        "text": "Métodos HTTP de forma explicita"
+      }
+    ],
+    "selected": "Métodos HTTP de forma explicita"
+  },
+  {
+    "id": "_258201019_1",
+    "question": "A que está asociada la siguiente expresión, “Crear una plantilla de datos con un tipo y creación de una plantilla de datos como recurso”?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b938fe68e4744d1cbda62b1f51390d96",
+        "text": "Datareport"
+      },
+      {
+        "id": "802d6b2388d9407dabd829dd7da99198",
+        "text": "DataMart"
+      },
+      {
+        "id": "fe01e021715a46ae80fd358908c9de2d",
+        "text": "Dataform"
+      },
+      {
+        "id": "2cc4d9fc77b54b158c42cafb01cb981d",
+        "text": "Database"
+      },
+      {
+        "id": "c820a836504c425e926f7707303e6bf2",
+        "text": "Data Template"
+      }
+    ],
+    "selected": "Data Template"
+  },
+  {
+    "id": "_258201020_1",
+    "question": "Que opción se utiliza para poder hacer gestos de desplazamiento hacia izquierda o derecha",
+    "correct": null,
+    "answers": [
+      {
+        "id": "e7566ea852e14f8b8ab22d09b54e561d",
+        "text": "SwipeView"
+      },
+      {
+        "id": "d1553ad2f2da4484ad03bb521b8846ed",
+        "text": "Widget"
+      },
+      {
+        "id": "27c37e570b3d4c2d8254e610356b2106",
+        "text": "ListView"
+      },
+      {
+        "id": "5f9bb99ce373487d9e83620ffc3adc99",
+        "text": "SingleMode"
+      },
+      {
+        "id": "6f41b5fd3bd545f49bede088c961028b",
+        "text": "Scroller"
+      }
+    ],
+    "selected": "SwipeView"
+  },
+  {
+    "id": "_258201021_1",
+    "question": "¿Cuál es el valor que debemos colocar al atributo choiceMode para que almacene la última selección?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "72061915347b4a60a659a8d85aca1f2b",
+        "text": "singleMode"
+      },
+      {
+        "id": "ea6a347cfd1d4506aa2072b75200b9ca",
+        "text": "ListMode"
+      },
+      {
+        "id": "890f3adbaa2545aa869a8a08d75aa6af",
+        "text": "MultipleMode"
+      },
+      {
+        "id": "3eb6c873446249b58835dcfa130e060f",
+        "text": "None"
+      },
+      {
+        "id": "0352f5b30e02429199d87cc300f1f150",
+        "text": "multipleChoice"
+      }
+    ],
+    "selected": "singleMode"
+  },
+  {
+    "id": "_258201022_1",
+    "question": "¿A qué se refiere el siguiente enunciado? “Objeto que nos permite mostrar una lista de elementos desplazables”.",
+    "correct": null,
+    "answers": [
+      {
+        "id": "6004ea7914234fc7943e94bd96dfbe59",
+        "text": "ClickListener"
+      },
+      {
+        "id": "183b027d9e7940afbd415bdcefbe3e83",
+        "text": "MainActivity"
+      },
+      {
+        "id": "6b9765f271b34eb39b9c9d3107dc6460",
+        "text": "ArrayAdapter"
+      },
+      {
+        "id": "2dff69f5c8c84ceba0a49a95492667f4",
+        "text": "ListView"
+      },
+      {
+        "id": "03702a27a9c044f285fb320c27448983",
+        "text": "Add"
+      }
+    ],
+    "selected": "ArrayAdapter"
+  }
+]
