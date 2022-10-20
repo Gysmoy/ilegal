@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_265379765_1",
+    "question": "¿Qué puede cifrar Azure Information Protection?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "98084942cf3e49a9a2446f37b0dd8b9d",
+        "text": "Trafico de red"
+      },
+      {
+        "id": "77f48c4b32434bdd98affb942800c97b",
+        "text": "Documentos y mensajes de correo electrónico"
+      },
+      {
+        "id": "3ad5bf5d255043e0994a867c6a79f4e6",
+        "text": "Una VPN"
+      },
+      {
+        "id": "d25fb815c9f64a70a334a42003d015c6",
+        "text": "Una base de datos de SQL azure"
+      },
+      {
+        "id": "e69aa464bec84a0e9fff4532ace39e00",
+        "text": "Una cuenta de azure storage"
+      }
+    ],
+    "selected": "Documentos y mensajes de correo electrónico"
+  },
+  {
+    "id": "_265379766_1",
+    "question": "Dónde se puede revisar la información sobre cómo la nube de Microsoft ayuda a proteger los datos confidenciales y a cumplir con las leyes y regulaciones vigentes",
+    "correct": false,
+    "answers": [
+      {
+        "id": "90cc081e031b4e9499cee9549056f33e",
+        "text": "Centro de confianza"
+      },
+      {
+        "id": "1d49060a9701441799be2952f3cc6b5e",
+        "text": "En el portal de Azure"
+      },
+      {
+        "id": "b5e5cae223164174bd9d19b7c469a4f5",
+        "text": "Terminos de Online Services"
+      },
+      {
+        "id": "b60e74c8728b4c59973f59d70eb92fc4",
+        "text": "Declaración de privacidad de Microsoft"
+      },
+      {
+        "id": "44fb2f1c3894462b9b645e728eec9fb0",
+        "text": "Términos y condiciones por producto"
+      }
+    ],
+    "selected": "Declaración de privacidad de Microsoft"
+  },
+  {
+    "id": "_265379767_1",
+    "question": "Partiendo de una flexibilidad, transparencia, movilidad y un cambio cultural a la hora de usar soluciones Cloud, podemos llegar a crear un modelo organizativo diferente",
+    "correct": false,
+    "answers": [
+      {
+        "id": "16376553a54746f6bdb759f9a66ca318",
+        "text": "Un nuevo estándar de certificación de procesos de gestión de seguridad"
+      },
+      {
+        "id": "f4d66cc9f4ae4abc8e03b0bc5cacc373",
+        "text": "Gestión de seguridad privada"
+      },
+      {
+        "id": "6fdf9854fa54470887d60e184190dda9",
+        "text": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+      },
+      {
+        "id": "0a92925000d14a36b86fbde14e70e615",
+        "text": "Un nuevo proceso de gestión de seguridad."
+      },
+      {
+        "id": "c0e566a627284f158401ad5887aa2dd0",
+        "text": "Una nueva arquitectura de micro-procesadores más potente para soluciones de seguridad"
+      }
+    ],
+    "selected": "Una nueva arquitectura de micro-procesadores más potente para soluciones de seguridad"
+  },
+  {
+    "id": "_265379768_1",
+    "question": "Un atacante puede dejar fuera de servicio un sitio web enviando un gran volumen de tráfico de red a los servidores. ¿Qué servicio de Azure puede ayudar a protegerlo?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b4d9d1b5242e4c5a839ee06b068359e9",
+        "text": "Azure Firewall"
+      },
+      {
+        "id": "6835e4d9fdab473eb1c115d41b68e686",
+        "text": "Grupos de seguridad de red"
+      },
+      {
+        "id": "d0f9a9ff2a074523865d9c1ead427df4",
+        "text": "Azure DDoS Protection"
+      },
+      {
+        "id": "37e97c6275694d61ac7543b426e3c4eb",
+        "text": "Azure Service Healt"
+      },
+      {
+        "id": "086a985b347842828721b34a7089a04b",
+        "text": "Azure Monitor"
+      }
+    ],
+    "selected": "Azure DDoS Protection"
+  },
+  {
+    "id": "_265379769_1",
+    "question": "¿Qué servicio proporciona el tráfico de red en varias suscripciones de Azure y redes virtuales?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1ea6dc360a9443629d2698e59a421ced",
+        "text": "Protección contra DDoS de azure"
+      },
+      {
+        "id": "44d5bc66c2604c24b931c1dd179fa7d8",
+        "text": "Un grupo de seguridad de aplicaciones"
+      },
+      {
+        "id": "e7ebca37ae0a4a88935eeb30ea84a743",
+        "text": "Power Shell"
+      },
+      {
+        "id": "60af2b287b3b4e0f9c8f7c250e0c0108",
+        "text": "Azure firewall"
+      },
+      {
+        "id": "2bc420847aa14771ba03e681c0141f09",
+        "text": "NSG"
+      }
+    ],
+    "selected": "Azure firewall"
+  },
+  {
+    "id": "_265379770_1",
+    "question": "¿Cuál de los siguientes no es una herramienta de gestión nativa de Microsoft para Azure?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "c092781907964ace96b8697745e95235",
+        "text": "System Center App Controller"
+      },
+      {
+        "id": "23949edbf14a4004b9a3c7397f34566f",
+        "text": "Azure cmd"
+      },
+      {
+        "id": "38d0c60a38b8475b89dc460586b55ade",
+        "text": "Cerebrata"
+      },
+      {
+        "id": "7768eb4e769441b1a68d8154ad3af792",
+        "text": "Azure PowerShell"
+      },
+      {
+        "id": "559ec2db61ce4e03a6ab74b8d5b22335",
+        "text": "Azure management portal"
+      }
+    ],
+    "selected": "Azure management portal"
+  },
+  {
+    "id": "_265379771_1",
+    "question": "¿Para qué se usa el patrón de limitación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d0efeedac96441efa7da64f5a5498422",
+        "text": "Limitar su uso"
+      },
+      {
+        "id": "5376216b9c044b71b95c0106409a006a",
+        "text": "Cargarlo siempre"
+      },
+      {
+        "id": "9563ae9093e74645b98df67c6e201e11",
+        "text": "Para mantener la calidad del servicio bajo situaciones de carga"
+      },
+      {
+        "id": "fa8be330b134424584b28690be066844",
+        "text": "Fijar un límite mínimo y máximo de uso"
+      },
+      {
+        "id": "11d8ba1989584423b2ff54836a5b79a9",
+        "text": "Evitar saturaciones de rec"
+      }
+    ],
+    "selected": "Para mantener la calidad del servicio bajo situaciones de carga"
+  },
+  {
+    "id": "_265379772_1",
+    "question": "Cuál de las afirmaciones siguientes es cierta referente a la utilización de la nuble pública?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "744910924dc54f2ea5c24a22a7d9ecef",
+        "text": "Ud solo es responsable de los repuestos de los recursos informáticos"
+      },
+      {
+        "id": "5fda49418ddf47c480072044d3324539",
+        "text": "Ud es responsable tanto de la compra de equipos como de los recursos informáticos que usa"
+      },
+      {
+        "id": "3a3557ba7c254f07bd47ed653ab9d080",
+        "text": "Uds solo es responsable de los recursos informáticos que usa"
+      },
+      {
+        "id": "098ce534f888431182e2fb6c2b8dd0e5",
+        "text": "Uds solo es responsable de los recursos informáticos que usa"
+      },
+      {
+        "id": "7ee330234fe4446aba31c7f0b8fadd0d",
+        "text": "Ud es responsable de comprar los recursos informáticos"
+      }
+    ],
+    "selected": "Uds solo es responsable de los recursos informáticos que usa"
+  },
+  {
+    "id": "_265379773_1",
+    "question": "Tiene una red local que contiene varios servidores. Tiene previsto migrar todos los servidores a Azure. Debe recomendar una solución para asegurarse de que algunos de los servidores estén disponibles si un solo centro de datos de Azure se desconecta durante un período prolongado. ¿Qué debería incluir en la recomendación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "852f37fb876148bfb953dfe664902334",
+        "text": "baja latencia"
+      },
+      {
+        "id": "99cd7bfc60224073b00a3940df3d340c",
+        "text": "elasticidad"
+      },
+      {
+        "id": "2095bc49a0a54c1aa2a983dc65864d42",
+        "text": "HA"
+      },
+      {
+        "id": "f80ea93b23a64a27b624f1d399e28ab0",
+        "text": "escalabilidad"
+      },
+      {
+        "id": "c610d51e2fe047eb9f3d0423f30147ab",
+        "text": "tolerancia a fallas"
+      }
+    ],
+    "selected": "tolerancia a fallas"
+  },
+  {
+    "id": "_265379774_1",
+    "question": "Tiene previsto migrar una aplicación web a Azure. Los usuarios externos acceden a la aplicación web.Debe recomendar una solución de implementación en la nube para minimizar la cantidad de esfuerzo administrativo utilizado para administrar la aplicación web.¿Qué debería incluir en la recomendación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6f2a21ec67d749649539833a8d879589",
+        "text": "Plataforma como servicio (PaaS)"
+      },
+      {
+        "id": "8701d860cc0c4318a9c0af80f14b4e15",
+        "text": "Base de datos como servicio (DaaS)"
+      },
+      {
+        "id": "40ca510e03244315b5e7987e6adf5c7a",
+        "text": "Red como servicio(NaaS)"
+      },
+      {
+        "id": "bd4efd618fee481eb990376b7566c136",
+        "text": "Infraestructura como servicio (IaaS)"
+      },
+      {
+        "id": "68f5c0fbba284a28b376697006f66b5f",
+        "text": "Software como servicio (SaaS)"
+      }
+    ],
+    "selected": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "id": "_265379775_1",
+    "question": "Tiene previsto migrar varios servidores de una red local a Azure. ¿Cuál es la ventaja de utilizar un servicio de nube pública para los servidores en una red local?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4a368547cc454ef7a1473e3120717028",
+        "text": "La nube pública es una solución de crowdsourcing que brinda a las empresas la capacidad de mejorar la nube"
+      },
+      {
+        "id": "7339e8b7cf8e47f4b2604dee65d07f13",
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+      },
+      {
+        "id": "44d16b4c587c45749bdae343dd775341",
+        "text": "La nube pública es propiedad del público, NO de una corporación privada"
+      },
+      {
+        "id": "df4dac6769374ce0b353d33e9201805d",
+        "text": "La nube pública no es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      },
+      {
+        "id": "494fd7fbf15443dab9d6db4f4b2da90d",
+        "text": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      }
+    ],
+    "selected": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+  },
+  {
+    "id": "_265379776_1",
+    "question": "¿Cloud se contrata siempre de forma online?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "dc59c691b6224a4886d94b00eb0360fa",
+        "text": "El Servidor usa servicios Cloud y/o apoyarse en un partner especializado"
+      },
+      {
+        "id": "73b9d39f62654f5d9dd3c2b59645473a",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "45420b193f95424fb29f74118dbd21bd",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "59279d52e9cf4feb8b5a8ec5cd9fc061",
+        "text": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+      },
+      {
+        "id": "b4012ababccd46b38d70d6bba783930f",
+        "text": "No, es la única manera"
+      }
+    ],
+    "selected": "Sí, es la única y mejor manera."
+  },
+  {
+    "id": "_265379777_1",
+    "question": "Cuando hablamos de PaaS...",
+    "correct": true,
+    "answers": [
+      {
+        "id": "3ad773bbe0624be7bf286e5d73d96de8",
+        "text": "Nos estamos refiriendo a servicios Cloud híbridos"
+      },
+      {
+        "id": "f0f09501a8434538b87626e96626e07e",
+        "text": "Nos estamos refiriendo a servicios Cloud que integran las aplicaciones con la capa de infraestructura"
+      },
+      {
+        "id": "b3a261edf59e4177a8031ca162ef69b5",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del software."
+      },
+      {
+        "id": "06b0743613fd4a99a52b9260849e7f62",
+        "text": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+      },
+      {
+        "id": "b63727627b894c508db03d146c59962d",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del hardware"
+      }
+    ],
+    "selected": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+  },
+  {
+    "id": "_265379778_1",
+    "question": "Es una función de Azure Storage",
+    "correct": false,
+    "answers": [
+      {
+        "id": "0ecf6141c4ac45f78842a33f5a7c3f4a",
+        "text": "Maneja la comunicación con el servicio de seguridad y puede ejecutar el software del proveedor."
+      },
+      {
+        "id": "b5ed42fe523042539475e6ba954638e8",
+        "text": "Asegurarse de que el dispositivo no haya sido comprometido maliciosamente"
+      },
+      {
+        "id": "db94d58fc66041e6ab4dc29e6d1b8294",
+        "text": "Solución de almacenamiento en la nube de Microsoft."
+      },
+      {
+        "id": "ca1cfeefc9a74f7fa317d4e5832b3e5b",
+        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
+      },
+      {
+        "id": "54e48e355be74959ac22e0ed7468c467",
+        "text": "Envía cualquier sistema operativo o actualizaciones de software desarrolladas por el cliente aprobadas al dispositivo"
+      }
+    ],
+    "selected": "Envía cualquier sistema operativo o actualizaciones de software desarrolladas por el cliente aprobadas al dispositivo"
+  },
+  {
+    "id": "_265379779_1",
+    "question": "¿Qué tarea no se aborda cuando se implementa un servicio Cloud?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5d5f320e9a874bec9916c418d3aa6784",
+        "text": "Monitorización de la calidad del hardware"
+      },
+      {
+        "id": "9e17bf7468fc4aafb01f78c796528095",
+        "text": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+      },
+      {
+        "id": "f2e44c8559594b9aa1409eda80fb77f3",
+        "text": "Monitorización de la calidad del software."
+      },
+      {
+        "id": "4ebd9c7424bd4a42957f9e2874cbdf5e",
+        "text": "Monitorización del consumo del servicio"
+      },
+      {
+        "id": "500ad0859a254a89a98ccd7d1f7c6232",
+        "text": "Monitorización de la calidad del servicio."
+      }
+    ],
+    "selected": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+  },
+  {
+    "id": "_265379780_1",
+    "question": "Puede ver el informe de cumplimiento normativo de su empresa desde",
+    "correct": false,
+    "answers": [
+      {
+        "id": "40d971b2d75341448e1a1a98e2a0d36b",
+        "text": "Azure portal"
+      },
+      {
+        "id": "ea538fc1e32e4243bb8cc80c1fafc04b",
+        "text": "Azure security center"
+      },
+      {
+        "id": "4080d01a37c24fb7953c4aeab8752293",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "30a81d8dfb3642d5805533b55cf2ab32",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "774453127d8c410d820d4be924cd4d36",
+        "text": "Azure storage explorer"
+      }
+    ],
+    "selected": "Azure portal"
+  },
+  {
+    "id": "_265379781_1",
+    "question": "IoT permite que los dispositivos recopilen y luego transmitan información para el análisis de datos y estos son:",
+    "correct": false,
+    "answers": [
+      {
+        "id": "238ec3ddaf9c40ce9dcd02bb4fc0f5bd",
+        "text": "Sensores"
+      },
+      {
+        "id": "cb7857c9cf714dcbaba97e3a8476ba40",
+        "text": "Pantalla tactil."
+      },
+      {
+        "id": "6105333b3ea8430b8ea47bc2714acba0",
+        "text": "Actuadores."
+      },
+      {
+        "id": "d4ec833e1d0b42028e61299d15161c4a",
+        "text": "Infrarrojos."
+      },
+      {
+        "id": "41f7fcba46304380ae1f80eae2056875",
+        "text": "Bases de datos"
+      }
+    ],
+    "selected": "Pantalla tactil."
+  },
+  {
+    "id": "_265379782_1",
+    "question": "Una definición de iniciativa de Azure Policy es",
+    "correct": false,
+    "answers": [
+      {
+        "id": "a8bf3b0fad5645d9afb6166f0bbaa13c",
+        "text": "Un grupo de definiciones de azure blueprints"
+      },
+      {
+        "id": "b3a6b78c6018441fa3a6d43c1d70394c",
+        "text": "Una colección de asignaciones de azure policy"
+      },
+      {
+        "id": "db954640982c480981a646fe8d2b7277",
+        "text": "Una colección de definición de políticas"
+      },
+      {
+        "id": "a297c5e9f0034b90b02264be21f94530",
+        "text": "Un grupo de roles de control de acceso(RBAC)"
+      },
+      {
+        "id": "6264275b74114e04ac852c22ca0291ad",
+        "text": "Una zona de disponibilidad"
+      }
+    ],
+    "selected": "Un grupo de definiciones de azure blueprints"
+  },
+  {
+    "id": "_265379783_1",
+    "question": "Selecciona el comentario incorrecto.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "da587b1452874af7b41b984753ba26ea",
+        "text": "El modelo Cloud no propone que el prestador es responsable de construir, ejecutar y entregar el servicio"
+      },
+      {
+        "id": "d6d245da600d40d18803cbdc0aaaf79c",
+        "text": "El modelo Cloud propone que el consumidor acepta un modelo de relación y unas condiciones de uso, que marcan sus responsabilidades"
+      },
+      {
+        "id": "4602065b67c140d489242bd714711a60",
+        "text": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+      },
+      {
+        "id": "a9a38da228884b2497ffe163d634262b",
+        "text": "El modelo Cloud propone que el prestador es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "1d4f07b429fc404d99b91d98dba38334",
+        "text": "El modelo Cloud es responsable de construir, ejecutar y entregar el servicio."
+      }
+    ],
+    "selected": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+  },
+  {
+    "id": "_265379784_1",
+    "question": "¿Qué puede usar para enviar automáticamente una alerta si un administrador detiene una máquina virtual de Azure",
+    "correct": false,
+    "answers": [
+      {
+        "id": "09f4333a64844ba9bc79a8fc75b58d20",
+        "text": "Azure network watcher"
+      },
+      {
+        "id": "c701b2871f764a1fb70d53f6a5521598",
+        "text": "Azure service health"
+      },
+      {
+        "id": "b52c1a201e2541618e82fd29689c568c",
+        "text": "Azure monitor"
+      },
+      {
+        "id": "cb0f98ca37664e0d878eff40df6bb362",
+        "text": "Azure VPN"
+      },
+      {
+        "id": "ef618c6981f843d69e8ab9718b8c28a9",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Azure advisor"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_264099450_1",
+    "question": "¿Cuál de las siguientes opciones es una unidad lógica de servicios de Azure vinculada a una cuenta de Azure?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7292f4489ce142849704acaa5a22d9a4",
+        "text": "Azure AD"
+      },
+      {
+        "id": "08c65c1062d64c199f033e98a3038fbb",
+        "text": "Grupo de administración"
+      },
+      {
+        "id": "cf86fcf356514e2ba93e66ae818ca9fd",
+        "text": "Recursos"
+      },
+      {
+        "id": "2ecbdf0ebd5a461492759f5ea1510a07",
+        "text": "Resource group"
+      },
+      {
+        "id": "5cd8374bb6f54c29af4a11bd41c84ee5",
+        "text": "Suscripción de Azure"
+      }
+    ],
+    "selected": "Suscripción de Azure"
+  },
+  {
+    "id": "_264099451_1",
+    "question": "Tiene previsto migrar varios servidores de una red local a Azure. ¿Cuál es la ventaja de utilizar un servicio de nube pública para los servidores en una red local?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "494fd7fbf15443dab9d6db4f4b2da90d",
+        "text": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      },
+      {
+        "id": "df4dac6769374ce0b353d33e9201805d",
+        "text": "La nube pública no es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      },
+      {
+        "id": "7339e8b7cf8e47f4b2604dee65d07f13",
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+      },
+      {
+        "id": "44d16b4c587c45749bdae343dd775341",
+        "text": "La nube pública es propiedad del público, NO de una corporación privada"
+      },
+      {
+        "id": "4a368547cc454ef7a1473e3120717028",
+        "text": "La nube pública es una solución de crowdsourcing que brinda a las empresas la capacidad de mejorar la nube"
+      }
+    ],
+    "selected": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+  },
+  {
+    "id": "_264099452_1",
+    "question": "Que son los grupos de recursos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6362f86763894a9e9ee9e1cd9641abfe",
+        "text": "Un tipo de suscripción de Azure"
+      },
+      {
+        "id": "be59e903a3dd45919edad7cf6562d020",
+        "text": "Un conjunto de suscripciones de Azure"
+      },
+      {
+        "id": "5cf81ee1b40d48228e2115a44100fc6c",
+        "text": "Recursos desplegados en la misma región"
+      },
+      {
+        "id": "eb56d4c34744439e9bfa06c9c04f3cd4",
+        "text": "Un contenedor lógico de recursos desplegados en Azure"
+      },
+      {
+        "id": "8ac6b0f76190481c817653ba98471f57",
+        "text": "Recursos desplegados en un mismo centro de datos"
+      }
+    ],
+    "selected": "Un contenedor lógico de recursos desplegados en Azure"
+  },
+  {
+    "id": "_264099453_1",
+    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "decff6d2442b49fc95014cfd59524e91",
+        "text": "una nube híbrida"
+      },
+      {
+        "id": "c6e5977f34ab46b9b34237ddff0196f4",
+        "text": "Una nube publica"
+      },
+      {
+        "id": "118f4b389cc747ca95a9694a6b4489d5",
+        "text": "un centro de datos adicional"
+      },
+      {
+        "id": "6534a7c934514a278b7c2a1f0cebecfc",
+        "text": "una migración completa a la nube pública"
+      },
+      {
+        "id": "c465ca2d99e649f29bc7b6e238cd1cdc",
+        "text": "una nube privada"
+      }
+    ],
+    "selected": "una nube privada"
+  },
+  {
+    "id": "_264099454_1",
+    "question": "¿Cuáles son actualmente las principales 4 palancas de transformación de los negocios?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7c4cf1576f064fe58e6888ed527eb325",
+        "text": "Social, Risk, API & Security"
+      },
+      {
+        "id": "509b5ab6b3c24e5b8a26afe28f218749",
+        "text": "Cloud, Security, social & Mobility"
+      },
+      {
+        "id": "f7d604f8ab6c4212a3f337638b848896",
+        "text": "Social, Security, risk & Mobility"
+      },
+      {
+        "id": "dca6e2b244ae4ba8ae4cb3ee4629b23b",
+        "text": "A través de un API podemos acceder a todas."
+      },
+      {
+        "id": "0bdade405be54b09bc3398a4e23606bd",
+        "text": "Social, Mobility, risk & API"
+      }
+    ],
+    "selected": "Cloud, Security, social & Mobility"
+  },
+  {
+    "id": "_264099455_1",
+    "question": "¿Cuál de las afirmaciones sobre informática en la nube no es correcta?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "97c040ce26a440f79f8f77873e4f7234",
+        "text": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+      },
+      {
+        "id": "7fb88d6adca64516b9fb6df52e387e28",
+        "text": "Tres modelos de implementación para informática en la nube son la nube pública, la nube privada y la nube hibrida"
+      },
+      {
+        "id": "3d81e52626cc434e94a0ea64840e8ee0",
+        "text": "La informática en la nube normalmente reduce los gastos operativos"
+      },
+      {
+        "id": "315ebd5ed08c4731ac4351de8fb20242",
+        "text": "Azure y Amazon Web Services son modelos de nube pública"
+      },
+      {
+        "id": "2c74a9bdf92d4826a3dfa57a4c5cd658",
+        "text": "IaaS, PaaS y SaaS son ejemplos de modelos de servicios de informática en la nube"
+      }
+    ],
+    "selected": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+  },
+  {
+    "id": "_264099456_1",
+    "question": "Tiene una aplicación web de Azure. Debe administrar la configuración de la aplicación web desde un iPhone. Que herramienta de administración de Azure se puede usar",
+    "correct": true,
+    "answers": [
+      {
+        "id": "66a0092cfbe64cf186e56128e33c9f4a",
+        "text": "Azure storage explorer"
+      },
+      {
+        "id": "19daac2e6c7049f4b35ef6354b362703",
+        "text": "Azure portal"
+      },
+      {
+        "id": "e3ab57172f034068b65e3ca573b48a53",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "a7107fe45aee462aafb7def958311bb0",
+        "text": "Azure cli"
+      },
+      {
+        "id": "72933da7b6fc4de4b627146a4601e3ab",
+        "text": "Windows power Shell"
+      }
+    ],
+    "selected": "Azure portal"
+  },
+  {
+    "id": "_264099457_1",
+    "question": "¿Qué diferencia hay entre IaaS y Virtualización?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7df83a2e0c124028a333f263bb068488",
+        "text": "IaaS es solo crear máquinas virtuales."
+      },
+      {
+        "id": "a33ec97629fe4d9b9a541edf507d4094",
+        "text": "Virtualización de servidores pertenece a PaaS"
+      },
+      {
+        "id": "7100eb97d7aa4c93ae3488c45d8efdc3",
+        "text": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+      },
+      {
+        "id": "dcc072a7227b455e95393bc00b7e0a21",
+        "text": "La virtualización es la base de la Infraestructura como Servicio (IaaS)"
+      },
+      {
+        "id": "ac5ca30d8a18423a9d41acc85a1d1930",
+        "text": "Son iguales"
+      }
+    ],
+    "selected": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+  },
+  {
+    "id": "_264099458_1",
+    "question": "IoT permite que los dispositivos recopilen y luego transmitan información para el análisis de datos y estos son:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "cb7857c9cf714dcbaba97e3a8476ba40",
+        "text": "Pantalla tactil."
+      },
+      {
+        "id": "238ec3ddaf9c40ce9dcd02bb4fc0f5bd",
+        "text": "Sensores"
+      },
+      {
+        "id": "6105333b3ea8430b8ea47bc2714acba0",
+        "text": "Actuadores."
+      },
+      {
+        "id": "d4ec833e1d0b42028e61299d15161c4a",
+        "text": "Infrarrojos."
+      },
+      {
+        "id": "41f7fcba46304380ae1f80eae2056875",
+        "text": "Bases de datos"
+      }
+    ],
+    "selected": "Sensores"
+  },
+  {
+    "id": "_264099459_1",
+    "question": "Tienes un entorno de Azure. Debe crear una nueva máquina virtual de Azure desde una tableta que ejecute el sistema operativo Android, escoja una solución para ello",
+    "correct": true,
+    "answers": [
+      {
+        "id": "22824889524e4c6d9338be7c47c8b72a",
+        "text": "Iniciativa"
+      },
+      {
+        "id": "9cbf5fdb17d94c29a85c903378d9b3d3",
+        "text": "The powerapps portal"
+      },
+      {
+        "id": "53dd6851c8b34c2c9477ae119ed7e767",
+        "text": "Power Shell in azure cloud Shell"
+      },
+      {
+        "id": "f0f3709d162d4ab5a0049e2357a2981e",
+        "text": "RBAC"
+      },
+      {
+        "id": "8e4da05bd3df46bd8e6797f21283030e",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Power Shell in azure cloud Shell"
+  },
+  {
+    "id": "_264099460_1",
+    "question": "Una definición de iniciativa de Azure Policy es",
+    "correct": true,
+    "answers": [
+      {
+        "id": "db954640982c480981a646fe8d2b7277",
+        "text": "Una colección de definición de políticas"
+      },
+      {
+        "id": "a297c5e9f0034b90b02264be21f94530",
+        "text": "Un grupo de roles de control de acceso(RBAC)"
+      },
+      {
+        "id": "b3a6b78c6018441fa3a6d43c1d70394c",
+        "text": "Una colección de asignaciones de azure policy"
+      },
+      {
+        "id": "6264275b74114e04ac852c22ca0291ad",
+        "text": "Una zona de disponibilidad"
+      },
+      {
+        "id": "a8bf3b0fad5645d9afb6166f0bbaa13c",
+        "text": "Un grupo de definiciones de azure blueprints"
+      }
+    ],
+    "selected": "Una colección de definición de políticas"
+  },
+  {
+    "id": "_264099461_1",
+    "question": "¿Cuál de los siguientes servicios deben usarse cuando la preocupación principal es realizar un trabajo en respuesta a un evento (a menudo a través de un comando REST) que necesita una respuesta en unos segundos?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "59cb3f7820b84316bb1cf5a3c8f2033d",
+        "text": "Azure monitor"
+      },
+      {
+        "id": "765ae3c8f4f14434bc7b61e571f86ca6",
+        "text": "Azure Container Instances"
+      },
+      {
+        "id": "1f8493c6208d4c0b86fbfd857987885a",
+        "text": "Azure Service Healt"
+      },
+      {
+        "id": "bfe14efcebf7403b910a41790884c70a",
+        "text": "Azure Functions"
+      },
+      {
+        "id": "913896a5f9c449b79be4de6861df5699",
+        "text": "Azure App Service"
+      }
+    ],
+    "selected": "Azure Functions"
+  },
+  {
+    "id": "_264099462_1",
+    "question": "Selecciona el comentario incorrecto.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d6d245da600d40d18803cbdc0aaaf79c",
+        "text": "El modelo Cloud propone que el consumidor acepta un modelo de relación y unas condiciones de uso, que marcan sus responsabilidades"
+      },
+      {
+        "id": "a9a38da228884b2497ffe163d634262b",
+        "text": "El modelo Cloud propone que el prestador es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "4602065b67c140d489242bd714711a60",
+        "text": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+      },
+      {
+        "id": "da587b1452874af7b41b984753ba26ea",
+        "text": "El modelo Cloud no propone que el prestador es responsable de construir, ejecutar y entregar el servicio"
+      },
+      {
+        "id": "1d4f07b429fc404d99b91d98dba38334",
+        "text": "El modelo Cloud es responsable de construir, ejecutar y entregar el servicio."
+      }
+    ],
+    "selected": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+  },
+  {
+    "id": "_264099463_1",
+    "question": "¿Cuál es la forma más sencilla de que su empresa combine los datos de seguridad de todas sus herramientas de supervisión en un único informe sobre el que pueda tomar medidas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2befbb0ec6fc4089b41346ff4a9f2bf7",
+        "text": "Utilizar un syslog server en la nube"
+      },
+      {
+        "id": "4aa13d11dfd34be284379c8bac511d96",
+        "text": "Usar un SIEM on premisse"
+      },
+      {
+        "id": "4ace8e20df6a47dbb27b925546ecae36",
+        "text": "Utilizar una herramienta personalizada propia"
+      },
+      {
+        "id": "c5f47a2ad03546c89bfb14b027430ced",
+        "text": "Mediante Azure Sentinel"
+      },
+      {
+        "id": "5de50a7a27554e8799e6a6fb1b7e9e70",
+        "text": "Revisar cada Registro de seguridad diariamente"
+      }
+    ],
+    "selected": "Mediante Azure Sentinel"
+  },
+  {
+    "id": "_264099464_1",
+    "question": "¿Qué servicio de Azure puede utilizar como solución de gestión de eventos e información de seguridad (SIEM)?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "05f4284b34664bfda608fab00b67f039",
+        "text": "Azure cognitive services"
+      },
+      {
+        "id": "8c7deb672a1445088a23a3c70b3b04da",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "359c171eb9a94764b06ff3a45a35d655",
+        "text": "Azure análisis services"
+      },
+      {
+        "id": "b5e429c09fa34603a2c413e74ce2ceda",
+        "text": "Azure sentinel"
+      },
+      {
+        "id": "7c5e233540ee4619a232a16cdb78ac4c",
+        "text": "-Azure information protection"
+      }
+    ],
+    "selected": "Azure sentinel"
+  },
+  {
+    "id": "_264099465_1",
+    "question": "¿Cuál de los siguientes no es una herramienta de gestión nativa de Microsoft para Azure?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c092781907964ace96b8697745e95235",
+        "text": "System Center App Controller"
+      },
+      {
+        "id": "23949edbf14a4004b9a3c7397f34566f",
+        "text": "Azure cmd"
+      },
+      {
+        "id": "7768eb4e769441b1a68d8154ad3af792",
+        "text": "Azure PowerShell"
+      },
+      {
+        "id": "38d0c60a38b8475b89dc460586b55ade",
+        "text": "Cerebrata"
+      },
+      {
+        "id": "559ec2db61ce4e03a6ab74b8d5b22335",
+        "text": "Azure management portal"
+      }
+    ],
+    "selected": "Cerebrata"
+  },
+  {
+    "id": "_264099466_1",
+    "question": "Su empresa planea implementar varios servidores web y varios servidores de bases de datos en Azure. Recomiende una solución para limitar los tipos de conexiones desde los servidores web a los servidores de bases de datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6d38a73e894b41649e92c09adcc6d1c0",
+        "text": "Un filtro de ruta"
+      },
+      {
+        "id": "a8a661dd9cdf448e9c11d6ecc5c6f65b",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "d09e1261e5ab4f8a802d65e7b481d14c",
+        "text": "Azure service bus"
+      },
+      {
+        "id": "bcdafe3a8e1d4dc5957a9758fcd056b8",
+        "text": "Grupo de seguridad de red (NSG)"
+      },
+      {
+        "id": "f6edd9bc9d424f849764272fce5cdd17",
+        "text": "Un Gateway"
+      }
+    ],
+    "selected": "Grupo de seguridad de red (NSG)"
+  },
+  {
+    "id": "_264099467_1",
+    "question": "Puede acceder al Compliance Manager desde",
+    "correct": false,
+    "answers": [
+      {
+        "id": "2d518a9e13e5438abe9cef32340b8f71",
+        "text": "Microsoft Outlook"
+      },
+      {
+        "id": "1a393277011f487d9decacea4a8977b7",
+        "text": "Microsoft 365"
+      },
+      {
+        "id": "cf22cdb253634476ba41a2505f5dc3d8",
+        "text": "Microsoft service trust portal"
+      },
+      {
+        "id": "9cd7d3e54e9e4fa69d78c051e29f6334",
+        "text": "Azure active directory"
+      },
+      {
+        "id": "ef76e851f4394f90bce7b06f0d664acd",
+        "text": "Azure portal"
+      }
+    ],
+    "selected": "Microsoft 365"
+  },
+  {
+    "id": "_264099468_1",
+    "question": "Cómo puede asegurarse que los empleados sólo accedan a las aplicaciones de la empresa desde los equipos autorizados",
+    "correct": true,
+    "answers": [
+      {
+        "id": "79e7ce2fc47d44f7b7ceccac32ead542",
+        "text": "Con Azure Firewall"
+      },
+      {
+        "id": "6981255a08f94e90acb85579d8e35614",
+        "text": "Con Single Sign-On"
+      },
+      {
+        "id": "9feda28c5fef491ca62c73d9d752a9ed",
+        "text": "Aplicando políticas a cada equipo"
+      },
+      {
+        "id": "c4e60bed25ba418f971734814bdacd8b",
+        "text": "Mediante acceso condicional"
+      },
+      {
+        "id": "aa5d760daef34d209180199dd72aad6b",
+        "text": "Con autenticación multifactor"
+      }
+    ],
+    "selected": "Mediante acceso condicional"
+  },
+  {
+    "id": "_264099469_1",
+    "question": "¿Qué puede cifrar Azure Information Protection?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "77f48c4b32434bdd98affb942800c97b",
+        "text": "Documentos y mensajes de correo electrónico"
+      },
+      {
+        "id": "e69aa464bec84a0e9fff4532ace39e00",
+        "text": "Una cuenta de azure storage"
+      },
+      {
+        "id": "98084942cf3e49a9a2446f37b0dd8b9d",
+        "text": "Trafico de red"
+      },
+      {
+        "id": "3ad5bf5d255043e0994a867c6a79f4e6",
+        "text": "Una VPN"
+      },
+      {
+        "id": "d25fb815c9f64a70a334a42003d015c6",
+        "text": "Una base de datos de SQL azure"
+      }
+    ],
+    "selected": "Documentos y mensajes de correo electrónico"
+  }
+]
