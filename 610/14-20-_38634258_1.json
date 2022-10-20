@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_265379187_1",
+    "question": "¿En qué tipo de modelo de nube todos los recursos de hardware son propiedad de un tercero y se comparten entre varios inquilinos?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "62d572d5991342bcaa0107dce3726ddd",
+        "text": "privado"
+      },
+      {
+        "id": "57934cf0cb2c409b9b0cfd22e98c629a",
+        "text": "híbrido"
+      },
+      {
+        "id": "f850e8df27c34bd9a2b6561472ab28c6",
+        "text": "niebla"
+      },
+      {
+        "id": "6770656094524305ab8d12e6f8d44958",
+        "text": "IoT"
+      },
+      {
+        "id": "1ac1dc3b06f54986b3c54e77f56bc769",
+        "text": "público"
+      }
+    ],
+    "selected": "público"
+  },
+  {
+    "id": "_265379188_1",
+    "question": "¿Para qué se usa el patrón de limitación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fa8be330b134424584b28690be066844",
+        "text": "Fijar un límite mínimo y máximo de uso"
+      },
+      {
+        "id": "d0efeedac96441efa7da64f5a5498422",
+        "text": "Limitar su uso"
+      },
+      {
+        "id": "9563ae9093e74645b98df67c6e201e11",
+        "text": "Para mantener la calidad del servicio bajo situaciones de carga"
+      },
+      {
+        "id": "5376216b9c044b71b95c0106409a006a",
+        "text": "Cargarlo siempre"
+      },
+      {
+        "id": "11d8ba1989584423b2ff54836a5b79a9",
+        "text": "Evitar saturaciones de rec"
+      }
+    ],
+    "selected": "Para mantener la calidad del servicio bajo situaciones de carga"
+  },
+  {
+    "id": "_265379189_1",
+    "question": "Selecciona la respuesta incorrecta entre las siguientes claves de la seguridad en entornos Cloud",
+    "correct": true,
+    "answers": [
+      {
+        "id": "505d4819da4c47439e7304d39cd03d6a",
+        "text": "El usuario puede despreocuparse de la seguridad"
+      },
+      {
+        "id": "e30f871d37494273a58bf2b11212360f",
+        "text": "Seguridad proporcionada por el proveedor"
+      },
+      {
+        "id": "57bc18d2afa34b90b794ca8b8758836a",
+        "text": "Nuevas formas de trabajar que implican mejor seguridad para el usuario."
+      },
+      {
+        "id": "5b4f8beb485d48b3ac527f94c5ba60e9",
+        "text": "Administración centralizada e incluso delegada"
+      },
+      {
+        "id": "f1f38851f814409ab65d03ca80a1c497",
+        "text": "Administración solo con servicios"
+      }
+    ],
+    "selected": "El usuario puede despreocuparse de la seguridad"
+  },
+  {
+    "id": "_265379190_1",
+    "question": "¿Cuál es la mejor forma para una empresa de limitar todo el tráfico saliente de máquinas virtuales a hosts conocidos?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "73cdb915e58143a9b5918035b1e81668",
+        "text": "Configurar Azure DDoS Protection para limitar el acceso"
+      },
+      {
+        "id": "e64107b42d6f44d1be939a03817a3acb",
+        "text": "No publicar los servicios hacia internet"
+      },
+      {
+        "id": "9ee46a28cd2d40d98c54b69dc91b7ae1",
+        "text": "Asegurarse que todas las aplicaciones en ejecución usen puestos y hosts de confianza"
+      },
+      {
+        "id": "17409f91b3b14b76876939e262ad3f14",
+        "text": "Colocar en la configuración de cada servidor virtual restricciones locales"
+      },
+      {
+        "id": "35157e282ef140f6b38eba60b80f8a4b",
+        "text": "Crear reglas de aplicación en Azure Firewall"
+      }
+    ],
+    "selected": "Configurar Azure DDoS Protection para limitar el acceso"
+  },
+  {
+    "id": "_265379191_1",
+    "question": "Cómo puede asegurarse que los empleados sólo accedan a las aplicaciones de la empresa desde los equipos autorizados",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6981255a08f94e90acb85579d8e35614",
+        "text": "Con Single Sign-On"
+      },
+      {
+        "id": "9feda28c5fef491ca62c73d9d752a9ed",
+        "text": "Aplicando políticas a cada equipo"
+      },
+      {
+        "id": "c4e60bed25ba418f971734814bdacd8b",
+        "text": "Mediante acceso condicional"
+      },
+      {
+        "id": "79e7ce2fc47d44f7b7ceccac32ead542",
+        "text": "Con Azure Firewall"
+      },
+      {
+        "id": "aa5d760daef34d209180199dd72aad6b",
+        "text": "Con autenticación multifactor"
+      }
+    ],
+    "selected": "Mediante acceso condicional"
+  },
+  {
+    "id": "_265379192_1",
+    "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "545d43a51fc849bf860b965a1a828eb9",
+        "text": "Se asume que la ejecución en la nube cuesta lo mismo que la ejecución en el centro de datos local"
+      },
+      {
+        "id": "5ab6bb6aa4634cb881d6d5f48e4472ca",
+        "text": "Usar una suscripción de prueba"
+      },
+      {
+        "id": "4ac380e989394e6fab7808e84d84f738",
+        "text": "Poner el servicio en marcha y ver la factura al final de mes"
+      },
+      {
+        "id": "1a5d75f9bb624c3981f3b34a8737b6b7",
+        "text": "No se puede comparar de manera precisa"
+      },
+      {
+        "id": "cd899fee5a1543989249470e4259b016",
+        "text": "Ejecutar la calculadora de costo total de propiedad"
+      }
+    ],
+    "selected": "Ejecutar la calculadora de costo total de propiedad"
+  },
+  {
+    "id": "_265379193_1",
+    "question": "Puede acceder al Compliance Manager desde",
+    "correct": false,
+    "answers": [
+      {
+        "id": "9cd7d3e54e9e4fa69d78c051e29f6334",
+        "text": "Azure active directory"
+      },
+      {
+        "id": "cf22cdb253634476ba41a2505f5dc3d8",
+        "text": "Microsoft service trust portal"
+      },
+      {
+        "id": "1a393277011f487d9decacea4a8977b7",
+        "text": "Microsoft 365"
+      },
+      {
+        "id": "ef76e851f4394f90bce7b06f0d664acd",
+        "text": "Azure portal"
+      },
+      {
+        "id": "2d518a9e13e5438abe9cef32340b8f71",
+        "text": "Microsoft Outlook"
+      }
+    ],
+    "selected": "Microsoft service trust portal"
+  },
+  {
+    "id": "_265379194_1",
+    "question": "¿Cuáles son actualmente las principales 4 palancas de transformación de los negocios?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "509b5ab6b3c24e5b8a26afe28f218749",
+        "text": "Cloud, Security, social & Mobility"
+      },
+      {
+        "id": "dca6e2b244ae4ba8ae4cb3ee4629b23b",
+        "text": "A través de un API podemos acceder a todas."
+      },
+      {
+        "id": "0bdade405be54b09bc3398a4e23606bd",
+        "text": "Social, Mobility, risk & API"
+      },
+      {
+        "id": "f7d604f8ab6c4212a3f337638b848896",
+        "text": "Social, Security, risk & Mobility"
+      },
+      {
+        "id": "7c4cf1576f064fe58e6888ed527eb325",
+        "text": "Social, Risk, API & Security"
+      }
+    ],
+    "selected": "Cloud, Security, social & Mobility"
+  },
+  {
+    "id": "_265379195_1",
+    "question": "¿Cloud se contrata siempre de forma online?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "73b9d39f62654f5d9dd3c2b59645473a",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "dc59c691b6224a4886d94b00eb0360fa",
+        "text": "El Servidor usa servicios Cloud y/o apoyarse en un partner especializado"
+      },
+      {
+        "id": "b4012ababccd46b38d70d6bba783930f",
+        "text": "No, es la única manera"
+      },
+      {
+        "id": "45420b193f95424fb29f74118dbd21bd",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "59279d52e9cf4feb8b5a8ec5cd9fc061",
+        "text": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+      }
+    ],
+    "selected": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+  },
+  {
+    "id": "_265379196_1",
+    "question": "¿Cuál de las siguientes opciones es una unidad lógica de servicios de Azure vinculada a una cuenta de Azure?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2ecbdf0ebd5a461492759f5ea1510a07",
+        "text": "Resource group"
+      },
+      {
+        "id": "5cd8374bb6f54c29af4a11bd41c84ee5",
+        "text": "Suscripción de Azure"
+      },
+      {
+        "id": "7292f4489ce142849704acaa5a22d9a4",
+        "text": "Azure AD"
+      },
+      {
+        "id": "cf86fcf356514e2ba93e66ae818ca9fd",
+        "text": "Recursos"
+      },
+      {
+        "id": "08c65c1062d64c199f033e98a3038fbb",
+        "text": "Grupo de administración"
+      }
+    ],
+    "selected": "Suscripción de Azure"
+  },
+  {
+    "id": "_265379197_1",
+    "question": "Las opciones de precios comunes para los servicios de Azure son:",
+    "correct": false,
+    "answers": [
+      {
+        "id": "68af87ca1d5943088fff8d5495bf78a6",
+        "text": "Precio múltiple"
+      },
+      {
+        "id": "0abcde1ec51c4f13b17b5b355cf98903",
+        "text": "Precio por espacio"
+      },
+      {
+        "id": "c474e046b9c149c1ba4ff9879a8c243b",
+        "text": "Precio por uso"
+      },
+      {
+        "id": "863590b33e234d6695408333a27adb72",
+        "text": "Precio basado en el consumo y fijo"
+      },
+      {
+        "id": "239693edeb704a18b8b90bf4375a9f86",
+        "text": "Precio estándar y variado"
+      }
+    ],
+    "selected": "Precio basado en el consumo y fijo"
+  },
+  {
+    "id": "_265379198_1",
+    "question": "Tiene previsto migrar varios servidores de una red local a Azure. ¿Cuál es la ventaja de utilizar un servicio de nube pública para los servidores en una red local?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7339e8b7cf8e47f4b2604dee65d07f13",
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+      },
+      {
+        "id": "4a368547cc454ef7a1473e3120717028",
+        "text": "La nube pública es una solución de crowdsourcing que brinda a las empresas la capacidad de mejorar la nube"
+      },
+      {
+        "id": "df4dac6769374ce0b353d33e9201805d",
+        "text": "La nube pública no es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      },
+      {
+        "id": "44d16b4c587c45749bdae343dd775341",
+        "text": "La nube pública es propiedad del público, NO de una corporación privada"
+      },
+      {
+        "id": "494fd7fbf15443dab9d6db4f4b2da90d",
+        "text": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      }
+    ],
+    "selected": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+  },
+  {
+    "id": "_265379199_1",
+    "question": "¿Cuál es una característica de la nube pública?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "03da1c8f352847d09d19df663de3c0e4",
+        "text": "precios medidos"
+      },
+      {
+        "id": "7247812955d74b4d9d367f3b2fa9fa81",
+        "text": "conexiones no seguras"
+      },
+      {
+        "id": "9a6c4eafde0f4e7f955c192605e6a668",
+        "text": "Software"
+      },
+      {
+        "id": "71a2c239210f44fe945b3d3dcf08c64c",
+        "text": "hardware dedicado"
+      },
+      {
+        "id": "a89108eb3d824ab38d02be4b549eb7dd",
+        "text": "almacenamiento limitado"
+      }
+    ],
+    "selected": "almacenamiento limitado"
+  },
+  {
+    "id": "_265379200_1",
+    "question": "¿Qué es un sistema de doble autenticación?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "5f1c80ca6e204a28960a4f0cd36818be",
+        "text": "Que el password se valida en dos sitios diferentes por seguridad."
+      },
+      {
+        "id": "b96f2566ad8747c68125728a371fb19a",
+        "text": "Que por seguridad hay que introducir tres veces el password."
+      },
+      {
+        "id": "74e27f424d4b45b0b8ebcd6ac8dc1420",
+        "text": "Que por seguridad no hay que introducir dos veces el password."
+      },
+      {
+        "id": "cb3a0c288b744b43a3ae18961a100ce1",
+        "text": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+      },
+      {
+        "id": "d116c3ab466548e4ad8a76e2d1f0cfd6",
+        "text": "Que por seguridad hay que introducir dos veces el password."
+      }
+    ],
+    "selected": "Que por seguridad no hay que introducir dos veces el password."
+  },
+  {
+    "id": "_265379201_1",
+    "question": "¿Qué implica Deshabilitar una máquina virtual en la nube?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "c16a7705a09f488dab950d0bda89ee70",
+        "text": "Se Deshabilita el CPU, la red y los discos"
+      },
+      {
+        "id": "0ed714f09e3f488f9449f67099d088ca",
+        "text": "Es lo mismo que eliminar la máquina virtual"
+      },
+      {
+        "id": "da3f2ccbea17487ab70a53d1f66413b9",
+        "text": "La máquina virtual sigue funcionando solo que es inaccesible"
+      },
+      {
+        "id": "9626526f706e4f4e96a12d1977d8d61b",
+        "text": "Deshabilita el CPU y la red, pero los discos son persistentes"
+      },
+      {
+        "id": "9b4fcb8d101f431496fb16468531fd07",
+        "text": "Solo se deshabilita el CPU"
+      }
+    ],
+    "selected": "Es lo mismo que eliminar la máquina virtual"
+  },
+  {
+    "id": "_265379202_1",
+    "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
+    "correct": true,
+    "answers": [
+      {
+        "id": "83409084f0f5466a8ab7335730bc99e9",
+        "text": "Modificar el azure advisor"
+      },
+      {
+        "id": "4800126cd0914151821dadeaaef862dc",
+        "text": "Modificar el azure firewall"
+      },
+      {
+        "id": "c14b12c96d044a07a8e3180a3a91fa73",
+        "text": "Modificar el NSG(network security group)"
+      },
+      {
+        "id": "bf3197aa52a24d92b1ed8633a6deafd7",
+        "text": "Crear una política en azure"
+      },
+      {
+        "id": "a8761d1e632540869818d960f7a0aab4",
+        "text": "Modificar a DDos"
+      }
+    ],
+    "selected": "Modificar el NSG(network security group)"
+  },
+  {
+    "id": "_265379203_1",
+    "question": "Selecciona el comentario incorrecto.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a9a38da228884b2497ffe163d634262b",
+        "text": "El modelo Cloud propone que el prestador es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "da587b1452874af7b41b984753ba26ea",
+        "text": "El modelo Cloud no propone que el prestador es responsable de construir, ejecutar y entregar el servicio"
+      },
+      {
+        "id": "1d4f07b429fc404d99b91d98dba38334",
+        "text": "El modelo Cloud es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "d6d245da600d40d18803cbdc0aaaf79c",
+        "text": "El modelo Cloud propone que el consumidor acepta un modelo de relación y unas condiciones de uso, que marcan sus responsabilidades"
+      },
+      {
+        "id": "4602065b67c140d489242bd714711a60",
+        "text": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+      }
+    ],
+    "selected": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+  },
+  {
+    "id": "_265379204_1",
+    "question": "¿Qué tarea no se aborda cuando se implementa un servicio Cloud?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4ebd9c7424bd4a42957f9e2874cbdf5e",
+        "text": "Monitorización del consumo del servicio"
+      },
+      {
+        "id": "500ad0859a254a89a98ccd7d1f7c6232",
+        "text": "Monitorización de la calidad del servicio."
+      },
+      {
+        "id": "9e17bf7468fc4aafb01f78c796528095",
+        "text": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+      },
+      {
+        "id": "f2e44c8559594b9aa1409eda80fb77f3",
+        "text": "Monitorización de la calidad del software."
+      },
+      {
+        "id": "5d5f320e9a874bec9916c418d3aa6784",
+        "text": "Monitorización de la calidad del hardware"
+      }
+    ],
+    "selected": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+  },
+  {
+    "id": "_265379205_1",
+    "question": "Tiene una aplicación web de Azure. Debe administrar la configuración de la aplicación web desde un iPhone. Que herramienta de administración de Azure se puede usar",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e3ab57172f034068b65e3ca573b48a53",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "19daac2e6c7049f4b35ef6354b362703",
+        "text": "Azure portal"
+      },
+      {
+        "id": "a7107fe45aee462aafb7def958311bb0",
+        "text": "Azure cli"
+      },
+      {
+        "id": "72933da7b6fc4de4b627146a4601e3ab",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "66a0092cfbe64cf186e56128e33c9f4a",
+        "text": "Azure storage explorer"
+      }
+    ],
+    "selected": "Azure portal"
+  },
+  {
+    "id": "_265379206_1",
+    "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4151dc550b64405e88a31ad3add7a890",
+        "text": "una aplicación web de Azure"
+      },
+      {
+        "id": "1e746ee632e14c9a8e196bfb20961305",
+        "text": "Una power Shell de actibve directory"
+      },
+      {
+        "id": "a4ad77c54a82436c89082fe301aa7aad",
+        "text": "una base de datos SQL de Azure"
+      },
+      {
+        "id": "eee4b5448a144516b0ef7fa9488ff0cf",
+        "text": "una máquina virtual de Azure"
+      },
+      {
+        "id": "86507af6d2664eb084229a4aed478c6a",
+        "text": "una aplicación lógica de Azure"
+      }
+    ],
+    "selected": "una máquina virtual de Azure"
+  }
+]

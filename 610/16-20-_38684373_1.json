@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_265824498_1",
+    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "c6e5977f34ab46b9b34237ddff0196f4",
+        "text": "Una nube publica"
+      },
+      {
+        "id": "c465ca2d99e649f29bc7b6e238cd1cdc",
+        "text": "una nube privada"
+      },
+      {
+        "id": "decff6d2442b49fc95014cfd59524e91",
+        "text": "una nube híbrida"
+      },
+      {
+        "id": "6534a7c934514a278b7c2a1f0cebecfc",
+        "text": "una migración completa a la nube pública"
+      },
+      {
+        "id": "118f4b389cc747ca95a9694a6b4489d5",
+        "text": "un centro de datos adicional"
+      }
+    ],
+    "selected": "una nube privada"
+  },
+  {
+    "id": "_265824499_1",
+    "question": "¿Cloud se contrata siempre de forma online?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "45420b193f95424fb29f74118dbd21bd",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "b4012ababccd46b38d70d6bba783930f",
+        "text": "No, es la única manera"
+      },
+      {
+        "id": "73b9d39f62654f5d9dd3c2b59645473a",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "dc59c691b6224a4886d94b00eb0360fa",
+        "text": "El Servidor usa servicios Cloud y/o apoyarse en un partner especializado"
+      },
+      {
+        "id": "59279d52e9cf4feb8b5a8ec5cd9fc061",
+        "text": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+      }
+    ],
+    "selected": "Sí, es la única y mejor manera."
+  },
+  {
+    "id": "_265824500_1",
+    "question": "Que son los grupos de recursos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6362f86763894a9e9ee9e1cd9641abfe",
+        "text": "Un tipo de suscripción de Azure"
+      },
+      {
+        "id": "8ac6b0f76190481c817653ba98471f57",
+        "text": "Recursos desplegados en un mismo centro de datos"
+      },
+      {
+        "id": "eb56d4c34744439e9bfa06c9c04f3cd4",
+        "text": "Un contenedor lógico de recursos desplegados en Azure"
+      },
+      {
+        "id": "be59e903a3dd45919edad7cf6562d020",
+        "text": "Un conjunto de suscripciones de Azure"
+      },
+      {
+        "id": "5cf81ee1b40d48228e2115a44100fc6c",
+        "text": "Recursos desplegados en la misma región"
+      }
+    ],
+    "selected": "Un contenedor lógico de recursos desplegados en Azure"
+  },
+  {
+    "id": "_265824501_1",
+    "question": "¿Cuál de las afirmaciones sobre informática en la nube no es correcta?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "315ebd5ed08c4731ac4351de8fb20242",
+        "text": "Azure y Amazon Web Services son modelos de nube pública"
+      },
+      {
+        "id": "3d81e52626cc434e94a0ea64840e8ee0",
+        "text": "La informática en la nube normalmente reduce los gastos operativos"
+      },
+      {
+        "id": "2c74a9bdf92d4826a3dfa57a4c5cd658",
+        "text": "IaaS, PaaS y SaaS son ejemplos de modelos de servicios de informática en la nube"
+      },
+      {
+        "id": "7fb88d6adca64516b9fb6df52e387e28",
+        "text": "Tres modelos de implementación para informática en la nube son la nube pública, la nube privada y la nube hibrida"
+      },
+      {
+        "id": "97c040ce26a440f79f8f77873e4f7234",
+        "text": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+      }
+    ],
+    "selected": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+  },
+  {
+    "id": "_265824502_1",
+    "question": "Cuando hablamos de PaaS...",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b63727627b894c508db03d146c59962d",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del hardware"
+      },
+      {
+        "id": "b3a261edf59e4177a8031ca162ef69b5",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del software."
+      },
+      {
+        "id": "f0f09501a8434538b87626e96626e07e",
+        "text": "Nos estamos refiriendo a servicios Cloud que integran las aplicaciones con la capa de infraestructura"
+      },
+      {
+        "id": "06b0743613fd4a99a52b9260849e7f62",
+        "text": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+      },
+      {
+        "id": "3ad773bbe0624be7bf286e5d73d96de8",
+        "text": "Nos estamos refiriendo a servicios Cloud híbridos"
+      }
+    ],
+    "selected": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+  },
+  {
+    "id": "_265824503_1",
+    "question": "Tiene una red local que contiene varios servidores. Tiene previsto migrar todos los servidores a Azure. Debe recomendar una solución para asegurarse de que algunos de los servidores estén disponibles si un solo centro de datos de Azure se desconecta durante un período prolongado. ¿Qué debería incluir en la recomendación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f80ea93b23a64a27b624f1d399e28ab0",
+        "text": "escalabilidad"
+      },
+      {
+        "id": "99cd7bfc60224073b00a3940df3d340c",
+        "text": "elasticidad"
+      },
+      {
+        "id": "2095bc49a0a54c1aa2a983dc65864d42",
+        "text": "HA"
+      },
+      {
+        "id": "852f37fb876148bfb953dfe664902334",
+        "text": "baja latencia"
+      },
+      {
+        "id": "c610d51e2fe047eb9f3d0423f30147ab",
+        "text": "tolerancia a fallas"
+      }
+    ],
+    "selected": "tolerancia a fallas"
+  },
+  {
+    "id": "_265824504_1",
+    "question": "Su empresa planea implementar varios servidores web y varios servidores de bases de datos en Azure. Recomiende una solución para limitar los tipos de conexiones desde los servidores web a los servidores de bases de datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a8a661dd9cdf448e9c11d6ecc5c6f65b",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "bcdafe3a8e1d4dc5957a9758fcd056b8",
+        "text": "Grupo de seguridad de red (NSG)"
+      },
+      {
+        "id": "f6edd9bc9d424f849764272fce5cdd17",
+        "text": "Un Gateway"
+      },
+      {
+        "id": "6d38a73e894b41649e92c09adcc6d1c0",
+        "text": "Un filtro de ruta"
+      },
+      {
+        "id": "d09e1261e5ab4f8a802d65e7b481d14c",
+        "text": "Azure service bus"
+      }
+    ],
+    "selected": "Grupo de seguridad de red (NSG)"
+  },
+  {
+    "id": "_265824505_1",
+    "question": "Dónde se puede revisar la información sobre cómo la nube de Microsoft ayuda a proteger los datos confidenciales y a cumplir con las leyes y regulaciones vigentes",
+    "correct": true,
+    "answers": [
+      {
+        "id": "44fb2f1c3894462b9b645e728eec9fb0",
+        "text": "Términos y condiciones por producto"
+      },
+      {
+        "id": "90cc081e031b4e9499cee9549056f33e",
+        "text": "Centro de confianza"
+      },
+      {
+        "id": "b5e5cae223164174bd9d19b7c469a4f5",
+        "text": "Terminos de Online Services"
+      },
+      {
+        "id": "1d49060a9701441799be2952f3cc6b5e",
+        "text": "En el portal de Azure"
+      },
+      {
+        "id": "b60e74c8728b4c59973f59d70eb92fc4",
+        "text": "Declaración de privacidad de Microsoft"
+      }
+    ],
+    "selected": "Centro de confianza"
+  },
+  {
+    "id": "_265824506_1",
+    "question": "¿Cuál es la forma más sencilla de que su empresa combine los datos de seguridad de todas sus herramientas de supervisión en un único informe sobre el que pueda tomar medidas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4ace8e20df6a47dbb27b925546ecae36",
+        "text": "Utilizar una herramienta personalizada propia"
+      },
+      {
+        "id": "5de50a7a27554e8799e6a6fb1b7e9e70",
+        "text": "Revisar cada Registro de seguridad diariamente"
+      },
+      {
+        "id": "c5f47a2ad03546c89bfb14b027430ced",
+        "text": "Mediante Azure Sentinel"
+      },
+      {
+        "id": "2befbb0ec6fc4089b41346ff4a9f2bf7",
+        "text": "Utilizar un syslog server en la nube"
+      },
+      {
+        "id": "4aa13d11dfd34be284379c8bac511d96",
+        "text": "Usar un SIEM on premisse"
+      }
+    ],
+    "selected": "Mediante Azure Sentinel"
+  },
+  {
+    "id": "_265824507_1",
+    "question": "¿Cuál es la mejor forma para una empresa de limitar todo el tráfico saliente de máquinas virtuales a hosts conocidos?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "35157e282ef140f6b38eba60b80f8a4b",
+        "text": "Crear reglas de aplicación en Azure Firewall"
+      },
+      {
+        "id": "e64107b42d6f44d1be939a03817a3acb",
+        "text": "No publicar los servicios hacia internet"
+      },
+      {
+        "id": "73cdb915e58143a9b5918035b1e81668",
+        "text": "Configurar Azure DDoS Protection para limitar el acceso"
+      },
+      {
+        "id": "9ee46a28cd2d40d98c54b69dc91b7ae1",
+        "text": "Asegurarse que todas las aplicaciones en ejecución usen puestos y hosts de confianza"
+      },
+      {
+        "id": "17409f91b3b14b76876939e262ad3f14",
+        "text": "Colocar en la configuración de cada servidor virtual restricciones locales"
+      }
+    ],
+    "selected": "Crear reglas de aplicación en Azure Firewall"
+  },
+  {
+    "id": "_265824508_1",
+    "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "cd899fee5a1543989249470e4259b016",
+        "text": "Ejecutar la calculadora de costo total de propiedad"
+      },
+      {
+        "id": "5ab6bb6aa4634cb881d6d5f48e4472ca",
+        "text": "Usar una suscripción de prueba"
+      },
+      {
+        "id": "4ac380e989394e6fab7808e84d84f738",
+        "text": "Poner el servicio en marcha y ver la factura al final de mes"
+      },
+      {
+        "id": "545d43a51fc849bf860b965a1a828eb9",
+        "text": "Se asume que la ejecución en la nube cuesta lo mismo que la ejecución en el centro de datos local"
+      },
+      {
+        "id": "1a5d75f9bb624c3981f3b34a8737b6b7",
+        "text": "No se puede comparar de manera precisa"
+      }
+    ],
+    "selected": "Ejecutar la calculadora de costo total de propiedad"
+  },
+  {
+    "id": "_265824509_1",
+    "question": "¿Para qué se usa el patrón de limitación?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "9563ae9093e74645b98df67c6e201e11",
+        "text": "Para mantener la calidad del servicio bajo situaciones de carga"
+      },
+      {
+        "id": "11d8ba1989584423b2ff54836a5b79a9",
+        "text": "Evitar saturaciones de rec"
+      },
+      {
+        "id": "d0efeedac96441efa7da64f5a5498422",
+        "text": "Limitar su uso"
+      },
+      {
+        "id": "5376216b9c044b71b95c0106409a006a",
+        "text": "Cargarlo siempre"
+      },
+      {
+        "id": "fa8be330b134424584b28690be066844",
+        "text": "Fijar un límite mínimo y máximo de uso"
+      }
+    ],
+    "selected": "Limitar su uso"
+  },
+  {
+    "id": "_265824510_1",
+    "question": "Partiendo de una flexibilidad, transparencia, movilidad y un cambio cultural a la hora de usar soluciones Cloud, podemos llegar a crear un modelo organizativo diferente",
+    "correct": true,
+    "answers": [
+      {
+        "id": "16376553a54746f6bdb759f9a66ca318",
+        "text": "Un nuevo estándar de certificación de procesos de gestión de seguridad"
+      },
+      {
+        "id": "6fdf9854fa54470887d60e184190dda9",
+        "text": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+      },
+      {
+        "id": "c0e566a627284f158401ad5887aa2dd0",
+        "text": "Una nueva arquitectura de micro-procesadores más potente para soluciones de seguridad"
+      },
+      {
+        "id": "f4d66cc9f4ae4abc8e03b0bc5cacc373",
+        "text": "Gestión de seguridad privada"
+      },
+      {
+        "id": "0a92925000d14a36b86fbde14e70e615",
+        "text": "Un nuevo proceso de gestión de seguridad."
+      }
+    ],
+    "selected": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+  },
+  {
+    "id": "_265824511_1",
+    "question": "Una definición de iniciativa de Azure Policy es",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b3a6b78c6018441fa3a6d43c1d70394c",
+        "text": "Una colección de asignaciones de azure policy"
+      },
+      {
+        "id": "a297c5e9f0034b90b02264be21f94530",
+        "text": "Un grupo de roles de control de acceso(RBAC)"
+      },
+      {
+        "id": "6264275b74114e04ac852c22ca0291ad",
+        "text": "Una zona de disponibilidad"
+      },
+      {
+        "id": "a8bf3b0fad5645d9afb6166f0bbaa13c",
+        "text": "Un grupo de definiciones de azure blueprints"
+      },
+      {
+        "id": "db954640982c480981a646fe8d2b7277",
+        "text": "Una colección de definición de políticas"
+      }
+    ],
+    "selected": "Una colección de definición de políticas"
+  },
+  {
+    "id": "_265824512_1",
+    "question": "Qué recurso de Azure Compute se puede implementar para administrar un conjunto de máquinas virtuales idénticas",
+    "correct": true,
+    "answers": [
+      {
+        "id": "8e1a3f909ef94967884d344d5a693e5b",
+        "text": "Zonas de disponibilidad de la máquina virtual"
+      },
+      {
+        "id": "5caa0f5437eb4b79895f57b510de411e",
+        "text": "Conjuntos de escalado de máquinas virtuales"
+      },
+      {
+        "id": "b407a790028d43f59dc9bc00492fece5",
+        "text": "Servidores virtualizados bajo IaaS"
+      },
+      {
+        "id": "438443d4dd694f2d88c3ab3b2f041e28",
+        "text": "Azure App Service"
+      },
+      {
+        "id": "5094e2b3dcbf40d582c696e25e376203",
+        "text": "Conjuntos de disponibilidad de máquinas virtuales"
+      }
+    ],
+    "selected": "Conjuntos de escalado de máquinas virtuales"
+  },
+  {
+    "id": "_265824513_1",
+    "question": "Selecciona el comentario incorrecto.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d6d245da600d40d18803cbdc0aaaf79c",
+        "text": "El modelo Cloud propone que el consumidor acepta un modelo de relación y unas condiciones de uso, que marcan sus responsabilidades"
+      },
+      {
+        "id": "a9a38da228884b2497ffe163d634262b",
+        "text": "El modelo Cloud propone que el prestador es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "1d4f07b429fc404d99b91d98dba38334",
+        "text": "El modelo Cloud es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "da587b1452874af7b41b984753ba26ea",
+        "text": "El modelo Cloud no propone que el prestador es responsable de construir, ejecutar y entregar el servicio"
+      },
+      {
+        "id": "4602065b67c140d489242bd714711a60",
+        "text": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+      }
+    ],
+    "selected": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+  },
+  {
+    "id": "_265824514_1",
+    "question": "Es una función de Azure Storage",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b5ed42fe523042539475e6ba954638e8",
+        "text": "Asegurarse de que el dispositivo no haya sido comprometido maliciosamente"
+      },
+      {
+        "id": "54e48e355be74959ac22e0ed7468c467",
+        "text": "Envía cualquier sistema operativo o actualizaciones de software desarrolladas por el cliente aprobadas al dispositivo"
+      },
+      {
+        "id": "ca1cfeefc9a74f7fa317d4e5832b3e5b",
+        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
+      },
+      {
+        "id": "db94d58fc66041e6ab4dc29e6d1b8294",
+        "text": "Solución de almacenamiento en la nube de Microsoft."
+      },
+      {
+        "id": "0ecf6141c4ac45f78842a33f5a7c3f4a",
+        "text": "Maneja la comunicación con el servicio de seguridad y puede ejecutar el software del proveedor."
+      }
+    ],
+    "selected": "Solución de almacenamiento en la nube de Microsoft."
+  },
+  {
+    "id": "_265824515_1",
+    "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
+    "correct": false,
+    "answers": [
+      {
+        "id": "bf3197aa52a24d92b1ed8633a6deafd7",
+        "text": "Crear una política en azure"
+      },
+      {
+        "id": "a8761d1e632540869818d960f7a0aab4",
+        "text": "Modificar a DDos"
+      },
+      {
+        "id": "83409084f0f5466a8ab7335730bc99e9",
+        "text": "Modificar el azure advisor"
+      },
+      {
+        "id": "c14b12c96d044a07a8e3180a3a91fa73",
+        "text": "Modificar el NSG(network security group)"
+      },
+      {
+        "id": "4800126cd0914151821dadeaaef862dc",
+        "text": "Modificar el azure firewall"
+      }
+    ],
+    "selected": "Modificar el azure firewall"
+  },
+  {
+    "id": "_265824516_1",
+    "question": "¿Qué diferencia hay entre IaaS y Virtualización?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7100eb97d7aa4c93ae3488c45d8efdc3",
+        "text": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+      },
+      {
+        "id": "a33ec97629fe4d9b9a541edf507d4094",
+        "text": "Virtualización de servidores pertenece a PaaS"
+      },
+      {
+        "id": "ac5ca30d8a18423a9d41acc85a1d1930",
+        "text": "Son iguales"
+      },
+      {
+        "id": "7df83a2e0c124028a333f263bb068488",
+        "text": "IaaS es solo crear máquinas virtuales."
+      },
+      {
+        "id": "dcc072a7227b455e95393bc00b7e0a21",
+        "text": "La virtualización es la base de la Infraestructura como Servicio (IaaS)"
+      }
+    ],
+    "selected": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+  },
+  {
+    "id": "_265824517_1",
+    "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "eee4b5448a144516b0ef7fa9488ff0cf",
+        "text": "una máquina virtual de Azure"
+      },
+      {
+        "id": "86507af6d2664eb084229a4aed478c6a",
+        "text": "una aplicación lógica de Azure"
+      },
+      {
+        "id": "a4ad77c54a82436c89082fe301aa7aad",
+        "text": "una base de datos SQL de Azure"
+      },
+      {
+        "id": "1e746ee632e14c9a8e196bfb20961305",
+        "text": "Una power Shell de actibve directory"
+      },
+      {
+        "id": "4151dc550b64405e88a31ad3add7a890",
+        "text": "una aplicación web de Azure"
+      }
+    ],
+    "selected": "una máquina virtual de Azure"
+  }
+]
