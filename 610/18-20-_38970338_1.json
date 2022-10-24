@@ -2,7 +2,7 @@
   {
     "id": "_267631887_1",
     "question": "Que son los grupos de recursos",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "be59e903a3dd45919edad7cf6562d020",
@@ -30,7 +30,7 @@
   {
     "id": "_267631888_1",
     "question": "¿Cuál de las afirmaciones sobre informática en la nube no es correcta?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7fb88d6adca64516b9fb6df52e387e28",
@@ -58,7 +58,7 @@
   {
     "id": "_267631889_1",
     "question": "¿Cuál es una característica de la nube pública?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a89108eb3d824ab38d02be4b549eb7dd",
@@ -86,7 +86,7 @@
   {
     "id": "_267631890_1",
     "question": "Tiene previsto migrar una aplicación web a Azure. Los usuarios externos acceden a la aplicación web.Debe recomendar una solución de implementación en la nube para minimizar la cantidad de esfuerzo administrativo utilizado para administrar la aplicación web.¿Qué debería incluir en la recomendación?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "40ca510e03244315b5e7987e6adf5c7a",
@@ -114,7 +114,7 @@
   {
     "id": "_267631891_1",
     "question": "Las opciones de precios comunes para los servicios de Azure son:",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "68af87ca1d5943088fff8d5495bf78a6",
@@ -142,7 +142,7 @@
   {
     "id": "_267631892_1",
     "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "c465ca2d99e649f29bc7b6e238cd1cdc",
@@ -170,7 +170,7 @@
   {
     "id": "_267631893_1",
     "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1e746ee632e14c9a8e196bfb20961305",
@@ -198,7 +198,7 @@
   {
     "id": "_267631894_1",
     "question": "¿Qué es un sistema de doble autenticación?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "74e27f424d4b45b0b8ebcd6ac8dc1420",
@@ -226,7 +226,7 @@
   {
     "id": "_267631895_1",
     "question": "Puede ver el informe de cumplimiento normativo de su empresa desde",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ea538fc1e32e4243bb8cc80c1fafc04b",
@@ -254,7 +254,7 @@
   {
     "id": "_267631896_1",
     "question": "Tiene una aplicación web de Azure. Debe administrar la configuración de la aplicación web desde un iPhone. Que herramienta de administración de Azure se puede usar",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "72933da7b6fc4de4b627146a4601e3ab",
@@ -282,7 +282,7 @@
   {
     "id": "_267631897_1",
     "question": "Tienes un entorno de Azure. Debe crear una nueva máquina virtual de Azure desde una tableta que ejecute el sistema operativo Android, escoja una solución para ello",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8e4da05bd3df46bd8e6797f21283030e",
@@ -310,7 +310,7 @@
   {
     "id": "_267631898_1",
     "question": "Qué recurso de Azure Compute se puede implementar para administrar un conjunto de máquinas virtuales idénticas",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "8e1a3f909ef94967884d344d5a693e5b",
@@ -338,7 +338,7 @@
   {
     "id": "_267631899_1",
     "question": "Es una función de Azure Storage",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "54e48e355be74959ac22e0ed7468c467",
@@ -366,7 +366,7 @@
   {
     "id": "_267631900_1",
     "question": "Dónde se puede revisar la información sobre cómo la nube de Microsoft ayuda a proteger los datos confidenciales y a cumplir con las leyes y regulaciones vigentes",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "90cc081e031b4e9499cee9549056f33e",
@@ -394,7 +394,7 @@
   {
     "id": "_267631901_1",
     "question": "Cuál es la mejor manera que una empresa almacene los certificados en forma segura y sean accesibles para sus máquinas virtuales en la nube?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0a719343c1e547e1a592a16356055a1d",
@@ -422,7 +422,7 @@
   {
     "id": "_267631902_1",
     "question": "¿Qué se garantiza en un contrato de nivel de servicio (SLA) de Azure para máquinas virtuales?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "deaa03772ec94038b0c43b5329dab08b",
@@ -450,7 +450,7 @@
   {
     "id": "_267631903_1",
     "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "cd899fee5a1543989249470e4259b016",
@@ -478,7 +478,7 @@
   {
     "id": "_267631904_1",
     "question": "¿En qué tipo de modelo de nube todos los recursos de hardware son propiedad de un tercero y se comparten entre varios inquilinos?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "62d572d5991342bcaa0107dce3726ddd",
@@ -506,7 +506,7 @@
   {
     "id": "_267631905_1",
     "question": "¿Para qué se usa el patrón de limitación?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "11d8ba1989584423b2ff54836a5b79a9",
@@ -534,7 +534,7 @@
   {
     "id": "_267631906_1",
     "question": "¿Cuál de los siguientes no es una herramienta de gestión nativa de Microsoft para Azure?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c092781907964ace96b8697745e95235",

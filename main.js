@@ -1,8 +1,9 @@
 var attemps = {};
 
 function getData(course) {
+    let id = new Date().getTime();
     attemps[`_${course}`].forEach((attemp, key) => {
-        $.getJSON(`${course}/${attemp.id}.json`, res => {
+        $.getJSON(`${course}/${attemp.id}.json?v=${id}`, res => {
             attemps[`_${course}`][key].data = res;
             attemps[`_${course}`][key].nota = attemp.id.substr(0, 2);
         })
