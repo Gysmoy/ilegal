@@ -1,7 +1,7 @@
 [
   {
     "id": "_265824498_1",
-    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
+    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
     "correct": false,
     "answers": [
       {
@@ -462,7 +462,7 @@
       },
       {
         "id": "ca1cfeefc9a74f7fa317d4e5832b3e5b",
-        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
+        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
       },
       {
         "id": "db94d58fc66041e6ab4dc29e6d1b8294",
@@ -477,7 +477,7 @@
   },
   {
     "id": "_265824515_1",
-    "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
+    "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
     "correct": false,
     "answers": [
       {

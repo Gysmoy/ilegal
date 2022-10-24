@@ -314,7 +314,7 @@
     "answers": [
       {
         "id": "7339e8b7cf8e47f4b2604dee65d07f13",
-        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
       },
       {
         "id": "4a368547cc454ef7a1473e3120717028",
@@ -421,7 +421,7 @@
   },
   {
     "id": "_265379202_1",
-    "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
+    "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
     "correct": true,
     "answers": [
       {

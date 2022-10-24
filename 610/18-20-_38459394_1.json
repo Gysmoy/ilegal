@@ -42,7 +42,7 @@
       },
       {
         "id": "7339e8b7cf8e47f4b2604dee65d07f13",
-        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
       },
       {
         "id": "44d16b4c587c45749bdae343dd775341",
@@ -85,7 +85,7 @@
   },
   {
     "id": "_264099453_1",
-    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
+    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
     "correct": false,
     "answers": [
       {

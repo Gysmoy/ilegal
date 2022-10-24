@@ -253,7 +253,7 @@
   },
   {
     "id": "_265379774_1",
-    "question": "Tiene previsto migrar una aplicación web a Azure. Los usuarios externos acceden a la aplicación web.Debe recomendar una solución de implementación en la nube para minimizar la cantidad de esfuerzo administrativo utilizado para administrar la aplicación web.¿Qué debería incluir en la recomendación?",
+    "question": "Tiene previsto migrar una aplicación web a Azure. Los usuarios externos acceden a la aplicación web.Debe recomendar una solución de implementación en la nube para minimizar la cantidad de esfuerzo administrativo utilizado para administrar la aplicación web.¿Qué debería incluir en la recomendación?",
     "correct": true,
     "answers": [
       {
@@ -290,7 +290,7 @@
       },
       {
         "id": "7339e8b7cf8e47f4b2604dee65d07f13",
-        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
       },
       {
         "id": "44d16b4c587c45749bdae343dd775341",
@@ -382,7 +382,7 @@
       },
       {
         "id": "ca1cfeefc9a74f7fa317d4e5832b3e5b",
-        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
+        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
       },
       {
         "id": "54e48e355be74959ac22e0ed7468c467",
