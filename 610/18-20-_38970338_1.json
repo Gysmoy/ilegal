@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_267631887_1",
+    "question": "Que son los grupos de recursos",
+    "correct": null,
+    "answers": [
+      {
+        "id": "be59e903a3dd45919edad7cf6562d020",
+        "text": "Un conjunto de suscripciones de Azure"
+      },
+      {
+        "id": "8ac6b0f76190481c817653ba98471f57",
+        "text": "Recursos desplegados en un mismo centro de datos"
+      },
+      {
+        "id": "eb56d4c34744439e9bfa06c9c04f3cd4",
+        "text": "Un contenedor lógico de recursos desplegados en Azure"
+      },
+      {
+        "id": "5cf81ee1b40d48228e2115a44100fc6c",
+        "text": "Recursos desplegados en la misma región"
+      },
+      {
+        "id": "6362f86763894a9e9ee9e1cd9641abfe",
+        "text": "Un tipo de suscripción de Azure"
+      }
+    ],
+    "selected": "Un contenedor lógico de recursos desplegados en Azure"
+  },
+  {
+    "id": "_267631888_1",
+    "question": "¿Cuál de las afirmaciones sobre informática en la nube no es correcta?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7fb88d6adca64516b9fb6df52e387e28",
+        "text": "Tres modelos de implementación para informática en la nube son la nube pública, la nube privada y la nube hibrida"
+      },
+      {
+        "id": "97c040ce26a440f79f8f77873e4f7234",
+        "text": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+      },
+      {
+        "id": "315ebd5ed08c4731ac4351de8fb20242",
+        "text": "Azure y Amazon Web Services son modelos de nube pública"
+      },
+      {
+        "id": "2c74a9bdf92d4826a3dfa57a4c5cd658",
+        "text": "IaaS, PaaS y SaaS son ejemplos de modelos de servicios de informática en la nube"
+      },
+      {
+        "id": "3d81e52626cc434e94a0ea64840e8ee0",
+        "text": "La informática en la nube normalmente reduce los gastos operativos"
+      }
+    ],
+    "selected": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+  },
+  {
+    "id": "_267631889_1",
+    "question": "¿Cuál es una característica de la nube pública?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a89108eb3d824ab38d02be4b549eb7dd",
+        "text": "almacenamiento limitado"
+      },
+      {
+        "id": "7247812955d74b4d9d367f3b2fa9fa81",
+        "text": "conexiones no seguras"
+      },
+      {
+        "id": "9a6c4eafde0f4e7f955c192605e6a668",
+        "text": "Software"
+      },
+      {
+        "id": "03da1c8f352847d09d19df663de3c0e4",
+        "text": "precios medidos"
+      },
+      {
+        "id": "71a2c239210f44fe945b3d3dcf08c64c",
+        "text": "hardware dedicado"
+      }
+    ],
+    "selected": "precios medidos"
+  },
+  {
+    "id": "_267631890_1",
+    "question": "Tiene previsto migrar una aplicación web a Azure. Los usuarios externos acceden a la aplicación web.Debe recomendar una solución de implementación en la nube para minimizar la cantidad de esfuerzo administrativo utilizado para administrar la aplicación web.¿Qué debería incluir en la recomendación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "40ca510e03244315b5e7987e6adf5c7a",
+        "text": "Red como servicio(NaaS)"
+      },
+      {
+        "id": "68f5c0fbba284a28b376697006f66b5f",
+        "text": "Software como servicio (SaaS)"
+      },
+      {
+        "id": "8701d860cc0c4318a9c0af80f14b4e15",
+        "text": "Base de datos como servicio (DaaS)"
+      },
+      {
+        "id": "6f2a21ec67d749649539833a8d879589",
+        "text": "Plataforma como servicio (PaaS)"
+      },
+      {
+        "id": "bd4efd618fee481eb990376b7566c136",
+        "text": "Infraestructura como servicio (IaaS)"
+      }
+    ],
+    "selected": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "id": "_267631891_1",
+    "question": "Las opciones de precios comunes para los servicios de Azure son:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "68af87ca1d5943088fff8d5495bf78a6",
+        "text": "Precio múltiple"
+      },
+      {
+        "id": "c474e046b9c149c1ba4ff9879a8c243b",
+        "text": "Precio por uso"
+      },
+      {
+        "id": "239693edeb704a18b8b90bf4375a9f86",
+        "text": "Precio estándar y variado"
+      },
+      {
+        "id": "863590b33e234d6695408333a27adb72",
+        "text": "Precio basado en el consumo y fijo"
+      },
+      {
+        "id": "0abcde1ec51c4f13b17b5b355cf98903",
+        "text": "Precio por espacio"
+      }
+    ],
+    "selected": "Precio por uso"
+  },
+  {
+    "id": "_267631892_1",
+    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c465ca2d99e649f29bc7b6e238cd1cdc",
+        "text": "una nube privada"
+      },
+      {
+        "id": "6534a7c934514a278b7c2a1f0cebecfc",
+        "text": "una migración completa a la nube pública"
+      },
+      {
+        "id": "118f4b389cc747ca95a9694a6b4489d5",
+        "text": "un centro de datos adicional"
+      },
+      {
+        "id": "c6e5977f34ab46b9b34237ddff0196f4",
+        "text": "Una nube publica"
+      },
+      {
+        "id": "decff6d2442b49fc95014cfd59524e91",
+        "text": "una nube híbrida"
+      }
+    ],
+    "selected": "una nube híbrida"
+  },
+  {
+    "id": "_267631893_1",
+    "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "1e746ee632e14c9a8e196bfb20961305",
+        "text": "Una power Shell de actibve directory"
+      },
+      {
+        "id": "86507af6d2664eb084229a4aed478c6a",
+        "text": "una aplicación lógica de Azure"
+      },
+      {
+        "id": "eee4b5448a144516b0ef7fa9488ff0cf",
+        "text": "una máquina virtual de Azure"
+      },
+      {
+        "id": "4151dc550b64405e88a31ad3add7a890",
+        "text": "una aplicación web de Azure"
+      },
+      {
+        "id": "a4ad77c54a82436c89082fe301aa7aad",
+        "text": "una base de datos SQL de Azure"
+      }
+    ],
+    "selected": "una aplicación web de Azure"
+  },
+  {
+    "id": "_267631894_1",
+    "question": "¿Qué es un sistema de doble autenticación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "74e27f424d4b45b0b8ebcd6ac8dc1420",
+        "text": "Que por seguridad no hay que introducir dos veces el password."
+      },
+      {
+        "id": "b96f2566ad8747c68125728a371fb19a",
+        "text": "Que por seguridad hay que introducir tres veces el password."
+      },
+      {
+        "id": "5f1c80ca6e204a28960a4f0cd36818be",
+        "text": "Que el password se valida en dos sitios diferentes por seguridad."
+      },
+      {
+        "id": "d116c3ab466548e4ad8a76e2d1f0cfd6",
+        "text": "Que por seguridad hay que introducir dos veces el password."
+      },
+      {
+        "id": "cb3a0c288b744b43a3ae18961a100ce1",
+        "text": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+      }
+    ],
+    "selected": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+  },
+  {
+    "id": "_267631895_1",
+    "question": "Puede ver el informe de cumplimiento normativo de su empresa desde",
+    "correct": null,
+    "answers": [
+      {
+        "id": "ea538fc1e32e4243bb8cc80c1fafc04b",
+        "text": "Azure security center"
+      },
+      {
+        "id": "4080d01a37c24fb7953c4aeab8752293",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "40d971b2d75341448e1a1a98e2a0d36b",
+        "text": "Azure portal"
+      },
+      {
+        "id": "774453127d8c410d820d4be924cd4d36",
+        "text": "Azure storage explorer"
+      },
+      {
+        "id": "30a81d8dfb3642d5805533b55cf2ab32",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Azure security center"
+  },
+  {
+    "id": "_267631896_1",
+    "question": "Tiene una aplicación web de Azure. Debe administrar la configuración de la aplicación web desde un iPhone. Que herramienta de administración de Azure se puede usar",
+    "correct": null,
+    "answers": [
+      {
+        "id": "72933da7b6fc4de4b627146a4601e3ab",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "a7107fe45aee462aafb7def958311bb0",
+        "text": "Azure cli"
+      },
+      {
+        "id": "19daac2e6c7049f4b35ef6354b362703",
+        "text": "Azure portal"
+      },
+      {
+        "id": "66a0092cfbe64cf186e56128e33c9f4a",
+        "text": "Azure storage explorer"
+      },
+      {
+        "id": "e3ab57172f034068b65e3ca573b48a53",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Azure portal"
+  },
+  {
+    "id": "_267631897_1",
+    "question": "Tienes un entorno de Azure. Debe crear una nueva máquina virtual de Azure desde una tableta que ejecute el sistema operativo Android, escoja una solución para ello",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8e4da05bd3df46bd8e6797f21283030e",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "9cbf5fdb17d94c29a85c903378d9b3d3",
+        "text": "The powerapps portal"
+      },
+      {
+        "id": "22824889524e4c6d9338be7c47c8b72a",
+        "text": "Iniciativa"
+      },
+      {
+        "id": "53dd6851c8b34c2c9477ae119ed7e767",
+        "text": "Power Shell in azure cloud Shell"
+      },
+      {
+        "id": "f0f3709d162d4ab5a0049e2357a2981e",
+        "text": "RBAC"
+      }
+    ],
+    "selected": "Power Shell in azure cloud Shell"
+  },
+  {
+    "id": "_267631898_1",
+    "question": "Qué recurso de Azure Compute se puede implementar para administrar un conjunto de máquinas virtuales idénticas",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8e1a3f909ef94967884d344d5a693e5b",
+        "text": "Zonas de disponibilidad de la máquina virtual"
+      },
+      {
+        "id": "438443d4dd694f2d88c3ab3b2f041e28",
+        "text": "Azure App Service"
+      },
+      {
+        "id": "5caa0f5437eb4b79895f57b510de411e",
+        "text": "Conjuntos de escalado de máquinas virtuales"
+      },
+      {
+        "id": "5094e2b3dcbf40d582c696e25e376203",
+        "text": "Conjuntos de disponibilidad de máquinas virtuales"
+      },
+      {
+        "id": "b407a790028d43f59dc9bc00492fece5",
+        "text": "Servidores virtualizados bajo IaaS"
+      }
+    ],
+    "selected": "Conjuntos de escalado de máquinas virtuales"
+  },
+  {
+    "id": "_267631899_1",
+    "question": "Es una función de Azure Storage",
+    "correct": null,
+    "answers": [
+      {
+        "id": "54e48e355be74959ac22e0ed7468c467",
+        "text": "Envía cualquier sistema operativo o actualizaciones de software desarrolladas por el cliente aprobadas al dispositivo"
+      },
+      {
+        "id": "db94d58fc66041e6ab4dc29e6d1b8294",
+        "text": "Solución de almacenamiento en la nube de Microsoft."
+      },
+      {
+        "id": "b5ed42fe523042539475e6ba954638e8",
+        "text": "Asegurarse de que el dispositivo no haya sido comprometido maliciosamente"
+      },
+      {
+        "id": "ca1cfeefc9a74f7fa317d4e5832b3e5b",
+        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
+      },
+      {
+        "id": "0ecf6141c4ac45f78842a33f5a7c3f4a",
+        "text": "Maneja la comunicación con el servicio de seguridad y puede ejecutar el software del proveedor."
+      }
+    ],
+    "selected": "Solución de almacenamiento en la nube de Microsoft."
+  },
+  {
+    "id": "_267631900_1",
+    "question": "Dónde se puede revisar la información sobre cómo la nube de Microsoft ayuda a proteger los datos confidenciales y a cumplir con las leyes y regulaciones vigentes",
+    "correct": null,
+    "answers": [
+      {
+        "id": "90cc081e031b4e9499cee9549056f33e",
+        "text": "Centro de confianza"
+      },
+      {
+        "id": "b60e74c8728b4c59973f59d70eb92fc4",
+        "text": "Declaración de privacidad de Microsoft"
+      },
+      {
+        "id": "44fb2f1c3894462b9b645e728eec9fb0",
+        "text": "Términos y condiciones por producto"
+      },
+      {
+        "id": "b5e5cae223164174bd9d19b7c469a4f5",
+        "text": "Terminos de Online Services"
+      },
+      {
+        "id": "1d49060a9701441799be2952f3cc6b5e",
+        "text": "En el portal de Azure"
+      }
+    ],
+    "selected": "Centro de confianza"
+  },
+  {
+    "id": "_267631901_1",
+    "question": "Cuál es la mejor manera que una empresa almacene los certificados en forma segura y sean accesibles para sus máquinas virtuales en la nube?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0a719343c1e547e1a592a16356055a1d",
+        "text": "Almacenar los certificados en Azure Key Vault"
+      },
+      {
+        "id": "d2c5f1ede5a149b084d53eaea2b0f3eb",
+        "text": "Utilizar Azure Active Directory"
+      },
+      {
+        "id": "f35c4e41cb4946bbbe21d167a37b8580",
+        "text": "Compilar una herramienta personalizada y colocarla en una máquina virtual en la nube"
+      },
+      {
+        "id": "0ad8a2cbd30943b1a636041691488b33",
+        "text": "Colocar los certificados en un recurso compartido en la red"
+      },
+      {
+        "id": "248855d4f7904cbf8eb772e502c63642",
+        "text": "Utilizar el portal de Azure"
+      }
+    ],
+    "selected": "Almacenar los certificados en Azure Key Vault"
+  },
+  {
+    "id": "_267631902_1",
+    "question": "¿Qué se garantiza en un contrato de nivel de servicio (SLA) de Azure para máquinas virtuales?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "deaa03772ec94038b0c43b5329dab08b",
+        "text": "Elasticidad"
+      },
+      {
+        "id": "e3f0427469d04c71925a7a7e60f98959",
+        "text": "Ancho de banda"
+      },
+      {
+        "id": "f4d384bbf5a34ae297a162c6d93683e6",
+        "text": "Desempeño"
+      },
+      {
+        "id": "de8f86bcc26e43e79a2469eb8ba63304",
+        "text": "Disponibilidad de funciones"
+      },
+      {
+        "id": "0518c75e57534298b6777ea055ee84f1",
+        "text": "Tiempo de actividad"
+      }
+    ],
+    "selected": "Tiempo de actividad"
+  },
+  {
+    "id": "_267631903_1",
+    "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "cd899fee5a1543989249470e4259b016",
+        "text": "Ejecutar la calculadora de costo total de propiedad"
+      },
+      {
+        "id": "545d43a51fc849bf860b965a1a828eb9",
+        "text": "Se asume que la ejecución en la nube cuesta lo mismo que la ejecución en el centro de datos local"
+      },
+      {
+        "id": "4ac380e989394e6fab7808e84d84f738",
+        "text": "Poner el servicio en marcha y ver la factura al final de mes"
+      },
+      {
+        "id": "5ab6bb6aa4634cb881d6d5f48e4472ca",
+        "text": "Usar una suscripción de prueba"
+      },
+      {
+        "id": "1a5d75f9bb624c3981f3b34a8737b6b7",
+        "text": "No se puede comparar de manera precisa"
+      }
+    ],
+    "selected": "Ejecutar la calculadora de costo total de propiedad"
+  },
+  {
+    "id": "_267631904_1",
+    "question": "¿En qué tipo de modelo de nube todos los recursos de hardware son propiedad de un tercero y se comparten entre varios inquilinos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "62d572d5991342bcaa0107dce3726ddd",
+        "text": "privado"
+      },
+      {
+        "id": "1ac1dc3b06f54986b3c54e77f56bc769",
+        "text": "público"
+      },
+      {
+        "id": "6770656094524305ab8d12e6f8d44958",
+        "text": "IoT"
+      },
+      {
+        "id": "57934cf0cb2c409b9b0cfd22e98c629a",
+        "text": "híbrido"
+      },
+      {
+        "id": "f850e8df27c34bd9a2b6561472ab28c6",
+        "text": "niebla"
+      }
+    ],
+    "selected": "público"
+  },
+  {
+    "id": "_267631905_1",
+    "question": "¿Para qué se usa el patrón de limitación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "11d8ba1989584423b2ff54836a5b79a9",
+        "text": "Evitar saturaciones de rec"
+      },
+      {
+        "id": "9563ae9093e74645b98df67c6e201e11",
+        "text": "Para mantener la calidad del servicio bajo situaciones de carga"
+      },
+      {
+        "id": "fa8be330b134424584b28690be066844",
+        "text": "Fijar un límite mínimo y máximo de uso"
+      },
+      {
+        "id": "5376216b9c044b71b95c0106409a006a",
+        "text": "Cargarlo siempre"
+      },
+      {
+        "id": "d0efeedac96441efa7da64f5a5498422",
+        "text": "Limitar su uso"
+      }
+    ],
+    "selected": "Para mantener la calidad del servicio bajo situaciones de carga"
+  },
+  {
+    "id": "_267631906_1",
+    "question": "¿Cuál de los siguientes no es una herramienta de gestión nativa de Microsoft para Azure?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c092781907964ace96b8697745e95235",
+        "text": "System Center App Controller"
+      },
+      {
+        "id": "559ec2db61ce4e03a6ab74b8d5b22335",
+        "text": "Azure management portal"
+      },
+      {
+        "id": "23949edbf14a4004b9a3c7397f34566f",
+        "text": "Azure cmd"
+      },
+      {
+        "id": "7768eb4e769441b1a68d8154ad3af792",
+        "text": "Azure PowerShell"
+      },
+      {
+        "id": "38d0c60a38b8475b89dc460586b55ade",
+        "text": "Cerebrata"
+      }
+    ],
+    "selected": "Cerebrata"
+  }
+]

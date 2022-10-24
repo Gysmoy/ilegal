@@ -14,9 +14,10 @@ $(function () {
 })
 
 $(document).on('change', '#examen', async function () {
+    let id = new Date().getTime();
     var url = './prueba.php?course={course.id}';
     if (location.host != 'localhost') {
-        url = './assets/sources/{course.id}.json';
+        url = './assets/sources/{course.id}.json?v=' + id;
     }
     var res = await fetch(url.replace('{course.id}', $(this).val()));
     var data = await res.json();
@@ -38,12 +39,17 @@ $(document).on('change', '#query', function () {
                 $('#results tbody').append(`
                 <tr>
                     <td>${attemp.id}</td>
-                    <td id="${attemp.id}"></td>
+                    <td id="attemp_${attemp.id}">
+                        <b class="question"></b></br>
+                        <span class="answer"></span>
+                    </td>
                     <td width="0%">${attemp.nota}</td>
                     <td>${question.correct ?? 'Indefinido'}</td>
                 </tr>
                 `);
-                $(`#${attemp.id}`).text(question.selected);
+
+                $(`#attemp_${attemp.id} .question`).text(question.question);
+                $(`#attemp_${attemp.id} .answer`).text(question.selected);
             }
         })
     })
