@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_267678957_1",
+    "question": "¿Qué servicio de Azure puede utilizar como solución de gestión de eventos e información de seguridad (SIEM)?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7c5e233540ee4619a232a16cdb78ac4c",
+        "text": "-Azure information protection"
+      },
+      {
+        "id": "05f4284b34664bfda608fab00b67f039",
+        "text": "Azure cognitive services"
+      },
+      {
+        "id": "8c7deb672a1445088a23a3c70b3b04da",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "359c171eb9a94764b06ff3a45a35d655",
+        "text": "Azure análisis services"
+      },
+      {
+        "id": "b5e429c09fa34603a2c413e74ce2ceda",
+        "text": "Azure sentinel"
+      }
+    ],
+    "selected": "Azure sentinel"
+  },
+  {
+    "id": "_267678958_1",
+    "question": "Partiendo de una flexibilidad, transparencia, movilidad y un cambio cultural a la hora de usar soluciones Cloud, podemos llegar a crear un modelo organizativo diferente",
+    "correct": null,
+    "answers": [
+      {
+        "id": "16376553a54746f6bdb759f9a66ca318",
+        "text": "Un nuevo estándar de certificación de procesos de gestión de seguridad"
+      },
+      {
+        "id": "c0e566a627284f158401ad5887aa2dd0",
+        "text": "Una nueva arquitectura de micro-procesadores más potente para soluciones de seguridad"
+      },
+      {
+        "id": "0a92925000d14a36b86fbde14e70e615",
+        "text": "Un nuevo proceso de gestión de seguridad."
+      },
+      {
+        "id": "6fdf9854fa54470887d60e184190dda9",
+        "text": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+      },
+      {
+        "id": "f4d66cc9f4ae4abc8e03b0bc5cacc373",
+        "text": "Gestión de seguridad privada"
+      }
+    ],
+    "selected": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+  },
+  {
+    "id": "_267678959_1",
+    "question": "¿En qué tipo de modelo de nube todos los recursos de hardware son propiedad de un tercero y se comparten entre varios inquilinos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "1ac1dc3b06f54986b3c54e77f56bc769",
+        "text": "público"
+      },
+      {
+        "id": "f850e8df27c34bd9a2b6561472ab28c6",
+        "text": "niebla"
+      },
+      {
+        "id": "6770656094524305ab8d12e6f8d44958",
+        "text": "IoT"
+      },
+      {
+        "id": "57934cf0cb2c409b9b0cfd22e98c629a",
+        "text": "híbrido"
+      },
+      {
+        "id": "62d572d5991342bcaa0107dce3726ddd",
+        "text": "privado"
+      }
+    ],
+    "selected": "público"
+  },
+  {
+    "id": "_267678960_1",
+    "question": "Su empresa planea implementar varios servidores web y varios servidores de bases de datos en Azure. Recomiende una solución para limitar los tipos de conexiones desde los servidores web a los servidores de bases de datos",
+    "correct": null,
+    "answers": [
+      {
+        "id": "f6edd9bc9d424f849764272fce5cdd17",
+        "text": "Un Gateway"
+      },
+      {
+        "id": "d09e1261e5ab4f8a802d65e7b481d14c",
+        "text": "Azure service bus"
+      },
+      {
+        "id": "bcdafe3a8e1d4dc5957a9758fcd056b8",
+        "text": "Grupo de seguridad de red (NSG)"
+      },
+      {
+        "id": "a8a661dd9cdf448e9c11d6ecc5c6f65b",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "6d38a73e894b41649e92c09adcc6d1c0",
+        "text": "Un filtro de ruta"
+      }
+    ],
+    "selected": "Grupo de seguridad de red (NSG)"
+  },
+  {
+    "id": "_267678961_1",
+    "question": "¿Qué herramienta podemos considerar estándar para acceder a múltiples servicios Cloud?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "82cfe86ff490489da6c477a9531ff71a",
+        "text": "A través de las propias aplicaciones que puedan desarrollar los clientes"
+      },
+      {
+        "id": "0b4344f606c745a38abc1065e2aff55a",
+        "text": "Un navegador"
+      },
+      {
+        "id": "d59fd0f23b7b47afae81d0328f075723",
+        "text": "Una dirección IP"
+      },
+      {
+        "id": "13a80efe40c2483aac973fe4c2f4eeba",
+        "text": "Un compilador"
+      },
+      {
+        "id": "4a4558371264484f9b8e126013a91f9d",
+        "text": "A través de un API podemos acceder a todas"
+      }
+    ],
+    "selected": "Un navegador"
+  },
+  {
+    "id": "_267678962_1",
+    "question": "La facturación en Azure es",
+    "correct": null,
+    "answers": [
+      {
+        "id": "85d2b1218086402a8639444c326e3188",
+        "text": "Anual para cada cuenta de Azure basada en el uso"
+      },
+      {
+        "id": "25f528d42ef14b15a6d31f02a0938c58",
+        "text": "Anual para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "a4bf858b3b9040e4ba8aa43771486afc",
+        "text": "Mensual para cada cuenta de Azure basada en el uso"
+      },
+      {
+        "id": "de13de0a210e4fd99e0eae1fe3eb164f",
+        "text": "Diaria para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "2358ee3de8dd4b91b60924adc6dc23f7",
+        "text": "Mensual para cada suscripción de Azure basada en el uso"
+      }
+    ],
+    "selected": "Mensual para cada suscripción de Azure basada en el uso"
+  },
+  {
+    "id": "_267678963_1",
+    "question": "¿Cuál es la mejor forma para una empresa de limitar todo el tráfico saliente de máquinas virtuales a hosts conocidos?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "35157e282ef140f6b38eba60b80f8a4b",
+        "text": "Crear reglas de aplicación en Azure Firewall"
+      },
+      {
+        "id": "73cdb915e58143a9b5918035b1e81668",
+        "text": "Configurar Azure DDoS Protection para limitar el acceso"
+      },
+      {
+        "id": "17409f91b3b14b76876939e262ad3f14",
+        "text": "Colocar en la configuración de cada servidor virtual restricciones locales"
+      },
+      {
+        "id": "e64107b42d6f44d1be939a03817a3acb",
+        "text": "No publicar los servicios hacia internet"
+      },
+      {
+        "id": "9ee46a28cd2d40d98c54b69dc91b7ae1",
+        "text": "Asegurarse que todas las aplicaciones en ejecución usen puestos y hosts de confianza"
+      }
+    ],
+    "selected": "Crear reglas de aplicación en Azure Firewall"
+  },
+  {
+    "id": "_267678964_1",
+    "question": "La empresa tiene un equipo de trabajadores remotos que necesitan usar software basado en Windows para desarrollar las aplicaciones, pero los miembros del equipo usan diversos sistemas operativos, como macOS, Linux y Windows. ¿Qué servicio de Azure Compute le ayudaría a resolver este escenario?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "8692d3a89e8d4a23a2af53e22e36796e",
+        "text": "Azure funtions"
+      },
+      {
+        "id": "52a30261f4cf488d8335978238282aab",
+        "text": "Azure Container Instances"
+      },
+      {
+        "id": "8f6d8bbdda2d4c80a820309cd01ef956",
+        "text": "Azure App Service"
+      },
+      {
+        "id": "b30499f88d514daaab1a70cdfd61bda6",
+        "text": "Virtual servers basados en macOS, Linux y Windows"
+      },
+      {
+        "id": "82e624b2f52640499a96487567a655a4",
+        "text": "Azure Virtual Desktop"
+      }
+    ],
+    "selected": "Azure Virtual Desktop"
+  },
+  {
+    "id": "_267678965_1",
+    "question": "Una definición de iniciativa de Azure Policy es",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a8bf3b0fad5645d9afb6166f0bbaa13c",
+        "text": "Un grupo de definiciones de azure blueprints"
+      },
+      {
+        "id": "6264275b74114e04ac852c22ca0291ad",
+        "text": "Una zona de disponibilidad"
+      },
+      {
+        "id": "b3a6b78c6018441fa3a6d43c1d70394c",
+        "text": "Una colección de asignaciones de azure policy"
+      },
+      {
+        "id": "db954640982c480981a646fe8d2b7277",
+        "text": "Una colección de definición de políticas"
+      },
+      {
+        "id": "a297c5e9f0034b90b02264be21f94530",
+        "text": "Un grupo de roles de control de acceso(RBAC)"
+      }
+    ],
+    "selected": "Una colección de definición de políticas"
+  },
+  {
+    "id": "_267678966_1",
+    "question": "IoT permite que los dispositivos recopilen y luego transmitan información para el análisis de datos y estos son:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d4ec833e1d0b42028e61299d15161c4a",
+        "text": "Infrarrojos."
+      },
+      {
+        "id": "cb7857c9cf714dcbaba97e3a8476ba40",
+        "text": "Pantalla tactil."
+      },
+      {
+        "id": "41f7fcba46304380ae1f80eae2056875",
+        "text": "Bases de datos"
+      },
+      {
+        "id": "238ec3ddaf9c40ce9dcd02bb4fc0f5bd",
+        "text": "Sensores"
+      },
+      {
+        "id": "6105333b3ea8430b8ea47bc2714acba0",
+        "text": "Actuadores."
+      }
+    ],
+    "selected": "Sensores"
+  },
+  {
+    "id": "_267678967_1",
+    "question": "¿Qué es un sistema de doble autenticación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d116c3ab466548e4ad8a76e2d1f0cfd6",
+        "text": "Que por seguridad hay que introducir dos veces el password."
+      },
+      {
+        "id": "b96f2566ad8747c68125728a371fb19a",
+        "text": "Que por seguridad hay que introducir tres veces el password."
+      },
+      {
+        "id": "5f1c80ca6e204a28960a4f0cd36818be",
+        "text": "Que el password se valida en dos sitios diferentes por seguridad."
+      },
+      {
+        "id": "74e27f424d4b45b0b8ebcd6ac8dc1420",
+        "text": "Que por seguridad no hay que introducir dos veces el password."
+      },
+      {
+        "id": "cb3a0c288b744b43a3ae18961a100ce1",
+        "text": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+      }
+    ],
+    "selected": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+  },
+  {
+    "id": "_267678968_1",
+    "question": "Tienes un entorno de Azure. Debe crear una nueva máquina virtual de Azure desde una tableta que ejecute el sistema operativo Android, escoja una solución para ello",
+    "correct": null,
+    "answers": [
+      {
+        "id": "53dd6851c8b34c2c9477ae119ed7e767",
+        "text": "Power Shell in azure cloud Shell"
+      },
+      {
+        "id": "22824889524e4c6d9338be7c47c8b72a",
+        "text": "Iniciativa"
+      },
+      {
+        "id": "f0f3709d162d4ab5a0049e2357a2981e",
+        "text": "RBAC"
+      },
+      {
+        "id": "9cbf5fdb17d94c29a85c903378d9b3d3",
+        "text": "The powerapps portal"
+      },
+      {
+        "id": "8e4da05bd3df46bd8e6797f21283030e",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Power Shell in azure cloud Shell"
+  },
+  {
+    "id": "_267678969_1",
+    "question": "Es una función de Azure Storage",
+    "correct": null,
+    "answers": [
+      {
+        "id": "db94d58fc66041e6ab4dc29e6d1b8294",
+        "text": "Solución de almacenamiento en la nube de Microsoft."
+      },
+      {
+        "id": "ca1cfeefc9a74f7fa317d4e5832b3e5b",
+        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
+      },
+      {
+        "id": "54e48e355be74959ac22e0ed7468c467",
+        "text": "Envía cualquier sistema operativo o actualizaciones de software desarrolladas por el cliente aprobadas al dispositivo"
+      },
+      {
+        "id": "0ecf6141c4ac45f78842a33f5a7c3f4a",
+        "text": "Maneja la comunicación con el servicio de seguridad y puede ejecutar el software del proveedor."
+      },
+      {
+        "id": "b5ed42fe523042539475e6ba954638e8",
+        "text": "Asegurarse de que el dispositivo no haya sido comprometido maliciosamente"
+      }
+    ],
+    "selected": "Solución de almacenamiento en la nube de Microsoft."
+  },
+  {
+    "id": "_267678970_1",
+    "question": "¿Qué tarea no se aborda cuando se implementa un servicio Cloud?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9e17bf7468fc4aafb01f78c796528095",
+        "text": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+      },
+      {
+        "id": "f2e44c8559594b9aa1409eda80fb77f3",
+        "text": "Monitorización de la calidad del software."
+      },
+      {
+        "id": "4ebd9c7424bd4a42957f9e2874cbdf5e",
+        "text": "Monitorización del consumo del servicio"
+      },
+      {
+        "id": "5d5f320e9a874bec9916c418d3aa6784",
+        "text": "Monitorización de la calidad del hardware"
+      },
+      {
+        "id": "500ad0859a254a89a98ccd7d1f7c6232",
+        "text": "Monitorización de la calidad del servicio."
+      }
+    ],
+    "selected": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+  },
+  {
+    "id": "_267678971_1",
+    "question": "¿Cuál de las siguientes opciones no es una ventaja de usar servicios en la nube?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "fef59402c4f34b2888e7ef31b000ec10",
+        "text": "Aislamiento geográfico"
+      },
+      {
+        "id": "79db78c91dc845e58baaba2d2e9f99b6",
+        "text": "Alta disponibilidad"
+      },
+      {
+        "id": "742d242afc3e466e99f86ad69fe9e52a",
+        "text": "Elasticidad"
+      },
+      {
+        "id": "645efbd21951443893ec7ee9ad690463",
+        "text": "Recuperación ante desastres"
+      },
+      {
+        "id": "f5798a87ee924f209fe5ec1dfc1c589a",
+        "text": "Escalabilidad"
+      }
+    ],
+    "selected": "Aislamiento geográfico"
+  },
+  {
+    "id": "_267678972_1",
+    "question": "Tiene una red local que contiene varios servidores. Tiene previsto migrar todos los servidores a Azure. Debe recomendar una solución para asegurarse de que algunos de los servidores estén disponibles si un solo centro de datos de Azure se desconecta durante un período prolongado. ¿Qué debería incluir en la recomendación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2095bc49a0a54c1aa2a983dc65864d42",
+        "text": "HA"
+      },
+      {
+        "id": "99cd7bfc60224073b00a3940df3d340c",
+        "text": "elasticidad"
+      },
+      {
+        "id": "852f37fb876148bfb953dfe664902334",
+        "text": "baja latencia"
+      },
+      {
+        "id": "f80ea93b23a64a27b624f1d399e28ab0",
+        "text": "escalabilidad"
+      },
+      {
+        "id": "c610d51e2fe047eb9f3d0423f30147ab",
+        "text": "tolerancia a fallas"
+      }
+    ],
+    "selected": "tolerancia a fallas"
+  },
+  {
+    "id": "_267678973_1",
+    "question": "Las opciones de precios comunes para los servicios de Azure son:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "863590b33e234d6695408333a27adb72",
+        "text": "Precio basado en el consumo y fijo"
+      },
+      {
+        "id": "239693edeb704a18b8b90bf4375a9f86",
+        "text": "Precio estándar y variado"
+      },
+      {
+        "id": "68af87ca1d5943088fff8d5495bf78a6",
+        "text": "Precio múltiple"
+      },
+      {
+        "id": "0abcde1ec51c4f13b17b5b355cf98903",
+        "text": "Precio por espacio"
+      },
+      {
+        "id": "c474e046b9c149c1ba4ff9879a8c243b",
+        "text": "Precio por uso"
+      }
+    ],
+    "selected": "Precio por uso"
+  },
+  {
+    "id": "_267678974_1",
+    "question": "Su empresa aloja una aplicación de contabilidad llamada App1 que utilizan todos los clientes de la empresa. App1 tiene un uso bajo durante las primeras tres semanas de cada mes y un uso muy alto durante la última semana de cada mes. ¿Qué beneficio de Azure Cloud Services admite la administración de costos para este tipo de patrón de uso?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b82a3464e3ff408a8096652a1673f297",
+        "text": "equilibrio de carga"
+      },
+      {
+        "id": "b0d6f279bf4e4ca3a53d0251a4e578d6",
+        "text": "alta disponibilidad"
+      },
+      {
+        "id": "ef1e5fb73b4f435bb008d876c6afe3c5",
+        "text": "latencia alta"
+      },
+      {
+        "id": "35a9d03f15eb45329d556a3986e94db3",
+        "text": "Alta disponibilidad"
+      },
+      {
+        "id": "9e0268a42d4049a4a1568289636a22a1",
+        "text": "elasticidad"
+      }
+    ],
+    "selected": "elasticidad"
+  },
+  {
+    "id": "_267678975_1",
+    "question": "¿Cloud se contrata siempre de forma online?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "73b9d39f62654f5d9dd3c2b59645473a",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "b4012ababccd46b38d70d6bba783930f",
+        "text": "No, es la única manera"
+      },
+      {
+        "id": "45420b193f95424fb29f74118dbd21bd",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "dc59c691b6224a4886d94b00eb0360fa",
+        "text": "El Servidor usa servicios Cloud y/o apoyarse en un partner especializado"
+      },
+      {
+        "id": "59279d52e9cf4feb8b5a8ec5cd9fc061",
+        "text": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+      }
+    ],
+    "selected": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+  },
+  {
+    "id": "_267678976_1",
+    "question": "¿Cuál es una característica de la nube pública?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a89108eb3d824ab38d02be4b549eb7dd",
+        "text": "almacenamiento limitado"
+      },
+      {
+        "id": "7247812955d74b4d9d367f3b2fa9fa81",
+        "text": "conexiones no seguras"
+      },
+      {
+        "id": "03da1c8f352847d09d19df663de3c0e4",
+        "text": "precios medidos"
+      },
+      {
+        "id": "71a2c239210f44fe945b3d3dcf08c64c",
+        "text": "hardware dedicado"
+      },
+      {
+        "id": "9a6c4eafde0f4e7f955c192605e6a668",
+        "text": "Software"
+      }
+    ],
+    "selected": "precios medidos"
+  }
+]
