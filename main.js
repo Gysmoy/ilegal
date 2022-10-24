@@ -45,7 +45,7 @@ $(document).on('change', '#query', function () {
                         <span class="answer"></span>
                     </td>
                     <td width="0%">${attemp.nota}</td>
-                    <td>${question.correct ?? 'Indefinido'}</td>
+                    <td>${question.correct == true ? 'Correcto': question.correct == false ? 'Incorrecto': 'Indefinido'}</td>
                 </tr>
                 `);
 
