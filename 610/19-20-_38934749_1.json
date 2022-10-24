@@ -2,7 +2,7 @@
   {
     "id": "_267400395_1",
     "question": "Selecciona el comentario incorrecto.",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "4602065b67c140d489242bd714711a60",
@@ -30,7 +30,7 @@
   {
     "id": "_267400396_1",
     "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c14b12c96d044a07a8e3180a3a91fa73",
@@ -58,7 +58,7 @@
   {
     "id": "_267400397_1",
     "question": "¿Qué es un sistema de doble autenticación?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b96f2566ad8747c68125728a371fb19a",
@@ -86,7 +86,7 @@
   {
     "id": "_267400398_1",
     "question": "Una definición de iniciativa de Azure Policy es",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a297c5e9f0034b90b02264be21f94530",
@@ -114,7 +114,7 @@
   {
     "id": "_267400399_1",
     "question": "Tiene una aplicación web de Azure. Debe administrar la configuración de la aplicación web desde un iPhone. Que herramienta de administración de Azure se puede usar",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "a7107fe45aee462aafb7def958311bb0",
@@ -142,7 +142,7 @@
   {
     "id": "_267400400_1",
     "question": "Un cloudbroker nos puede ayudar a ...",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "30980689a7c5422f93425a929c3588db",
@@ -170,7 +170,7 @@
   {
     "id": "_267400401_1",
     "question": "¿Cuál de las siguientes opciones no es una ventaja al usar ExpressRoute?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7495bdaea8624506b6f6c0073241a3f6",
@@ -198,7 +198,7 @@
   {
     "id": "_267400402_1",
     "question": "¿Qué puede cifrar Azure Information Protection?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "98084942cf3e49a9a2446f37b0dd8b9d",
@@ -226,7 +226,7 @@
   {
     "id": "_267400403_1",
     "question": "Cómo puede asegurarse que los empleados sólo accedan a las aplicaciones de la empresa desde los equipos autorizados",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "79e7ce2fc47d44f7b7ceccac32ead542",
@@ -254,7 +254,7 @@
   {
     "id": "_267400404_1",
     "question": "¿Qué servicio proporciona el tráfico de red en varias suscripciones de Azure y redes virtuales?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e7ebca37ae0a4a88935eeb30ea84a743",
@@ -282,7 +282,7 @@
   {
     "id": "_267400405_1",
     "question": "¿Qué herramienta podemos considerar estándar para acceder a múltiples servicios Cloud?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0b4344f606c745a38abc1065e2aff55a",
@@ -310,7 +310,7 @@
   {
     "id": "_267400406_1",
     "question": "Partiendo de una flexibilidad, transparencia, movilidad y un cambio cultural a la hora de usar soluciones Cloud, podemos llegar a crear un modelo organizativo diferente",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "6fdf9854fa54470887d60e184190dda9",
@@ -338,7 +338,7 @@
   {
     "id": "_267400407_1",
     "question": "¿Qué se garantiza en un contrato de nivel de servicio (SLA) de Azure para máquinas virtuales?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "deaa03772ec94038b0c43b5329dab08b",
@@ -366,7 +366,7 @@
   {
     "id": "_267400408_1",
     "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "cd899fee5a1543989249470e4259b016",
@@ -394,7 +394,7 @@
   {
     "id": "_267400409_1",
     "question": "¿Cuál de las siguientes situaciones produciría mayores beneficios de la reubicación de un servidor de archivos local a Azure?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0582ca74dc044fa4865ae7bdc480e352",
@@ -422,7 +422,7 @@
   {
     "id": "_267400410_1",
     "question": "Tiene previsto migrar una aplicación web a Azure. Los usuarios externos acceden a la aplicación web.Debe recomendar una solución de implementación en la nube para minimizar la cantidad de esfuerzo administrativo utilizado para administrar la aplicación web.¿Qué debería incluir en la recomendación?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "68f5c0fbba284a28b376697006f66b5f",
@@ -450,7 +450,7 @@
   {
     "id": "_267400411_1",
     "question": "Indica qué frase completa no es correcta. El Cloud Computing...",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "55b319a86d2649e491f034d59af18435",
@@ -478,7 +478,7 @@
   {
     "id": "_267400412_1",
     "question": "¿Cuál es una característica de la nube pública?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "9a6c4eafde0f4e7f955c192605e6a668",
@@ -506,7 +506,7 @@
   {
     "id": "_267400413_1",
     "question": "Cuál de las afirmaciones siguientes es cierta referente a la utilización de la nuble pública?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "098ce534f888431182e2fb6c2b8dd0e5",
@@ -534,7 +534,7 @@
   {
     "id": "_267400414_1",
     "question": "Su empresa aloja una aplicación de contabilidad llamada App1 que utilizan todos los clientes de la empresa. App1 tiene un uso bajo durante las primeras tres semanas de cada mes y un uso muy alto durante la última semana de cada mes. ¿Qué beneficio de Azure Cloud Services admite la administración de costos para este tipo de patrón de uso?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b82a3464e3ff408a8096652a1673f297",
