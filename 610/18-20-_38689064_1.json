@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_265872814_1",
+    "question": "Tiene una red local que contiene varios servidores. Tiene previsto migrar todos los servidores a Azure. Debe recomendar una solución para asegurarse de que algunos de los servidores estén disponibles si un solo centro de datos de Azure se desconecta durante un período prolongado. ¿Qué debería incluir en la recomendación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "99cd7bfc60224073b00a3940df3d340c",
+        "text": "elasticidad"
+      },
+      {
+        "id": "852f37fb876148bfb953dfe664902334",
+        "text": "baja latencia"
+      },
+      {
+        "id": "2095bc49a0a54c1aa2a983dc65864d42",
+        "text": "HA"
+      },
+      {
+        "id": "f80ea93b23a64a27b624f1d399e28ab0",
+        "text": "escalabilidad"
+      },
+      {
+        "id": "c610d51e2fe047eb9f3d0423f30147ab",
+        "text": "tolerancia a fallas"
+      }
+    ],
+    "selected": "tolerancia a fallas"
+  },
+  {
+    "id": "_265872815_1",
+    "question": "Las opciones de precios comunes para los servicios de Azure son:",
+    "correct": false,
+    "answers": [
+      {
+        "id": "68af87ca1d5943088fff8d5495bf78a6",
+        "text": "Precio múltiple"
+      },
+      {
+        "id": "239693edeb704a18b8b90bf4375a9f86",
+        "text": "Precio estándar y variado"
+      },
+      {
+        "id": "0abcde1ec51c4f13b17b5b355cf98903",
+        "text": "Precio por espacio"
+      },
+      {
+        "id": "863590b33e234d6695408333a27adb72",
+        "text": "Precio basado en el consumo y fijo"
+      },
+      {
+        "id": "c474e046b9c149c1ba4ff9879a8c243b",
+        "text": "Precio por uso"
+      }
+    ],
+    "selected": "Precio basado en el consumo y fijo"
+  },
+  {
+    "id": "_265872816_1",
+    "question": "¿Cuál es una característica de la nube pública?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9a6c4eafde0f4e7f955c192605e6a668",
+        "text": "Software"
+      },
+      {
+        "id": "a89108eb3d824ab38d02be4b549eb7dd",
+        "text": "almacenamiento limitado"
+      },
+      {
+        "id": "71a2c239210f44fe945b3d3dcf08c64c",
+        "text": "hardware dedicado"
+      },
+      {
+        "id": "03da1c8f352847d09d19df663de3c0e4",
+        "text": "precios medidos"
+      },
+      {
+        "id": "7247812955d74b4d9d367f3b2fa9fa81",
+        "text": "conexiones no seguras"
+      }
+    ],
+    "selected": "precios medidos"
+  },
+  {
+    "id": "_265872817_1",
+    "question": "¿Cloud se contrata siempre de forma online?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b4012ababccd46b38d70d6bba783930f",
+        "text": "No, es la única manera"
+      },
+      {
+        "id": "73b9d39f62654f5d9dd3c2b59645473a",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "dc59c691b6224a4886d94b00eb0360fa",
+        "text": "El Servidor usa servicios Cloud y/o apoyarse en un partner especializado"
+      },
+      {
+        "id": "59279d52e9cf4feb8b5a8ec5cd9fc061",
+        "text": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+      },
+      {
+        "id": "45420b193f95424fb29f74118dbd21bd",
+        "text": "Sí, es la única y mejor manera."
+      }
+    ],
+    "selected": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+  },
+  {
+    "id": "_265872818_1",
+    "question": "Cuál de las afirmaciones siguientes es cierta referente a la utilización de la nuble pública?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "3a3557ba7c254f07bd47ed653ab9d080",
+        "text": "Uds solo es responsable de los recursos informáticos que usa"
+      },
+      {
+        "id": "7ee330234fe4446aba31c7f0b8fadd0d",
+        "text": "Ud es responsable de comprar los recursos informáticos"
+      },
+      {
+        "id": "744910924dc54f2ea5c24a22a7d9ecef",
+        "text": "Ud solo es responsable de los repuestos de los recursos informáticos"
+      },
+      {
+        "id": "5fda49418ddf47c480072044d3324539",
+        "text": "Ud es responsable tanto de la compra de equipos como de los recursos informáticos que usa"
+      },
+      {
+        "id": "098ce534f888431182e2fb6c2b8dd0e5",
+        "text": "Uds solo es responsable de los recursos informáticos que usa"
+      }
+    ],
+    "selected": "Uds solo es responsable de los recursos informáticos que usa"
+  },
+  {
+    "id": "_265872819_1",
+    "question": "Cuando hablamos de PaaS...",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b63727627b894c508db03d146c59962d",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del hardware"
+      },
+      {
+        "id": "b3a261edf59e4177a8031ca162ef69b5",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del software."
+      },
+      {
+        "id": "3ad773bbe0624be7bf286e5d73d96de8",
+        "text": "Nos estamos refiriendo a servicios Cloud híbridos"
+      },
+      {
+        "id": "f0f09501a8434538b87626e96626e07e",
+        "text": "Nos estamos refiriendo a servicios Cloud que integran las aplicaciones con la capa de infraestructura"
+      },
+      {
+        "id": "06b0743613fd4a99a52b9260849e7f62",
+        "text": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+      }
+    ],
+    "selected": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+  },
+  {
+    "id": "_265872820_1",
+    "question": "Un cloudbroker nos puede ayudar a ...",
+    "correct": true,
+    "answers": [
+      {
+        "id": "58c10e9c4f5e4d4da7117b02cff5e339",
+        "text": "Ahorrar tiempos de despliegue local."
+      },
+      {
+        "id": "500b9ffff6934c458c092f4c535805e1",
+        "text": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+      },
+      {
+        "id": "e15013969f7e4a5b861c55d4c9f5dd1d",
+        "text": "Ahorrar contenedores de despliegue."
+      },
+      {
+        "id": "30980689a7c5422f93425a929c3588db",
+        "text": "Ahorrar tiempos de despliegue"
+      },
+      {
+        "id": "8a8112517849480fbc295c1c5e54cd22",
+        "text": "Principalmente obtener mejores precios"
+      }
+    ],
+    "selected": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+  },
+  {
+    "id": "_265872821_1",
+    "question": "¿Cuál de las siguientes opciones no es una ventaja al usar ExpressRoute?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7495bdaea8624506b6f6c0073241a3f6",
+        "text": "Conectividad Redundante"
+      },
+      {
+        "id": "1d9ac95c4218429a91e86d8fee40f918",
+        "text": "Conexión directa a la WAN del cliente"
+      },
+      {
+        "id": "1e05e798a3b44e498496b23b3f7b3d23",
+        "text": "Acceso a los servicios de la nube Microsoft"
+      },
+      {
+        "id": "1465fe3fbbe74caf9d6a22dc7a698631",
+        "text": "Comunicación de red cifrada"
+      },
+      {
+        "id": "3dc6e0f440104055bf5329da70535942",
+        "text": "Latencia coherente"
+      }
+    ],
+    "selected": "Comunicación de red cifrada"
+  },
+  {
+    "id": "_265872822_1",
+    "question": "¿Qué implica Deshabilitar una máquina virtual en la nube?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c16a7705a09f488dab950d0bda89ee70",
+        "text": "Se Deshabilita el CPU, la red y los discos"
+      },
+      {
+        "id": "9626526f706e4f4e96a12d1977d8d61b",
+        "text": "Deshabilita el CPU y la red, pero los discos son persistentes"
+      },
+      {
+        "id": "0ed714f09e3f488f9449f67099d088ca",
+        "text": "Es lo mismo que eliminar la máquina virtual"
+      },
+      {
+        "id": "9b4fcb8d101f431496fb16468531fd07",
+        "text": "Solo se deshabilita el CPU"
+      },
+      {
+        "id": "da3f2ccbea17487ab70a53d1f66413b9",
+        "text": "La máquina virtual sigue funcionando solo que es inaccesible"
+      }
+    ],
+    "selected": "Deshabilita el CPU y la red, pero los discos son persistentes"
+  },
+  {
+    "id": "_265872823_1",
+    "question": "¿Qué es un sistema de doble autenticación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5f1c80ca6e204a28960a4f0cd36818be",
+        "text": "Que el password se valida en dos sitios diferentes por seguridad."
+      },
+      {
+        "id": "b96f2566ad8747c68125728a371fb19a",
+        "text": "Que por seguridad hay que introducir tres veces el password."
+      },
+      {
+        "id": "74e27f424d4b45b0b8ebcd6ac8dc1420",
+        "text": "Que por seguridad no hay que introducir dos veces el password."
+      },
+      {
+        "id": "cb3a0c288b744b43a3ae18961a100ce1",
+        "text": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+      },
+      {
+        "id": "d116c3ab466548e4ad8a76e2d1f0cfd6",
+        "text": "Que por seguridad hay que introducir dos veces el password."
+      }
+    ],
+    "selected": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+  },
+  {
+    "id": "_265872824_1",
+    "question": "Puede ver el informe de cumplimiento normativo de su empresa desde",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4080d01a37c24fb7953c4aeab8752293",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "ea538fc1e32e4243bb8cc80c1fafc04b",
+        "text": "Azure security center"
+      },
+      {
+        "id": "774453127d8c410d820d4be924cd4d36",
+        "text": "Azure storage explorer"
+      },
+      {
+        "id": "40d971b2d75341448e1a1a98e2a0d36b",
+        "text": "Azure portal"
+      },
+      {
+        "id": "30a81d8dfb3642d5805533b55cf2ab32",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Azure security center"
+  },
+  {
+    "id": "_265872825_1",
+    "question": "¿Cuál es el primer paso que se debe de llevar a cabo para compartir un archivo de imagen en Azure Storage?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "77ecb7c286b04ca395bf45f48a37acde",
+        "text": "Cargar el archivo imagen y crear un contenedor"
+      },
+      {
+        "id": "42e18e26b2104c2197ffd5dfd327b8b6",
+        "text": "Usar un token de forma de acceso compartido SAS"
+      },
+      {
+        "id": "c66eff50429e4f868a9bbfbed693e19b",
+        "text": "Instalar un file server virtual"
+      },
+      {
+        "id": "f4cfac31dc554bc9a92b23389d2287e9",
+        "text": "Crear una cuenta de Azure Storage"
+      },
+      {
+        "id": "a03a06479860429689b0c4d51c9610a2",
+        "text": "Crear un contenedor de Azure Storage para almacenar la imagen"
+      }
+    ],
+    "selected": "Crear una cuenta de Azure Storage"
+  },
+  {
+    "id": "_265872826_1",
+    "question": "La empresa tiene un equipo de trabajadores remotos que necesitan usar software basado en Windows para desarrollar las aplicaciones, pero los miembros del equipo usan diversos sistemas operativos, como macOS, Linux y Windows. ¿Qué servicio de Azure Compute le ayudaría a resolver este escenario?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "8f6d8bbdda2d4c80a820309cd01ef956",
+        "text": "Azure App Service"
+      },
+      {
+        "id": "52a30261f4cf488d8335978238282aab",
+        "text": "Azure Container Instances"
+      },
+      {
+        "id": "b30499f88d514daaab1a70cdfd61bda6",
+        "text": "Virtual servers basados en macOS, Linux y Windows"
+      },
+      {
+        "id": "8692d3a89e8d4a23a2af53e22e36796e",
+        "text": "Azure funtions"
+      },
+      {
+        "id": "82e624b2f52640499a96487567a655a4",
+        "text": "Azure Virtual Desktop"
+      }
+    ],
+    "selected": "Azure Virtual Desktop"
+  },
+  {
+    "id": "_265872827_1",
+    "question": "La facturación en Azure es",
+    "correct": true,
+    "answers": [
+      {
+        "id": "de13de0a210e4fd99e0eae1fe3eb164f",
+        "text": "Diaria para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "85d2b1218086402a8639444c326e3188",
+        "text": "Anual para cada cuenta de Azure basada en el uso"
+      },
+      {
+        "id": "2358ee3de8dd4b91b60924adc6dc23f7",
+        "text": "Mensual para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "a4bf858b3b9040e4ba8aa43771486afc",
+        "text": "Mensual para cada cuenta de Azure basada en el uso"
+      },
+      {
+        "id": "25f528d42ef14b15a6d31f02a0938c58",
+        "text": "Anual para cada suscripción de Azure basada en el uso"
+      }
+    ],
+    "selected": "Mensual para cada suscripción de Azure basada en el uso"
+  },
+  {
+    "id": "_265872828_1",
+    "question": "Cuál es la mejor manera que una empresa almacene los certificados en forma segura y sean accesibles para sus máquinas virtuales en la nube?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f35c4e41cb4946bbbe21d167a37b8580",
+        "text": "Compilar una herramienta personalizada y colocarla en una máquina virtual en la nube"
+      },
+      {
+        "id": "0a719343c1e547e1a592a16356055a1d",
+        "text": "Almacenar los certificados en Azure Key Vault"
+      },
+      {
+        "id": "d2c5f1ede5a149b084d53eaea2b0f3eb",
+        "text": "Utilizar Azure Active Directory"
+      },
+      {
+        "id": "248855d4f7904cbf8eb772e502c63642",
+        "text": "Utilizar el portal de Azure"
+      },
+      {
+        "id": "0ad8a2cbd30943b1a636041691488b33",
+        "text": "Colocar los certificados en un recurso compartido en la red"
+      }
+    ],
+    "selected": "Almacenar los certificados en Azure Key Vault"
+  },
+  {
+    "id": "_265872829_1",
+    "question": "¿Para qué se usa el patrón de limitación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fa8be330b134424584b28690be066844",
+        "text": "Fijar un límite mínimo y máximo de uso"
+      },
+      {
+        "id": "5376216b9c044b71b95c0106409a006a",
+        "text": "Cargarlo siempre"
+      },
+      {
+        "id": "11d8ba1989584423b2ff54836a5b79a9",
+        "text": "Evitar saturaciones de rec"
+      },
+      {
+        "id": "d0efeedac96441efa7da64f5a5498422",
+        "text": "Limitar su uso"
+      },
+      {
+        "id": "9563ae9093e74645b98df67c6e201e11",
+        "text": "Para mantener la calidad del servicio bajo situaciones de carga"
+      }
+    ],
+    "selected": "Para mantener la calidad del servicio bajo situaciones de carga"
+  },
+  {
+    "id": "_265872830_1",
+    "question": "Su empresa planea implementar varios servidores web y varios servidores de bases de datos en Azure. Recomiende una solución para limitar los tipos de conexiones desde los servidores web a los servidores de bases de datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d09e1261e5ab4f8a802d65e7b481d14c",
+        "text": "Azure service bus"
+      },
+      {
+        "id": "bcdafe3a8e1d4dc5957a9758fcd056b8",
+        "text": "Grupo de seguridad de red (NSG)"
+      },
+      {
+        "id": "f6edd9bc9d424f849764272fce5cdd17",
+        "text": "Un Gateway"
+      },
+      {
+        "id": "6d38a73e894b41649e92c09adcc6d1c0",
+        "text": "Un filtro de ruta"
+      },
+      {
+        "id": "a8a661dd9cdf448e9c11d6ecc5c6f65b",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Grupo de seguridad de red (NSG)"
+  },
+  {
+    "id": "_265872831_1",
+    "question": "¿Cuál es la forma más sencilla de que su empresa combine los datos de seguridad de todas sus herramientas de supervisión en un único informe sobre el que pueda tomar medidas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4aa13d11dfd34be284379c8bac511d96",
+        "text": "Usar un SIEM on premisse"
+      },
+      {
+        "id": "2befbb0ec6fc4089b41346ff4a9f2bf7",
+        "text": "Utilizar un syslog server en la nube"
+      },
+      {
+        "id": "5de50a7a27554e8799e6a6fb1b7e9e70",
+        "text": "Revisar cada Registro de seguridad diariamente"
+      },
+      {
+        "id": "4ace8e20df6a47dbb27b925546ecae36",
+        "text": "Utilizar una herramienta personalizada propia"
+      },
+      {
+        "id": "c5f47a2ad03546c89bfb14b027430ced",
+        "text": "Mediante Azure Sentinel"
+      }
+    ],
+    "selected": "Mediante Azure Sentinel"
+  },
+  {
+    "id": "_265872832_1",
+    "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1a5d75f9bb624c3981f3b34a8737b6b7",
+        "text": "No se puede comparar de manera precisa"
+      },
+      {
+        "id": "4ac380e989394e6fab7808e84d84f738",
+        "text": "Poner el servicio en marcha y ver la factura al final de mes"
+      },
+      {
+        "id": "545d43a51fc849bf860b965a1a828eb9",
+        "text": "Se asume que la ejecución en la nube cuesta lo mismo que la ejecución en el centro de datos local"
+      },
+      {
+        "id": "5ab6bb6aa4634cb881d6d5f48e4472ca",
+        "text": "Usar una suscripción de prueba"
+      },
+      {
+        "id": "cd899fee5a1543989249470e4259b016",
+        "text": "Ejecutar la calculadora de costo total de propiedad"
+      }
+    ],
+    "selected": "Ejecutar la calculadora de costo total de propiedad"
+  },
+  {
+    "id": "_265872833_1",
+    "question": "Partiendo de una flexibilidad, transparencia, movilidad y un cambio cultural a la hora de usar soluciones Cloud, podemos llegar a crear un modelo organizativo diferente",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c0e566a627284f158401ad5887aa2dd0",
+        "text": "Una nueva arquitectura de micro-procesadores más potente para soluciones de seguridad"
+      },
+      {
+        "id": "16376553a54746f6bdb759f9a66ca318",
+        "text": "Un nuevo estándar de certificación de procesos de gestión de seguridad"
+      },
+      {
+        "id": "f4d66cc9f4ae4abc8e03b0bc5cacc373",
+        "text": "Gestión de seguridad privada"
+      },
+      {
+        "id": "6fdf9854fa54470887d60e184190dda9",
+        "text": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+      },
+      {
+        "id": "0a92925000d14a36b86fbde14e70e615",
+        "text": "Un nuevo proceso de gestión de seguridad."
+      }
+    ],
+    "selected": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+  }
+]

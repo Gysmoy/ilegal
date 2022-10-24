@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_267400395_1",
+    "question": "Selecciona el comentario incorrecto.",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4602065b67c140d489242bd714711a60",
+        "text": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+      },
+      {
+        "id": "da587b1452874af7b41b984753ba26ea",
+        "text": "El modelo Cloud no propone que el prestador es responsable de construir, ejecutar y entregar el servicio"
+      },
+      {
+        "id": "d6d245da600d40d18803cbdc0aaaf79c",
+        "text": "El modelo Cloud propone que el consumidor acepta un modelo de relación y unas condiciones de uso, que marcan sus responsabilidades"
+      },
+      {
+        "id": "a9a38da228884b2497ffe163d634262b",
+        "text": "El modelo Cloud propone que el prestador es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "1d4f07b429fc404d99b91d98dba38334",
+        "text": "El modelo Cloud es responsable de construir, ejecutar y entregar el servicio."
+      }
+    ],
+    "selected": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+  },
+  {
+    "id": "_267400396_1",
+    "question": "Su entorno de Azure contiene varias máquinas virtuales de Azure. Debe asegurarse de que se pueda acceder a una máquina virtual llamada VM1 desde Internet a través de HTTP. Cual es una posible solución",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c14b12c96d044a07a8e3180a3a91fa73",
+        "text": "Modificar el NSG(network security group)"
+      },
+      {
+        "id": "a8761d1e632540869818d960f7a0aab4",
+        "text": "Modificar a DDos"
+      },
+      {
+        "id": "4800126cd0914151821dadeaaef862dc",
+        "text": "Modificar el azure firewall"
+      },
+      {
+        "id": "bf3197aa52a24d92b1ed8633a6deafd7",
+        "text": "Crear una política en azure"
+      },
+      {
+        "id": "83409084f0f5466a8ab7335730bc99e9",
+        "text": "Modificar el azure advisor"
+      }
+    ],
+    "selected": "Modificar el NSG(network security group)"
+  },
+  {
+    "id": "_267400397_1",
+    "question": "¿Qué es un sistema de doble autenticación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b96f2566ad8747c68125728a371fb19a",
+        "text": "Que por seguridad hay que introducir tres veces el password."
+      },
+      {
+        "id": "5f1c80ca6e204a28960a4f0cd36818be",
+        "text": "Que el password se valida en dos sitios diferentes por seguridad."
+      },
+      {
+        "id": "cb3a0c288b744b43a3ae18961a100ce1",
+        "text": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+      },
+      {
+        "id": "74e27f424d4b45b0b8ebcd6ac8dc1420",
+        "text": "Que por seguridad no hay que introducir dos veces el password."
+      },
+      {
+        "id": "d116c3ab466548e4ad8a76e2d1f0cfd6",
+        "text": "Que por seguridad hay que introducir dos veces el password."
+      }
+    ],
+    "selected": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+  },
+  {
+    "id": "_267400398_1",
+    "question": "Una definición de iniciativa de Azure Policy es",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a297c5e9f0034b90b02264be21f94530",
+        "text": "Un grupo de roles de control de acceso(RBAC)"
+      },
+      {
+        "id": "6264275b74114e04ac852c22ca0291ad",
+        "text": "Una zona de disponibilidad"
+      },
+      {
+        "id": "b3a6b78c6018441fa3a6d43c1d70394c",
+        "text": "Una colección de asignaciones de azure policy"
+      },
+      {
+        "id": "db954640982c480981a646fe8d2b7277",
+        "text": "Una colección de definición de políticas"
+      },
+      {
+        "id": "a8bf3b0fad5645d9afb6166f0bbaa13c",
+        "text": "Un grupo de definiciones de azure blueprints"
+      }
+    ],
+    "selected": "Una colección de definición de políticas"
+  },
+  {
+    "id": "_267400399_1",
+    "question": "Tiene una aplicación web de Azure. Debe administrar la configuración de la aplicación web desde un iPhone. Que herramienta de administración de Azure se puede usar",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a7107fe45aee462aafb7def958311bb0",
+        "text": "Azure cli"
+      },
+      {
+        "id": "72933da7b6fc4de4b627146a4601e3ab",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "e3ab57172f034068b65e3ca573b48a53",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "66a0092cfbe64cf186e56128e33c9f4a",
+        "text": "Azure storage explorer"
+      },
+      {
+        "id": "19daac2e6c7049f4b35ef6354b362703",
+        "text": "Azure portal"
+      }
+    ],
+    "selected": "Azure portal"
+  },
+  {
+    "id": "_267400400_1",
+    "question": "Un cloudbroker nos puede ayudar a ...",
+    "correct": null,
+    "answers": [
+      {
+        "id": "30980689a7c5422f93425a929c3588db",
+        "text": "Ahorrar tiempos de despliegue"
+      },
+      {
+        "id": "500b9ffff6934c458c092f4c535805e1",
+        "text": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+      },
+      {
+        "id": "58c10e9c4f5e4d4da7117b02cff5e339",
+        "text": "Ahorrar tiempos de despliegue local."
+      },
+      {
+        "id": "8a8112517849480fbc295c1c5e54cd22",
+        "text": "Principalmente obtener mejores precios"
+      },
+      {
+        "id": "e15013969f7e4a5b861c55d4c9f5dd1d",
+        "text": "Ahorrar contenedores de despliegue."
+      }
+    ],
+    "selected": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+  },
+  {
+    "id": "_267400401_1",
+    "question": "¿Cuál de las siguientes opciones no es una ventaja al usar ExpressRoute?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7495bdaea8624506b6f6c0073241a3f6",
+        "text": "Conectividad Redundante"
+      },
+      {
+        "id": "1d9ac95c4218429a91e86d8fee40f918",
+        "text": "Conexión directa a la WAN del cliente"
+      },
+      {
+        "id": "1465fe3fbbe74caf9d6a22dc7a698631",
+        "text": "Comunicación de red cifrada"
+      },
+      {
+        "id": "3dc6e0f440104055bf5329da70535942",
+        "text": "Latencia coherente"
+      },
+      {
+        "id": "1e05e798a3b44e498496b23b3f7b3d23",
+        "text": "Acceso a los servicios de la nube Microsoft"
+      }
+    ],
+    "selected": "Comunicación de red cifrada"
+  },
+  {
+    "id": "_267400402_1",
+    "question": "¿Qué puede cifrar Azure Information Protection?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "98084942cf3e49a9a2446f37b0dd8b9d",
+        "text": "Trafico de red"
+      },
+      {
+        "id": "77f48c4b32434bdd98affb942800c97b",
+        "text": "Documentos y mensajes de correo electrónico"
+      },
+      {
+        "id": "3ad5bf5d255043e0994a867c6a79f4e6",
+        "text": "Una VPN"
+      },
+      {
+        "id": "e69aa464bec84a0e9fff4532ace39e00",
+        "text": "Una cuenta de azure storage"
+      },
+      {
+        "id": "d25fb815c9f64a70a334a42003d015c6",
+        "text": "Una base de datos de SQL azure"
+      }
+    ],
+    "selected": "Documentos y mensajes de correo electrónico"
+  },
+  {
+    "id": "_267400403_1",
+    "question": "Cómo puede asegurarse que los empleados sólo accedan a las aplicaciones de la empresa desde los equipos autorizados",
+    "correct": null,
+    "answers": [
+      {
+        "id": "79e7ce2fc47d44f7b7ceccac32ead542",
+        "text": "Con Azure Firewall"
+      },
+      {
+        "id": "aa5d760daef34d209180199dd72aad6b",
+        "text": "Con autenticación multifactor"
+      },
+      {
+        "id": "6981255a08f94e90acb85579d8e35614",
+        "text": "Con Single Sign-On"
+      },
+      {
+        "id": "9feda28c5fef491ca62c73d9d752a9ed",
+        "text": "Aplicando políticas a cada equipo"
+      },
+      {
+        "id": "c4e60bed25ba418f971734814bdacd8b",
+        "text": "Mediante acceso condicional"
+      }
+    ],
+    "selected": "Mediante acceso condicional"
+  },
+  {
+    "id": "_267400404_1",
+    "question": "¿Qué servicio proporciona el tráfico de red en varias suscripciones de Azure y redes virtuales?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "e7ebca37ae0a4a88935eeb30ea84a743",
+        "text": "Power Shell"
+      },
+      {
+        "id": "1ea6dc360a9443629d2698e59a421ced",
+        "text": "Protección contra DDoS de azure"
+      },
+      {
+        "id": "2bc420847aa14771ba03e681c0141f09",
+        "text": "NSG"
+      },
+      {
+        "id": "60af2b287b3b4e0f9c8f7c250e0c0108",
+        "text": "Azure firewall"
+      },
+      {
+        "id": "44d5bc66c2604c24b931c1dd179fa7d8",
+        "text": "Un grupo de seguridad de aplicaciones"
+      }
+    ],
+    "selected": "Azure firewall"
+  },
+  {
+    "id": "_267400405_1",
+    "question": "¿Qué herramienta podemos considerar estándar para acceder a múltiples servicios Cloud?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0b4344f606c745a38abc1065e2aff55a",
+        "text": "Un navegador"
+      },
+      {
+        "id": "13a80efe40c2483aac973fe4c2f4eeba",
+        "text": "Un compilador"
+      },
+      {
+        "id": "82cfe86ff490489da6c477a9531ff71a",
+        "text": "A través de las propias aplicaciones que puedan desarrollar los clientes"
+      },
+      {
+        "id": "4a4558371264484f9b8e126013a91f9d",
+        "text": "A través de un API podemos acceder a todas"
+      },
+      {
+        "id": "d59fd0f23b7b47afae81d0328f075723",
+        "text": "Una dirección IP"
+      }
+    ],
+    "selected": "Un navegador"
+  },
+  {
+    "id": "_267400406_1",
+    "question": "Partiendo de una flexibilidad, transparencia, movilidad y un cambio cultural a la hora de usar soluciones Cloud, podemos llegar a crear un modelo organizativo diferente",
+    "correct": null,
+    "answers": [
+      {
+        "id": "6fdf9854fa54470887d60e184190dda9",
+        "text": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+      },
+      {
+        "id": "0a92925000d14a36b86fbde14e70e615",
+        "text": "Un nuevo proceso de gestión de seguridad."
+      },
+      {
+        "id": "16376553a54746f6bdb759f9a66ca318",
+        "text": "Un nuevo estándar de certificación de procesos de gestión de seguridad"
+      },
+      {
+        "id": "f4d66cc9f4ae4abc8e03b0bc5cacc373",
+        "text": "Gestión de seguridad privada"
+      },
+      {
+        "id": "c0e566a627284f158401ad5887aa2dd0",
+        "text": "Una nueva arquitectura de micro-procesadores más potente para soluciones de seguridad"
+      }
+    ],
+    "selected": "Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger."
+  },
+  {
+    "id": "_267400407_1",
+    "question": "¿Qué se garantiza en un contrato de nivel de servicio (SLA) de Azure para máquinas virtuales?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "deaa03772ec94038b0c43b5329dab08b",
+        "text": "Elasticidad"
+      },
+      {
+        "id": "f4d384bbf5a34ae297a162c6d93683e6",
+        "text": "Desempeño"
+      },
+      {
+        "id": "e3f0427469d04c71925a7a7e60f98959",
+        "text": "Ancho de banda"
+      },
+      {
+        "id": "de8f86bcc26e43e79a2469eb8ba63304",
+        "text": "Disponibilidad de funciones"
+      },
+      {
+        "id": "0518c75e57534298b6777ea055ee84f1",
+        "text": "Tiempo de actividad"
+      }
+    ],
+    "selected": "Tiempo de actividad"
+  },
+  {
+    "id": "_267400408_1",
+    "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "cd899fee5a1543989249470e4259b016",
+        "text": "Ejecutar la calculadora de costo total de propiedad"
+      },
+      {
+        "id": "5ab6bb6aa4634cb881d6d5f48e4472ca",
+        "text": "Usar una suscripción de prueba"
+      },
+      {
+        "id": "1a5d75f9bb624c3981f3b34a8737b6b7",
+        "text": "No se puede comparar de manera precisa"
+      },
+      {
+        "id": "4ac380e989394e6fab7808e84d84f738",
+        "text": "Poner el servicio en marcha y ver la factura al final de mes"
+      },
+      {
+        "id": "545d43a51fc849bf860b965a1a828eb9",
+        "text": "Se asume que la ejecución en la nube cuesta lo mismo que la ejecución en el centro de datos local"
+      }
+    ],
+    "selected": "Ejecutar la calculadora de costo total de propiedad"
+  },
+  {
+    "id": "_267400409_1",
+    "question": "¿Cuál de las siguientes situaciones produciría mayores beneficios de la reubicación de un servidor de archivos local a Azure?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0582ca74dc044fa4865ae7bdc480e352",
+        "text": "Uso del almacenamiento como respaldo de información"
+      },
+      {
+        "id": "857b0c9b7a86488a989feed2c5c3f4b6",
+        "text": "Demanda de almacenamiento impredecible que aumenta y disminuye varias veces al año"
+      },
+      {
+        "id": "67a9170166ad4525bba95887b0b11908",
+        "text": "Crecimiento constante a largo plazo de la demanda de almacenamiento"
+      },
+      {
+        "id": "745ab66f91214bbcb90e1694bb005511",
+        "text": "Demanda de almacenamiento constante e invariable"
+      },
+      {
+        "id": "ed7db5ad37ff4899934540c37d78bfd9",
+        "text": "Reducción de la demanda permanente"
+      }
+    ],
+    "selected": "Demanda de almacenamiento impredecible que aumenta y disminuye varias veces al año"
+  },
+  {
+    "id": "_267400410_1",
+    "question": "Tiene previsto migrar una aplicación web a Azure. Los usuarios externos acceden a la aplicación web.Debe recomendar una solución de implementación en la nube para minimizar la cantidad de esfuerzo administrativo utilizado para administrar la aplicación web.¿Qué debería incluir en la recomendación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "68f5c0fbba284a28b376697006f66b5f",
+        "text": "Software como servicio (SaaS)"
+      },
+      {
+        "id": "8701d860cc0c4318a9c0af80f14b4e15",
+        "text": "Base de datos como servicio (DaaS)"
+      },
+      {
+        "id": "bd4efd618fee481eb990376b7566c136",
+        "text": "Infraestructura como servicio (IaaS)"
+      },
+      {
+        "id": "40ca510e03244315b5e7987e6adf5c7a",
+        "text": "Red como servicio(NaaS)"
+      },
+      {
+        "id": "6f2a21ec67d749649539833a8d879589",
+        "text": "Plataforma como servicio (PaaS)"
+      }
+    ],
+    "selected": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "id": "_267400411_1",
+    "question": "Indica qué frase completa no es correcta. El Cloud Computing...",
+    "correct": null,
+    "answers": [
+      {
+        "id": "55b319a86d2649e491f034d59af18435",
+        "text": "Es un modelo tecnológico que no permite el acceso dinámico a recursos TI con escaso esfuerzo de gestión"
+      },
+      {
+        "id": "1476be6778174cff894b428b21c8162c",
+        "text": "Se basa en que nos adquieren y gestionan en nuestro nombre las licencias software y los equipos que queremos disponer, haciendo ellos la explotación"
+      },
+      {
+        "id": "beec895e997b40409370a31eeb034c74",
+        "text": "El Software es propiedad privada."
+      },
+      {
+        "id": "e15a81efcad54b1e8fb2c54e6047624f",
+        "text": "Nos permite olvidarnos de licencias SW y de hardware en propiedad, accediendo a su funcionalidad a través de máquinas virtuales"
+      },
+      {
+        "id": "6b8e79748fe14306a61a33caf6b7c088",
+        "text": "El hardware es propiedad pública"
+      }
+    ],
+    "selected": "Es un modelo tecnológico que no permite el acceso dinámico a recursos TI con escaso esfuerzo de gestión"
+  },
+  {
+    "id": "_267400412_1",
+    "question": "¿Cuál es una característica de la nube pública?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9a6c4eafde0f4e7f955c192605e6a668",
+        "text": "Software"
+      },
+      {
+        "id": "03da1c8f352847d09d19df663de3c0e4",
+        "text": "precios medidos"
+      },
+      {
+        "id": "a89108eb3d824ab38d02be4b549eb7dd",
+        "text": "almacenamiento limitado"
+      },
+      {
+        "id": "7247812955d74b4d9d367f3b2fa9fa81",
+        "text": "conexiones no seguras"
+      },
+      {
+        "id": "71a2c239210f44fe945b3d3dcf08c64c",
+        "text": "hardware dedicado"
+      }
+    ],
+    "selected": "hardware dedicado"
+  },
+  {
+    "id": "_267400413_1",
+    "question": "Cuál de las afirmaciones siguientes es cierta referente a la utilización de la nuble pública?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "098ce534f888431182e2fb6c2b8dd0e5",
+        "text": "Uds solo es responsable de los recursos informáticos que usa"
+      },
+      {
+        "id": "744910924dc54f2ea5c24a22a7d9ecef",
+        "text": "Ud solo es responsable de los repuestos de los recursos informáticos"
+      },
+      {
+        "id": "7ee330234fe4446aba31c7f0b8fadd0d",
+        "text": "Ud es responsable de comprar los recursos informáticos"
+      },
+      {
+        "id": "3a3557ba7c254f07bd47ed653ab9d080",
+        "text": "Uds solo es responsable de los recursos informáticos que usa"
+      },
+      {
+        "id": "5fda49418ddf47c480072044d3324539",
+        "text": "Ud es responsable tanto de la compra de equipos como de los recursos informáticos que usa"
+      }
+    ],
+    "selected": "Uds solo es responsable de los recursos informáticos que usa"
+  },
+  {
+    "id": "_267400414_1",
+    "question": "Su empresa aloja una aplicación de contabilidad llamada App1 que utilizan todos los clientes de la empresa. App1 tiene un uso bajo durante las primeras tres semanas de cada mes y un uso muy alto durante la última semana de cada mes. ¿Qué beneficio de Azure Cloud Services admite la administración de costos para este tipo de patrón de uso?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b82a3464e3ff408a8096652a1673f297",
+        "text": "equilibrio de carga"
+      },
+      {
+        "id": "35a9d03f15eb45329d556a3986e94db3",
+        "text": "Alta disponibilidad"
+      },
+      {
+        "id": "ef1e5fb73b4f435bb008d876c6afe3c5",
+        "text": "latencia alta"
+      },
+      {
+        "id": "b0d6f279bf4e4ca3a53d0251a4e578d6",
+        "text": "alta disponibilidad"
+      },
+      {
+        "id": "9e0268a42d4049a4a1568289636a22a1",
+        "text": "elasticidad"
+      }
+    ],
+    "selected": "elasticidad"
+  }
+]
