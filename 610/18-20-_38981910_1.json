@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_267711158_1",
+    "question": "Puede acceder al Compliance Manager desde",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2d518a9e13e5438abe9cef32340b8f71",
+        "text": "Microsoft Outlook"
+      },
+      {
+        "id": "1a393277011f487d9decacea4a8977b7",
+        "text": "Microsoft 365"
+      },
+      {
+        "id": "cf22cdb253634476ba41a2505f5dc3d8",
+        "text": "Microsoft service trust portal"
+      },
+      {
+        "id": "ef76e851f4394f90bce7b06f0d664acd",
+        "text": "Azure portal"
+      },
+      {
+        "id": "9cd7d3e54e9e4fa69d78c051e29f6334",
+        "text": "Azure active directory"
+      }
+    ],
+    "selected": "Azure active directory"
+  },
+  {
+    "id": "_267711159_1",
+    "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "1a5d75f9bb624c3981f3b34a8737b6b7",
+        "text": "No se puede comparar de manera precisa"
+      },
+      {
+        "id": "545d43a51fc849bf860b965a1a828eb9",
+        "text": "Se asume que la ejecución en la nube cuesta lo mismo que la ejecución en el centro de datos local"
+      },
+      {
+        "id": "4ac380e989394e6fab7808e84d84f738",
+        "text": "Poner el servicio en marcha y ver la factura al final de mes"
+      },
+      {
+        "id": "5ab6bb6aa4634cb881d6d5f48e4472ca",
+        "text": "Usar una suscripción de prueba"
+      },
+      {
+        "id": "cd899fee5a1543989249470e4259b016",
+        "text": "Ejecutar la calculadora de costo total de propiedad"
+      }
+    ],
+    "selected": "Ejecutar la calculadora de costo total de propiedad"
+  },
+  {
+    "id": "_267711160_1",
+    "question": "Un atacante puede dejar fuera de servicio un sitio web enviando un gran volumen de tráfico de red a los servidores. ¿Qué servicio de Azure puede ayudar a protegerlo?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b4d9d1b5242e4c5a839ee06b068359e9",
+        "text": "Azure Firewall"
+      },
+      {
+        "id": "086a985b347842828721b34a7089a04b",
+        "text": "Azure Monitor"
+      },
+      {
+        "id": "37e97c6275694d61ac7543b426e3c4eb",
+        "text": "Azure Service Healt"
+      },
+      {
+        "id": "d0f9a9ff2a074523865d9c1ead427df4",
+        "text": "Azure DDoS Protection"
+      },
+      {
+        "id": "6835e4d9fdab473eb1c115d41b68e686",
+        "text": "Grupos de seguridad de red"
+      }
+    ],
+    "selected": "Azure DDoS Protection"
+  },
+  {
+    "id": "_267711161_1",
+    "question": "Selecciona la respuesta incorrecta entre las siguientes claves de la seguridad en entornos Cloud",
+    "correct": null,
+    "answers": [
+      {
+        "id": "5b4f8beb485d48b3ac527f94c5ba60e9",
+        "text": "Administración centralizada e incluso delegada"
+      },
+      {
+        "id": "f1f38851f814409ab65d03ca80a1c497",
+        "text": "Administración solo con servicios"
+      },
+      {
+        "id": "e30f871d37494273a58bf2b11212360f",
+        "text": "Seguridad proporcionada por el proveedor"
+      },
+      {
+        "id": "505d4819da4c47439e7304d39cd03d6a",
+        "text": "El usuario puede despreocuparse de la seguridad"
+      },
+      {
+        "id": "57bc18d2afa34b90b794ca8b8758836a",
+        "text": "Nuevas formas de trabajar que implican mejor seguridad para el usuario."
+      }
+    ],
+    "selected": "El usuario puede despreocuparse de la seguridad"
+  },
+  {
+    "id": "_267711162_1",
+    "question": "Cuál es la mejor manera que una empresa almacene los certificados en forma segura y sean accesibles para sus máquinas virtuales en la nube?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "248855d4f7904cbf8eb772e502c63642",
+        "text": "Utilizar el portal de Azure"
+      },
+      {
+        "id": "0a719343c1e547e1a592a16356055a1d",
+        "text": "Almacenar los certificados en Azure Key Vault"
+      },
+      {
+        "id": "f35c4e41cb4946bbbe21d167a37b8580",
+        "text": "Compilar una herramienta personalizada y colocarla en una máquina virtual en la nube"
+      },
+      {
+        "id": "0ad8a2cbd30943b1a636041691488b33",
+        "text": "Colocar los certificados en un recurso compartido en la red"
+      },
+      {
+        "id": "d2c5f1ede5a149b084d53eaea2b0f3eb",
+        "text": "Utilizar Azure Active Directory"
+      }
+    ],
+    "selected": "Almacenar los certificados en Azure Key Vault"
+  },
+  {
+    "id": "_267711163_1",
+    "question": "La facturación en Azure es",
+    "correct": null,
+    "answers": [
+      {
+        "id": "de13de0a210e4fd99e0eae1fe3eb164f",
+        "text": "Diaria para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "a4bf858b3b9040e4ba8aa43771486afc",
+        "text": "Mensual para cada cuenta de Azure basada en el uso"
+      },
+      {
+        "id": "25f528d42ef14b15a6d31f02a0938c58",
+        "text": "Anual para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "2358ee3de8dd4b91b60924adc6dc23f7",
+        "text": "Mensual para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "85d2b1218086402a8639444c326e3188",
+        "text": "Anual para cada cuenta de Azure basada en el uso"
+      }
+    ],
+    "selected": "Mensual para cada suscripción de Azure basada en el uso"
+  },
+  {
+    "id": "_267711164_1",
+    "question": "¿Cuál de los siguientes no es una herramienta de gestión nativa de Microsoft para Azure?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7768eb4e769441b1a68d8154ad3af792",
+        "text": "Azure PowerShell"
+      },
+      {
+        "id": "c092781907964ace96b8697745e95235",
+        "text": "System Center App Controller"
+      },
+      {
+        "id": "23949edbf14a4004b9a3c7397f34566f",
+        "text": "Azure cmd"
+      },
+      {
+        "id": "38d0c60a38b8475b89dc460586b55ade",
+        "text": "Cerebrata"
+      },
+      {
+        "id": "559ec2db61ce4e03a6ab74b8d5b22335",
+        "text": "Azure management portal"
+      }
+    ],
+    "selected": "Cerebrata"
+  },
+  {
+    "id": "_267711165_1",
+    "question": "Tiene previsto migrar varios servidores de una red local a Azure. ¿Cuál es la ventaja de utilizar un servicio de nube pública para los servidores en una red local?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7339e8b7cf8e47f4b2604dee65d07f13",
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+      },
+      {
+        "id": "4a368547cc454ef7a1473e3120717028",
+        "text": "La nube pública es una solución de crowdsourcing que brinda a las empresas la capacidad de mejorar la nube"
+      },
+      {
+        "id": "44d16b4c587c45749bdae343dd775341",
+        "text": "La nube pública es propiedad del público, NO de una corporación privada"
+      },
+      {
+        "id": "494fd7fbf15443dab9d6db4f4b2da90d",
+        "text": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      },
+      {
+        "id": "df4dac6769374ce0b353d33e9201805d",
+        "text": "La nube pública no es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+      }
+    ],
+    "selected": "La nube pública es una entidad compartida en la que varias corporaciones utilizan cada una parte de los recursos en la nube"
+  },
+  {
+    "id": "_267711166_1",
+    "question": "Indica qué frase completa no es correcta. El Cloud Computing...",
+    "correct": null,
+    "answers": [
+      {
+        "id": "1476be6778174cff894b428b21c8162c",
+        "text": "Se basa en que nos adquieren y gestionan en nuestro nombre las licencias software y los equipos que queremos disponer, haciendo ellos la explotación"
+      },
+      {
+        "id": "e15a81efcad54b1e8fb2c54e6047624f",
+        "text": "Nos permite olvidarnos de licencias SW y de hardware en propiedad, accediendo a su funcionalidad a través de máquinas virtuales"
+      },
+      {
+        "id": "beec895e997b40409370a31eeb034c74",
+        "text": "El Software es propiedad privada."
+      },
+      {
+        "id": "55b319a86d2649e491f034d59af18435",
+        "text": "Es un modelo tecnológico que no permite el acceso dinámico a recursos TI con escaso esfuerzo de gestión"
+      },
+      {
+        "id": "6b8e79748fe14306a61a33caf6b7c088",
+        "text": "El hardware es propiedad pública"
+      }
+    ],
+    "selected": "Es un modelo tecnológico que no permite el acceso dinámico a recursos TI con escaso esfuerzo de gestión"
+  },
+  {
+    "id": "_267711167_1",
+    "question": "Cuando hablamos de PaaS...",
+    "correct": null,
+    "answers": [
+      {
+        "id": "3ad773bbe0624be7bf286e5d73d96de8",
+        "text": "Nos estamos refiriendo a servicios Cloud híbridos"
+      },
+      {
+        "id": "f0f09501a8434538b87626e96626e07e",
+        "text": "Nos estamos refiriendo a servicios Cloud que integran las aplicaciones con la capa de infraestructura"
+      },
+      {
+        "id": "b63727627b894c508db03d146c59962d",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del hardware"
+      },
+      {
+        "id": "06b0743613fd4a99a52b9260849e7f62",
+        "text": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+      },
+      {
+        "id": "b3a261edf59e4177a8031ca162ef69b5",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del software."
+      }
+    ],
+    "selected": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+  },
+  {
+    "id": "_267711168_1",
+    "question": "Su empresa aloja una aplicación de contabilidad llamada App1 que utilizan todos los clientes de la empresa. App1 tiene un uso bajo durante las primeras tres semanas de cada mes y un uso muy alto durante la última semana de cada mes. ¿Qué beneficio de Azure Cloud Services admite la administración de costos para este tipo de patrón de uso?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b0d6f279bf4e4ca3a53d0251a4e578d6",
+        "text": "alta disponibilidad"
+      },
+      {
+        "id": "9e0268a42d4049a4a1568289636a22a1",
+        "text": "elasticidad"
+      },
+      {
+        "id": "b82a3464e3ff408a8096652a1673f297",
+        "text": "equilibrio de carga"
+      },
+      {
+        "id": "35a9d03f15eb45329d556a3986e94db3",
+        "text": "Alta disponibilidad"
+      },
+      {
+        "id": "ef1e5fb73b4f435bb008d876c6afe3c5",
+        "text": "latencia alta"
+      }
+    ],
+    "selected": "elasticidad"
+  },
+  {
+    "id": "_267711169_1",
+    "question": "El costo por uso de Linux Virtual Machines (VM) es:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7747869e3ab24572b4b5c9f6743a8a82",
+        "text": "0.004$ por hora"
+      },
+      {
+        "id": "53c7159f0ca7458f953e869ed389e49d",
+        "text": "0.2$ por millón de ejecuciones"
+      },
+      {
+        "id": "5d2c265bdc62432c8f1e160d2ffcf3b0",
+        "text": "0.008 $ la hora"
+      },
+      {
+        "id": "e93d28df2dbc43aa8090be05d0365561",
+        "text": "0.013GB al mes"
+      },
+      {
+        "id": "a53bbf69bb284c6898998b1b833f77e5",
+        "text": "0.023GB al mes"
+      }
+    ],
+    "selected": "0.004$ por hora"
+  },
+  {
+    "id": "_267711170_1",
+    "question": "¿Cuáles son actualmente las principales 4 palancas de transformación de los negocios?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0bdade405be54b09bc3398a4e23606bd",
+        "text": "Social, Mobility, risk & API"
+      },
+      {
+        "id": "dca6e2b244ae4ba8ae4cb3ee4629b23b",
+        "text": "A través de un API podemos acceder a todas."
+      },
+      {
+        "id": "7c4cf1576f064fe58e6888ed527eb325",
+        "text": "Social, Risk, API & Security"
+      },
+      {
+        "id": "509b5ab6b3c24e5b8a26afe28f218749",
+        "text": "Cloud, Security, social & Mobility"
+      },
+      {
+        "id": "f7d604f8ab6c4212a3f337638b848896",
+        "text": "Social, Security, risk & Mobility"
+      }
+    ],
+    "selected": "Cloud, Security, social & Mobility"
+  },
+  {
+    "id": "_267711171_1",
+    "question": "¿Cuál es el primer paso que se debe de llevar a cabo para compartir un archivo de imagen en Azure Storage?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c66eff50429e4f868a9bbfbed693e19b",
+        "text": "Instalar un file server virtual"
+      },
+      {
+        "id": "a03a06479860429689b0c4d51c9610a2",
+        "text": "Crear un contenedor de Azure Storage para almacenar la imagen"
+      },
+      {
+        "id": "77ecb7c286b04ca395bf45f48a37acde",
+        "text": "Cargar el archivo imagen y crear un contenedor"
+      },
+      {
+        "id": "42e18e26b2104c2197ffd5dfd327b8b6",
+        "text": "Usar un token de forma de acceso compartido SAS"
+      },
+      {
+        "id": "f4cfac31dc554bc9a92b23389d2287e9",
+        "text": "Crear una cuenta de Azure Storage"
+      }
+    ],
+    "selected": "Crear una cuenta de Azure Storage"
+  },
+  {
+    "id": "_267711172_1",
+    "question": "La empresa tiene un equipo de trabajadores remotos que necesitan usar software basado en Windows para desarrollar las aplicaciones, pero los miembros del equipo usan diversos sistemas operativos, como macOS, Linux y Windows. ¿Qué servicio de Azure Compute le ayudaría a resolver este escenario?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b30499f88d514daaab1a70cdfd61bda6",
+        "text": "Virtual servers basados en macOS, Linux y Windows"
+      },
+      {
+        "id": "8f6d8bbdda2d4c80a820309cd01ef956",
+        "text": "Azure App Service"
+      },
+      {
+        "id": "52a30261f4cf488d8335978238282aab",
+        "text": "Azure Container Instances"
+      },
+      {
+        "id": "82e624b2f52640499a96487567a655a4",
+        "text": "Azure Virtual Desktop"
+      },
+      {
+        "id": "8692d3a89e8d4a23a2af53e22e36796e",
+        "text": "Azure funtions"
+      }
+    ],
+    "selected": "Azure Virtual Desktop"
+  },
+  {
+    "id": "_267711173_1",
+    "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "1e746ee632e14c9a8e196bfb20961305",
+        "text": "Una power Shell de actibve directory"
+      },
+      {
+        "id": "a4ad77c54a82436c89082fe301aa7aad",
+        "text": "una base de datos SQL de Azure"
+      },
+      {
+        "id": "86507af6d2664eb084229a4aed478c6a",
+        "text": "una aplicación lógica de Azure"
+      },
+      {
+        "id": "4151dc550b64405e88a31ad3add7a890",
+        "text": "una aplicación web de Azure"
+      },
+      {
+        "id": "eee4b5448a144516b0ef7fa9488ff0cf",
+        "text": "una máquina virtual de Azure"
+      }
+    ],
+    "selected": "una máquina virtual de Azure"
+  },
+  {
+    "id": "_267711174_1",
+    "question": "Instalar un file server virtual",
+    "correct": null,
+    "answers": [
+      {
+        "id": "2b97116fa2af499fb8c578b43164de61",
+        "text": "Protocolo de configuración dinámica"
+      },
+      {
+        "id": "5515a4c1813b4deca1703840cb2ede7c",
+        "text": "NAT de IPs privadas a públicas"
+      },
+      {
+        "id": "98ef7d1a9ca4414bac1c130c6b48cbde",
+        "text": "Traducción de direcciones de red"
+      },
+      {
+        "id": "108e760b84d94829b463b22b65bc9592",
+        "text": "Emparejamiento de redes virtuales de Azure"
+      },
+      {
+        "id": "ea2f9d53e81e451f827a1762dfdacfc1",
+        "text": "Agregación de vínculos de varios chasis"
+      }
+    ],
+    "selected": "Protocolo de configuración dinámica"
+  },
+  {
+    "id": "_267711175_1",
+    "question": "¿Qué diferencia hay entre IaaS y Virtualización?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "7df83a2e0c124028a333f263bb068488",
+        "text": "IaaS es solo crear máquinas virtuales."
+      },
+      {
+        "id": "7100eb97d7aa4c93ae3488c45d8efdc3",
+        "text": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+      },
+      {
+        "id": "a33ec97629fe4d9b9a541edf507d4094",
+        "text": "Virtualización de servidores pertenece a PaaS"
+      },
+      {
+        "id": "dcc072a7227b455e95393bc00b7e0a21",
+        "text": "La virtualización es la base de la Infraestructura como Servicio (IaaS)"
+      },
+      {
+        "id": "ac5ca30d8a18423a9d41acc85a1d1930",
+        "text": "Son iguales"
+      }
+    ],
+    "selected": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+  },
+  {
+    "id": "_267711176_1",
+    "question": "Un cloudbroker nos puede ayudar a ...",
+    "correct": null,
+    "answers": [
+      {
+        "id": "58c10e9c4f5e4d4da7117b02cff5e339",
+        "text": "Ahorrar tiempos de despliegue local."
+      },
+      {
+        "id": "30980689a7c5422f93425a929c3588db",
+        "text": "Ahorrar tiempos de despliegue"
+      },
+      {
+        "id": "e15013969f7e4a5b861c55d4c9f5dd1d",
+        "text": "Ahorrar contenedores de despliegue."
+      },
+      {
+        "id": "500b9ffff6934c458c092f4c535805e1",
+        "text": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+      },
+      {
+        "id": "8a8112517849480fbc295c1c5e54cd22",
+        "text": "Principalmente obtener mejores precios"
+      }
+    ],
+    "selected": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+  },
+  {
+    "id": "_267711177_1",
+    "question": "¿Qué es un sistema de doble autenticación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b96f2566ad8747c68125728a371fb19a",
+        "text": "Que por seguridad hay que introducir tres veces el password."
+      },
+      {
+        "id": "74e27f424d4b45b0b8ebcd6ac8dc1420",
+        "text": "Que por seguridad no hay que introducir dos veces el password."
+      },
+      {
+        "id": "d116c3ab466548e4ad8a76e2d1f0cfd6",
+        "text": "Que por seguridad hay que introducir dos veces el password."
+      },
+      {
+        "id": "cb3a0c288b744b43a3ae18961a100ce1",
+        "text": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+      },
+      {
+        "id": "5f1c80ca6e204a28960a4f0cd36818be",
+        "text": "Que el password se valida en dos sitios diferentes por seguridad."
+      }
+    ],
+    "selected": "Un segundo paso de autentificación mediante un número o Token generado aleatoriamente."
+  }
+]
