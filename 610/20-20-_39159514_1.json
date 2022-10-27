@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_269078375_1",
+    "question": "¿Cuál es el primer paso que se debe de llevar a cabo para compartir un archivo de imagen en Azure Storage?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c66eff50429e4f868a9bbfbed693e19b",
+        "text": "Instalar un file server virtual"
+      },
+      {
+        "id": "a03a06479860429689b0c4d51c9610a2",
+        "text": "Crear un contenedor de Azure Storage para almacenar la imagen"
+      },
+      {
+        "id": "f4cfac31dc554bc9a92b23389d2287e9",
+        "text": "Crear una cuenta de Azure Storage"
+      },
+      {
+        "id": "42e18e26b2104c2197ffd5dfd327b8b6",
+        "text": "Usar un token de forma de acceso compartido SAS"
+      },
+      {
+        "id": "77ecb7c286b04ca395bf45f48a37acde",
+        "text": "Cargar el archivo imagen y crear un contenedor"
+      }
+    ],
+    "selected": "Crear una cuenta de Azure Storage"
+  },
+  {
+    "id": "_269078376_1",
+    "question": "IoT permite que los dispositivos recopilen y luego transmitan información para el análisis de datos y estos son:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "41f7fcba46304380ae1f80eae2056875",
+        "text": "Bases de datos"
+      },
+      {
+        "id": "cb7857c9cf714dcbaba97e3a8476ba40",
+        "text": "Pantalla tactil."
+      },
+      {
+        "id": "238ec3ddaf9c40ce9dcd02bb4fc0f5bd",
+        "text": "Sensores"
+      },
+      {
+        "id": "6105333b3ea8430b8ea47bc2714acba0",
+        "text": "Actuadores."
+      },
+      {
+        "id": "d4ec833e1d0b42028e61299d15161c4a",
+        "text": "Infrarrojos."
+      }
+    ],
+    "selected": "Sensores"
+  },
+  {
+    "id": "_269078377_1",
+    "question": "¿Qué tarea no se aborda cuando se implementa un servicio Cloud?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5d5f320e9a874bec9916c418d3aa6784",
+        "text": "Monitorización de la calidad del hardware"
+      },
+      {
+        "id": "4ebd9c7424bd4a42957f9e2874cbdf5e",
+        "text": "Monitorización del consumo del servicio"
+      },
+      {
+        "id": "500ad0859a254a89a98ccd7d1f7c6232",
+        "text": "Monitorización de la calidad del servicio."
+      },
+      {
+        "id": "f2e44c8559594b9aa1409eda80fb77f3",
+        "text": "Monitorización de la calidad del software."
+      },
+      {
+        "id": "9e17bf7468fc4aafb01f78c796528095",
+        "text": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+      }
+    ],
+    "selected": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+  },
+  {
+    "id": "_269078378_1",
+    "question": "¿Cuál de las siguientes opciones no es una ventaja al usar ExpressRoute?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1465fe3fbbe74caf9d6a22dc7a698631",
+        "text": "Comunicación de red cifrada"
+      },
+      {
+        "id": "7495bdaea8624506b6f6c0073241a3f6",
+        "text": "Conectividad Redundante"
+      },
+      {
+        "id": "1e05e798a3b44e498496b23b3f7b3d23",
+        "text": "Acceso a los servicios de la nube Microsoft"
+      },
+      {
+        "id": "3dc6e0f440104055bf5329da70535942",
+        "text": "Latencia coherente"
+      },
+      {
+        "id": "1d9ac95c4218429a91e86d8fee40f918",
+        "text": "Conexión directa a la WAN del cliente"
+      }
+    ],
+    "selected": "Comunicación de red cifrada"
+  },
+  {
+    "id": "_269078379_1",
+    "question": "Qué recurso de Azure Compute se puede implementar para administrar un conjunto de máquinas virtuales idénticas",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5caa0f5437eb4b79895f57b510de411e",
+        "text": "Conjuntos de escalado de máquinas virtuales"
+      },
+      {
+        "id": "8e1a3f909ef94967884d344d5a693e5b",
+        "text": "Zonas de disponibilidad de la máquina virtual"
+      },
+      {
+        "id": "5094e2b3dcbf40d582c696e25e376203",
+        "text": "Conjuntos de disponibilidad de máquinas virtuales"
+      },
+      {
+        "id": "b407a790028d43f59dc9bc00492fece5",
+        "text": "Servidores virtualizados bajo IaaS"
+      },
+      {
+        "id": "438443d4dd694f2d88c3ab3b2f041e28",
+        "text": "Azure App Service"
+      }
+    ],
+    "selected": "Conjuntos de escalado de máquinas virtuales"
+  },
+  {
+    "id": "_269078380_1",
+    "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "86507af6d2664eb084229a4aed478c6a",
+        "text": "una aplicación lógica de Azure"
+      },
+      {
+        "id": "a4ad77c54a82436c89082fe301aa7aad",
+        "text": "una base de datos SQL de Azure"
+      },
+      {
+        "id": "eee4b5448a144516b0ef7fa9488ff0cf",
+        "text": "una máquina virtual de Azure"
+      },
+      {
+        "id": "4151dc550b64405e88a31ad3add7a890",
+        "text": "una aplicación web de Azure"
+      },
+      {
+        "id": "1e746ee632e14c9a8e196bfb20961305",
+        "text": "Una power Shell de actibve directory"
+      }
+    ],
+    "selected": "una máquina virtual de Azure"
+  },
+  {
+    "id": "_269078382_1",
+    "question": "¿Qué diferencia hay entre IaaS y Virtualización?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7100eb97d7aa4c93ae3488c45d8efdc3",
+        "text": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+      },
+      {
+        "id": "ac5ca30d8a18423a9d41acc85a1d1930",
+        "text": "Son iguales"
+      },
+      {
+        "id": "a33ec97629fe4d9b9a541edf507d4094",
+        "text": "Virtualización de servidores pertenece a PaaS"
+      },
+      {
+        "id": "7df83a2e0c124028a333f263bb068488",
+        "text": "IaaS es solo crear máquinas virtuales."
+      },
+      {
+        "id": "dcc072a7227b455e95393bc00b7e0a21",
+        "text": "La virtualización es la base de la Infraestructura como Servicio (IaaS)"
+      }
+    ],
+    "selected": "IaaS utiliza la virtualización para sus servicios, mientras la virtualización utiliza software que hace uso del hardware"
+  },
+  {
+    "id": "_269078390_1",
+    "question": "¿Cuál de las siguientes opciones no es una ventaja de usar servicios en la nube?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "645efbd21951443893ec7ee9ad690463",
+        "text": "Recuperación ante desastres"
+      },
+      {
+        "id": "79db78c91dc845e58baaba2d2e9f99b6",
+        "text": "Alta disponibilidad"
+      },
+      {
+        "id": "f5798a87ee924f209fe5ec1dfc1c589a",
+        "text": "Escalabilidad"
+      },
+      {
+        "id": "fef59402c4f34b2888e7ef31b000ec10",
+        "text": "Aislamiento geográfico"
+      },
+      {
+        "id": "742d242afc3e466e99f86ad69fe9e52a",
+        "text": "Elasticidad"
+      }
+    ],
+    "selected": "Aislamiento geográfico"
+  },
+  {
+    "id": "_269078391_1",
+    "question": "Tiene una red local que contiene varios servidores. Tiene previsto migrar todos los servidores a Azure. Debe recomendar una solución para asegurarse de que algunos de los servidores estén disponibles si un solo centro de datos de Azure se desconecta durante un período prolongado. ¿Qué debería incluir en la recomendación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f80ea93b23a64a27b624f1d399e28ab0",
+        "text": "escalabilidad"
+      },
+      {
+        "id": "c610d51e2fe047eb9f3d0423f30147ab",
+        "text": "tolerancia a fallas"
+      },
+      {
+        "id": "852f37fb876148bfb953dfe664902334",
+        "text": "baja latencia"
+      },
+      {
+        "id": "99cd7bfc60224073b00a3940df3d340c",
+        "text": "elasticidad"
+      },
+      {
+        "id": "2095bc49a0a54c1aa2a983dc65864d42",
+        "text": "HA"
+      }
+    ],
+    "selected": "tolerancia a fallas"
+  },
+  {
+    "id": "_269078392_1",
+    "question": "¿Cuáles son actualmente las principales 4 palancas de transformación de los negocios?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "509b5ab6b3c24e5b8a26afe28f218749",
+        "text": "Cloud, Security, social & Mobility"
+      },
+      {
+        "id": "7c4cf1576f064fe58e6888ed527eb325",
+        "text": "Social, Risk, API & Security"
+      },
+      {
+        "id": "dca6e2b244ae4ba8ae4cb3ee4629b23b",
+        "text": "A través de un API podemos acceder a todas."
+      },
+      {
+        "id": "f7d604f8ab6c4212a3f337638b848896",
+        "text": "Social, Security, risk & Mobility"
+      },
+      {
+        "id": "0bdade405be54b09bc3398a4e23606bd",
+        "text": "Social, Mobility, risk & API"
+      }
+    ],
+    "selected": "Cloud, Security, social & Mobility"
+  },
+  {
+    "id": "_269078394_1",
+    "question": "¿Cuál de las siguientes situaciones produciría mayores beneficios de la reubicación de un servidor de archivos local a Azure?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "67a9170166ad4525bba95887b0b11908",
+        "text": "Crecimiento constante a largo plazo de la demanda de almacenamiento"
+      },
+      {
+        "id": "857b0c9b7a86488a989feed2c5c3f4b6",
+        "text": "Demanda de almacenamiento impredecible que aumenta y disminuye varias veces al año"
+      },
+      {
+        "id": "0582ca74dc044fa4865ae7bdc480e352",
+        "text": "Uso del almacenamiento como respaldo de información"
+      },
+      {
+        "id": "745ab66f91214bbcb90e1694bb005511",
+        "text": "Demanda de almacenamiento constante e invariable"
+      },
+      {
+        "id": "ed7db5ad37ff4899934540c37d78bfd9",
+        "text": "Reducción de la demanda permanente"
+      }
+    ],
+    "selected": "Demanda de almacenamiento impredecible que aumenta y disminuye varias veces al año"
+  },
+  {
+    "id": "_269078395_1",
+    "question": "¿Cuál de las siguientes opciones es una unidad lógica de servicios de Azure vinculada a una cuenta de Azure?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5cd8374bb6f54c29af4a11bd41c84ee5",
+        "text": "Suscripción de Azure"
+      },
+      {
+        "id": "08c65c1062d64c199f033e98a3038fbb",
+        "text": "Grupo de administración"
+      },
+      {
+        "id": "2ecbdf0ebd5a461492759f5ea1510a07",
+        "text": "Resource group"
+      },
+      {
+        "id": "7292f4489ce142849704acaa5a22d9a4",
+        "text": "Azure AD"
+      },
+      {
+        "id": "cf86fcf356514e2ba93e66ae818ca9fd",
+        "text": "Recursos"
+      }
+    ],
+    "selected": "Suscripción de Azure"
+  },
+  {
+    "id": "_269078397_1",
+    "question": "Indica qué frase completa no es correcta. El Cloud Computing...",
+    "correct": true,
+    "answers": [
+      {
+        "id": "beec895e997b40409370a31eeb034c74",
+        "text": "El Software es propiedad privada."
+      },
+      {
+        "id": "55b319a86d2649e491f034d59af18435",
+        "text": "Es un modelo tecnológico que no permite el acceso dinámico a recursos TI con escaso esfuerzo de gestión"
+      },
+      {
+        "id": "1476be6778174cff894b428b21c8162c",
+        "text": "Se basa en que nos adquieren y gestionan en nuestro nombre las licencias software y los equipos que queremos disponer, haciendo ellos la explotación"
+      },
+      {
+        "id": "e15a81efcad54b1e8fb2c54e6047624f",
+        "text": "Nos permite olvidarnos de licencias SW y de hardware en propiedad, accediendo a su funcionalidad a través de máquinas virtuales"
+      },
+      {
+        "id": "6b8e79748fe14306a61a33caf6b7c088",
+        "text": "El hardware es propiedad pública"
+      }
+    ],
+    "selected": "Es un modelo tecnológico que no permite el acceso dinámico a recursos TI con escaso esfuerzo de gestión"
+  },
+  {
+    "id": "_269078404_1",
+    "question": "¿En qué tipo de modelo de nube todos los recursos de hardware son propiedad de un tercero y se comparten entre varios inquilinos?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "57934cf0cb2c409b9b0cfd22e98c629a",
+        "text": "híbrido"
+      },
+      {
+        "id": "62d572d5991342bcaa0107dce3726ddd",
+        "text": "privado"
+      },
+      {
+        "id": "6770656094524305ab8d12e6f8d44958",
+        "text": "IoT"
+      },
+      {
+        "id": "1ac1dc3b06f54986b3c54e77f56bc769",
+        "text": "público"
+      },
+      {
+        "id": "f850e8df27c34bd9a2b6561472ab28c6",
+        "text": "niebla"
+      }
+    ],
+    "selected": "público"
+  },
+  {
+    "id": "_269078405_1",
+    "question": "Cuál es la mejor manera que una empresa almacene los certificados en forma segura y sean accesibles para sus máquinas virtuales en la nube?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "248855d4f7904cbf8eb772e502c63642",
+        "text": "Utilizar el portal de Azure"
+      },
+      {
+        "id": "0ad8a2cbd30943b1a636041691488b33",
+        "text": "Colocar los certificados en un recurso compartido en la red"
+      },
+      {
+        "id": "f35c4e41cb4946bbbe21d167a37b8580",
+        "text": "Compilar una herramienta personalizada y colocarla en una máquina virtual en la nube"
+      },
+      {
+        "id": "d2c5f1ede5a149b084d53eaea2b0f3eb",
+        "text": "Utilizar Azure Active Directory"
+      },
+      {
+        "id": "0a719343c1e547e1a592a16356055a1d",
+        "text": "Almacenar los certificados en Azure Key Vault"
+      }
+    ],
+    "selected": "Almacenar los certificados en Azure Key Vault"
+  },
+  {
+    "id": "_269078406_1",
+    "question": "¿Qué servicio proporciona el tráfico de red en varias suscripciones de Azure y redes virtuales?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e7ebca37ae0a4a88935eeb30ea84a743",
+        "text": "Power Shell"
+      },
+      {
+        "id": "1ea6dc360a9443629d2698e59a421ced",
+        "text": "Protección contra DDoS de azure"
+      },
+      {
+        "id": "2bc420847aa14771ba03e681c0141f09",
+        "text": "NSG"
+      },
+      {
+        "id": "60af2b287b3b4e0f9c8f7c250e0c0108",
+        "text": "Azure firewall"
+      },
+      {
+        "id": "44d5bc66c2604c24b931c1dd179fa7d8",
+        "text": "Un grupo de seguridad de aplicaciones"
+      }
+    ],
+    "selected": "Azure firewall"
+  },
+  {
+    "id": "_269078407_1",
+    "question": "En marzo de 2014, Microsoft anunció planes de cambiar la marca de su plataforma de nube Azure a Microsoft Azure. ¿Cuál era su nombre anterior?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6b956fd79984464d84257cc3e6bdec5c",
+        "text": "Azure Exchange"
+      },
+      {
+        "id": "9cad56cdb48243c3ae06c1591d7d668f",
+        "text": "Azure Web Services"
+      },
+      {
+        "id": "cb7b9b02033a46d3a64f62540094ac27",
+        "text": "Azure Office"
+      },
+      {
+        "id": "d631a7009edb4e6185fa6480cb824363",
+        "text": "Azure 2.0"
+      },
+      {
+        "id": "2365c5fa3a184ef6b1e0cd3dcd0d4f83",
+        "text": "Windows Azure"
+      }
+    ],
+    "selected": "Windows Azure"
+  },
+  {
+    "id": "_269078408_1",
+    "question": "Cómo puede asegurarse que los empleados sólo accedan a las aplicaciones de la empresa desde los equipos autorizados",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9feda28c5fef491ca62c73d9d752a9ed",
+        "text": "Aplicando políticas a cada equipo"
+      },
+      {
+        "id": "aa5d760daef34d209180199dd72aad6b",
+        "text": "Con autenticación multifactor"
+      },
+      {
+        "id": "c4e60bed25ba418f971734814bdacd8b",
+        "text": "Mediante acceso condicional"
+      },
+      {
+        "id": "79e7ce2fc47d44f7b7ceccac32ead542",
+        "text": "Con Azure Firewall"
+      },
+      {
+        "id": "6981255a08f94e90acb85579d8e35614",
+        "text": "Con Single Sign-On"
+      }
+    ],
+    "selected": "Mediante acceso condicional"
+  },
+  {
+    "id": "_269078409_1",
+    "question": "¿Cuál es la mejor forma para una empresa de limitar todo el tráfico saliente de máquinas virtuales a hosts conocidos?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e64107b42d6f44d1be939a03817a3acb",
+        "text": "No publicar los servicios hacia internet"
+      },
+      {
+        "id": "17409f91b3b14b76876939e262ad3f14",
+        "text": "Colocar en la configuración de cada servidor virtual restricciones locales"
+      },
+      {
+        "id": "9ee46a28cd2d40d98c54b69dc91b7ae1",
+        "text": "Asegurarse que todas las aplicaciones en ejecución usen puestos y hosts de confianza"
+      },
+      {
+        "id": "73cdb915e58143a9b5918035b1e81668",
+        "text": "Configurar Azure DDoS Protection para limitar el acceso"
+      },
+      {
+        "id": "35157e282ef140f6b38eba60b80f8a4b",
+        "text": "Crear reglas de aplicación en Azure Firewall"
+      }
+    ],
+    "selected": "Crear reglas de aplicación en Azure Firewall"
+  },
+  {
+    "id": "_269078410_1",
+    "question": "La facturación en Azure es",
+    "correct": true,
+    "answers": [
+      {
+        "id": "de13de0a210e4fd99e0eae1fe3eb164f",
+        "text": "Diaria para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "25f528d42ef14b15a6d31f02a0938c58",
+        "text": "Anual para cada suscripción de Azure basada en el uso"
+      },
+      {
+        "id": "a4bf858b3b9040e4ba8aa43771486afc",
+        "text": "Mensual para cada cuenta de Azure basada en el uso"
+      },
+      {
+        "id": "85d2b1218086402a8639444c326e3188",
+        "text": "Anual para cada cuenta de Azure basada en el uso"
+      },
+      {
+        "id": "2358ee3de8dd4b91b60924adc6dc23f7",
+        "text": "Mensual para cada suscripción de Azure basada en el uso"
+      }
+    ],
+    "selected": "Mensual para cada suscripción de Azure basada en el uso"
+  }
+]

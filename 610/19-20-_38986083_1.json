@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_267741491_1",
+    "question": "¿Qué servicio de Azure puede utilizar como solución de gestión de eventos e información de seguridad (SIEM)?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b5e429c09fa34603a2c413e74ce2ceda",
+        "text": "Azure sentinel"
+      },
+      {
+        "id": "359c171eb9a94764b06ff3a45a35d655",
+        "text": "Azure análisis services"
+      },
+      {
+        "id": "8c7deb672a1445088a23a3c70b3b04da",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "7c5e233540ee4619a232a16cdb78ac4c",
+        "text": "-Azure information protection"
+      },
+      {
+        "id": "05f4284b34664bfda608fab00b67f039",
+        "text": "Azure cognitive services"
+      }
+    ],
+    "selected": "Azure sentinel"
+  },
+  {
+    "id": "_267741492_1",
+    "question": "¿Cuál de los siguientes no es una herramienta de gestión nativa de Microsoft para Azure?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "559ec2db61ce4e03a6ab74b8d5b22335",
+        "text": "Azure management portal"
+      },
+      {
+        "id": "7768eb4e769441b1a68d8154ad3af792",
+        "text": "Azure PowerShell"
+      },
+      {
+        "id": "23949edbf14a4004b9a3c7397f34566f",
+        "text": "Azure cmd"
+      },
+      {
+        "id": "c092781907964ace96b8697745e95235",
+        "text": "System Center App Controller"
+      },
+      {
+        "id": "38d0c60a38b8475b89dc460586b55ade",
+        "text": "Cerebrata"
+      }
+    ],
+    "selected": "Cerebrata"
+  },
+  {
+    "id": "_267741493_1",
+    "question": "¿Cuál es la forma más sencilla de que su empresa combine los datos de seguridad de todas sus herramientas de supervisión en un único informe sobre el que pueda tomar medidas?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "c5f47a2ad03546c89bfb14b027430ced",
+        "text": "Mediante Azure Sentinel"
+      },
+      {
+        "id": "4ace8e20df6a47dbb27b925546ecae36",
+        "text": "Utilizar una herramienta personalizada propia"
+      },
+      {
+        "id": "2befbb0ec6fc4089b41346ff4a9f2bf7",
+        "text": "Utilizar un syslog server en la nube"
+      },
+      {
+        "id": "4aa13d11dfd34be284379c8bac511d96",
+        "text": "Usar un SIEM on premisse"
+      },
+      {
+        "id": "5de50a7a27554e8799e6a6fb1b7e9e70",
+        "text": "Revisar cada Registro de seguridad diariamente"
+      }
+    ],
+    "selected": "Mediante Azure Sentinel"
+  },
+  {
+    "id": "_267741494_1",
+    "question": "¿Qué herramienta podemos considerar estándar para acceder a múltiples servicios Cloud?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "0b4344f606c745a38abc1065e2aff55a",
+        "text": "Un navegador"
+      },
+      {
+        "id": "d59fd0f23b7b47afae81d0328f075723",
+        "text": "Una dirección IP"
+      },
+      {
+        "id": "4a4558371264484f9b8e126013a91f9d",
+        "text": "A través de un API podemos acceder a todas"
+      },
+      {
+        "id": "82cfe86ff490489da6c477a9531ff71a",
+        "text": "A través de las propias aplicaciones que puedan desarrollar los clientes"
+      },
+      {
+        "id": "13a80efe40c2483aac973fe4c2f4eeba",
+        "text": "Un compilador"
+      }
+    ],
+    "selected": "Un navegador"
+  },
+  {
+    "id": "_267741495_1",
+    "question": "Su empresa planea implementar varios servidores web y varios servidores de bases de datos en Azure. Recomiende una solución para limitar los tipos de conexiones desde los servidores web a los servidores de bases de datos",
+    "correct": null,
+    "answers": [
+      {
+        "id": "bcdafe3a8e1d4dc5957a9758fcd056b8",
+        "text": "Grupo de seguridad de red (NSG)"
+      },
+      {
+        "id": "f6edd9bc9d424f849764272fce5cdd17",
+        "text": "Un Gateway"
+      },
+      {
+        "id": "d09e1261e5ab4f8a802d65e7b481d14c",
+        "text": "Azure service bus"
+      },
+      {
+        "id": "6d38a73e894b41649e92c09adcc6d1c0",
+        "text": "Un filtro de ruta"
+      },
+      {
+        "id": "a8a661dd9cdf448e9c11d6ecc5c6f65b",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Grupo de seguridad de red (NSG)"
+  },
+  {
+    "id": "_267741496_1",
+    "question": "Cómo puede asegurarse que los empleados sólo accedan a las aplicaciones de la empresa desde los equipos autorizados",
+    "correct": null,
+    "answers": [
+      {
+        "id": "aa5d760daef34d209180199dd72aad6b",
+        "text": "Con autenticación multifactor"
+      },
+      {
+        "id": "79e7ce2fc47d44f7b7ceccac32ead542",
+        "text": "Con Azure Firewall"
+      },
+      {
+        "id": "6981255a08f94e90acb85579d8e35614",
+        "text": "Con Single Sign-On"
+      },
+      {
+        "id": "9feda28c5fef491ca62c73d9d752a9ed",
+        "text": "Aplicando políticas a cada equipo"
+      },
+      {
+        "id": "c4e60bed25ba418f971734814bdacd8b",
+        "text": "Mediante acceso condicional"
+      }
+    ],
+    "selected": "Mediante acceso condicional"
+  },
+  {
+    "id": "_267741497_1",
+    "question": "Dónde se puede revisar la información sobre cómo la nube de Microsoft ayuda a proteger los datos confidenciales y a cumplir con las leyes y regulaciones vigentes",
+    "correct": true,
+    "answers": [
+      {
+        "id": "90cc081e031b4e9499cee9549056f33e",
+        "text": "Centro de confianza"
+      },
+      {
+        "id": "1d49060a9701441799be2952f3cc6b5e",
+        "text": "En el portal de Azure"
+      },
+      {
+        "id": "44fb2f1c3894462b9b645e728eec9fb0",
+        "text": "Términos y condiciones por producto"
+      },
+      {
+        "id": "b60e74c8728b4c59973f59d70eb92fc4",
+        "text": "Declaración de privacidad de Microsoft"
+      },
+      {
+        "id": "b5e5cae223164174bd9d19b7c469a4f5",
+        "text": "Terminos de Online Services"
+      }
+    ],
+    "selected": "Centro de confianza"
+  },
+  {
+    "id": "_267741498_1",
+    "question": "Cuando hablamos de PaaS...",
+    "correct": null,
+    "answers": [
+      {
+        "id": "b3a261edf59e4177a8031ca162ef69b5",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del software."
+      },
+      {
+        "id": "06b0743613fd4a99a52b9260849e7f62",
+        "text": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+      },
+      {
+        "id": "f0f09501a8434538b87626e96626e07e",
+        "text": "Nos estamos refiriendo a servicios Cloud que integran las aplicaciones con la capa de infraestructura"
+      },
+      {
+        "id": "b63727627b894c508db03d146c59962d",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del hardware"
+      },
+      {
+        "id": "3ad773bbe0624be7bf286e5d73d96de8",
+        "text": "Nos estamos refiriendo a servicios Cloud híbridos"
+      }
+    ],
+    "selected": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+  },
+  {
+    "id": "_267741499_1",
+    "question": "¿Cuál de las afirmaciones sobre informática en la nube no es correcta?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "97c040ce26a440f79f8f77873e4f7234",
+        "text": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+      },
+      {
+        "id": "2c74a9bdf92d4826a3dfa57a4c5cd658",
+        "text": "IaaS, PaaS y SaaS son ejemplos de modelos de servicios de informática en la nube"
+      },
+      {
+        "id": "7fb88d6adca64516b9fb6df52e387e28",
+        "text": "Tres modelos de implementación para informática en la nube son la nube pública, la nube privada y la nube hibrida"
+      },
+      {
+        "id": "3d81e52626cc434e94a0ea64840e8ee0",
+        "text": "La informática en la nube normalmente reduce los gastos operativos"
+      },
+      {
+        "id": "315ebd5ed08c4731ac4351de8fb20242",
+        "text": "Azure y Amazon Web Services son modelos de nube pública"
+      }
+    ],
+    "selected": "Normalmente los recursos de informática en la nube se limitan a regiones geográficas específicas"
+  },
+  {
+    "id": "_267741500_1",
+    "question": "¿Cloud se contrata siempre de forma online?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "73b9d39f62654f5d9dd3c2b59645473a",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "b4012ababccd46b38d70d6bba783930f",
+        "text": "No, es la única manera"
+      },
+      {
+        "id": "45420b193f95424fb29f74118dbd21bd",
+        "text": "Sí, es la única y mejor manera."
+      },
+      {
+        "id": "dc59c691b6224a4886d94b00eb0360fa",
+        "text": "El Servidor usa servicios Cloud y/o apoyarse en un partner especializado"
+      },
+      {
+        "id": "59279d52e9cf4feb8b5a8ec5cd9fc061",
+        "text": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+      }
+    ],
+    "selected": "El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado."
+  },
+  {
+    "id": "_267741501_1",
+    "question": "Que son los grupos de recursos",
+    "correct": null,
+    "answers": [
+      {
+        "id": "6362f86763894a9e9ee9e1cd9641abfe",
+        "text": "Un tipo de suscripción de Azure"
+      },
+      {
+        "id": "eb56d4c34744439e9bfa06c9c04f3cd4",
+        "text": "Un contenedor lógico de recursos desplegados en Azure"
+      },
+      {
+        "id": "5cf81ee1b40d48228e2115a44100fc6c",
+        "text": "Recursos desplegados en la misma región"
+      },
+      {
+        "id": "be59e903a3dd45919edad7cf6562d020",
+        "text": "Un conjunto de suscripciones de Azure"
+      },
+      {
+        "id": "8ac6b0f76190481c817653ba98471f57",
+        "text": "Recursos desplegados en un mismo centro de datos"
+      }
+    ],
+    "selected": "Un contenedor lógico de recursos desplegados en Azure"
+  },
+  {
+    "id": "_267741502_1",
+    "question": "Su empresa aloja una aplicación de contabilidad llamada App1 que utilizan todos los clientes de la empresa. App1 tiene un uso bajo durante las primeras tres semanas de cada mes y un uso muy alto durante la última semana de cada mes. ¿Qué beneficio de Azure Cloud Services admite la administración de costos para este tipo de patrón de uso?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9e0268a42d4049a4a1568289636a22a1",
+        "text": "elasticidad"
+      },
+      {
+        "id": "b82a3464e3ff408a8096652a1673f297",
+        "text": "equilibrio de carga"
+      },
+      {
+        "id": "35a9d03f15eb45329d556a3986e94db3",
+        "text": "Alta disponibilidad"
+      },
+      {
+        "id": "ef1e5fb73b4f435bb008d876c6afe3c5",
+        "text": "latencia alta"
+      },
+      {
+        "id": "b0d6f279bf4e4ca3a53d0251a4e578d6",
+        "text": "alta disponibilidad"
+      }
+    ],
+    "selected": "elasticidad"
+  },
+  {
+    "id": "_267741503_1",
+    "question": "Tiene una red local que contiene varios servidores. Tiene previsto migrar todos los servidores a Azure. Debe recomendar una solución para asegurarse de que algunos de los servidores estén disponibles si un solo centro de datos de Azure se desconecta durante un período prolongado. ¿Qué debería incluir en la recomendación?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "99cd7bfc60224073b00a3940df3d340c",
+        "text": "elasticidad"
+      },
+      {
+        "id": "c610d51e2fe047eb9f3d0423f30147ab",
+        "text": "tolerancia a fallas"
+      },
+      {
+        "id": "f80ea93b23a64a27b624f1d399e28ab0",
+        "text": "escalabilidad"
+      },
+      {
+        "id": "2095bc49a0a54c1aa2a983dc65864d42",
+        "text": "HA"
+      },
+      {
+        "id": "852f37fb876148bfb953dfe664902334",
+        "text": "baja latencia"
+      }
+    ],
+    "selected": "tolerancia a fallas"
+  },
+  {
+    "id": "_267741504_1",
+    "question": "Una definición de iniciativa de Azure Policy es",
+    "correct": null,
+    "answers": [
+      {
+        "id": "a297c5e9f0034b90b02264be21f94530",
+        "text": "Un grupo de roles de control de acceso(RBAC)"
+      },
+      {
+        "id": "a8bf3b0fad5645d9afb6166f0bbaa13c",
+        "text": "Un grupo de definiciones de azure blueprints"
+      },
+      {
+        "id": "b3a6b78c6018441fa3a6d43c1d70394c",
+        "text": "Una colección de asignaciones de azure policy"
+      },
+      {
+        "id": "6264275b74114e04ac852c22ca0291ad",
+        "text": "Una zona de disponibilidad"
+      },
+      {
+        "id": "db954640982c480981a646fe8d2b7277",
+        "text": "Una colección de definición de políticas"
+      }
+    ],
+    "selected": "Una colección de definición de políticas"
+  },
+  {
+    "id": "_267741505_1",
+    "question": "Puede ver el informe de cumplimiento normativo de su empresa desde",
+    "correct": null,
+    "answers": [
+      {
+        "id": "4080d01a37c24fb7953c4aeab8752293",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "30a81d8dfb3642d5805533b55cf2ab32",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "ea538fc1e32e4243bb8cc80c1fafc04b",
+        "text": "Azure security center"
+      },
+      {
+        "id": "774453127d8c410d820d4be924cd4d36",
+        "text": "Azure storage explorer"
+      },
+      {
+        "id": "40d971b2d75341448e1a1a98e2a0d36b",
+        "text": "Azure portal"
+      }
+    ],
+    "selected": "Azure security center"
+  },
+  {
+    "id": "_267741506_1",
+    "question": "Selecciona el comentario incorrecto.",
+    "correct": null,
+    "answers": [
+      {
+        "id": "d6d245da600d40d18803cbdc0aaaf79c",
+        "text": "El modelo Cloud propone que el consumidor acepta un modelo de relación y unas condiciones de uso, que marcan sus responsabilidades"
+      },
+      {
+        "id": "da587b1452874af7b41b984753ba26ea",
+        "text": "El modelo Cloud no propone que el prestador es responsable de construir, ejecutar y entregar el servicio"
+      },
+      {
+        "id": "4602065b67c140d489242bd714711a60",
+        "text": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+      },
+      {
+        "id": "1d4f07b429fc404d99b91d98dba38334",
+        "text": "El modelo Cloud es responsable de construir, ejecutar y entregar el servicio."
+      },
+      {
+        "id": "a9a38da228884b2497ffe163d634262b",
+        "text": "El modelo Cloud propone que el prestador es responsable de construir, ejecutar y entregar el servicio."
+      }
+    ],
+    "selected": "El modelo Cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades."
+  },
+  {
+    "id": "_267741507_1",
+    "question": "Es una función de Azure Storage",
+    "correct": null,
+    "answers": [
+      {
+        "id": "54e48e355be74959ac22e0ed7468c467",
+        "text": "Envía cualquier sistema operativo o actualizaciones de software desarrolladas por el cliente aprobadas al dispositivo"
+      },
+      {
+        "id": "0ecf6141c4ac45f78842a33f5a7c3f4a",
+        "text": "Maneja la comunicación con el servicio de seguridad y puede ejecutar el software del proveedor."
+      },
+      {
+        "id": "db94d58fc66041e6ab4dc29e6d1b8294",
+        "text": "Solución de almacenamiento en la nube de Microsoft."
+      },
+      {
+        "id": "ca1cfeefc9a74f7fa317d4e5832b3e5b",
+        "text": "Procesar el sistema operativo y las señales de los sensores adjuntos. La siguiente imagen muestra la MCU del kit de desarrollo Seeed Azure Sphere MT3620, uno de varios kits de inicio"
+      },
+      {
+        "id": "b5ed42fe523042539475e6ba954638e8",
+        "text": "Asegurarse de que el dispositivo no haya sido comprometido maliciosamente"
+      }
+    ],
+    "selected": "Solución de almacenamiento en la nube de Microsoft."
+  },
+  {
+    "id": "_267741508_1",
+    "question": "IoT permite que los dispositivos recopilen y luego transmitan información para el análisis de datos y estos son:",
+    "correct": null,
+    "answers": [
+      {
+        "id": "6105333b3ea8430b8ea47bc2714acba0",
+        "text": "Actuadores."
+      },
+      {
+        "id": "cb7857c9cf714dcbaba97e3a8476ba40",
+        "text": "Pantalla tactil."
+      },
+      {
+        "id": "41f7fcba46304380ae1f80eae2056875",
+        "text": "Bases de datos"
+      },
+      {
+        "id": "238ec3ddaf9c40ce9dcd02bb4fc0f5bd",
+        "text": "Sensores"
+      },
+      {
+        "id": "d4ec833e1d0b42028e61299d15161c4a",
+        "text": "Infrarrojos."
+      }
+    ],
+    "selected": "Sensores"
+  },
+  {
+    "id": "_267741509_1",
+    "question": "¿Qué tarea no se aborda cuando se implementa un servicio Cloud?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "9e17bf7468fc4aafb01f78c796528095",
+        "text": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+      },
+      {
+        "id": "500ad0859a254a89a98ccd7d1f7c6232",
+        "text": "Monitorización de la calidad del servicio."
+      },
+      {
+        "id": "4ebd9c7424bd4a42957f9e2874cbdf5e",
+        "text": "Monitorización del consumo del servicio"
+      },
+      {
+        "id": "f2e44c8559594b9aa1409eda80fb77f3",
+        "text": "Monitorización de la calidad del software."
+      },
+      {
+        "id": "5d5f320e9a874bec9916c418d3aa6784",
+        "text": "Monitorización de la calidad del hardware"
+      }
+    ],
+    "selected": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+  },
+  {
+    "id": "_267741510_1",
+    "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
+    "correct": null,
+    "answers": [
+      {
+        "id": "eee4b5448a144516b0ef7fa9488ff0cf",
+        "text": "una máquina virtual de Azure"
+      },
+      {
+        "id": "86507af6d2664eb084229a4aed478c6a",
+        "text": "una aplicación lógica de Azure"
+      },
+      {
+        "id": "4151dc550b64405e88a31ad3add7a890",
+        "text": "una aplicación web de Azure"
+      },
+      {
+        "id": "a4ad77c54a82436c89082fe301aa7aad",
+        "text": "una base de datos SQL de Azure"
+      },
+      {
+        "id": "1e746ee632e14c9a8e196bfb20961305",
+        "text": "Una power Shell de actibve directory"
+      }
+    ],
+    "selected": "una aplicación web de Azure"
+  }
+]

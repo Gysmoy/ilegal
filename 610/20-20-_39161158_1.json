@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_269093640_1",
+    "question": "Un cloudbroker nos puede ayudar a ...",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e15013969f7e4a5b861c55d4c9f5dd1d",
+        "text": "Ahorrar contenedores de despliegue."
+      },
+      {
+        "id": "500b9ffff6934c458c092f4c535805e1",
+        "text": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+      },
+      {
+        "id": "58c10e9c4f5e4d4da7117b02cff5e339",
+        "text": "Ahorrar tiempos de despliegue local."
+      },
+      {
+        "id": "8a8112517849480fbc295c1c5e54cd22",
+        "text": "Principalmente obtener mejores precios"
+      },
+      {
+        "id": "30980689a7c5422f93425a929c3588db",
+        "text": "Ahorrar tiempos de despliegue"
+      }
+    ],
+    "selected": "Facilitar el acceso a múltiples proveedores de servicios y tipos de Cloud"
+  },
+  {
+    "id": "_269093641_1",
+    "question": "¿Qué tarea no se aborda cuando se implementa un servicio Cloud?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f2e44c8559594b9aa1409eda80fb77f3",
+        "text": "Monitorización de la calidad del software."
+      },
+      {
+        "id": "4ebd9c7424bd4a42957f9e2874cbdf5e",
+        "text": "Monitorización del consumo del servicio"
+      },
+      {
+        "id": "5d5f320e9a874bec9916c418d3aa6784",
+        "text": "Monitorización de la calidad del hardware"
+      },
+      {
+        "id": "500ad0859a254a89a98ccd7d1f7c6232",
+        "text": "Monitorización de la calidad del servicio."
+      },
+      {
+        "id": "9e17bf7468fc4aafb01f78c796528095",
+        "text": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+      }
+    ],
+    "selected": "Gestión de las operaciones de plataformas ligadas o no al servicio"
+  },
+  {
+    "id": "_269093642_1",
+    "question": "¿Cuál es el primer paso que se debe de llevar a cabo para compartir un archivo de imagen en Azure Storage?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a03a06479860429689b0c4d51c9610a2",
+        "text": "Crear un contenedor de Azure Storage para almacenar la imagen"
+      },
+      {
+        "id": "c66eff50429e4f868a9bbfbed693e19b",
+        "text": "Instalar un file server virtual"
+      },
+      {
+        "id": "f4cfac31dc554bc9a92b23389d2287e9",
+        "text": "Crear una cuenta de Azure Storage"
+      },
+      {
+        "id": "77ecb7c286b04ca395bf45f48a37acde",
+        "text": "Cargar el archivo imagen y crear un contenedor"
+      },
+      {
+        "id": "42e18e26b2104c2197ffd5dfd327b8b6",
+        "text": "Usar un token de forma de acceso compartido SAS"
+      }
+    ],
+    "selected": "Crear una cuenta de Azure Storage"
+  },
+  {
+    "id": "_269093643_1",
+    "question": "¿Qué implica Deshabilitar una máquina virtual en la nube?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "0ed714f09e3f488f9449f67099d088ca",
+        "text": "Es lo mismo que eliminar la máquina virtual"
+      },
+      {
+        "id": "c16a7705a09f488dab950d0bda89ee70",
+        "text": "Se Deshabilita el CPU, la red y los discos"
+      },
+      {
+        "id": "da3f2ccbea17487ab70a53d1f66413b9",
+        "text": "La máquina virtual sigue funcionando solo que es inaccesible"
+      },
+      {
+        "id": "9b4fcb8d101f431496fb16468531fd07",
+        "text": "Solo se deshabilita el CPU"
+      },
+      {
+        "id": "9626526f706e4f4e96a12d1977d8d61b",
+        "text": "Deshabilita el CPU y la red, pero los discos son persistentes"
+      }
+    ],
+    "selected": "Deshabilita el CPU y la red, pero los discos son persistentes"
+  },
+  {
+    "id": "_269093644_1",
+    "question": "Qué recurso de Azure Compute se puede implementar para administrar un conjunto de máquinas virtuales idénticas",
+    "correct": true,
+    "answers": [
+      {
+        "id": "8e1a3f909ef94967884d344d5a693e5b",
+        "text": "Zonas de disponibilidad de la máquina virtual"
+      },
+      {
+        "id": "438443d4dd694f2d88c3ab3b2f041e28",
+        "text": "Azure App Service"
+      },
+      {
+        "id": "5caa0f5437eb4b79895f57b510de411e",
+        "text": "Conjuntos de escalado de máquinas virtuales"
+      },
+      {
+        "id": "5094e2b3dcbf40d582c696e25e376203",
+        "text": "Conjuntos de disponibilidad de máquinas virtuales"
+      },
+      {
+        "id": "b407a790028d43f59dc9bc00492fece5",
+        "text": "Servidores virtualizados bajo IaaS"
+      }
+    ],
+    "selected": "Conjuntos de escalado de máquinas virtuales"
+  },
+  {
+    "id": "_269093645_1",
+    "question": "Tiene una aplicación web de Azure. Debe administrar la configuración de la aplicación web desde un iPhone. Que herramienta de administración de Azure se puede usar",
+    "correct": true,
+    "answers": [
+      {
+        "id": "66a0092cfbe64cf186e56128e33c9f4a",
+        "text": "Azure storage explorer"
+      },
+      {
+        "id": "19daac2e6c7049f4b35ef6354b362703",
+        "text": "Azure portal"
+      },
+      {
+        "id": "72933da7b6fc4de4b627146a4601e3ab",
+        "text": "Windows power Shell"
+      },
+      {
+        "id": "a7107fe45aee462aafb7def958311bb0",
+        "text": "Azure cli"
+      },
+      {
+        "id": "e3ab57172f034068b65e3ca573b48a53",
+        "text": "Azure advisor"
+      }
+    ],
+    "selected": "Azure portal"
+  },
+  {
+    "id": "_269093646_1",
+    "question": "¿Qué puede usar para enviar automáticamente una alerta si un administrador detiene una máquina virtual de Azure",
+    "correct": true,
+    "answers": [
+      {
+        "id": "cb0f98ca37664e0d878eff40df6bb362",
+        "text": "Azure VPN"
+      },
+      {
+        "id": "b52c1a201e2541618e82fd29689c568c",
+        "text": "Azure monitor"
+      },
+      {
+        "id": "09f4333a64844ba9bc79a8fc75b58d20",
+        "text": "Azure network watcher"
+      },
+      {
+        "id": "ef618c6981f843d69e8ab9718b8c28a9",
+        "text": "Azure advisor"
+      },
+      {
+        "id": "c701b2871f764a1fb70d53f6a5521598",
+        "text": "Azure service health"
+      }
+    ],
+    "selected": "Azure monitor"
+  },
+  {
+    "id": "_269093647_1",
+    "question": "¿Para qué se usa el patrón de limitación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9563ae9093e74645b98df67c6e201e11",
+        "text": "Para mantener la calidad del servicio bajo situaciones de carga"
+      },
+      {
+        "id": "fa8be330b134424584b28690be066844",
+        "text": "Fijar un límite mínimo y máximo de uso"
+      },
+      {
+        "id": "d0efeedac96441efa7da64f5a5498422",
+        "text": "Limitar su uso"
+      },
+      {
+        "id": "11d8ba1989584423b2ff54836a5b79a9",
+        "text": "Evitar saturaciones de rec"
+      },
+      {
+        "id": "5376216b9c044b71b95c0106409a006a",
+        "text": "Cargarlo siempre"
+      }
+    ],
+    "selected": "Para mantener la calidad del servicio bajo situaciones de carga"
+  },
+  {
+    "id": "_269093648_1",
+    "question": "¿Qué puede cifrar Azure Information Protection?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "98084942cf3e49a9a2446f37b0dd8b9d",
+        "text": "Trafico de red"
+      },
+      {
+        "id": "e69aa464bec84a0e9fff4532ace39e00",
+        "text": "Una cuenta de azure storage"
+      },
+      {
+        "id": "3ad5bf5d255043e0994a867c6a79f4e6",
+        "text": "Una VPN"
+      },
+      {
+        "id": "d25fb815c9f64a70a334a42003d015c6",
+        "text": "Una base de datos de SQL azure"
+      },
+      {
+        "id": "77f48c4b32434bdd98affb942800c97b",
+        "text": "Documentos y mensajes de correo electrónico"
+      }
+    ],
+    "selected": "Documentos y mensajes de correo electrónico"
+  },
+  {
+    "id": "_269093649_1",
+    "question": "Cuál es la mejor manera que una empresa almacene los certificados en forma segura y sean accesibles para sus máquinas virtuales en la nube?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f35c4e41cb4946bbbe21d167a37b8580",
+        "text": "Compilar una herramienta personalizada y colocarla en una máquina virtual en la nube"
+      },
+      {
+        "id": "0a719343c1e547e1a592a16356055a1d",
+        "text": "Almacenar los certificados en Azure Key Vault"
+      },
+      {
+        "id": "d2c5f1ede5a149b084d53eaea2b0f3eb",
+        "text": "Utilizar Azure Active Directory"
+      },
+      {
+        "id": "0ad8a2cbd30943b1a636041691488b33",
+        "text": "Colocar los certificados en un recurso compartido en la red"
+      },
+      {
+        "id": "248855d4f7904cbf8eb772e502c63642",
+        "text": "Utilizar el portal de Azure"
+      }
+    ],
+    "selected": "Almacenar los certificados en Azure Key Vault"
+  },
+  {
+    "id": "_269093650_1",
+    "question": "¿Qué se garantiza en un contrato de nivel de servicio (SLA) de Azure para máquinas virtuales?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "0518c75e57534298b6777ea055ee84f1",
+        "text": "Tiempo de actividad"
+      },
+      {
+        "id": "deaa03772ec94038b0c43b5329dab08b",
+        "text": "Elasticidad"
+      },
+      {
+        "id": "de8f86bcc26e43e79a2469eb8ba63304",
+        "text": "Disponibilidad de funciones"
+      },
+      {
+        "id": "e3f0427469d04c71925a7a7e60f98959",
+        "text": "Ancho de banda"
+      },
+      {
+        "id": "f4d384bbf5a34ae297a162c6d93683e6",
+        "text": "Desempeño"
+      }
+    ],
+    "selected": "Tiempo de actividad"
+  },
+  {
+    "id": "_269093651_1",
+    "question": "Un atacante puede dejar fuera de servicio un sitio web enviando un gran volumen de tráfico de red a los servidores. ¿Qué servicio de Azure puede ayudar a protegerlo?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "37e97c6275694d61ac7543b426e3c4eb",
+        "text": "Azure Service Healt"
+      },
+      {
+        "id": "086a985b347842828721b34a7089a04b",
+        "text": "Azure Monitor"
+      },
+      {
+        "id": "d0f9a9ff2a074523865d9c1ead427df4",
+        "text": "Azure DDoS Protection"
+      },
+      {
+        "id": "6835e4d9fdab473eb1c115d41b68e686",
+        "text": "Grupos de seguridad de red"
+      },
+      {
+        "id": "b4d9d1b5242e4c5a839ee06b068359e9",
+        "text": "Azure Firewall"
+      }
+    ],
+    "selected": "Azure DDoS Protection"
+  },
+  {
+    "id": "_269093652_1",
+    "question": "Selecciona la respuesta incorrecta entre las siguientes claves de la seguridad en entornos Cloud",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f1f38851f814409ab65d03ca80a1c497",
+        "text": "Administración solo con servicios"
+      },
+      {
+        "id": "e30f871d37494273a58bf2b11212360f",
+        "text": "Seguridad proporcionada por el proveedor"
+      },
+      {
+        "id": "57bc18d2afa34b90b794ca8b8758836a",
+        "text": "Nuevas formas de trabajar que implican mejor seguridad para el usuario."
+      },
+      {
+        "id": "505d4819da4c47439e7304d39cd03d6a",
+        "text": "El usuario puede despreocuparse de la seguridad"
+      },
+      {
+        "id": "5b4f8beb485d48b3ac527f94c5ba60e9",
+        "text": "Administración centralizada e incluso delegada"
+      }
+    ],
+    "selected": "El usuario puede despreocuparse de la seguridad"
+  },
+  {
+    "id": "_269093653_1",
+    "question": "Cómo puede asegurarse que los empleados sólo accedan a las aplicaciones de la empresa desde los equipos autorizados",
+    "correct": true,
+    "answers": [
+      {
+        "id": "79e7ce2fc47d44f7b7ceccac32ead542",
+        "text": "Con Azure Firewall"
+      },
+      {
+        "id": "6981255a08f94e90acb85579d8e35614",
+        "text": "Con Single Sign-On"
+      },
+      {
+        "id": "aa5d760daef34d209180199dd72aad6b",
+        "text": "Con autenticación multifactor"
+      },
+      {
+        "id": "9feda28c5fef491ca62c73d9d752a9ed",
+        "text": "Aplicando políticas a cada equipo"
+      },
+      {
+        "id": "c4e60bed25ba418f971734814bdacd8b",
+        "text": "Mediante acceso condicional"
+      }
+    ],
+    "selected": "Mediante acceso condicional"
+  },
+  {
+    "id": "_269093654_1",
+    "question": "Cuando hablamos de PaaS...",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b63727627b894c508db03d146c59962d",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del hardware"
+      },
+      {
+        "id": "f0f09501a8434538b87626e96626e07e",
+        "text": "Nos estamos refiriendo a servicios Cloud que integran las aplicaciones con la capa de infraestructura"
+      },
+      {
+        "id": "b3a261edf59e4177a8031ca162ef69b5",
+        "text": "Nos estamos refiriendo a servicios Cloud con foco en la virtualización del software."
+      },
+      {
+        "id": "3ad773bbe0624be7bf286e5d73d96de8",
+        "text": "Nos estamos refiriendo a servicios Cloud híbridos"
+      },
+      {
+        "id": "06b0743613fd4a99a52b9260849e7f62",
+        "text": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+      }
+    ],
+    "selected": "Nos estamos refiriendo a servicios Cloud que abstraen las aplicaciones de la capa de infraestructura."
+  },
+  {
+    "id": "_269093655_1",
+    "question": "¿Cuál es una característica de la nube pública?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a89108eb3d824ab38d02be4b549eb7dd",
+        "text": "almacenamiento limitado"
+      },
+      {
+        "id": "03da1c8f352847d09d19df663de3c0e4",
+        "text": "precios medidos"
+      },
+      {
+        "id": "9a6c4eafde0f4e7f955c192605e6a668",
+        "text": "Software"
+      },
+      {
+        "id": "71a2c239210f44fe945b3d3dcf08c64c",
+        "text": "hardware dedicado"
+      },
+      {
+        "id": "7247812955d74b4d9d367f3b2fa9fa81",
+        "text": "conexiones no seguras"
+      }
+    ],
+    "selected": "precios medidos"
+  },
+  {
+    "id": "_269093656_1",
+    "question": "¿Cuál de las siguientes opciones es una unidad lógica de servicios de Azure vinculada a una cuenta de Azure?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5cd8374bb6f54c29af4a11bd41c84ee5",
+        "text": "Suscripción de Azure"
+      },
+      {
+        "id": "cf86fcf356514e2ba93e66ae818ca9fd",
+        "text": "Recursos"
+      },
+      {
+        "id": "08c65c1062d64c199f033e98a3038fbb",
+        "text": "Grupo de administración"
+      },
+      {
+        "id": "7292f4489ce142849704acaa5a22d9a4",
+        "text": "Azure AD"
+      },
+      {
+        "id": "2ecbdf0ebd5a461492759f5ea1510a07",
+        "text": "Resource group"
+      }
+    ],
+    "selected": "Suscripción de Azure"
+  },
+  {
+    "id": "_269093657_1",
+    "question": "Su empresa aloja una aplicación de contabilidad llamada App1 que utilizan todos los clientes de la empresa. App1 tiene un uso bajo durante las primeras tres semanas de cada mes y un uso muy alto durante la última semana de cada mes. ¿Qué beneficio de Azure Cloud Services admite la administración de costos para este tipo de patrón de uso?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "35a9d03f15eb45329d556a3986e94db3",
+        "text": "Alta disponibilidad"
+      },
+      {
+        "id": "ef1e5fb73b4f435bb008d876c6afe3c5",
+        "text": "latencia alta"
+      },
+      {
+        "id": "9e0268a42d4049a4a1568289636a22a1",
+        "text": "elasticidad"
+      },
+      {
+        "id": "b0d6f279bf4e4ca3a53d0251a4e578d6",
+        "text": "alta disponibilidad"
+      },
+      {
+        "id": "b82a3464e3ff408a8096652a1673f297",
+        "text": "equilibrio de carga"
+      }
+    ],
+    "selected": "elasticidad"
+  },
+  {
+    "id": "_269093658_1",
+    "question": "¿Cuál de las siguientes situaciones produciría mayores beneficios de la reubicación de un servidor de archivos local a Azure?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "857b0c9b7a86488a989feed2c5c3f4b6",
+        "text": "Demanda de almacenamiento impredecible que aumenta y disminuye varias veces al año"
+      },
+      {
+        "id": "745ab66f91214bbcb90e1694bb005511",
+        "text": "Demanda de almacenamiento constante e invariable"
+      },
+      {
+        "id": "67a9170166ad4525bba95887b0b11908",
+        "text": "Crecimiento constante a largo plazo de la demanda de almacenamiento"
+      },
+      {
+        "id": "0582ca74dc044fa4865ae7bdc480e352",
+        "text": "Uso del almacenamiento como respaldo de información"
+      },
+      {
+        "id": "ed7db5ad37ff4899934540c37d78bfd9",
+        "text": "Reducción de la demanda permanente"
+      }
+    ],
+    "selected": "Demanda de almacenamiento impredecible que aumenta y disminuye varias veces al año"
+  },
+  {
+    "id": "_269093659_1",
+    "question": "Tiene una red local que contiene 100 servidores. Debe recomendar una solución que proporcione recursos adicionales a sus usuarios. La solución debe minimizar los costos operativos y de capital. ¿Qué debería incluir en la recomendación?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c6e5977f34ab46b9b34237ddff0196f4",
+        "text": "Una nube publica"
+      },
+      {
+        "id": "c465ca2d99e649f29bc7b6e238cd1cdc",
+        "text": "una nube privada"
+      },
+      {
+        "id": "decff6d2442b49fc95014cfd59524e91",
+        "text": "una nube híbrida"
+      },
+      {
+        "id": "6534a7c934514a278b7c2a1f0cebecfc",
+        "text": "una migración completa a la nube pública"
+      },
+      {
+        "id": "118f4b389cc747ca95a9694a6b4489d5",
+        "text": "un centro de datos adicional"
+      }
+    ],
+    "selected": "una nube híbrida"
+  }
+]

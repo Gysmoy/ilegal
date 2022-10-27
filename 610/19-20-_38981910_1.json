@@ -2,7 +2,7 @@
   {
     "id": "_267711158_1",
     "question": "Puede acceder al Compliance Manager desde",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2d518a9e13e5438abe9cef32340b8f71",
@@ -30,7 +30,7 @@
   {
     "id": "_267711159_1",
     "question": "¿Cuál es el primer paso que debe de tomar el equipo para comparar el costo de ejecutar un entorno en Azure vs un centro de datos local?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1a5d75f9bb624c3981f3b34a8737b6b7",
@@ -58,7 +58,7 @@
   {
     "id": "_267711160_1",
     "question": "Un atacante puede dejar fuera de servicio un sitio web enviando un gran volumen de tráfico de red a los servidores. ¿Qué servicio de Azure puede ayudar a protegerlo?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b4d9d1b5242e4c5a839ee06b068359e9",
@@ -86,7 +86,7 @@
   {
     "id": "_267711161_1",
     "question": "Selecciona la respuesta incorrecta entre las siguientes claves de la seguridad en entornos Cloud",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5b4f8beb485d48b3ac527f94c5ba60e9",
@@ -114,7 +114,7 @@
   {
     "id": "_267711162_1",
     "question": "Cuál es la mejor manera que una empresa almacene los certificados en forma segura y sean accesibles para sus máquinas virtuales en la nube?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "248855d4f7904cbf8eb772e502c63642",
@@ -142,7 +142,7 @@
   {
     "id": "_267711163_1",
     "question": "La facturación en Azure es",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "de13de0a210e4fd99e0eae1fe3eb164f",
@@ -170,7 +170,7 @@
   {
     "id": "_267711164_1",
     "question": "¿Cuál de los siguientes no es una herramienta de gestión nativa de Microsoft para Azure?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7768eb4e769441b1a68d8154ad3af792",
@@ -198,11 +198,11 @@
   {
     "id": "_267711165_1",
     "question": "Tiene previsto migrar varios servidores de una red local a Azure. ¿Cuál es la ventaja de utilizar un servicio de nube pública para los servidores en una red local?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7339e8b7cf8e47f4b2604dee65d07f13",
-        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
+        "text": "Todos los miembros del público pueden acceder libremente a todos los recursos de la nube pública"
       },
       {
         "id": "4a368547cc454ef7a1473e3120717028",
@@ -226,7 +226,7 @@
   {
     "id": "_267711166_1",
     "question": "Indica qué frase completa no es correcta. El Cloud Computing...",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1476be6778174cff894b428b21c8162c",
@@ -254,7 +254,7 @@
   {
     "id": "_267711167_1",
     "question": "Cuando hablamos de PaaS...",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "3ad773bbe0624be7bf286e5d73d96de8",
@@ -282,7 +282,7 @@
   {
     "id": "_267711168_1",
     "question": "Su empresa aloja una aplicación de contabilidad llamada App1 que utilizan todos los clientes de la empresa. App1 tiene un uso bajo durante las primeras tres semanas de cada mes y un uso muy alto durante la última semana de cada mes. ¿Qué beneficio de Azure Cloud Services admite la administración de costos para este tipo de patrón de uso?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b0d6f279bf4e4ca3a53d0251a4e578d6",
@@ -310,7 +310,7 @@
   {
     "id": "_267711169_1",
     "question": "El costo por uso de Linux Virtual Machines (VM) es:",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7747869e3ab24572b4b5c9f6743a8a82",
@@ -333,12 +333,12 @@
         "text": "0.023GB al mes"
       }
     ],
-    "selected": "0.004$ por hora"
+    "selected": "0.008 $ la hora"
   },
   {
     "id": "_267711170_1",
     "question": "¿Cuáles son actualmente las principales 4 palancas de transformación de los negocios?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "0bdade405be54b09bc3398a4e23606bd",
@@ -366,7 +366,7 @@
   {
     "id": "_267711171_1",
     "question": "¿Cuál es el primer paso que se debe de llevar a cabo para compartir un archivo de imagen en Azure Storage?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c66eff50429e4f868a9bbfbed693e19b",
@@ -394,7 +394,7 @@
   {
     "id": "_267711172_1",
     "question": "La empresa tiene un equipo de trabajadores remotos que necesitan usar software basado en Windows para desarrollar las aplicaciones, pero los miembros del equipo usan diversos sistemas operativos, como macOS, Linux y Windows. ¿Qué servicio de Azure Compute le ayudaría a resolver este escenario?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b30499f88d514daaab1a70cdfd61bda6",
@@ -422,7 +422,7 @@
   {
     "id": "_267711173_1",
     "question": "Tiene previsto aprovisionar recursos de infraestructura como servicio (IaaS) en Azure. ¿Qué recurso es un ejemplo de IaaS?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1e746ee632e14c9a8e196bfb20961305",
@@ -450,7 +450,7 @@
   {
     "id": "_267711174_1",
     "question": "Instalar un file server virtual",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "2b97116fa2af499fb8c578b43164de61",
@@ -473,12 +473,12 @@
         "text": "Agregación de vínculos de varios chasis"
       }
     ],
-    "selected": "Protocolo de configuración dinámica"
+    "selected": "Emparejamiento de redes virtuales de Azure"
   },
   {
     "id": "_267711175_1",
     "question": "¿Qué diferencia hay entre IaaS y Virtualización?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "7df83a2e0c124028a333f263bb068488",
@@ -506,7 +506,7 @@
   {
     "id": "_267711176_1",
     "question": "Un cloudbroker nos puede ayudar a ...",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "58c10e9c4f5e4d4da7117b02cff5e339",
@@ -534,7 +534,7 @@
   {
     "id": "_267711177_1",
     "question": "¿Qué es un sistema de doble autenticación?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "b96f2566ad8747c68125728a371fb19a",
