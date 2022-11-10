@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_275878250_1",
+    "question": "Que se requiere para que se pueda comparar y evaluar los datos desde diferentes perspectivas cargados en Power View",
+    "correct": true,
+    "answers": [
+      {
+        "id": "166213f57e3e4568a2a49abb5fb1ee40",
+        "text": "Que los datos se encuentren en una base de datos"
+      },
+      {
+        "id": "3f29610fadd446c4b91d9e6dde15d40a",
+        "text": "El propio PowerView se encarga de realizar esta función"
+      },
+      {
+        "id": "8e33b5a485f94dbfaab40a16d11abadf",
+        "text": "Solo puede admitirse datos de SQLServer"
+      },
+      {
+        "id": "dfce8badc4fd480c89a1f58128b6ea74",
+        "text": "Utilizar machine learning"
+      },
+      {
+        "id": "a5c930e0ca2643a8a8f835eb93956a88",
+        "text": "Se requiere un orden previo"
+      }
+    ],
+    "selected": "El propio PowerView se encarga de realizar esta función"
+  },
+  {
+    "id": "_275878251_1",
+    "question": "¿Por qué es importante convertir datos importados en tablas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2d6e4049b28242ca8c2b87e03e06caa4",
+        "text": "Los datos importados no se pueden convertir en tablas."
+      },
+      {
+        "id": "d3be9599c6934c1ca752f67013e22b10",
+        "text": "Si los datos importados se convierten en tablas, se pueden incluir en el modelo de datos y puede dejarse disponibles para tablas dinámicas, Power Pivot y Power View."
+      },
+      {
+        "id": "87efaad621534f068baa5083f7b8453c",
+        "text": "Si los datos importados se convierten en tablas, se eliminan del modelo de datos. Solo están disponibles en tablas dinámicas, Power Pivot y Power View cuando están excluidos del modelo de datos"
+      },
+      {
+        "id": "2c0da4a382ff45bf8f2db2f7877aea2c",
+        "text": "No se pueden importar datos."
+      },
+      {
+        "id": "16fff7189bcc4fa8bc5d487070ec94af",
+        "text": "No es necesario, ya que todos los datos importados se convierten en tablas de forma automática"
+      }
+    ],
+    "selected": "Si los datos importados se convierten en tablas, se pueden incluir en el modelo de datos y puede dejarse disponibles para tablas dinámicas, Power Pivot y Power View."
+  },
+  {
+    "id": "_275878252_1",
+    "question": "¿Cuál de las siguientes es la realidad de las tablas ocultas en Power Pivot?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7ee8200fe7554e16bb6b5d5841af349e",
+        "text": "No se puede ocultar tablas solo los registros"
+      },
+      {
+        "id": "361f0445de994dbd876edaf304a597d0",
+        "text": "Ocultar una tabla en Power Pivot impide que la tabla se vea en las herramientas de cliente y, por lo tanto, impide crear informes que usen los campos de esa tabla para filtrar."
+      },
+      {
+        "id": "4eeb84cd7c504cf5981dd49dedf2ab96",
+        "text": "No puede ocultar tablas en Power Pivot, solo puede ocultar campos"
+      },
+      {
+        "id": "42cdd18566924ed4bafc274fad05d843",
+        "text": "Ocultar una tabla en Power Pivot no tiene ningún efecto en las herramientas de cliente"
+      },
+      {
+        "id": "89e98b2856e84ac89420d1a10fe03d81",
+        "text": "Ocultar una tabla en Power Pivot borra los datos del modelo de datos."
+      }
+    ],
+    "selected": "Ocultar una tabla en Power Pivot impide que la tabla se vea en las herramientas de cliente y, por lo tanto, impide crear informes que usen los campos de esa tabla para filtrar."
+  },
+  {
+    "id": "_275878253_1",
+    "question": "¿Qué función realiza Power View?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9c56824c41844da389aaacf6c6f65ee9",
+        "text": "Análisis de información propio utilizado en SQL Server"
+      },
+      {
+        "id": "3d89f7bc8b39466596a51fa6e70fb09a",
+        "text": "Análisis de información propio utilizado en PowerBI"
+      },
+      {
+        "id": "641424527b2644c1b48b2e3148666bfa",
+        "text": "Usa los metadatos para conocer las relaciones entre las diferentes tablas y campos de un libro o de un informe"
+      },
+      {
+        "id": "63d711a33d1d4fce9a540a147b3e3f51",
+        "text": "Tecnología y análisis de grandes cantidades de información"
+      },
+      {
+        "id": "54497657c6904cfb9f64b6cf9f67c8f8",
+        "text": "Tecnología para compartir resultados mediante la nube"
+      }
+    ],
+    "selected": "Usa los metadatos para conocer las relaciones entre las diferentes tablas y campos de un libro o de un informe"
+  },
+  {
+    "id": "_275878254_1",
+    "question": "¿Qué es otro nombre para el tipo de gráfico Múltiplo?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "44658ca918f54bf28f057db31a0b7c76",
+        "text": "Gráficos de páginas"
+      },
+      {
+        "id": "db1f2518d1784aff80661247d4f0f92e",
+        "text": "Gráficos de enrejado"
+      },
+      {
+        "id": "e14d8d6e276845e68ffbb5c769ef4cc3",
+        "text": "Gráficos de tuplas"
+      },
+      {
+        "id": "0941bdf074c949c5bfbbb8c74ded040a",
+        "text": "Gráfico en barras"
+      },
+      {
+        "id": "55d4b38e94a9442eaab90230da8af9b5",
+        "text": "Gráficos de desplazamiento"
+      }
+    ],
+    "selected": "Gráficos de enrejado"
+  },
+  {
+    "id": "_275878255_1",
+    "question": "¿Cuál es el estado de una transacción en la que se ha retrocedido la transacción y restablecido la base de datos a su estado anterior al comienzo de la transacción?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4bd5e1a33fa1411bbcaa0c201577382e",
+        "text": "Abortada (Rolled Back):"
+      },
+      {
+        "id": "dba4df27873a418695f7b45797651863",
+        "text": "Fallida (Failed):"
+      },
+      {
+        "id": "6b4c231c6dd143e79a16cc76c39ad9c5",
+        "text": "Comprometida (Commited"
+      },
+      {
+        "id": "e0f0e6954ff6447baaee48aa1748e7d4",
+        "text": "Activa (Active):"
+      },
+      {
+        "id": "0c8b2a2059214cbaa5184413cb831022",
+        "text": "Parcialmente comprometida (Uncommited)"
+      }
+    ],
+    "selected": "Abortada (Rolled Back):"
+  },
+  {
+    "id": "_275878256_1",
+    "question": "¿Cuál no es parte del modelo de transacciones de ACID?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c96e3ab8000340979a0bc080525b31ca",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "3857892269584cbda0cb32615405f010",
+        "text": "Análisis"
+      },
+      {
+        "id": "e9ae84857a384ebda9cf09f5e1a87ec1",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "bd40ac537aeb4fb990d5f1030cdba6da",
+        "text": "Consistencia"
+      },
+      {
+        "id": "4f6e2e447c534aeb8f6488a36fd22de2",
+        "text": "Atomicidad"
+      }
+    ],
+    "selected": "Análisis"
+  },
+  {
+    "id": "_275878257_1",
+    "question": "¿Qué es una transacción?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "fee4dab137644ccdbb6bbb2cc56dcb7a",
+        "text": "Conjunto de operaciones para presentación de informes"
+      },
+      {
+        "id": "3e96a5f99fef49dd98deb2065663d157",
+        "text": "Conjunto de operaciones para el desarrollo de una visualización en PowerBI"
+      },
+      {
+        "id": "e64da4e7b5a942cc8076de68c010cf65",
+        "text": "Conjunto de operaciones en una base de datos de manera aislada"
+      },
+      {
+        "id": "2c8487111011411fa4cd70f22c0df2eb",
+        "text": "Conjunto de operaciones que se deben de realizar en una base de datos de manera conjunta"
+      },
+      {
+        "id": "bf17266da0bb441aa7c8044d1becbf88",
+        "text": "Conjunto de operaciones para la obtención de información"
+      }
+    ],
+    "selected": "Conjunto de operaciones en una base de datos de manera aislada"
+  },
+  {
+    "id": "_275878258_1",
+    "question": "Comando para generar un punto de recuperación en las transacciones",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1e98aaa49820412cb9bb6b62e07d153e",
+        "text": "Review"
+      },
+      {
+        "id": "1dfa01c225a4422486f1400d7ea3b51c",
+        "text": "Rollback"
+      },
+      {
+        "id": "b666187cb98f4704b76c0dbf847d4b6b",
+        "text": "Commit"
+      },
+      {
+        "id": "ba0acf3ccc564fa5aa0ceae020099748",
+        "text": "Checkpoint"
+      },
+      {
+        "id": "5657aa33aab14d5589fba8f54f67c6cc",
+        "text": "Execute"
+      }
+    ],
+    "selected": "Checkpoint"
+  },
+  {
+    "id": "_275878259_1",
+    "question": "En el modelo ASIC, cuando la base de datos debe de mantener la integridad de la información en todo el proceso de una transacción se denomina",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2d4d588bacf140d986acd9c5d34005b1",
+        "text": "Análisis"
+      },
+      {
+        "id": "13f25231814e48cdb6e558ffd90cfdbd",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "237f7ade39cf474dbeeae41ad510891f",
+        "text": "Seguridad"
+      },
+      {
+        "id": "67cd4bcd656d4e04a6289842ed8949fb",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "b463e7a206514db8b5ff02c4f0ff51b5",
+        "text": "Atomicidad"
+      }
+    ],
+    "selected": "Atomicidad"
+  },
+  {
+    "id": "_275878260_1",
+    "question": "Es una afirmación falsa con respecto a un sistema de BI",
+    "correct": true,
+    "answers": [
+      {
+        "id": "876e327f4353441ebff4ffdd446660d9",
+        "text": "En el BI se busca usar los datos existentes para generar más datos"
+      },
+      {
+        "id": "1ca43a8ff010401c8db7d9ac8559fcb2",
+        "text": "La clave para el BI es la información que genera y uno de sus mayores beneficios es la posibilidad de utilizarla en la toma de decisiones"
+      },
+      {
+        "id": "30cec42ad31b4da29d2b37f233f1dc18",
+        "text": "Mediante el BI convertimos los datos en información de alto valor añadido para analizar el estado de su organización y tomar las mejores decisiones"
+      },
+      {
+        "id": "a3bb09f35b554f2ba25c6108b731f27a",
+        "text": "Un sistema de BI permite obtener información para realizar acciones que aporten ventajas competitivas a su negocio"
+      },
+      {
+        "id": "9dd3f0d212f546fc8bf2509f9f61d139",
+        "text": "El BI se refiere al proceso de convertir datos en conocimiento y el conocimiento en acciones que aporten ventajas competitivas al negocio"
+      }
+    ],
+    "selected": "En el BI se busca usar los datos existentes para generar más datos"
+  },
+  {
+    "id": "_275878261_1",
+    "question": "Es una \"colección de datos orientada al sujeto, no volátil, integrada y variable en el tiempo en apoyo de las decisiones de la gerencia",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c48a2a0b0b6c483086ca8aede29ca694",
+        "text": "Modelo de información"
+      },
+      {
+        "id": "2d8dbc5cfc1048dc98113476d16130c6",
+        "text": "Modelo de datos de hibrido"
+      },
+      {
+        "id": "89bf9933e8604277ad05b0d850dc80c4",
+        "text": "Modelo de estructuras"
+      },
+      {
+        "id": "91530c80d8cb4fa4bf1ce89f60c7d40b",
+        "text": "Modelo de datos de Kimball"
+      },
+      {
+        "id": "ef6ff6293515440ab023796ea8ff4fc8",
+        "text": "Modelo de datos de Inmon"
+      }
+    ],
+    "selected": "Modelo de datos de Inmon"
+  },
+  {
+    "id": "_275878262_1",
+    "question": "Cual no es un ejemplo de uso de un Data Warehouse",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9867025c667d47279640ccc32422c002",
+        "text": "Predecir los resultados de un tratamiento médico"
+      },
+      {
+        "id": "dfbfa7872ade45f8bec1c84a6359a4b3",
+        "text": "Compañías aéreas los utilizan para analizar la rentabilidad de los trayectos"
+      },
+      {
+        "id": "2d4484f2c82244108322254558ae82a0",
+        "text": "Mantener ordenados los registros de ventas"
+      },
+      {
+        "id": "2954c48edd3440379a8815c3d7f09655",
+        "text": "Lanzar campañas publicitarias personalizadas."
+      },
+      {
+        "id": "164dafe7afc84aabad406c9fbd2901a2",
+        "text": "Comprender a los consumidores y optimizar los precios"
+      }
+    ],
+    "selected": "Mantener ordenados los registros de ventas"
+  },
+  {
+    "id": "_275878263_1",
+    "question": "Es un conjunto de acciones que transforman grandes cantidades de datos en información relevante para una empresa",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1e706f1061714ba9944b73544508b524",
+        "text": "Data Mart"
+      },
+      {
+        "id": "68ea1145169744bfae7dc76e5fc7b3d9",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "80bf6ca23ccb4c49a85acfc442d5b6d0",
+        "text": "Data Lake"
+      },
+      {
+        "id": "a61dc7fdfb89466d9f1af1108f2f86b4",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "b5f0582ccb1e464e80a5c3d8d3e29aec",
+        "text": "Almacenamiento"
+      }
+    ],
+    "selected": "Business Intelligence"
+  },
+  {
+    "id": "_275878264_1",
+    "question": "Que afirmaciones son verdaderas",
+    "correct": true,
+    "answers": [
+      {
+        "id": "55382e71da13498b866a24823905e1e2",
+        "text": "El desarrollo de un BI se realiza una única vez como parte de un proyecto de mejora"
+      },
+      {
+        "id": "f73cd7f859824abdb444bed3f5917369",
+        "text": "Se elige la herramienta de BI y se programa las capacitaciones adecudas para su uso en la empresa"
+      },
+      {
+        "id": "b73257be288d4589a426ef9500735548",
+        "text": "No es necesario la consulta a los usuarios internos"
+      },
+      {
+        "id": "482acd3872b644468f5f8c85db42fb67",
+        "text": "La selección de un sistema de BI comienza por analizar las necesidades de la empresa"
+      },
+      {
+        "id": "7e441ebbf6264c848976a8588dc40f53",
+        "text": "Los sistemas de BI son una herramienta utilizadas exclusivamente por el área de sistemas"
+      }
+    ],
+    "selected": "La selección de un sistema de BI comienza por analizar las necesidades de la empresa"
+  },
+  {
+    "id": "_275878265_1",
+    "question": "Es una herramienta grafica que permite a los usuarios explorar fácilmente las dimensiones y medidas del cubo",
+    "correct": true,
+    "answers": [
+      {
+        "id": "73c3bb43a830471583898b042da45428",
+        "text": "Tabla pivotal"
+      },
+      {
+        "id": "92ceb8d4555e4d2f957c9ca4f7aa54b3",
+        "text": "Tabla OLAP"
+      },
+      {
+        "id": "b903b21283e241398478b2d30253e2a1",
+        "text": "Tabla Medida"
+      },
+      {
+        "id": "f77a6dd7e6624142a2d9980601794d40",
+        "text": "Tabla Dimensional"
+      },
+      {
+        "id": "d6adaf8a2ade462c9d14784fb839f7a9",
+        "text": "Tabla Interna"
+      }
+    ],
+    "selected": "Tabla pivotal"
+  },
+  {
+    "id": "_275878266_1",
+    "question": "Es una base de datos multidimensional, en la cual el almacenamiento físico de los datos se realiza en un vector multidimensiona",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9c7e9d0871d84213983edf40d2d59d2c",
+        "text": "Cubos TLAP"
+      },
+      {
+        "id": "690dfb94a62740839d51175c27adbe0f",
+        "text": "Cubos OLTP"
+      },
+      {
+        "id": "6ba724bc4056429fbcdc2684dae79772",
+        "text": "Cubos LOAP"
+      },
+      {
+        "id": "b8ba549fd60c47859b78bf8bd4132870",
+        "text": "Cubos OLAP"
+      },
+      {
+        "id": "5fb29224f3a44456be8d4b04cfdd11f1",
+        "text": "Cubos TLOP"
+      }
+    ],
+    "selected": "Cubos OLAP"
+  },
+  {
+    "id": "_275878267_1",
+    "question": "Es un motor de datos analíticos que se usa en el análisis empresarial y el soporte técnico para la toma de decisiones, que proporciona funcionalidades de modelo de datos semántico de nivel empresarial para aplicaciones de business intelligence (BI)",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ed0a740e1fea42fa8d5472a9d69fbf32",
+        "text": "Analysis Development"
+      },
+      {
+        "id": "6f3985c39c7c4fa0b49e80cd66b032d2",
+        "text": "Power Service"
+      },
+      {
+        "id": "645f97c29177478dae2c5a43adc161aa",
+        "text": "Analysis Machine"
+      },
+      {
+        "id": "a5d8df9053c64450ac44fc9e898404a9",
+        "text": "Analysis Service"
+      },
+      {
+        "id": "a59ee9b3130c450e97d95a1f380001e7",
+        "text": "DB Service"
+      }
+    ],
+    "selected": "Analysis Service"
+  },
+  {
+    "id": "_275878268_1",
+    "question": "¿Cuáles es el significado de OLAP?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d2d28040cfda4037b2c2c8e7adf98ba9",
+        "text": "Procesamiento Longitudinal de Datos Analógicos"
+      },
+      {
+        "id": "97123cc793084e228cb6f6c610cebb81",
+        "text": "Procesamiento Analítico en Línea"
+      },
+      {
+        "id": "a983104632774ea18745e259080bd23f",
+        "text": "Procesamiento Analógico de Datos"
+      },
+      {
+        "id": "700eb886111b4df7b9311d862d545a1b",
+        "text": "Procesamiento Analítico de Datos"
+      },
+      {
+        "id": "6a41c8f587fe42e2b6c58b7f2fe7abb1",
+        "text": "Procesamiento de Datos Transaccionales"
+      }
+    ],
+    "selected": "Procesamiento Analítico en Línea"
+  },
+  {
+    "id": "_275878269_1",
+    "question": "Se usan para realizar muchas tareas administrativas de base de datos en Azure Analysis Services y SQL Server Analysis Services",
+    "correct": true,
+    "answers": [
+      {
+        "id": "64a175dd6783480b914ceb4180f919ce",
+        "text": "SQL ServerProfile"
+      },
+      {
+        "id": "ff2ae04dc81a49c58130d8236f5e169b",
+        "text": "SSAS"
+      },
+      {
+        "id": "98115e032d4e4353ba0ac66e26e5f17d",
+        "text": "Xevents"
+      },
+      {
+        "id": "f5bd88277a56485c86d9e761598e7350",
+        "text": "SSMS"
+      },
+      {
+        "id": "ddcd1aaa4ab44b9896f1ee996e80b63d",
+        "text": "PowerShell"
+      }
+    ],
+    "selected": "PowerShell"
+  }
+]

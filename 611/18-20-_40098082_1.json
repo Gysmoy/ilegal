@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_275788344_1",
+    "question": "En el modelo ASIC, cuando la base de datos debe de mantener la integridad de la información en todo el proceso de una transacción se denomina",
+    "correct": false,
+    "answers": [
+      {
+        "id": "b463e7a206514db8b5ff02c4f0ff51b5",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "237f7ade39cf474dbeeae41ad510891f",
+        "text": "Seguridad"
+      },
+      {
+        "id": "13f25231814e48cdb6e558ffd90cfdbd",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "2d4d588bacf140d986acd9c5d34005b1",
+        "text": "Análisis"
+      },
+      {
+        "id": "67cd4bcd656d4e04a6289842ed8949fb",
+        "text": "Durabilidad"
+      }
+    ],
+    "selected": "Durabilidad"
+  },
+  {
+    "id": "_275788345_1",
+    "question": "Puede ser creado en una biblioteca de documentos de SharePoint Server y en una galería de PowerPivot. ¿A qué modelo se refiere el enunciado?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "612d47253b8a49f5a1955ecbde9b115f",
+        "text": "Power Design"
+      },
+      {
+        "id": "90c6ed7cb1ae4c7885a58bf6313f5316",
+        "text": "Dataminig"
+      },
+      {
+        "id": "fcf1798192ba4e76ac05cf8a5f4c0529",
+        "text": "Power Static"
+      },
+      {
+        "id": "45299ac8aece4c58b1a1d3c87cd3be1a",
+        "text": "Power View"
+      },
+      {
+        "id": "ac9f32271d0e486e87a365204e870605",
+        "text": "Datamart"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_275788346_1",
+    "question": "A que se denomina a las características de los parámetros que permiten clasificar las transacciones de los sistemas de gestión de bases de datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ddaeb01465144bfe8eab4f93773974b9",
+        "text": "BI"
+      },
+      {
+        "id": "a924350b3b1b4512a15ad7d2c9198127",
+        "text": "Big Data"
+      },
+      {
+        "id": "9c41aac2bb9b484991d03869a555aeba",
+        "text": "SQL"
+      },
+      {
+        "id": "8d7f4a07a9df4c3fa6f38f750aac6663",
+        "text": "ACID"
+      },
+      {
+        "id": "ebe2f9b610684cf49520315cd7598324",
+        "text": "Machine Learning"
+      }
+    ],
+    "selected": "ACID"
+  },
+  {
+    "id": "_275788347_1",
+    "question": "NO es una propiedad que garantizan que las transacciones de una Base de Datos se procesan de manera fiable",
+    "correct": true,
+    "answers": [
+      {
+        "id": "34d27cf5f97049ffa966cfd7e80ed13b",
+        "text": "Indicación"
+      },
+      {
+        "id": "713435b7cf9545dc8ca0750bbfce9d8a",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "9d51423c299448779a3558d377e5e087",
+        "text": "Consistencia"
+      },
+      {
+        "id": "52e2805b12ef44db904f536543404afa",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "a188e7352de84c8996b19733bafc409a",
+        "text": "Aislamiento"
+      }
+    ],
+    "selected": "Indicación"
+  },
+  {
+    "id": "_275788348_1",
+    "question": "En el modelo ASIC, cuando el motor de base de datos debe de procesar transacciones concurrentemente de tal manera que un estado intermedio no sea visible por otro se denomina",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1f9e39f5a24f41d6a3a939265702e37b",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "3010cda6127c4b62abcb14fe5e9d10e2",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "0cfca6915197494f9b38532299bba733",
+        "text": "Procesamiento paralelo"
+      },
+      {
+        "id": "b3c3f30d65c24293b33d15da5dad821b",
+        "text": "Ocultamiento"
+      },
+      {
+        "id": "3815b47ebdce47e3bcc3efac12b0ba33",
+        "text": "Análisis"
+      }
+    ],
+    "selected": "Aislamiento"
+  },
+  {
+    "id": "_275788349_1",
+    "question": "Cuales son operaciones analíticas OLAP",
+    "correct": true,
+    "answers": [
+      {
+        "id": "07adaf1ddc6747e4a20358d107d8e02a",
+        "text": "Cortar, Cubo y Desplegar"
+      },
+      {
+        "id": "b24316e9f39f47218020fbd9d90956c4",
+        "text": "Cortar, Cubo y Pivotar"
+      },
+      {
+        "id": "de845be38dfa4912befee74d048105f8",
+        "text": "Desplegar, analizar y cortar"
+      },
+      {
+        "id": "25b7e2ab9963499988a6cb2bebeb63db",
+        "text": "Pivotar, cubo y provisionar"
+      },
+      {
+        "id": "1e12cb79a5a2402b95142590ede31871",
+        "text": "Cubo, unir y desplegar"
+      }
+    ],
+    "selected": "Cortar, Cubo y Pivotar"
+  },
+  {
+    "id": "_275788350_1",
+    "question": "Es un motor de datos analíticos que se usa en el análisis empresarial y el soporte técnico para la toma de decisiones, que proporciona funcionalidades de modelo de datos semántico de nivel empresarial para aplicaciones de business intelligence (BI)",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a59ee9b3130c450e97d95a1f380001e7",
+        "text": "DB Service"
+      },
+      {
+        "id": "ed0a740e1fea42fa8d5472a9d69fbf32",
+        "text": "Analysis Development"
+      },
+      {
+        "id": "a5d8df9053c64450ac44fc9e898404a9",
+        "text": "Analysis Service"
+      },
+      {
+        "id": "6f3985c39c7c4fa0b49e80cd66b032d2",
+        "text": "Power Service"
+      },
+      {
+        "id": "645f97c29177478dae2c5a43adc161aa",
+        "text": "Analysis Machine"
+      }
+    ],
+    "selected": "Analysis Service"
+  },
+  {
+    "id": "_275788351_1",
+    "question": "Cuando se debe de utilizar OLAP",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a7bfb171d3ca4eda950d67c2b82c814a",
+        "text": "Cuando no es necesario detectar patrones o tendencias"
+      },
+      {
+        "id": "81096822a02f421390704702d910e05f",
+        "text": "Cuando se tiene escenarios de uso intensivo de lectura, como el análisis y la inteligencia empresaria"
+      },
+      {
+        "id": "660d3413aa8e4de18fdb968abe6830ef",
+        "text": "Generar informes a partir de los datos en Excel para usuarios empresariales"
+      },
+      {
+        "id": "e4e0d01bd7904ea598812f4ee6199f6d",
+        "text": "Cuando se necesita ejecutar consultas y análisis poco complejos rápidamente"
+      },
+      {
+        "id": "6aa96a61ce084e369874df841a5c5323",
+        "text": "Desea proporcionar diversas agregaciones que permitirán a los usuarios obtener resultados sin premura."
+      }
+    ],
+    "selected": "Cuando se tiene escenarios de uso intensivo de lectura, como el análisis y la inteligencia empresaria"
+  },
+  {
+    "id": "_275788352_1",
+    "question": "Es una herramienta grafica que permite a los usuarios explorar fácilmente las dimensiones y medidas del cubo",
+    "correct": true,
+    "answers": [
+      {
+        "id": "92ceb8d4555e4d2f957c9ca4f7aa54b3",
+        "text": "Tabla OLAP"
+      },
+      {
+        "id": "d6adaf8a2ade462c9d14784fb839f7a9",
+        "text": "Tabla Interna"
+      },
+      {
+        "id": "f77a6dd7e6624142a2d9980601794d40",
+        "text": "Tabla Dimensional"
+      },
+      {
+        "id": "73c3bb43a830471583898b042da45428",
+        "text": "Tabla pivotal"
+      },
+      {
+        "id": "b903b21283e241398478b2d30253e2a1",
+        "text": "Tabla Medida"
+      }
+    ],
+    "selected": "Tabla pivotal"
+  },
+  {
+    "id": "_275788353_1",
+    "question": "Es una herramienta esencial para mejorar la gestión empresarial mediante el seguimiento de objetivos estratégicos, el control de indicadores, y la asignación de responsabilidades",
+    "correct": true,
+    "answers": [
+      {
+        "id": "871bd4f8224145fab66c4b6f3bdabb38",
+        "text": "Cuadro de información"
+      },
+      {
+        "id": "5bdbe29e0f3f4964878835d573de06dc",
+        "text": "Cuadro de valores"
+      },
+      {
+        "id": "010344c9c56c471bb3b3c2ff8c52346b",
+        "text": "Cuadro de datos"
+      },
+      {
+        "id": "9757d9f9fdab447abb9977a955594001",
+        "text": "Cuadro de mando"
+      },
+      {
+        "id": "7067aa475f42424496ede7bfd1e71f77",
+        "text": "Cuadro de manejo"
+      }
+    ],
+    "selected": "Cuadro de mando"
+  },
+  {
+    "id": "_275788354_1",
+    "question": "Que afirmaciones son verdaderas",
+    "correct": false,
+    "answers": [
+      {
+        "id": "f73cd7f859824abdb444bed3f5917369",
+        "text": "Se elige la herramienta de BI y se programa las capacitaciones adecudas para su uso en la empresa"
+      },
+      {
+        "id": "b73257be288d4589a426ef9500735548",
+        "text": "No es necesario la consulta a los usuarios internos"
+      },
+      {
+        "id": "482acd3872b644468f5f8c85db42fb67",
+        "text": "La selección de un sistema de BI comienza por analizar las necesidades de la empresa"
+      },
+      {
+        "id": "55382e71da13498b866a24823905e1e2",
+        "text": "El desarrollo de un BI se realiza una única vez como parte de un proyecto de mejora"
+      },
+      {
+        "id": "7e441ebbf6264c848976a8588dc40f53",
+        "text": "Los sistemas de BI son una herramienta utilizadas exclusivamente por el área de sistemas"
+      }
+    ],
+    "selected": "No es necesario la consulta a los usuarios internos"
+  },
+  {
+    "id": "_275788355_1",
+    "question": "Es la capacidad que tienen las bases de datos de mejorar la disponibilidad y su comportamiento cuando el negocio demanda más recursos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "64947927800e46189cfd11899a68363f",
+        "text": "alteración"
+      },
+      {
+        "id": "7676be55643f4f28a9f82a9f59fb0852",
+        "text": "gestión"
+      },
+      {
+        "id": "847f259350634340b62969a6785ce67d",
+        "text": "modularización"
+      },
+      {
+        "id": "fdf0a9dd30f940e5818bd7265fc9d58e",
+        "text": "organización"
+      },
+      {
+        "id": "989f8e73ca3743288c61634baa844342",
+        "text": "escalabilidad"
+      }
+    ],
+    "selected": "escalabilidad"
+  },
+  {
+    "id": "_275788356_1",
+    "question": "Que es Data Vault",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5433ba4fb6fc4b66af20e2866b96e7d6",
+        "text": "Patrón de diseño de modelado de datos para construir para análisis a escala empresarial"
+      },
+      {
+        "id": "867f71996e20434eb3adf64471c6d9e2",
+        "text": "Un sistema integrado al big data"
+      },
+      {
+        "id": "262531416d674e3f8725b0b74b10fe25",
+        "text": "Parte de los procesos de Data Marts"
+      },
+      {
+        "id": "38b8fa831fad42e3976c9794694cca29",
+        "text": "Un sistema de bussines inteligence"
+      },
+      {
+        "id": "b879780f5e184768ac9058acdabf7708",
+        "text": "Modelado de datos para pequeños procesos"
+      }
+    ],
+    "selected": "Patrón de diseño de modelado de datos para construir para análisis a escala empresarial"
+  },
+  {
+    "id": "_275788357_1",
+    "question": "Enfoque de abajo hacia arriba para almacenamiento de datos (DW) diseño de arquitectura en el que los mercados de datos se forman primero en función de los requisitos comerciales",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fe2aaf44bad6416cb6713eb909773174",
+        "text": "Modelo de datos de Kimball"
+      },
+      {
+        "id": "beebbf7dd1574c63a3f50527f8a3a821",
+        "text": "Modelo de estructuras"
+      },
+      {
+        "id": "ff18b361199947f681f311dd7e844eef",
+        "text": "Modelo de datos de hibrido"
+      },
+      {
+        "id": "edb94e3a23b94357bea02283c3b4f886",
+        "text": "Modelo de datos de Inmon"
+      },
+      {
+        "id": "077d5389faff43868e7732a21407c12a",
+        "text": "Modelo de información"
+      }
+    ],
+    "selected": "Modelo de datos de Kimball"
+  },
+  {
+    "id": "_275788358_1",
+    "question": "Es un sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado; consistente para respaldar el análisis empresarial, la minería de datos, inteligencia artificial (IA) y Machine Learning",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9e3747c3e6ba4ccda517a31a8b451d12",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "b8538420f8ad45af8c0aa53c99c73ee8",
+        "text": "Data Mart"
+      },
+      {
+        "id": "2479d1c9449f426a9b078c5272f6f514",
+        "text": "Data Lake"
+      },
+      {
+        "id": "f33c323299134446aca7933f485868b3",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "ad68ce6e98124789a32532639cfab2a1",
+        "text": "Business Intelligence"
+      }
+    ],
+    "selected": "Data Warehouse"
+  },
+  {
+    "id": "_275788359_1",
+    "question": "Power View NO se puede usar en:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "803d9437400f4126b64c4f0fb666c891",
+        "text": "Power BI"
+      },
+      {
+        "id": "3f64488442bb40b8807cbd8b91020d02",
+        "text": "SQL Server"
+      },
+      {
+        "id": "f4378403748447d095748f40a7000460",
+        "text": "Excel"
+      },
+      {
+        "id": "53165496589d4c20845b18d08ea6ff30",
+        "text": "Publisher"
+      },
+      {
+        "id": "44988b829b604a38981949618a7126eb",
+        "text": "Sharepoint"
+      }
+    ],
+    "selected": "Publisher"
+  },
+  {
+    "id": "_275788360_1",
+    "question": "En una tabla dinámica, ¿qué ocurre cuando reordena los campos de las cuatro áreas de Campos de tabla dinámica?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fb457ae0b9854883b123c468ee7ddcee",
+        "text": "Se mantiene con el mismo formato"
+      },
+      {
+        "id": "27ac4d4f16df4266882c9e4c6ac81014",
+        "text": "Nada. No se pueden reordenar los campos una vez que se colocan en las áreas de Campos de tabla dinámica"
+      },
+      {
+        "id": "909b29464b924cc5a0e9a7e484cd5aa1",
+        "text": "El formato de la tabla dinámica cambia para reflejar la distribución, pero los datos subyacentes no se ven afectados"
+      },
+      {
+        "id": "306575f0a06f49089d6e5fb7f8fa114a",
+        "text": "Los datos subyacentes cambian y pasan a ser conjuntos de datos nuevos"
+      },
+      {
+        "id": "e6ab53ee6a1844dd86d7eafc6ff06697",
+        "text": "El formato de la tabla dinámica cambia para reflejar la distribución, y todos los datos subyacentes cambian de forma permanente"
+      }
+    ],
+    "selected": "El formato de la tabla dinámica cambia para reflejar la distribución, pero los datos subyacentes no se ven afectados"
+  },
+  {
+    "id": "_275788361_1",
+    "question": "Qué operaciones puede realizar Power View",
+    "correct": true,
+    "answers": [
+      {
+        "id": "48f933f730974a13ac777e6881510f57",
+        "text": "Crear gráficos, análisis de datos, almacenamiento de datos"
+      },
+      {
+        "id": "fc9ad93d3fbc46098849ccd87e04dee0",
+        "text": "Crear gráficos, filtro de datos, segmentación de datos"
+      },
+      {
+        "id": "10a948ed71b34dfbbe4ed43f61b46da7",
+        "text": "Filtro de datos, análisis de datos"
+      },
+      {
+        "id": "a1809d346915467abc7c9ffe8d0654f6",
+        "text": "Crear gráficos sin filtrado de datos"
+      },
+      {
+        "id": "bf803a39119d4d8dbaecd62a06b9f5d9",
+        "text": "Únicamente crear gráficos"
+      }
+    ],
+    "selected": "Crear gráficos, filtro de datos, segmentación de datos"
+  },
+  {
+    "id": "_275788362_1",
+    "question": "¿Cuál de las siguientes opciones es cierta acerca de las jerarquías?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "efa1d8daa2324a44afb3415e3f41193d",
+        "text": "Cuando se crea una jerarquía, los campos incluidos dejan de estar disponibles de forma individual"
+      },
+      {
+        "id": "3006b21cfe194bf5997a89a97dbeb3a5",
+        "text": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+      },
+      {
+        "id": "86ee75894ee04732a316ee501408ed46",
+        "text": "Las jerarquías permiten dejar herencia de información"
+      },
+      {
+        "id": "81270b107d734e629a91a42cc131cf06",
+        "text": "Cuando se crea una jerarquía, los datos subyacentes del modelo de datos se combinan en un solo campo"
+      },
+      {
+        "id": "09f9ff596a274b8995de3f38929ef039",
+        "text": "No se pueden crear jerarquías en Power Pivot"
+      }
+    ],
+    "selected": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+  },
+  {
+    "id": "_275788363_1",
+    "question": "¿Qué función realiza Power View?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "641424527b2644c1b48b2e3148666bfa",
+        "text": "Usa los metadatos para conocer las relaciones entre las diferentes tablas y campos de un libro o de un informe"
+      },
+      {
+        "id": "9c56824c41844da389aaacf6c6f65ee9",
+        "text": "Análisis de información propio utilizado en SQL Server"
+      },
+      {
+        "id": "3d89f7bc8b39466596a51fa6e70fb09a",
+        "text": "Análisis de información propio utilizado en PowerBI"
+      },
+      {
+        "id": "63d711a33d1d4fce9a540a147b3e3f51",
+        "text": "Tecnología y análisis de grandes cantidades de información"
+      },
+      {
+        "id": "54497657c6904cfb9f64b6cf9f67c8f8",
+        "text": "Tecnología para compartir resultados mediante la nube"
+      }
+    ],
+    "selected": "Usa los metadatos para conocer las relaciones entre las diferentes tablas y campos de un libro o de un informe"
+  }
+]

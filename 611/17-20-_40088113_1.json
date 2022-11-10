@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_275689908_1",
+    "question": "Que es Data Vault",
+    "correct": false,
+    "answers": [
+      {
+        "id": "262531416d674e3f8725b0b74b10fe25",
+        "text": "Parte de los procesos de Data Marts"
+      },
+      {
+        "id": "867f71996e20434eb3adf64471c6d9e2",
+        "text": "Un sistema integrado al big data"
+      },
+      {
+        "id": "b879780f5e184768ac9058acdabf7708",
+        "text": "Modelado de datos para pequeños procesos"
+      },
+      {
+        "id": "5433ba4fb6fc4b66af20e2866b96e7d6",
+        "text": "Patrón de diseño de modelado de datos para construir para análisis a escala empresarial"
+      },
+      {
+        "id": "38b8fa831fad42e3976c9794694cca29",
+        "text": "Un sistema de bussines inteligence"
+      }
+    ],
+    "selected": "Parte de los procesos de Data Marts"
+  },
+  {
+    "id": "_275689909_1",
+    "question": "¿Qué tipo de base de datos corporativa integra y depura información de una o más fuentes distintas, para luego procesarla permitiendo su análisis desde infinidad de perspectivas y con grandes velocidades de respuesta?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "0ceefe9bf6664b81b9e76fbe3d1f0a73",
+        "text": "Un Paquete SSIS"
+      },
+      {
+        "id": "5a7c1186ff3f450d8e531004489f12f6",
+        "text": "Una Inteligencia corporativa"
+      },
+      {
+        "id": "f9d9d466d7ae4a499ad024c037277dec",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "706e9f0a0f6f4b34971e0995b552362b",
+        "text": "Un Datawarehouse."
+      },
+      {
+        "id": "8a2b66181795485ba47046c043b6db94",
+        "text": "Big data"
+      }
+    ],
+    "selected": "Un Datawarehouse."
+  },
+  {
+    "id": "_275689910_1",
+    "question": "Es una base de datos centrada en un ámbito que muchas veces es un segmento aislado de un almacén de datos de empresa",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d7c51f5239fd4cee8ea287e8f3ca940a",
+        "text": "Data Lake"
+      },
+      {
+        "id": "74bd0cee0f304bb6b3701a8d9201ac0f",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "ca9fc66dd31e4e689b80d44a95f6c9e8",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "18366da5efe24030a068b6f208768210",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "abae8c6706a94fc6a0725ef03f116173",
+        "text": "Data Mart"
+      }
+    ],
+    "selected": "Data Mart"
+  },
+  {
+    "id": "_275689911_1",
+    "question": "¿Cuál es el concepto más adecuado para Power BI?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "43391d2453ae43aeaca5305d82ce3797",
+        "text": "Solución basada en Excel, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "836780dab23a4b57adb33b1616e2415f",
+        "text": "Solución de análisis empresarial que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "c508fe84cd554f0fa73a8e734038c006",
+        "text": "Solución open source que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "efa535302635474484fe6e69f2515f47",
+        "text": "Solución de big data, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "b5e8cb15a9d64ed59d9c489f91c8b10f",
+        "text": "Solución de base de datos, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      }
+    ],
+    "selected": "Solución open source que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+  },
+  {
+    "id": "_275689912_1",
+    "question": "Es un conjunto de acciones que transforman grandes cantidades de datos en información relevante para una empresa",
+    "correct": true,
+    "answers": [
+      {
+        "id": "80bf6ca23ccb4c49a85acfc442d5b6d0",
+        "text": "Data Lake"
+      },
+      {
+        "id": "a61dc7fdfb89466d9f1af1108f2f86b4",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "68ea1145169744bfae7dc76e5fc7b3d9",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "b5f0582ccb1e464e80a5c3d8d3e29aec",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "1e706f1061714ba9944b73544508b524",
+        "text": "Data Mart"
+      }
+    ],
+    "selected": "Business Intelligence"
+  },
+  {
+    "id": "_275689913_1",
+    "question": "Qué área de Power View campos le permite crear un contenedor, en el que podría colocar varias visualizaciones?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "be43bcf23d1449ab9f6554bfb5ba0001",
+        "text": "El área COLUMNAS"
+      },
+      {
+        "id": "bdd59a48e65b4284b53e67c4a5af94b3",
+        "text": "El área MOSAICO POR"
+      },
+      {
+        "id": "aaa5800abc7e425884788b1e39abc1b3",
+        "text": "El área CONTENEDOR"
+      },
+      {
+        "id": "97c425cad480458ea887bc980c05c36b",
+        "text": "El área INICIO"
+      },
+      {
+        "id": "b06bb415fc1547b5b515348681c03822",
+        "text": "El área RESUMEN"
+      }
+    ],
+    "selected": "El área MOSAICO POR"
+  },
+  {
+    "id": "_275689914_1",
+    "question": "Para crear una visualización animada basada en un campo, como un campo de fecha, ¿qué área de Campos de Power View debería utilizar?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5cff345b9cc54b2181e3f22401f9b8a2",
+        "text": "No se pueden crear visualizaciones tan buenas, ¿o sí?"
+      },
+      {
+        "id": "f1addd933f7b4d08ae26337efb8080d3",
+        "text": "El área MÚLTIPLOS HORIZONTALES"
+      },
+      {
+        "id": "5e81b85805c04c8d98e25a49101fcce0",
+        "text": "En cualquier área"
+      },
+      {
+        "id": "46db942aa81e49c0a6e74588bb35bcda",
+        "text": "El área ANIMACIÓN"
+      },
+      {
+        "id": "fd6a881752ed4ed28eb5179270ed0329",
+        "text": "El área EJE DE REPRODUCCIÓN"
+      }
+    ],
+    "selected": "El área EJE DE REPRODUCCIÓN"
+  },
+  {
+    "id": "_275689915_1",
+    "question": "¿Cuál de las siguientes opciones es cierta acerca de las jerarquías?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "81270b107d734e629a91a42cc131cf06",
+        "text": "Cuando se crea una jerarquía, los datos subyacentes del modelo de datos se combinan en un solo campo"
+      },
+      {
+        "id": "efa1d8daa2324a44afb3415e3f41193d",
+        "text": "Cuando se crea una jerarquía, los campos incluidos dejan de estar disponibles de forma individual"
+      },
+      {
+        "id": "86ee75894ee04732a316ee501408ed46",
+        "text": "Las jerarquías permiten dejar herencia de información"
+      },
+      {
+        "id": "3006b21cfe194bf5997a89a97dbeb3a5",
+        "text": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+      },
+      {
+        "id": "09f9ff596a274b8995de3f38929ef039",
+        "text": "No se pueden crear jerarquías en Power Pivot"
+      }
+    ],
+    "selected": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+  },
+  {
+    "id": "_275689916_1",
+    "question": "¿Qué función realiza Power View?",
+    "correct": false,
+    "answers": [
+      {
+        "id": "9c56824c41844da389aaacf6c6f65ee9",
+        "text": "Análisis de información propio utilizado en SQL Server"
+      },
+      {
+        "id": "641424527b2644c1b48b2e3148666bfa",
+        "text": "Usa los metadatos para conocer las relaciones entre las diferentes tablas y campos de un libro o de un informe"
+      },
+      {
+        "id": "54497657c6904cfb9f64b6cf9f67c8f8",
+        "text": "Tecnología para compartir resultados mediante la nube"
+      },
+      {
+        "id": "63d711a33d1d4fce9a540a147b3e3f51",
+        "text": "Tecnología y análisis de grandes cantidades de información"
+      },
+      {
+        "id": "3d89f7bc8b39466596a51fa6e70fb09a",
+        "text": "Análisis de información propio utilizado en PowerBI"
+      }
+    ],
+    "selected": "Tecnología y análisis de grandes cantidades de información"
+  },
+  {
+    "id": "_275689917_1",
+    "question": "Qué operaciones puede realizar Power View",
+    "correct": true,
+    "answers": [
+      {
+        "id": "48f933f730974a13ac777e6881510f57",
+        "text": "Crear gráficos, análisis de datos, almacenamiento de datos"
+      },
+      {
+        "id": "bf803a39119d4d8dbaecd62a06b9f5d9",
+        "text": "Únicamente crear gráficos"
+      },
+      {
+        "id": "10a948ed71b34dfbbe4ed43f61b46da7",
+        "text": "Filtro de datos, análisis de datos"
+      },
+      {
+        "id": "a1809d346915467abc7c9ffe8d0654f6",
+        "text": "Crear gráficos sin filtrado de datos"
+      },
+      {
+        "id": "fc9ad93d3fbc46098849ccd87e04dee0",
+        "text": "Crear gráficos, filtro de datos, segmentación de datos"
+      }
+    ],
+    "selected": "Crear gráficos, filtro de datos, segmentación de datos"
+  },
+  {
+    "id": "_275689918_1",
+    "question": "Puede ser creado en una biblioteca de documentos de SharePoint Server y en una galería de PowerPivot. ¿A qué modelo se refiere el enunciado?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "ac9f32271d0e486e87a365204e870605",
+        "text": "Datamart"
+      },
+      {
+        "id": "fcf1798192ba4e76ac05cf8a5f4c0529",
+        "text": "Power Static"
+      },
+      {
+        "id": "90c6ed7cb1ae4c7885a58bf6313f5316",
+        "text": "Dataminig"
+      },
+      {
+        "id": "612d47253b8a49f5a1955ecbde9b115f",
+        "text": "Power Design"
+      },
+      {
+        "id": "45299ac8aece4c58b1a1d3c87cd3be1a",
+        "text": "Power View"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_275689919_1",
+    "question": "En el modelo ASIC, cuando el motor de base de datos debe de procesar transacciones concurrentemente de tal manera que un estado intermedio no sea visible por otro se denomina",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b3c3f30d65c24293b33d15da5dad821b",
+        "text": "Ocultamiento"
+      },
+      {
+        "id": "3815b47ebdce47e3bcc3efac12b0ba33",
+        "text": "Análisis"
+      },
+      {
+        "id": "0cfca6915197494f9b38532299bba733",
+        "text": "Procesamiento paralelo"
+      },
+      {
+        "id": "3010cda6127c4b62abcb14fe5e9d10e2",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "1f9e39f5a24f41d6a3a939265702e37b",
+        "text": "Atomicidad"
+      }
+    ],
+    "selected": "Aislamiento"
+  },
+  {
+    "id": "_275689920_1",
+    "question": "Propiedad de ACID que determina que: Una transacción es una unidad atómica de procesamiento; o bien se realiza por completo o no se realiza en absoluto",
+    "correct": true,
+    "answers": [
+      {
+        "id": "190b1cf4cf474d1e86f690d20d1a8f4c",
+        "text": "Consistencia"
+      },
+      {
+        "id": "22aaba80dbc7446f8bb6bdad57200c4b",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "235c11f7221a4e48af6563ef2748b6a7",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "19db35b66e764af68516d0c0d2fc6622",
+        "text": "Indicación"
+      },
+      {
+        "id": "7a99288342c34d2cae00bca4360f6a9f",
+        "text": "Atomicidad"
+      }
+    ],
+    "selected": "Atomicidad"
+  },
+  {
+    "id": "_275689921_1",
+    "question": "Es una tecnología de visualización de datos que le permite crear gráficos interactivos, gráficos, mapas y otros elementos visuales que dinamizan sus datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "763ef32b609b43fa8f82ed7662e53ccc",
+        "text": "Power Report"
+      },
+      {
+        "id": "078561dda0484b28a059e19782c6a490",
+        "text": "Power View"
+      },
+      {
+        "id": "87fe895d67b0497099cbf53d3ff51273",
+        "text": "Power Information"
+      },
+      {
+        "id": "3c34738c642f40c496d9c80b3ce32d4d",
+        "text": "Power Data"
+      },
+      {
+        "id": "f126fe0b2bcf4a4ba9d98544056a1dc5",
+        "text": "Power Static"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_275689922_1",
+    "question": "A que se denomina a las características de los parámetros que permiten clasificar las transacciones de los sistemas de gestión de bases de datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9c41aac2bb9b484991d03869a555aeba",
+        "text": "SQL"
+      },
+      {
+        "id": "8d7f4a07a9df4c3fa6f38f750aac6663",
+        "text": "ACID"
+      },
+      {
+        "id": "ddaeb01465144bfe8eab4f93773974b9",
+        "text": "BI"
+      },
+      {
+        "id": "ebe2f9b610684cf49520315cd7598324",
+        "text": "Machine Learning"
+      },
+      {
+        "id": "a924350b3b1b4512a15ad7d2c9198127",
+        "text": "Big Data"
+      }
+    ],
+    "selected": "ACID"
+  },
+  {
+    "id": "_275689923_1",
+    "question": "Se usan para realizar muchas tareas administrativas de base de datos en Azure Analysis Services y SQL Server Analysis Services",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f5bd88277a56485c86d9e761598e7350",
+        "text": "SSMS"
+      },
+      {
+        "id": "98115e032d4e4353ba0ac66e26e5f17d",
+        "text": "Xevents"
+      },
+      {
+        "id": "64a175dd6783480b914ceb4180f919ce",
+        "text": "SQL ServerProfile"
+      },
+      {
+        "id": "ddcd1aaa4ab44b9896f1ee996e80b63d",
+        "text": "PowerShell"
+      },
+      {
+        "id": "ff2ae04dc81a49c58130d8236f5e169b",
+        "text": "SSAS"
+      }
+    ],
+    "selected": "PowerShell"
+  },
+  {
+    "id": "_275689924_1",
+    "question": "¿Cuáles son los modos de almacenamiento en Power BI?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "119ba6cca52843d187e943ccf3095654",
+        "text": "Importación, DirecQuery y DUAL"
+      },
+      {
+        "id": "053855c8ee594655aaabee18023422e8",
+        "text": "Importación, caché, Consultas"
+      },
+      {
+        "id": "64ab8663011246f9acfba3d61cd2ccbc",
+        "text": "DirectQuery, importación, report"
+      },
+      {
+        "id": "037aea8ecd3645058eb330765f2e857c",
+        "text": "Consultas, importación y Query"
+      },
+      {
+        "id": "9515bf90404a425b9221103c02e3d5b4",
+        "text": "DUAL, Query, Consultas"
+      }
+    ],
+    "selected": "Importación, DirecQuery y DUAL"
+  },
+  {
+    "id": "_275689925_1",
+    "question": "Es una herramienta grafica que permite a los usuarios explorar fácilmente las dimensiones y medidas del cubo",
+    "correct": true,
+    "answers": [
+      {
+        "id": "92ceb8d4555e4d2f957c9ca4f7aa54b3",
+        "text": "Tabla OLAP"
+      },
+      {
+        "id": "d6adaf8a2ade462c9d14784fb839f7a9",
+        "text": "Tabla Interna"
+      },
+      {
+        "id": "f77a6dd7e6624142a2d9980601794d40",
+        "text": "Tabla Dimensional"
+      },
+      {
+        "id": "73c3bb43a830471583898b042da45428",
+        "text": "Tabla pivotal"
+      },
+      {
+        "id": "b903b21283e241398478b2d30253e2a1",
+        "text": "Tabla Medida"
+      }
+    ],
+    "selected": "Tabla pivotal"
+  },
+  {
+    "id": "_275689926_1",
+    "question": "Es un tipo de sistema OLAP que en su diseño se compone de un servidor de banco de datos y de un motor OLAP dedicado exclusivamente para él",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9cef8b21c49445afa8918d724d83fb00",
+        "text": "MOLAP"
+      },
+      {
+        "id": "ef144288c71f410bb9775f12ce5778fe",
+        "text": "HOLAP"
+      },
+      {
+        "id": "f6871a0888b2460088122138366539f7",
+        "text": "COLAP"
+      },
+      {
+        "id": "f5dae89f01414b0bb16bd08225f40235",
+        "text": "ROLAP"
+      },
+      {
+        "id": "1b44344d137a4210ab260c6d4d046e3e",
+        "text": "BOLAP"
+      }
+    ],
+    "selected": "ROLAP"
+  },
+  {
+    "id": "_275689927_1",
+    "question": "Es un motor de datos analíticos que se usa en el análisis empresarial y el soporte técnico para la toma de decisiones, que proporciona funcionalidades de modelo de datos semántico de nivel empresarial para aplicaciones de business intelligence (BI)",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6f3985c39c7c4fa0b49e80cd66b032d2",
+        "text": "Power Service"
+      },
+      {
+        "id": "a59ee9b3130c450e97d95a1f380001e7",
+        "text": "DB Service"
+      },
+      {
+        "id": "645f97c29177478dae2c5a43adc161aa",
+        "text": "Analysis Machine"
+      },
+      {
+        "id": "a5d8df9053c64450ac44fc9e898404a9",
+        "text": "Analysis Service"
+      },
+      {
+        "id": "ed0a740e1fea42fa8d5472a9d69fbf32",
+        "text": "Analysis Development"
+      }
+    ],
+    "selected": "Analysis Service"
+  }
+]

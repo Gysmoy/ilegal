@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_275781145_1",
+    "question": "Es una tecnología de visualización de datos que le permite crear gráficos interactivos, gráficos, mapas y otros elementos visuales que dinamizan sus datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "87fe895d67b0497099cbf53d3ff51273",
+        "text": "Power Information"
+      },
+      {
+        "id": "f126fe0b2bcf4a4ba9d98544056a1dc5",
+        "text": "Power Static"
+      },
+      {
+        "id": "078561dda0484b28a059e19782c6a490",
+        "text": "Power View"
+      },
+      {
+        "id": "763ef32b609b43fa8f82ed7662e53ccc",
+        "text": "Power Report"
+      },
+      {
+        "id": "3c34738c642f40c496d9c80b3ce32d4d",
+        "text": "Power Data"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_275781146_1",
+    "question": "NO es una propiedad que garantizan que las transacciones de una Base de Datos se procesan de manera fiable",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9d51423c299448779a3558d377e5e087",
+        "text": "Consistencia"
+      },
+      {
+        "id": "713435b7cf9545dc8ca0750bbfce9d8a",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "52e2805b12ef44db904f536543404afa",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "a188e7352de84c8996b19733bafc409a",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "34d27cf5f97049ffa966cfd7e80ed13b",
+        "text": "Indicación"
+      }
+    ],
+    "selected": "Indicación"
+  },
+  {
+    "id": "_275781147_1",
+    "question": "Puede ser creado en una biblioteca de documentos de SharePoint Server y en una galería de PowerPivot. ¿A qué modelo se refiere el enunciado?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "612d47253b8a49f5a1955ecbde9b115f",
+        "text": "Power Design"
+      },
+      {
+        "id": "90c6ed7cb1ae4c7885a58bf6313f5316",
+        "text": "Dataminig"
+      },
+      {
+        "id": "fcf1798192ba4e76ac05cf8a5f4c0529",
+        "text": "Power Static"
+      },
+      {
+        "id": "ac9f32271d0e486e87a365204e870605",
+        "text": "Datamart"
+      },
+      {
+        "id": "45299ac8aece4c58b1a1d3c87cd3be1a",
+        "text": "Power View"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_275781148_1",
+    "question": "Propiedad de ACID que determina que: Una transacción es una unidad atómica de procesamiento; o bien se realiza por completo o no se realiza en absoluto",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7a99288342c34d2cae00bca4360f6a9f",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "235c11f7221a4e48af6563ef2748b6a7",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "19db35b66e764af68516d0c0d2fc6622",
+        "text": "Indicación"
+      },
+      {
+        "id": "22aaba80dbc7446f8bb6bdad57200c4b",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "190b1cf4cf474d1e86f690d20d1a8f4c",
+        "text": "Consistencia"
+      }
+    ],
+    "selected": "Atomicidad"
+  },
+  {
+    "id": "_275781149_1",
+    "question": "En el modelo ASIC, cuando el motor de base de datos debe de procesar transacciones concurrentemente de tal manera que un estado intermedio no sea visible por otro se denomina",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1f9e39f5a24f41d6a3a939265702e37b",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "b3c3f30d65c24293b33d15da5dad821b",
+        "text": "Ocultamiento"
+      },
+      {
+        "id": "3010cda6127c4b62abcb14fe5e9d10e2",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "3815b47ebdce47e3bcc3efac12b0ba33",
+        "text": "Análisis"
+      },
+      {
+        "id": "0cfca6915197494f9b38532299bba733",
+        "text": "Procesamiento paralelo"
+      }
+    ],
+    "selected": "Aislamiento"
+  },
+  {
+    "id": "_275781150_1",
+    "question": "Power View NO se puede usar en:",
+    "correct": false,
+    "answers": [
+      {
+        "id": "f4378403748447d095748f40a7000460",
+        "text": "Excel"
+      },
+      {
+        "id": "803d9437400f4126b64c4f0fb666c891",
+        "text": "Power BI"
+      },
+      {
+        "id": "44988b829b604a38981949618a7126eb",
+        "text": "Sharepoint"
+      },
+      {
+        "id": "53165496589d4c20845b18d08ea6ff30",
+        "text": "Publisher"
+      },
+      {
+        "id": "3f64488442bb40b8807cbd8b91020d02",
+        "text": "SQL Server"
+      }
+    ],
+    "selected": "Excel"
+  },
+  {
+    "id": "_275781151_1",
+    "question": "Para crear una visualización animada basada en un campo, como un campo de fecha, ¿qué área de Campos de Power View debería utilizar?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f1addd933f7b4d08ae26337efb8080d3",
+        "text": "El área MÚLTIPLOS HORIZONTALES"
+      },
+      {
+        "id": "5e81b85805c04c8d98e25a49101fcce0",
+        "text": "En cualquier área"
+      },
+      {
+        "id": "fd6a881752ed4ed28eb5179270ed0329",
+        "text": "El área EJE DE REPRODUCCIÓN"
+      },
+      {
+        "id": "5cff345b9cc54b2181e3f22401f9b8a2",
+        "text": "No se pueden crear visualizaciones tan buenas, ¿o sí?"
+      },
+      {
+        "id": "46db942aa81e49c0a6e74588bb35bcda",
+        "text": "El área ANIMACIÓN"
+      }
+    ],
+    "selected": "El área EJE DE REPRODUCCIÓN"
+  },
+  {
+    "id": "_275781152_1",
+    "question": "¿Qué ocurre en los gráficos de Múltiplo si hay más gráficos circulares de los que caben en una pantalla?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "4b57e49bd6d249118d786bb5a205e954",
+        "text": "Power View coloca automáticamente todos los gráficos circulares en una pantalla, independientemente de cuántos gráficos circulares se requieran"
+      },
+      {
+        "id": "b659d380894145c380eb8a42d61776fc",
+        "text": "Power View actualiza los informes para que los gráficos circulares se puedan ver en la pantalla al mismo tiempo"
+      },
+      {
+        "id": "11eab83c62a04a74bd889488fad37b7a",
+        "text": "Power View proporciona una barra de desplazamiento, lo que le permite desplazarse por los otros gráficos circulares."
+      },
+      {
+        "id": "e4682951cac4435b8903aac4c4b8e4c6",
+        "text": "Power View crea un informe solo para los gráficos circulares que se puedan ver en la pantalla al mismo tiempo"
+      },
+      {
+        "id": "71a99f2a11d045acad28a8058eef7179",
+        "text": "Power View comienza a desplazarse automáticamente por los gráficos circulares"
+      }
+    ],
+    "selected": "Power View proporciona una barra de desplazamiento, lo que le permite desplazarse por los otros gráficos circulares."
+  },
+  {
+    "id": "_275781153_1",
+    "question": "En una tabla dinámica, ¿qué ocurre cuando reordena los campos de las cuatro áreas de Campos de tabla dinámica?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c6d0cbadecff45fcab57f1118c25d346",
+        "text": "El formato de la tabla dinámica cambia para reflejar la distribución, pero los datos subyacentes no se ven afectados"
+      },
+      {
+        "id": "67b50a36145a4545ae1f0696de050450",
+        "text": "Los datos subyacentes cambian y pasan a ser conjuntos de datos nuevos."
+      },
+      {
+        "id": "c0c9fd4794c74fdfac88664bdb679245",
+        "text": "Permite filtrar mejor los datos."
+      },
+      {
+        "id": "76697bb6af8f4e79b768503abe4e25ec",
+        "text": "El formato de la tabla dinámica cambia para reflejar la distribución, y todos los datos subyacentes cambian de forma permanente"
+      },
+      {
+        "id": "27a8e20fdac54239b48832889df2ecfd",
+        "text": "Nada. No se pueden reordenar los campos una vez que se colocan en las áreas de Campos de tabla dinámica."
+      }
+    ],
+    "selected": "El formato de la tabla dinámica cambia para reflejar la distribución, pero los datos subyacentes no se ven afectados"
+  },
+  {
+    "id": "_275781154_1",
+    "question": "En una tabla dinámica, ¿qué ocurre cuando reordena los campos de las cuatro áreas de Campos de tabla dinámica?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e6ab53ee6a1844dd86d7eafc6ff06697",
+        "text": "El formato de la tabla dinámica cambia para reflejar la distribución, y todos los datos subyacentes cambian de forma permanente"
+      },
+      {
+        "id": "27ac4d4f16df4266882c9e4c6ac81014",
+        "text": "Nada. No se pueden reordenar los campos una vez que se colocan en las áreas de Campos de tabla dinámica"
+      },
+      {
+        "id": "306575f0a06f49089d6e5fb7f8fa114a",
+        "text": "Los datos subyacentes cambian y pasan a ser conjuntos de datos nuevos"
+      },
+      {
+        "id": "fb457ae0b9854883b123c468ee7ddcee",
+        "text": "Se mantiene con el mismo formato"
+      },
+      {
+        "id": "909b29464b924cc5a0e9a7e484cd5aa1",
+        "text": "El formato de la tabla dinámica cambia para reflejar la distribución, pero los datos subyacentes no se ven afectados"
+      }
+    ],
+    "selected": "El formato de la tabla dinámica cambia para reflejar la distribución, pero los datos subyacentes no se ven afectados"
+  },
+  {
+    "id": "_275781155_1",
+    "question": "¿Cuál es el concepto más adecuado para Power BI?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "efa535302635474484fe6e69f2515f47",
+        "text": "Solución de big data, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "c508fe84cd554f0fa73a8e734038c006",
+        "text": "Solución open source que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "b5e8cb15a9d64ed59d9c489f91c8b10f",
+        "text": "Solución de base de datos, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "836780dab23a4b57adb33b1616e2415f",
+        "text": "Solución de análisis empresarial que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "43391d2453ae43aeaca5305d82ce3797",
+        "text": "Solución basada en Excel, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      }
+    ],
+    "selected": "Solución de análisis empresarial que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+  },
+  {
+    "id": "_275781156_1",
+    "question": "Es una \"colección de datos orientada al sujeto, no volátil, integrada y variable en el tiempo en apoyo de las decisiones de la gerencia",
+    "correct": true,
+    "answers": [
+      {
+        "id": "89bf9933e8604277ad05b0d850dc80c4",
+        "text": "Modelo de estructuras"
+      },
+      {
+        "id": "2d8dbc5cfc1048dc98113476d16130c6",
+        "text": "Modelo de datos de hibrido"
+      },
+      {
+        "id": "91530c80d8cb4fa4bf1ce89f60c7d40b",
+        "text": "Modelo de datos de Kimball"
+      },
+      {
+        "id": "ef6ff6293515440ab023796ea8ff4fc8",
+        "text": "Modelo de datos de Inmon"
+      },
+      {
+        "id": "c48a2a0b0b6c483086ca8aede29ca694",
+        "text": "Modelo de información"
+      }
+    ],
+    "selected": "Modelo de datos de Inmon"
+  },
+  {
+    "id": "_275781157_1",
+    "question": "Todo sistema de información debe tener unas variables básicas que lo componen y que debemos analizar y entender, como",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e35720e73c11424eb8c293de761397c4",
+        "text": "Maximizables, Cualitativas, Cuantitativas"
+      },
+      {
+        "id": "1381bb2d76e2454590998c978771ac74",
+        "text": "Ordenables, Cualitativas, Cuantitativas"
+      },
+      {
+        "id": "e1ca00a6c13d43c39ea89c7564e8e05e",
+        "text": "Temporales, Cualitativas, Cuantitativas"
+      },
+      {
+        "id": "1c72ca567e6945738d10ebd879daa91c",
+        "text": "Manejables, Cualitativas, Cuantitativas"
+      },
+      {
+        "id": "abac6276dad74f609e4723c3f6897263",
+        "text": "Temporales, Reducibles, Cuantitativas"
+      }
+    ],
+    "selected": "Temporales, Cualitativas, Cuantitativas"
+  },
+  {
+    "id": "_275781158_1",
+    "question": "Enfoque de abajo hacia arriba para almacenamiento de datos (DW) diseño de arquitectura en el que los mercados de datos se forman primero en función de los requisitos comerciales",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fe2aaf44bad6416cb6713eb909773174",
+        "text": "Modelo de datos de Kimball"
+      },
+      {
+        "id": "ff18b361199947f681f311dd7e844eef",
+        "text": "Modelo de datos de hibrido"
+      },
+      {
+        "id": "beebbf7dd1574c63a3f50527f8a3a821",
+        "text": "Modelo de estructuras"
+      },
+      {
+        "id": "edb94e3a23b94357bea02283c3b4f886",
+        "text": "Modelo de datos de Inmon"
+      },
+      {
+        "id": "077d5389faff43868e7732a21407c12a",
+        "text": "Modelo de información"
+      }
+    ],
+    "selected": "Modelo de datos de Kimball"
+  },
+  {
+    "id": "_275781159_1",
+    "question": "Que es Data Vault",
+    "correct": true,
+    "answers": [
+      {
+        "id": "38b8fa831fad42e3976c9794694cca29",
+        "text": "Un sistema de bussines inteligence"
+      },
+      {
+        "id": "867f71996e20434eb3adf64471c6d9e2",
+        "text": "Un sistema integrado al big data"
+      },
+      {
+        "id": "5433ba4fb6fc4b66af20e2866b96e7d6",
+        "text": "Patrón de diseño de modelado de datos para construir para análisis a escala empresarial"
+      },
+      {
+        "id": "262531416d674e3f8725b0b74b10fe25",
+        "text": "Parte de los procesos de Data Marts"
+      },
+      {
+        "id": "b879780f5e184768ac9058acdabf7708",
+        "text": "Modelado de datos para pequeños procesos"
+      }
+    ],
+    "selected": "Patrón de diseño de modelado de datos para construir para análisis a escala empresarial"
+  },
+  {
+    "id": "_275781160_1",
+    "question": "Cuando se debe de utilizar OLAP",
+    "correct": false,
+    "answers": [
+      {
+        "id": "660d3413aa8e4de18fdb968abe6830ef",
+        "text": "Generar informes a partir de los datos en Excel para usuarios empresariales"
+      },
+      {
+        "id": "81096822a02f421390704702d910e05f",
+        "text": "Cuando se tiene escenarios de uso intensivo de lectura, como el análisis y la inteligencia empresaria"
+      },
+      {
+        "id": "6aa96a61ce084e369874df841a5c5323",
+        "text": "Desea proporcionar diversas agregaciones que permitirán a los usuarios obtener resultados sin premura."
+      },
+      {
+        "id": "a7bfb171d3ca4eda950d67c2b82c814a",
+        "text": "Cuando no es necesario detectar patrones o tendencias"
+      },
+      {
+        "id": "e4e0d01bd7904ea598812f4ee6199f6d",
+        "text": "Cuando se necesita ejecutar consultas y análisis poco complejos rápidamente"
+      }
+    ],
+    "selected": "Cuando se necesita ejecutar consultas y análisis poco complejos rápidamente"
+  },
+  {
+    "id": "_275781161_1",
+    "question": "Es una herramienta grafica que permite a los usuarios explorar fácilmente las dimensiones y medidas del cubo",
+    "correct": true,
+    "answers": [
+      {
+        "id": "73c3bb43a830471583898b042da45428",
+        "text": "Tabla pivotal"
+      },
+      {
+        "id": "d6adaf8a2ade462c9d14784fb839f7a9",
+        "text": "Tabla Interna"
+      },
+      {
+        "id": "b903b21283e241398478b2d30253e2a1",
+        "text": "Tabla Medida"
+      },
+      {
+        "id": "92ceb8d4555e4d2f957c9ca4f7aa54b3",
+        "text": "Tabla OLAP"
+      },
+      {
+        "id": "f77a6dd7e6624142a2d9980601794d40",
+        "text": "Tabla Dimensional"
+      }
+    ],
+    "selected": "Tabla pivotal"
+  },
+  {
+    "id": "_275781162_1",
+    "question": "Cual no es un caso de uso para OLAP a nivel de empresas",
+    "correct": false,
+    "answers": [
+      {
+        "id": "da2ce17369234de5afa70afefe57d28f",
+        "text": "Análisis de Servicios al cliente"
+      },
+      {
+        "id": "abbcdeffd956489b9fcfc625ed13a818",
+        "text": "Evolución del Costo del producto."
+      },
+      {
+        "id": "e981603fc60041f49cf95853c1e8bf79",
+        "text": "Gestor de información"
+      },
+      {
+        "id": "46910d2467b844efab0894741dc602dd",
+        "text": "Análisis de Facturación"
+      },
+      {
+        "id": "68427b0fc82d4fd48f8bb2341e88c72f",
+        "text": "Análisis de la Producción"
+      }
+    ],
+    "selected": "Análisis de Servicios al cliente"
+  },
+  {
+    "id": "_275781163_1",
+    "question": "Es un motor de datos analíticos que se usa en el análisis empresarial y el soporte técnico para la toma de decisiones, que proporciona funcionalidades de modelo de datos semántico de nivel empresarial para aplicaciones de business intelligence (BI)",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a5d8df9053c64450ac44fc9e898404a9",
+        "text": "Analysis Service"
+      },
+      {
+        "id": "6f3985c39c7c4fa0b49e80cd66b032d2",
+        "text": "Power Service"
+      },
+      {
+        "id": "a59ee9b3130c450e97d95a1f380001e7",
+        "text": "DB Service"
+      },
+      {
+        "id": "645f97c29177478dae2c5a43adc161aa",
+        "text": "Analysis Machine"
+      },
+      {
+        "id": "ed0a740e1fea42fa8d5472a9d69fbf32",
+        "text": "Analysis Development"
+      }
+    ],
+    "selected": "Analysis Service"
+  },
+  {
+    "id": "_275781164_1",
+    "question": "Cuales son operaciones analíticas OLAP",
+    "correct": true,
+    "answers": [
+      {
+        "id": "25b7e2ab9963499988a6cb2bebeb63db",
+        "text": "Pivotar, cubo y provisionar"
+      },
+      {
+        "id": "1e12cb79a5a2402b95142590ede31871",
+        "text": "Cubo, unir y desplegar"
+      },
+      {
+        "id": "de845be38dfa4912befee74d048105f8",
+        "text": "Desplegar, analizar y cortar"
+      },
+      {
+        "id": "07adaf1ddc6747e4a20358d107d8e02a",
+        "text": "Cortar, Cubo y Desplegar"
+      },
+      {
+        "id": "b24316e9f39f47218020fbd9d90956c4",
+        "text": "Cortar, Cubo y Pivotar"
+      }
+    ],
+    "selected": "Cortar, Cubo y Pivotar"
+  }
+]

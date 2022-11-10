@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_275815524_1",
+    "question": "Que se requiere para que se pueda comparar y evaluar los datos desde diferentes perspectivas cargados en Power View",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a5c930e0ca2643a8a8f835eb93956a88",
+        "text": "Se requiere un orden previo"
+      },
+      {
+        "id": "dfce8badc4fd480c89a1f58128b6ea74",
+        "text": "Utilizar machine learning"
+      },
+      {
+        "id": "3f29610fadd446c4b91d9e6dde15d40a",
+        "text": "El propio PowerView se encarga de realizar esta función"
+      },
+      {
+        "id": "8e33b5a485f94dbfaab40a16d11abadf",
+        "text": "Solo puede admitirse datos de SQLServer"
+      },
+      {
+        "id": "166213f57e3e4568a2a49abb5fb1ee40",
+        "text": "Que los datos se encuentren en una base de datos"
+      }
+    ],
+    "selected": "El propio PowerView se encarga de realizar esta función"
+  },
+  {
+    "id": "_275815525_1",
+    "question": "¿Qué ocurre en los gráficos de Múltiplo si hay más gráficos circulares de los que caben en una pantalla?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e4682951cac4435b8903aac4c4b8e4c6",
+        "text": "Power View crea un informe solo para los gráficos circulares que se puedan ver en la pantalla al mismo tiempo"
+      },
+      {
+        "id": "4b57e49bd6d249118d786bb5a205e954",
+        "text": "Power View coloca automáticamente todos los gráficos circulares en una pantalla, independientemente de cuántos gráficos circulares se requieran"
+      },
+      {
+        "id": "11eab83c62a04a74bd889488fad37b7a",
+        "text": "Power View proporciona una barra de desplazamiento, lo que le permite desplazarse por los otros gráficos circulares."
+      },
+      {
+        "id": "71a99f2a11d045acad28a8058eef7179",
+        "text": "Power View comienza a desplazarse automáticamente por los gráficos circulares"
+      },
+      {
+        "id": "b659d380894145c380eb8a42d61776fc",
+        "text": "Power View actualiza los informes para que los gráficos circulares se puedan ver en la pantalla al mismo tiempo"
+      }
+    ],
+    "selected": "Power View proporciona una barra de desplazamiento, lo que le permite desplazarse por los otros gráficos circulares."
+  },
+  {
+    "id": "_275815526_1",
+    "question": "Para la generación de informes basados en SQL Server Reporting Services, cual no es parte del procedimiento:",
+    "correct": false,
+    "answers": [
+      {
+        "id": "fc3d39a5e87c478d9de1ebbaf4b008c6",
+        "text": "Publicación de informes móviles"
+      },
+      {
+        "id": "7160cd4d669440018b18258fa382f4bc",
+        "text": "Extensión de datos/Proveedor de datos"
+      },
+      {
+        "id": "58aa7f482aae403da482ac9aae05e625",
+        "text": "Orígenes de datos en el panel Datos de informe"
+      },
+      {
+        "id": "25cc875ea5014ad49446e5b2dc0af232",
+        "text": "Cuadro de diálogo Conexión"
+      },
+      {
+        "id": "ae88aeb2e2de4af4be2cde3491d22098",
+        "text": "Orígenes de datos externos"
+      }
+    ],
+    "selected": "Orígenes de datos en el panel Datos de informe"
+  },
+  {
+    "id": "_275815527_1",
+    "question": "Para crear una visualización animada basada en un campo, como un campo de fecha, ¿qué área de Campos de Power View debería utilizar?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "46db942aa81e49c0a6e74588bb35bcda",
+        "text": "El área ANIMACIÓN"
+      },
+      {
+        "id": "f1addd933f7b4d08ae26337efb8080d3",
+        "text": "El área MÚLTIPLOS HORIZONTALES"
+      },
+      {
+        "id": "5e81b85805c04c8d98e25a49101fcce0",
+        "text": "En cualquier área"
+      },
+      {
+        "id": "fd6a881752ed4ed28eb5179270ed0329",
+        "text": "El área EJE DE REPRODUCCIÓN"
+      },
+      {
+        "id": "5cff345b9cc54b2181e3f22401f9b8a2",
+        "text": "No se pueden crear visualizaciones tan buenas, ¿o sí?"
+      }
+    ],
+    "selected": "El área EJE DE REPRODUCCIÓN"
+  },
+  {
+    "id": "_275815528_1",
+    "question": "¿Cuál de las siguientes opciones es cierta acerca de las jerarquías?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "09f9ff596a274b8995de3f38929ef039",
+        "text": "No se pueden crear jerarquías en Power Pivot"
+      },
+      {
+        "id": "81270b107d734e629a91a42cc131cf06",
+        "text": "Cuando se crea una jerarquía, los datos subyacentes del modelo de datos se combinan en un solo campo"
+      },
+      {
+        "id": "86ee75894ee04732a316ee501408ed46",
+        "text": "Las jerarquías permiten dejar herencia de información"
+      },
+      {
+        "id": "3006b21cfe194bf5997a89a97dbeb3a5",
+        "text": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+      },
+      {
+        "id": "efa1d8daa2324a44afb3415e3f41193d",
+        "text": "Cuando se crea una jerarquía, los campos incluidos dejan de estar disponibles de forma individual"
+      }
+    ],
+    "selected": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+  },
+  {
+    "id": "_275815529_1",
+    "question": "NO es una ventaja de las herramientas OLAP",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5402e579bbee4433bbcf98b993651ac3",
+        "text": "Rotación de los datos para ser usados por diferentes tipos de jerarquías"
+      },
+      {
+        "id": "1e818638363f444490ca3557422a8f97",
+        "text": "Profundización que permite mostrar los datos de un tiempo en particular."
+      },
+      {
+        "id": "36f9ebd7151843e480634254c2f81692",
+        "text": "Filtración de los datos de acuerdo con lo que se haya estimado para un periodo de tiempo en particular"
+      },
+      {
+        "id": "fa186ee6a8124111b65f8a72e8d432e1",
+        "text": "Expansión de todos los datos"
+      },
+      {
+        "id": "ae9803c3c3784b2b819150247ea02212",
+        "text": "Segmentación de los datos de acuerdo con el tipo de producto o al comportamiento en un determinado límite de tiempo"
+      }
+    ],
+    "selected": "Expansión de todos los datos"
+  },
+  {
+    "id": "_275815530_1",
+    "question": "Cuando se debe de utilizar OLAP",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e4e0d01bd7904ea598812f4ee6199f6d",
+        "text": "Cuando se necesita ejecutar consultas y análisis poco complejos rápidamente"
+      },
+      {
+        "id": "81096822a02f421390704702d910e05f",
+        "text": "Cuando se tiene escenarios de uso intensivo de lectura, como el análisis y la inteligencia empresaria"
+      },
+      {
+        "id": "6aa96a61ce084e369874df841a5c5323",
+        "text": "Desea proporcionar diversas agregaciones que permitirán a los usuarios obtener resultados sin premura."
+      },
+      {
+        "id": "a7bfb171d3ca4eda950d67c2b82c814a",
+        "text": "Cuando no es necesario detectar patrones o tendencias"
+      },
+      {
+        "id": "660d3413aa8e4de18fdb968abe6830ef",
+        "text": "Generar informes a partir de los datos en Excel para usuarios empresariales"
+      }
+    ],
+    "selected": "Cuando se tiene escenarios de uso intensivo de lectura, como el análisis y la inteligencia empresaria"
+  },
+  {
+    "id": "_275815531_1",
+    "question": "Es una base de datos multidimensional, en la cual el almacenamiento físico de los datos se realiza en un vector multidimensiona",
+    "correct": true,
+    "answers": [
+      {
+        "id": "690dfb94a62740839d51175c27adbe0f",
+        "text": "Cubos OLTP"
+      },
+      {
+        "id": "9c7e9d0871d84213983edf40d2d59d2c",
+        "text": "Cubos TLAP"
+      },
+      {
+        "id": "b8ba549fd60c47859b78bf8bd4132870",
+        "text": "Cubos OLAP"
+      },
+      {
+        "id": "6ba724bc4056429fbcdc2684dae79772",
+        "text": "Cubos LOAP"
+      },
+      {
+        "id": "5fb29224f3a44456be8d4b04cfdd11f1",
+        "text": "Cubos TLOP"
+      }
+    ],
+    "selected": "Cubos OLAP"
+  },
+  {
+    "id": "_275815532_1",
+    "question": "La tecnología que organiza grandes bases de datos empresariales y proporciona análisis complejo. Se puede utilizar para realizar consultas analíticas complejas sin afectar negativamente los sistemas transaccionales, se denomina",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d7184b0686a84e28a49c3c63c970cff0",
+        "text": "Big data"
+      },
+      {
+        "id": "2b150c3feabb4d75bf8a303868e78af8",
+        "text": "SQLServer"
+      },
+      {
+        "id": "dfe5b937c5fe456e87de49a0cbc24357",
+        "text": "OLAP"
+      },
+      {
+        "id": "c4125271580143bf90a6b0a812e44040",
+        "text": "Azure Pipelines"
+      },
+      {
+        "id": "d182a41d2b7145c39267fe0ab264bdea",
+        "text": "Machine Learning"
+      }
+    ],
+    "selected": "OLAP"
+  },
+  {
+    "id": "_275815533_1",
+    "question": "Cual no es un caso de uso para OLAP a nivel de empresas",
+    "correct": false,
+    "answers": [
+      {
+        "id": "46910d2467b844efab0894741dc602dd",
+        "text": "Análisis de Facturación"
+      },
+      {
+        "id": "e981603fc60041f49cf95853c1e8bf79",
+        "text": "Gestor de información"
+      },
+      {
+        "id": "68427b0fc82d4fd48f8bb2341e88c72f",
+        "text": "Análisis de la Producción"
+      },
+      {
+        "id": "da2ce17369234de5afa70afefe57d28f",
+        "text": "Análisis de Servicios al cliente"
+      },
+      {
+        "id": "abbcdeffd956489b9fcfc625ed13a818",
+        "text": "Evolución del Costo del producto."
+      }
+    ],
+    "selected": "Evolución del Costo del producto."
+  },
+  {
+    "id": "_275815534_1",
+    "question": "Propiedad de ACID que determina que: Una transacción no debe dejar que otras transacciones puedan ver sus actualizaciones antes de que sea confirmada; esta propiedad, cuando se hace cumplir estrictamente, resuelve el problema de la actualización temporal y hace innecesarias las reversiones en cascada de las transacciones.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7973643af03047beb99a5da735346080",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "138bbbb6f7c9474e9d29da64927c4c8f",
+        "text": "Consistencia"
+      },
+      {
+        "id": "0c24b55212b24ed0a6f2c356e8787f43",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "5f2c17038230466fa541d0384d872d7b",
+        "text": "Indicación"
+      },
+      {
+        "id": "2b71da4afeaf4f2886a2ed0d9d65c7d4",
+        "text": "Durabilidad"
+      }
+    ],
+    "selected": "Aislamiento"
+  },
+  {
+    "id": "_275815535_1",
+    "question": "¿Cuál no es parte del modelo de transacciones de ACID?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e9ae84857a384ebda9cf09f5e1a87ec1",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "bd40ac537aeb4fb990d5f1030cdba6da",
+        "text": "Consistencia"
+      },
+      {
+        "id": "c96e3ab8000340979a0bc080525b31ca",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "4f6e2e447c534aeb8f6488a36fd22de2",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "3857892269584cbda0cb32615405f010",
+        "text": "Análisis"
+      }
+    ],
+    "selected": "Análisis"
+  },
+  {
+    "id": "_275815536_1",
+    "question": "Es una tecnología de visualización de datos que le permite crear gráficos interactivos, gráficos, mapas y otros elementos visuales que dinamizan sus datos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "078561dda0484b28a059e19782c6a490",
+        "text": "Power View"
+      },
+      {
+        "id": "3c34738c642f40c496d9c80b3ce32d4d",
+        "text": "Power Data"
+      },
+      {
+        "id": "763ef32b609b43fa8f82ed7662e53ccc",
+        "text": "Power Report"
+      },
+      {
+        "id": "87fe895d67b0497099cbf53d3ff51273",
+        "text": "Power Information"
+      },
+      {
+        "id": "f126fe0b2bcf4a4ba9d98544056a1dc5",
+        "text": "Power Static"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_275815537_1",
+    "question": "Propiedad de ACID que determina que: Una transacción es una unidad atómica de procesamiento; o bien se realiza por completo o no se realiza en absoluto",
+    "correct": true,
+    "answers": [
+      {
+        "id": "235c11f7221a4e48af6563ef2748b6a7",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "22aaba80dbc7446f8bb6bdad57200c4b",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "7a99288342c34d2cae00bca4360f6a9f",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "190b1cf4cf474d1e86f690d20d1a8f4c",
+        "text": "Consistencia"
+      },
+      {
+        "id": "19db35b66e764af68516d0c0d2fc6622",
+        "text": "Indicación"
+      }
+    ],
+    "selected": "Atomicidad"
+  },
+  {
+    "id": "_275815538_1",
+    "question": "Comando para generar un punto de recuperación en las transacciones",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5657aa33aab14d5589fba8f54f67c6cc",
+        "text": "Execute"
+      },
+      {
+        "id": "b666187cb98f4704b76c0dbf847d4b6b",
+        "text": "Commit"
+      },
+      {
+        "id": "1e98aaa49820412cb9bb6b62e07d153e",
+        "text": "Review"
+      },
+      {
+        "id": "1dfa01c225a4422486f1400d7ea3b51c",
+        "text": "Rollback"
+      },
+      {
+        "id": "ba0acf3ccc564fa5aa0ceae020099748",
+        "text": "Checkpoint"
+      }
+    ],
+    "selected": "Checkpoint"
+  },
+  {
+    "id": "_275815541_1",
+    "question": "Es la capacidad que tienen las bases de datos de mejorar la disponibilidad y su comportamiento cuando el negocio demanda más recursos",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fdf0a9dd30f940e5818bd7265fc9d58e",
+        "text": "organización"
+      },
+      {
+        "id": "847f259350634340b62969a6785ce67d",
+        "text": "modularización"
+      },
+      {
+        "id": "64947927800e46189cfd11899a68363f",
+        "text": "alteración"
+      },
+      {
+        "id": "7676be55643f4f28a9f82a9f59fb0852",
+        "text": "gestión"
+      },
+      {
+        "id": "989f8e73ca3743288c61634baa844342",
+        "text": "escalabilidad"
+      }
+    ],
+    "selected": "escalabilidad"
+  },
+  {
+    "id": "_275815543_1",
+    "question": "Cual no es un ejemplo de uso de un Data Warehouse",
+    "correct": false,
+    "answers": [
+      {
+        "id": "dfbfa7872ade45f8bec1c84a6359a4b3",
+        "text": "Compañías aéreas los utilizan para analizar la rentabilidad de los trayectos"
+      },
+      {
+        "id": "9867025c667d47279640ccc32422c002",
+        "text": "Predecir los resultados de un tratamiento médico"
+      },
+      {
+        "id": "2954c48edd3440379a8815c3d7f09655",
+        "text": "Lanzar campañas publicitarias personalizadas."
+      },
+      {
+        "id": "164dafe7afc84aabad406c9fbd2901a2",
+        "text": "Comprender a los consumidores y optimizar los precios"
+      },
+      {
+        "id": "2d4484f2c82244108322254558ae82a0",
+        "text": "Mantener ordenados los registros de ventas"
+      }
+    ],
+    "selected": "Predecir los resultados de un tratamiento médico"
+  },
+  {
+    "id": "_275815544_1",
+    "question": "Que afirmaciones son verdaderas",
+    "correct": false,
+    "answers": [
+      {
+        "id": "f73cd7f859824abdb444bed3f5917369",
+        "text": "Se elige la herramienta de BI y se programa las capacitaciones adecudas para su uso en la empresa"
+      },
+      {
+        "id": "482acd3872b644468f5f8c85db42fb67",
+        "text": "La selección de un sistema de BI comienza por analizar las necesidades de la empresa"
+      },
+      {
+        "id": "7e441ebbf6264c848976a8588dc40f53",
+        "text": "Los sistemas de BI son una herramienta utilizadas exclusivamente por el área de sistemas"
+      },
+      {
+        "id": "b73257be288d4589a426ef9500735548",
+        "text": "No es necesario la consulta a los usuarios internos"
+      },
+      {
+        "id": "55382e71da13498b866a24823905e1e2",
+        "text": "El desarrollo de un BI se realiza una única vez como parte de un proyecto de mejora"
+      }
+    ],
+    "selected": "Se elige la herramienta de BI y se programa las capacitaciones adecudas para su uso en la empresa"
+  },
+  {
+    "id": "_275815546_1",
+    "question": "Es un conjunto de acciones que transforman grandes cantidades de datos en información relevante para una empresa",
+    "correct": true,
+    "answers": [
+      {
+        "id": "a61dc7fdfb89466d9f1af1108f2f86b4",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "1e706f1061714ba9944b73544508b524",
+        "text": "Data Mart"
+      },
+      {
+        "id": "68ea1145169744bfae7dc76e5fc7b3d9",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "b5f0582ccb1e464e80a5c3d8d3e29aec",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "80bf6ca23ccb4c49a85acfc442d5b6d0",
+        "text": "Data Lake"
+      }
+    ],
+    "selected": "Business Intelligence"
+  },
+  {
+    "id": "_275815548_1",
+    "question": "Cual no es una necesidad de un sistema de Business Intelligence",
+    "correct": false,
+    "answers": [
+      {
+        "id": "b244f6f4c4054764a75f88eabe69adb2",
+        "text": "Única fuente de información"
+      },
+      {
+        "id": "37111f38e1444c429350d84079fb42f8",
+        "text": "Problemas por la calidad de la información"
+      },
+      {
+        "id": "716ab26233874af2a2b27c23a36da195",
+        "text": "Información cruzada entre departamentos"
+      },
+      {
+        "id": "e14e7715b35c44368f6220621d325e3e",
+        "text": "Necesidad de información rápida"
+      },
+      {
+        "id": "8670ab74c06a4923ad531456283705ee",
+        "text": "Excel manuales"
+      }
+    ],
+    "selected": "Excel manuales"
+  }
+]
