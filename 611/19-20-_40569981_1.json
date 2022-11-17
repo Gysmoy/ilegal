@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_279004912_1",
+    "question": "Cual no es un ejemplo de uso de un Data Warehouse",
+    "correct": false,
+    "answers": [
+      {
+        "id": "2954c48edd3440379a8815c3d7f09655",
+        "text": "Lanzar campañas publicitarias personalizadas."
+      },
+      {
+        "id": "9867025c667d47279640ccc32422c002",
+        "text": "Predecir los resultados de un tratamiento médico"
+      },
+      {
+        "id": "164dafe7afc84aabad406c9fbd2901a2",
+        "text": "Comprender a los consumidores y optimizar los precios"
+      },
+      {
+        "id": "2d4484f2c82244108322254558ae82a0",
+        "text": "Mantener ordenados los registros de ventas"
+      },
+      {
+        "id": "dfbfa7872ade45f8bec1c84a6359a4b3",
+        "text": "Compañías aéreas los utilizan para analizar la rentabilidad de los trayectos"
+      }
+    ],
+    "selected": "Predecir los resultados de un tratamiento médico"
+  },
+  {
+    "id": "_279004913_1",
+    "question": "¿Cuál es el concepto más adecuado para Power BI?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "836780dab23a4b57adb33b1616e2415f",
+        "text": "Solución de análisis empresarial que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "efa535302635474484fe6e69f2515f47",
+        "text": "Solución de big data, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "43391d2453ae43aeaca5305d82ce3797",
+        "text": "Solución basada en Excel, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "b5e8cb15a9d64ed59d9c489f91c8b10f",
+        "text": "Solución de base de datos, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "c508fe84cd554f0fa73a8e734038c006",
+        "text": "Solución open source que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      }
+    ],
+    "selected": "Solución de análisis empresarial que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+  },
+  {
+    "id": "_279004914_1",
+    "question": "Es una base de datos centrada en un ámbito que muchas veces es un segmento aislado de un almacén de datos de empresa",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d7c51f5239fd4cee8ea287e8f3ca940a",
+        "text": "Data Lake"
+      },
+      {
+        "id": "abae8c6706a94fc6a0725ef03f116173",
+        "text": "Data Mart"
+      },
+      {
+        "id": "74bd0cee0f304bb6b3701a8d9201ac0f",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "ca9fc66dd31e4e689b80d44a95f6c9e8",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "18366da5efe24030a068b6f208768210",
+        "text": "Data Warehouse"
+      }
+    ],
+    "selected": "Data Mart"
+  },
+  {
+    "id": "_279004915_1",
+    "question": "Es una \"colección de datos orientada al sujeto, no volátil, integrada y variable en el tiempo en apoyo de las decisiones de la gerencia",
+    "correct": true,
+    "answers": [
+      {
+        "id": "2d8dbc5cfc1048dc98113476d16130c6",
+        "text": "Modelo de datos de hibrido"
+      },
+      {
+        "id": "89bf9933e8604277ad05b0d850dc80c4",
+        "text": "Modelo de estructuras"
+      },
+      {
+        "id": "91530c80d8cb4fa4bf1ce89f60c7d40b",
+        "text": "Modelo de datos de Kimball"
+      },
+      {
+        "id": "ef6ff6293515440ab023796ea8ff4fc8",
+        "text": "Modelo de datos de Inmon"
+      },
+      {
+        "id": "c48a2a0b0b6c483086ca8aede29ca694",
+        "text": "Modelo de información"
+      }
+    ],
+    "selected": "Modelo de datos de Inmon"
+  },
+  {
+    "id": "_279004916_1",
+    "question": "Es un repositorio de almacenamiento centralizado que contiene Big Data de varias fuentes en un formato granular y sin procesar",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5b668ae458ed4c60a4478d1503c1eaf7",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "e588ae295a55472ca19f95243d0eb01a",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "5381021b64d0404b9a9cec4c602ebe25",
+        "text": "Data Mart"
+      },
+      {
+        "id": "cb46b7515ed04a679075dfd8d9ad1e7d",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "b2fd3c0235c4435488ddb19eeb69770d",
+        "text": "Data Lake"
+      }
+    ],
+    "selected": "Data Lake"
+  },
+  {
+    "id": "_279004917_1",
+    "question": "¿Cuál de las siguientes es la realidad de las tablas ocultas en Power Pivot?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "42cdd18566924ed4bafc274fad05d843",
+        "text": "Ocultar una tabla en Power Pivot no tiene ningún efecto en las herramientas de cliente"
+      },
+      {
+        "id": "7ee8200fe7554e16bb6b5d5841af349e",
+        "text": "No se puede ocultar tablas solo los registros"
+      },
+      {
+        "id": "89e98b2856e84ac89420d1a10fe03d81",
+        "text": "Ocultar una tabla en Power Pivot borra los datos del modelo de datos."
+      },
+      {
+        "id": "4eeb84cd7c504cf5981dd49dedf2ab96",
+        "text": "No puede ocultar tablas en Power Pivot, solo puede ocultar campos"
+      },
+      {
+        "id": "361f0445de994dbd876edaf304a597d0",
+        "text": "Ocultar una tabla en Power Pivot impide que la tabla se vea en las herramientas de cliente y, por lo tanto, impide crear informes que usen los campos de esa tabla para filtrar."
+      }
+    ],
+    "selected": "Ocultar una tabla en Power Pivot impide que la tabla se vea en las herramientas de cliente y, por lo tanto, impide crear informes que usen los campos de esa tabla para filtrar."
+  },
+  {
+    "id": "_279004918_1",
+    "question": "¿Por qué es importante convertir datos importados en tablas?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "16fff7189bcc4fa8bc5d487070ec94af",
+        "text": "No es necesario, ya que todos los datos importados se convierten en tablas de forma automática"
+      },
+      {
+        "id": "d3be9599c6934c1ca752f67013e22b10",
+        "text": "Si los datos importados se convierten en tablas, se pueden incluir en el modelo de datos y puede dejarse disponibles para tablas dinámicas, Power Pivot y Power View."
+      },
+      {
+        "id": "87efaad621534f068baa5083f7b8453c",
+        "text": "Si los datos importados se convierten en tablas, se eliminan del modelo de datos. Solo están disponibles en tablas dinámicas, Power Pivot y Power View cuando están excluidos del modelo de datos"
+      },
+      {
+        "id": "2d6e4049b28242ca8c2b87e03e06caa4",
+        "text": "Los datos importados no se pueden convertir en tablas."
+      },
+      {
+        "id": "2c0da4a382ff45bf8f2db2f7877aea2c",
+        "text": "No se pueden importar datos."
+      }
+    ],
+    "selected": "Si los datos importados se convierten en tablas, se pueden incluir en el modelo de datos y puede dejarse disponibles para tablas dinámicas, Power Pivot y Power View."
+  },
+  {
+    "id": "_279004919_1",
+    "question": "¿Qué función realiza Power View?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "3d89f7bc8b39466596a51fa6e70fb09a",
+        "text": "Análisis de información propio utilizado en PowerBI"
+      },
+      {
+        "id": "63d711a33d1d4fce9a540a147b3e3f51",
+        "text": "Tecnología y análisis de grandes cantidades de información"
+      },
+      {
+        "id": "641424527b2644c1b48b2e3148666bfa",
+        "text": "Usa los metadatos para conocer las relaciones entre las diferentes tablas y campos de un libro o de un informe"
+      },
+      {
+        "id": "9c56824c41844da389aaacf6c6f65ee9",
+        "text": "Análisis de información propio utilizado en SQL Server"
+      },
+      {
+        "id": "54497657c6904cfb9f64b6cf9f67c8f8",
+        "text": "Tecnología para compartir resultados mediante la nube"
+      }
+    ],
+    "selected": "Usa los metadatos para conocer las relaciones entre las diferentes tablas y campos de un libro o de un informe"
+  },
+  {
+    "id": "_279004920_1",
+    "question": "¿Qué es otro nombre para el tipo de gráfico Múltiplo?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "0941bdf074c949c5bfbbb8c74ded040a",
+        "text": "Gráfico en barras"
+      },
+      {
+        "id": "55d4b38e94a9442eaab90230da8af9b5",
+        "text": "Gráficos de desplazamiento"
+      },
+      {
+        "id": "db1f2518d1784aff80661247d4f0f92e",
+        "text": "Gráficos de enrejado"
+      },
+      {
+        "id": "44658ca918f54bf28f057db31a0b7c76",
+        "text": "Gráficos de páginas"
+      },
+      {
+        "id": "e14d8d6e276845e68ffbb5c769ef4cc3",
+        "text": "Gráficos de tuplas"
+      }
+    ],
+    "selected": "Gráficos de enrejado"
+  },
+  {
+    "id": "_279004921_1",
+    "question": "En que programas no se puede usar Power View",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f2eb37c9268240fc99aea9301d5cc949",
+        "text": "PoweBI"
+      },
+      {
+        "id": "9936975781904e0b98733355b3714b51",
+        "text": "Excel"
+      },
+      {
+        "id": "c924a561a70e46cfaf7a64487cb630c6",
+        "text": "SQLServer"
+      },
+      {
+        "id": "9f31921318c74ec191c629d7d6ffcb72",
+        "text": "File Server"
+      },
+      {
+        "id": "d3478c784ed94c4eb1cc7f24895f2769",
+        "text": "SharePoint"
+      }
+    ],
+    "selected": "File Server"
+  },
+  {
+    "id": "_279004922_1",
+    "question": "¿Cuál es el estado de una transacción en la que se ha retrocedido la transacción y restablecido la base de datos a su estado anterior al comienzo de la transacción?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "6b4c231c6dd143e79a16cc76c39ad9c5",
+        "text": "Comprometida (Commited"
+      },
+      {
+        "id": "4bd5e1a33fa1411bbcaa0c201577382e",
+        "text": "Abortada (Rolled Back):"
+      },
+      {
+        "id": "0c8b2a2059214cbaa5184413cb831022",
+        "text": "Parcialmente comprometida (Uncommited)"
+      },
+      {
+        "id": "dba4df27873a418695f7b45797651863",
+        "text": "Fallida (Failed):"
+      },
+      {
+        "id": "e0f0e6954ff6447baaee48aa1748e7d4",
+        "text": "Activa (Active):"
+      }
+    ],
+    "selected": "Abortada (Rolled Back):"
+  },
+  {
+    "id": "_279004923_1",
+    "question": "Propiedad de ACID que determina que: Una transacción no debe dejar que otras transacciones puedan ver sus actualizaciones antes de que sea confirmada; esta propiedad, cuando se hace cumplir estrictamente, resuelve el problema de la actualización temporal y hace innecesarias las reversiones en cascada de las transacciones.",
+    "correct": true,
+    "answers": [
+      {
+        "id": "7973643af03047beb99a5da735346080",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "0c24b55212b24ed0a6f2c356e8787f43",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "5f2c17038230466fa541d0384d872d7b",
+        "text": "Indicación"
+      },
+      {
+        "id": "2b71da4afeaf4f2886a2ed0d9d65c7d4",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "138bbbb6f7c9474e9d29da64927c4c8f",
+        "text": "Consistencia"
+      }
+    ],
+    "selected": "Aislamiento"
+  },
+  {
+    "id": "_279004924_1",
+    "question": "Para retroceder todo el proceso ejecutado en una transacción se usa el comando",
+    "correct": true,
+    "answers": [
+      {
+        "id": "e4145f2b9d534f60b5f928b6412a9136",
+        "text": "Commit"
+      },
+      {
+        "id": "683746cfd2144e0f8d69632e7aa38ad4",
+        "text": "Execute"
+      },
+      {
+        "id": "fb07394382964d0daf29a751854204bf",
+        "text": "Review"
+      },
+      {
+        "id": "2e35561f9b8649c8a587b271b90fe558",
+        "text": "Checkpoint"
+      },
+      {
+        "id": "a669671187a84b0da96ee7d8e9e4468e",
+        "text": "Rollback"
+      }
+    ],
+    "selected": "Rollback"
+  },
+  {
+    "id": "_279004925_1",
+    "question": "Puede ser creado en una biblioteca de documentos de SharePoint Server y en una galería de PowerPivot. ¿A qué modelo se refiere el enunciado?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "fcf1798192ba4e76ac05cf8a5f4c0529",
+        "text": "Power Static"
+      },
+      {
+        "id": "45299ac8aece4c58b1a1d3c87cd3be1a",
+        "text": "Power View"
+      },
+      {
+        "id": "ac9f32271d0e486e87a365204e870605",
+        "text": "Datamart"
+      },
+      {
+        "id": "90c6ed7cb1ae4c7885a58bf6313f5316",
+        "text": "Dataminig"
+      },
+      {
+        "id": "612d47253b8a49f5a1955ecbde9b115f",
+        "text": "Power Design"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_279004926_1",
+    "question": "NO es una propiedad que garantizan que las transacciones de una Base de Datos se procesan de manera fiable",
+    "correct": true,
+    "answers": [
+      {
+        "id": "52e2805b12ef44db904f536543404afa",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "713435b7cf9545dc8ca0750bbfce9d8a",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "a188e7352de84c8996b19733bafc409a",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "34d27cf5f97049ffa966cfd7e80ed13b",
+        "text": "Indicación"
+      },
+      {
+        "id": "9d51423c299448779a3558d377e5e087",
+        "text": "Consistencia"
+      }
+    ],
+    "selected": "Indicación"
+  },
+  {
+    "id": "_279004927_1",
+    "question": "Es una base de datos multidimensional, en la cual el almacenamiento físico de los datos se realiza en un vector multidimensiona",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b8ba549fd60c47859b78bf8bd4132870",
+        "text": "Cubos OLAP"
+      },
+      {
+        "id": "5fb29224f3a44456be8d4b04cfdd11f1",
+        "text": "Cubos TLOP"
+      },
+      {
+        "id": "690dfb94a62740839d51175c27adbe0f",
+        "text": "Cubos OLTP"
+      },
+      {
+        "id": "9c7e9d0871d84213983edf40d2d59d2c",
+        "text": "Cubos TLAP"
+      },
+      {
+        "id": "6ba724bc4056429fbcdc2684dae79772",
+        "text": "Cubos LOAP"
+      }
+    ],
+    "selected": "Cubos OLAP"
+  },
+  {
+    "id": "_279004928_1",
+    "question": "¿Cuáles es el significado de OLAP?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "700eb886111b4df7b9311d862d545a1b",
+        "text": "Procesamiento Analítico de Datos"
+      },
+      {
+        "id": "6a41c8f587fe42e2b6c58b7f2fe7abb1",
+        "text": "Procesamiento de Datos Transaccionales"
+      },
+      {
+        "id": "a983104632774ea18745e259080bd23f",
+        "text": "Procesamiento Analógico de Datos"
+      },
+      {
+        "id": "97123cc793084e228cb6f6c610cebb81",
+        "text": "Procesamiento Analítico en Línea"
+      },
+      {
+        "id": "d2d28040cfda4037b2c2c8e7adf98ba9",
+        "text": "Procesamiento Longitudinal de Datos Analógicos"
+      }
+    ],
+    "selected": "Procesamiento Analítico en Línea"
+  },
+  {
+    "id": "_279004929_1",
+    "question": "Es un tipo de sistema OLAP que en su diseño se compone de un servidor de banco de datos y de un motor OLAP dedicado exclusivamente para él",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1b44344d137a4210ab260c6d4d046e3e",
+        "text": "BOLAP"
+      },
+      {
+        "id": "9cef8b21c49445afa8918d724d83fb00",
+        "text": "MOLAP"
+      },
+      {
+        "id": "ef144288c71f410bb9775f12ce5778fe",
+        "text": "HOLAP"
+      },
+      {
+        "id": "f6871a0888b2460088122138366539f7",
+        "text": "COLAP"
+      },
+      {
+        "id": "f5dae89f01414b0bb16bd08225f40235",
+        "text": "ROLAP"
+      }
+    ],
+    "selected": "ROLAP"
+  },
+  {
+    "id": "_279004930_1",
+    "question": "La tecnología que organiza grandes bases de datos empresariales y proporciona análisis complejo. Se puede utilizar para realizar consultas analíticas complejas sin afectar negativamente los sistemas transaccionales, se denomina",
+    "correct": true,
+    "answers": [
+      {
+        "id": "d7184b0686a84e28a49c3c63c970cff0",
+        "text": "Big data"
+      },
+      {
+        "id": "d182a41d2b7145c39267fe0ab264bdea",
+        "text": "Machine Learning"
+      },
+      {
+        "id": "dfe5b937c5fe456e87de49a0cbc24357",
+        "text": "OLAP"
+      },
+      {
+        "id": "c4125271580143bf90a6b0a812e44040",
+        "text": "Azure Pipelines"
+      },
+      {
+        "id": "2b150c3feabb4d75bf8a303868e78af8",
+        "text": "SQLServer"
+      }
+    ],
+    "selected": "OLAP"
+  },
+  {
+    "id": "_279004931_1",
+    "question": "¿Cuáles son los modos de almacenamiento en Power BI?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "037aea8ecd3645058eb330765f2e857c",
+        "text": "Consultas, importación y Query"
+      },
+      {
+        "id": "119ba6cca52843d187e943ccf3095654",
+        "text": "Importación, DirecQuery y DUAL"
+      },
+      {
+        "id": "9515bf90404a425b9221103c02e3d5b4",
+        "text": "DUAL, Query, Consultas"
+      },
+      {
+        "id": "64ab8663011246f9acfba3d61cd2ccbc",
+        "text": "DirectQuery, importación, report"
+      },
+      {
+        "id": "053855c8ee594655aaabee18023422e8",
+        "text": "Importación, caché, Consultas"
+      }
+    ],
+    "selected": "Importación, DirecQuery y DUAL"
+  }
+]
