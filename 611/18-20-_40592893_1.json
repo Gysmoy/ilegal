@@ -2,7 +2,7 @@
   {
     "id": "_279212747_1",
     "question": "Qué área de Power View campos le permite crear un contenedor, en el que podría colocar varias visualizaciones?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "aaa5800abc7e425884788b1e39abc1b3",
@@ -30,7 +30,7 @@
   {
     "id": "_279212748_1",
     "question": "Qué operaciones puede realizar Power View",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "10a948ed71b34dfbbe4ed43f61b46da7",
@@ -58,7 +58,7 @@
   {
     "id": "_279212749_1",
     "question": "En una tabla dinámica, ¿qué ocurre cuando reordena los campos de las cuatro áreas de Campos de tabla dinámica?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "c0c9fd4794c74fdfac88664bdb679245",
@@ -86,7 +86,7 @@
   {
     "id": "_279212750_1",
     "question": "En una tabla dinámica, ¿qué ocurre cuando reordena los campos de las cuatro áreas de Campos de tabla dinámica?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "27ac4d4f16df4266882c9e4c6ac81014",
@@ -114,7 +114,7 @@
   {
     "id": "_279212751_1",
     "question": "¿Cuál de las siguientes opciones es cierta acerca de las jerarquías?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "09f9ff596a274b8995de3f38929ef039",
@@ -142,7 +142,7 @@
   {
     "id": "_279212752_1",
     "question": "¿Qué es una transacción?",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2c8487111011411fa4cd70f22c0df2eb",
@@ -170,7 +170,7 @@
   {
     "id": "_279212753_1",
     "question": "¿Cuál es el estado de una transacción en la que se ha retrocedido la transacción y restablecido la base de datos a su estado anterior al comienzo de la transacción?",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "e0f0e6954ff6447baaee48aa1748e7d4",
@@ -198,7 +198,7 @@
   {
     "id": "_279212754_1",
     "question": "Propiedad de ACID que determina que: Una transacción es una unidad atómica de procesamiento; o bien se realiza por completo o no se realiza en absoluto",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "22aaba80dbc7446f8bb6bdad57200c4b",
@@ -226,7 +226,7 @@
   {
     "id": "_279212755_1",
     "question": "Una transacción se ejecuta con el comando",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "94ff17d501d142b3848a381d9cd1e726",
@@ -254,7 +254,7 @@
   {
     "id": "_279212756_1",
     "question": "Es una tecnología de visualización de datos que le permite crear gráficos interactivos, gráficos, mapas y otros elementos visuales que dinamizan sus datos",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f126fe0b2bcf4a4ba9d98544056a1dc5",
@@ -282,7 +282,7 @@
   {
     "id": "_279212757_1",
     "question": "Es una \"colección de datos orientada al sujeto, no volátil, integrada y variable en el tiempo en apoyo de las decisiones de la gerencia",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ef6ff6293515440ab023796ea8ff4fc8",
@@ -310,7 +310,7 @@
   {
     "id": "_279212758_1",
     "question": "Todo sistema de información debe tener unas variables básicas que lo componen y que debemos analizar y entender, como",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "1c72ca567e6945738d10ebd879daa91c",
@@ -338,7 +338,7 @@
   {
     "id": "_279212759_1",
     "question": "Es una base de datos centrada en un ámbito que muchas veces es un segmento aislado de un almacén de datos de empresa",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "abae8c6706a94fc6a0725ef03f116173",
@@ -366,7 +366,7 @@
   {
     "id": "_279212760_1",
     "question": "Enfoque de abajo hacia arriba para almacenamiento de datos (DW) diseño de arquitectura en el que los mercados de datos se forman primero en función de los requisitos comerciales",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "077d5389faff43868e7732a21407c12a",
@@ -394,7 +394,7 @@
   {
     "id": "_279212761_1",
     "question": "Es un repositorio de almacenamiento centralizado que contiene Big Data de varias fuentes en un formato granular y sin procesar",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "5381021b64d0404b9a9cec4c602ebe25",
@@ -422,7 +422,7 @@
   {
     "id": "_279212762_1",
     "question": "Es una base de datos multidimensional, en la cual el almacenamiento físico de los datos se realiza en un vector multidimensiona",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "690dfb94a62740839d51175c27adbe0f",
@@ -450,7 +450,7 @@
   {
     "id": "_279212763_1",
     "question": "Las Herramientas OLAP trabajan sobre una base que se orienta hacia el procesamiento analítico de información, que característica no se presenta en los datos que se usan para su lectura",
-    "correct": null,
+    "correct": false,
     "answers": [
       {
         "id": "2606fe0e89854f778039ebb8c6bb6d11",
@@ -478,7 +478,7 @@
   {
     "id": "_279212764_1",
     "question": "Es una herramienta grafica que permite a los usuarios explorar fácilmente las dimensiones y medidas del cubo",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "f77a6dd7e6624142a2d9980601794d40",
@@ -506,7 +506,7 @@
   {
     "id": "_279212765_1",
     "question": "Es un motor de datos analíticos que se usa en el análisis empresarial y el soporte técnico para la toma de decisiones, que proporciona funcionalidades de modelo de datos semántico de nivel empresarial para aplicaciones de business intelligence (BI)",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "ed0a740e1fea42fa8d5472a9d69fbf32",
@@ -534,7 +534,7 @@
   {
     "id": "_279212766_1",
     "question": "Es una herramienta esencial para mejorar la gestión empresarial mediante el seguimiento de objetivos estratégicos, el control de indicadores, y la asignación de responsabilidades",
-    "correct": null,
+    "correct": true,
     "answers": [
       {
         "id": "9757d9f9fdab447abb9977a955594001",

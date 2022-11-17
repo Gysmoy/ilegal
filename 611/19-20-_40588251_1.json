@@ -1,0 +1,562 @@
+[
+  {
+    "id": "_279168786_1",
+    "question": "Que es Data Vault",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b879780f5e184768ac9058acdabf7708",
+        "text": "Modelado de datos para pequeños procesos"
+      },
+      {
+        "id": "5433ba4fb6fc4b66af20e2866b96e7d6",
+        "text": "Patrón de diseño de modelado de datos para construir para análisis a escala empresarial"
+      },
+      {
+        "id": "262531416d674e3f8725b0b74b10fe25",
+        "text": "Parte de los procesos de Data Marts"
+      },
+      {
+        "id": "38b8fa831fad42e3976c9794694cca29",
+        "text": "Un sistema de bussines inteligence"
+      },
+      {
+        "id": "867f71996e20434eb3adf64471c6d9e2",
+        "text": "Un sistema integrado al big data"
+      }
+    ],
+    "selected": "Patrón de diseño de modelado de datos para construir para análisis a escala empresarial"
+  },
+  {
+    "id": "_279168787_1",
+    "question": "Es un repositorio de almacenamiento centralizado que contiene Big Data de varias fuentes en un formato granular y sin procesar",
+    "correct": true,
+    "answers": [
+      {
+        "id": "5b668ae458ed4c60a4478d1503c1eaf7",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "e588ae295a55472ca19f95243d0eb01a",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "cb46b7515ed04a679075dfd8d9ad1e7d",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "5381021b64d0404b9a9cec4c602ebe25",
+        "text": "Data Mart"
+      },
+      {
+        "id": "b2fd3c0235c4435488ddb19eeb69770d",
+        "text": "Data Lake"
+      }
+    ],
+    "selected": "Data Lake"
+  },
+  {
+    "id": "_279168788_1",
+    "question": "Todo sistema de información debe tener unas variables básicas que lo componen y que debemos analizar y entender, como",
+    "correct": true,
+    "answers": [
+      {
+        "id": "1c72ca567e6945738d10ebd879daa91c",
+        "text": "Manejables, Cualitativas, Cuantitativas"
+      },
+      {
+        "id": "e35720e73c11424eb8c293de761397c4",
+        "text": "Maximizables, Cualitativas, Cuantitativas"
+      },
+      {
+        "id": "1381bb2d76e2454590998c978771ac74",
+        "text": "Ordenables, Cualitativas, Cuantitativas"
+      },
+      {
+        "id": "abac6276dad74f609e4723c3f6897263",
+        "text": "Temporales, Reducibles, Cuantitativas"
+      },
+      {
+        "id": "e1ca00a6c13d43c39ea89c7564e8e05e",
+        "text": "Temporales, Cualitativas, Cuantitativas"
+      }
+    ],
+    "selected": "Temporales, Cualitativas, Cuantitativas"
+  },
+  {
+    "id": "_279168789_1",
+    "question": "Es un sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado; consistente para respaldar el análisis empresarial, la minería de datos, inteligencia artificial (IA) y Machine Learning",
+    "correct": true,
+    "answers": [
+      {
+        "id": "9e3747c3e6ba4ccda517a31a8b451d12",
+        "text": "Almacenamiento"
+      },
+      {
+        "id": "b8538420f8ad45af8c0aa53c99c73ee8",
+        "text": "Data Mart"
+      },
+      {
+        "id": "ad68ce6e98124789a32532639cfab2a1",
+        "text": "Business Intelligence"
+      },
+      {
+        "id": "f33c323299134446aca7933f485868b3",
+        "text": "Data Warehouse"
+      },
+      {
+        "id": "2479d1c9449f426a9b078c5272f6f514",
+        "text": "Data Lake"
+      }
+    ],
+    "selected": "Data Warehouse"
+  },
+  {
+    "id": "_279168790_1",
+    "question": "¿Cuál es el concepto más adecuado para Power BI?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c508fe84cd554f0fa73a8e734038c006",
+        "text": "Solución open source que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "b5e8cb15a9d64ed59d9c489f91c8b10f",
+        "text": "Solución de base de datos, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "43391d2453ae43aeaca5305d82ce3797",
+        "text": "Solución basada en Excel, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "efa535302635474484fe6e69f2515f47",
+        "text": "Solución de big data, que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      },
+      {
+        "id": "836780dab23a4b57adb33b1616e2415f",
+        "text": "Solución de análisis empresarial que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+      }
+    ],
+    "selected": "Solución de análisis empresarial que une diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles"
+  },
+  {
+    "id": "_279168791_1",
+    "question": "Propiedad de ACID que determina que: Una transacción es una unidad atómica de procesamiento; o bien se realiza por completo o no se realiza en absoluto",
+    "correct": true,
+    "answers": [
+      {
+        "id": "235c11f7221a4e48af6563ef2748b6a7",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "22aaba80dbc7446f8bb6bdad57200c4b",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "190b1cf4cf474d1e86f690d20d1a8f4c",
+        "text": "Consistencia"
+      },
+      {
+        "id": "7a99288342c34d2cae00bca4360f6a9f",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "19db35b66e764af68516d0c0d2fc6622",
+        "text": "Indicación"
+      }
+    ],
+    "selected": "Atomicidad"
+  },
+  {
+    "id": "_279168792_1",
+    "question": "¿Cuál no es parte del modelo de transacciones de ACID?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "c96e3ab8000340979a0bc080525b31ca",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "4f6e2e447c534aeb8f6488a36fd22de2",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "bd40ac537aeb4fb990d5f1030cdba6da",
+        "text": "Consistencia"
+      },
+      {
+        "id": "e9ae84857a384ebda9cf09f5e1a87ec1",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "3857892269584cbda0cb32615405f010",
+        "text": "Análisis"
+      }
+    ],
+    "selected": "Análisis"
+  },
+  {
+    "id": "_279168793_1",
+    "question": "NO es una propiedad que garantizan que las transacciones de una Base de Datos se procesan de manera fiable",
+    "correct": true,
+    "answers": [
+      {
+        "id": "713435b7cf9545dc8ca0750bbfce9d8a",
+        "text": "Atomicidad"
+      },
+      {
+        "id": "52e2805b12ef44db904f536543404afa",
+        "text": "Durabilidad"
+      },
+      {
+        "id": "9d51423c299448779a3558d377e5e087",
+        "text": "Consistencia"
+      },
+      {
+        "id": "a188e7352de84c8996b19733bafc409a",
+        "text": "Aislamiento"
+      },
+      {
+        "id": "34d27cf5f97049ffa966cfd7e80ed13b",
+        "text": "Indicación"
+      }
+    ],
+    "selected": "Indicación"
+  },
+  {
+    "id": "_279168794_1",
+    "question": "Puede ser creado en una biblioteca de documentos de SharePoint Server y en una galería de PowerPivot. ¿A qué modelo se refiere el enunciado?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "612d47253b8a49f5a1955ecbde9b115f",
+        "text": "Power Design"
+      },
+      {
+        "id": "90c6ed7cb1ae4c7885a58bf6313f5316",
+        "text": "Dataminig"
+      },
+      {
+        "id": "ac9f32271d0e486e87a365204e870605",
+        "text": "Datamart"
+      },
+      {
+        "id": "45299ac8aece4c58b1a1d3c87cd3be1a",
+        "text": "Power View"
+      },
+      {
+        "id": "fcf1798192ba4e76ac05cf8a5f4c0529",
+        "text": "Power Static"
+      }
+    ],
+    "selected": "Power View"
+  },
+  {
+    "id": "_279168795_1",
+    "question": "Comando para generar un punto de recuperación en las transacciones",
+    "correct": true,
+    "answers": [
+      {
+        "id": "b666187cb98f4704b76c0dbf847d4b6b",
+        "text": "Commit"
+      },
+      {
+        "id": "1e98aaa49820412cb9bb6b62e07d153e",
+        "text": "Review"
+      },
+      {
+        "id": "5657aa33aab14d5589fba8f54f67c6cc",
+        "text": "Execute"
+      },
+      {
+        "id": "1dfa01c225a4422486f1400d7ea3b51c",
+        "text": "Rollback"
+      },
+      {
+        "id": "ba0acf3ccc564fa5aa0ceae020099748",
+        "text": "Checkpoint"
+      }
+    ],
+    "selected": "Checkpoint"
+  },
+  {
+    "id": "_279168796_1",
+    "question": "Para crear una visualización animada basada en un campo, como un campo de fecha, ¿qué área de Campos de Power View debería utilizar?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "46db942aa81e49c0a6e74588bb35bcda",
+        "text": "El área ANIMACIÓN"
+      },
+      {
+        "id": "5cff345b9cc54b2181e3f22401f9b8a2",
+        "text": "No se pueden crear visualizaciones tan buenas, ¿o sí?"
+      },
+      {
+        "id": "5e81b85805c04c8d98e25a49101fcce0",
+        "text": "En cualquier área"
+      },
+      {
+        "id": "fd6a881752ed4ed28eb5179270ed0329",
+        "text": "El área EJE DE REPRODUCCIÓN"
+      },
+      {
+        "id": "f1addd933f7b4d08ae26337efb8080d3",
+        "text": "El área MÚLTIPLOS HORIZONTALES"
+      }
+    ],
+    "selected": "El área EJE DE REPRODUCCIÓN"
+  },
+  {
+    "id": "_279168797_1",
+    "question": "Para la generación de informes basados en SQL Server Reporting Services, cual no es parte del procedimiento:",
+    "correct": true,
+    "answers": [
+      {
+        "id": "58aa7f482aae403da482ac9aae05e625",
+        "text": "Orígenes de datos en el panel Datos de informe"
+      },
+      {
+        "id": "ae88aeb2e2de4af4be2cde3491d22098",
+        "text": "Orígenes de datos externos"
+      },
+      {
+        "id": "25cc875ea5014ad49446e5b2dc0af232",
+        "text": "Cuadro de diálogo Conexión"
+      },
+      {
+        "id": "fc3d39a5e87c478d9de1ebbaf4b008c6",
+        "text": "Publicación de informes móviles"
+      },
+      {
+        "id": "7160cd4d669440018b18258fa382f4bc",
+        "text": "Extensión de datos/Proveedor de datos"
+      }
+    ],
+    "selected": "Publicación de informes móviles"
+  },
+  {
+    "id": "_279168798_1",
+    "question": "¿Cuál de las siguientes opciones es cierta acerca de las jerarquías?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "3006b21cfe194bf5997a89a97dbeb3a5",
+        "text": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+      },
+      {
+        "id": "81270b107d734e629a91a42cc131cf06",
+        "text": "Cuando se crea una jerarquía, los datos subyacentes del modelo de datos se combinan en un solo campo"
+      },
+      {
+        "id": "86ee75894ee04732a316ee501408ed46",
+        "text": "Las jerarquías permiten dejar herencia de información"
+      },
+      {
+        "id": "efa1d8daa2324a44afb3415e3f41193d",
+        "text": "Cuando se crea una jerarquía, los campos incluidos dejan de estar disponibles de forma individual"
+      },
+      {
+        "id": "09f9ff596a274b8995de3f38929ef039",
+        "text": "No se pueden crear jerarquías en Power Pivot"
+      }
+    ],
+    "selected": "Al crear una jerarquía, los campos incluidos y su jerarquía pueden usarse en herramientas cliente si se arrastra la jerarquía a un área de Power View o de la tabla dinámica"
+  },
+  {
+    "id": "_279168799_1",
+    "question": "¿Cuál de las siguientes es la realidad de las tablas ocultas en Power Pivot?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "42cdd18566924ed4bafc274fad05d843",
+        "text": "Ocultar una tabla en Power Pivot no tiene ningún efecto en las herramientas de cliente"
+      },
+      {
+        "id": "7ee8200fe7554e16bb6b5d5841af349e",
+        "text": "No se puede ocultar tablas solo los registros"
+      },
+      {
+        "id": "361f0445de994dbd876edaf304a597d0",
+        "text": "Ocultar una tabla en Power Pivot impide que la tabla se vea en las herramientas de cliente y, por lo tanto, impide crear informes que usen los campos de esa tabla para filtrar."
+      },
+      {
+        "id": "89e98b2856e84ac89420d1a10fe03d81",
+        "text": "Ocultar una tabla en Power Pivot borra los datos del modelo de datos."
+      },
+      {
+        "id": "4eeb84cd7c504cf5981dd49dedf2ab96",
+        "text": "No puede ocultar tablas en Power Pivot, solo puede ocultar campos"
+      }
+    ],
+    "selected": "Ocultar una tabla en Power Pivot impide que la tabla se vea en las herramientas de cliente y, por lo tanto, impide crear informes que usen los campos de esa tabla para filtrar."
+  },
+  {
+    "id": "_279168800_1",
+    "question": "Que se requiere para que se pueda comparar y evaluar los datos desde diferentes perspectivas cargados en Power View",
+    "correct": true,
+    "answers": [
+      {
+        "id": "166213f57e3e4568a2a49abb5fb1ee40",
+        "text": "Que los datos se encuentren en una base de datos"
+      },
+      {
+        "id": "3f29610fadd446c4b91d9e6dde15d40a",
+        "text": "El propio PowerView se encarga de realizar esta función"
+      },
+      {
+        "id": "dfce8badc4fd480c89a1f58128b6ea74",
+        "text": "Utilizar machine learning"
+      },
+      {
+        "id": "8e33b5a485f94dbfaab40a16d11abadf",
+        "text": "Solo puede admitirse datos de SQLServer"
+      },
+      {
+        "id": "a5c930e0ca2643a8a8f835eb93956a88",
+        "text": "Se requiere un orden previo"
+      }
+    ],
+    "selected": "El propio PowerView se encarga de realizar esta función"
+  },
+  {
+    "id": "_279168801_1",
+    "question": "Es un tipo de sistema OLAP que en su diseño se compone de un servidor de banco de datos y de un motor OLAP dedicado exclusivamente para él",
+    "correct": true,
+    "answers": [
+      {
+        "id": "f5dae89f01414b0bb16bd08225f40235",
+        "text": "ROLAP"
+      },
+      {
+        "id": "9cef8b21c49445afa8918d724d83fb00",
+        "text": "MOLAP"
+      },
+      {
+        "id": "ef144288c71f410bb9775f12ce5778fe",
+        "text": "HOLAP"
+      },
+      {
+        "id": "1b44344d137a4210ab260c6d4d046e3e",
+        "text": "BOLAP"
+      },
+      {
+        "id": "f6871a0888b2460088122138366539f7",
+        "text": "COLAP"
+      }
+    ],
+    "selected": "ROLAP"
+  },
+  {
+    "id": "_279168802_1",
+    "question": "¿Cuáles es el significado de OLAP?",
+    "correct": true,
+    "answers": [
+      {
+        "id": "97123cc793084e228cb6f6c610cebb81",
+        "text": "Procesamiento Analítico en Línea"
+      },
+      {
+        "id": "6a41c8f587fe42e2b6c58b7f2fe7abb1",
+        "text": "Procesamiento de Datos Transaccionales"
+      },
+      {
+        "id": "d2d28040cfda4037b2c2c8e7adf98ba9",
+        "text": "Procesamiento Longitudinal de Datos Analógicos"
+      },
+      {
+        "id": "a983104632774ea18745e259080bd23f",
+        "text": "Procesamiento Analógico de Datos"
+      },
+      {
+        "id": "700eb886111b4df7b9311d862d545a1b",
+        "text": "Procesamiento Analítico de Datos"
+      }
+    ],
+    "selected": "Procesamiento Analítico en Línea"
+  },
+  {
+    "id": "_279168803_1",
+    "question": "Las Herramientas OLAP trabajan sobre una base que se orienta hacia el procesamiento analítico de información, que característica no se presenta en los datos que se usan para su lectura",
+    "correct": false,
+    "answers": [
+      {
+        "id": "2606fe0e89854f778039ebb8c6bb6d11",
+        "text": "El historial de los datos almacenados debe permanecer en uso por corto plazo"
+      },
+      {
+        "id": "8cc726c75d2f417f8374747796763d1d",
+        "text": "Que su acceso sea a través de consultas"
+      },
+      {
+        "id": "8ec61897fbc542a2a81b1aa64165ee6d",
+        "text": "Que su acceso sea para solo lectura"
+      },
+      {
+        "id": "ce832e5c1280407fb13c3054b2f4ebd4",
+        "text": "Estas bases deben tener fuentes de alimentación que vengan de los mismos sistemas operativos que existen en la empresa"
+      },
+      {
+        "id": "79babdcc0a464d44b12f14e3a3ad337c",
+        "text": "Los datos se deben estructurar de acuerdo a las áreas de negocios de la empresa"
+      }
+    ],
+    "selected": "Estas bases deben tener fuentes de alimentación que vengan de los mismos sistemas operativos que existen en la empresa"
+  },
+  {
+    "id": "_279168804_1",
+    "question": "Cuales son operaciones analíticas OLAP",
+    "correct": true,
+    "answers": [
+      {
+        "id": "de845be38dfa4912befee74d048105f8",
+        "text": "Desplegar, analizar y cortar"
+      },
+      {
+        "id": "b24316e9f39f47218020fbd9d90956c4",
+        "text": "Cortar, Cubo y Pivotar"
+      },
+      {
+        "id": "07adaf1ddc6747e4a20358d107d8e02a",
+        "text": "Cortar, Cubo y Desplegar"
+      },
+      {
+        "id": "25b7e2ab9963499988a6cb2bebeb63db",
+        "text": "Pivotar, cubo y provisionar"
+      },
+      {
+        "id": "1e12cb79a5a2402b95142590ede31871",
+        "text": "Cubo, unir y desplegar"
+      }
+    ],
+    "selected": "Cortar, Cubo y Pivotar"
+  },
+  {
+    "id": "_279168805_1",
+    "question": "Es una herramienta grafica que permite a los usuarios explorar fácilmente las dimensiones y medidas del cubo",
+    "correct": true,
+    "answers": [
+      {
+        "id": "73c3bb43a830471583898b042da45428",
+        "text": "Tabla pivotal"
+      },
+      {
+        "id": "92ceb8d4555e4d2f957c9ca4f7aa54b3",
+        "text": "Tabla OLAP"
+      },
+      {
+        "id": "f77a6dd7e6624142a2d9980601794d40",
+        "text": "Tabla Dimensional"
+      },
+      {
+        "id": "d6adaf8a2ade462c9d14784fb839f7a9",
+        "text": "Tabla Interna"
+      },
+      {
+        "id": "b903b21283e241398478b2d30253e2a1",
+        "text": "Tabla Medida"
+      }
+    ],
+    "selected": "Tabla pivotal"
+  }
+]
